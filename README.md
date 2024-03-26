@@ -1,7 +1,7 @@
 # Meu INSS - Grupo 7
 
 <div align="center">
-<img src="ghpages/docs/imagens/inss-logo.png" aly="VLC_logo" style="width: 280px">
+<img src="docs/imagens/inss-logo.png" aly="VLC_logo" style="width: 280px">
 </div>
 
 ## Introdução
