@@ -1,17 +1,11 @@
-# Meu INSS - Grupo 7
+# Meu INSS
+<p align="center" > <font>Figura 1: Logo do Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 30%" src="imagens/inss-logo.png" width = 40%></p>
+<p align="center" > <font>Fonte: <a href="https://meu.inss.gov.br/#/login">Meu INSS</a></font> <br></p>
 
-<div align="center">
-<img src="ghpages/docs/imagens/inss-logo.png" aly="VLC_logo" style="width: 280px">
-</div>
+Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 07 na disciplina de Requisitos de Software da Faculdade do Gama da Universidade de Brasília (FGA-UnB) durante o 1º semestre de 2024. O objetivo do projeto é realizar uma avaliação detalhada dos requisitos do aplicativo Meu INSS. O aplicativo em questão é uma plataforma desenvolvida pelo Instituto Nacional do Seguro Social (INSS) para oferecer uma ampla gama de serviços previdenciários aos cidadãos brasileiros.
 
-## Introdução
-
-Este repositório tem como propósito explorar e documentar o aplicativo Meu INSS, uma ferramenta desenvolvida pelo Instituto Nacional do Seguro Social (INSS) para facilitar o acesso e a gestão de serviços previdenciários. O objetivo principal é analisar os recursos oferecidos pelo aplicativo, bem como registrar os artefatos produzidos ao longo do semestre para estudos na disciplina de Requisitos de Software da FGA-UnB.
-
-## Meu INSS
-O aplicativo Meu INSS é uma plataforma digital desenvolvida pelo Instituto Nacional do Seguro Social (INSS) com o objetivo de facilitar o acesso dos cidadãos aos serviços previdenciários oferecidos pelo órgão. Por meio do aplicativo, os usuários podem realizar uma série de atividades relacionadas à sua vida previdenciária de forma rápida, prática e segura, sem a necessidade de comparecer pessoalmente a uma agência do INSS.
-## Contribuidores
-
+O Meu INSS é uma ferramenta digital projetada para simplificar o acesso dos usuários aos serviços oferecidos pelo INSS, permitindo consultas de benefícios, extratos previdenciários, agendamento de atendimentos, simulações de aposentadoria, atualização de dados cadastrais e requerimento de benefícios, entre outras funcionalidades. O aplicativo atua como uma central de informações e interações entre os cidadãos e o sistema previdenciário nacional, contribuindo para uma experiência mais ágil, transparente e eficiente na gestão da vida previdenciária.
+## Grupo
 <table>
   <tr>
     <td align="center"><a href="https://github.com/acamposs"><img style="border-radius: 50%;" src="https://github.com/acamposs.png" width="100px;" alt=""/><br /><sub><b>Amanda Campos</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
@@ -23,8 +17,3 @@ O aplicativo Meu INSS é uma plataforma digital desenvolvida pelo Instituto Naci
     <td align="center"><a href="https://github.com/vitorfleonardo"><img style="border-radius: 50%;" src="https://github.com/vitorfleonardo.png" width="100px;" alt=""/><br /><sub><b>Vitor Leonardo</b></sub></a><br />
   </tr>
 </table>
-
-## Histórico de Versões
-| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| 25/03/2024 | `1.0`  | Versão inicial de documento | [Johnny Lopes](https://github.com/JohnnyLopess) |  | []() |
