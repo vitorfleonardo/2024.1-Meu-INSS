@@ -23,10 +23,14 @@ Após a análise do heatmap de disponibilidade da equipe ao longo de uma semana 
     
 2. **Agendamento de reuniões**: Com base nos dados do heatmap, foi possível identificar os dias e horários em que todos os membros da equipe estão disponíveis. Isso permitiu o agendamento estratégico de reuniões e atividades importantes nos momentos em que a equipe está mais propensa a participar e contribuir de forma eficaz.
     
-3. **Dedicação ao projeto e disciplina**: A análise do heatmap também revelou a disponibilidade de horários específicos ao longo da semana, nos quais foi possível designar um tempo dedicado exclusivamente ao projeto e à disciplina. Esses períodos reservados contribuem significativamente para o avanço consistente do projeto e para a manutenção da disciplina dentro da equipe.
+3. **Dedicação ao projeto e disciplina**: A análise do heatmap também revelou a disponibilidade de horários específicos ao longo da semana, nos quais foi possível designar um tempo dedicado exclusivamente ao projeto e à disciplina. Esses períodos reservados contribuem significativamente para o avanço consistente do projeto e para as atividades da disciplina.
     
 
 ## Conclusão
 
-Em suma, a análise do heatmap de disponibilidade ofereceu insights valiosos para a gestão eficaz do projeto. Ao compreender os padrões de disponibilidade da equipe, pudemos otimizar o planejamento e a distribuição de tarefas, garantindo uma utilização eficiente dos recursos disponíveis. Além disso, a identificação de momentos propícios para reuniões e colaboração intensiva possibilitou uma comunicação mais eficaz e uma maior produtividade geral. Com a utilização contínua do heatmap de disponibilidade como ferramenta de apoio à gestão de projetos, esperamos manter um alto nível de organização, colaboração e desempenho ao longo de todo o ciclo de desenvolvimento.
+Ao compreender os padrões de disponibilidade da equipe, pudemos otimizar o planejamento e a distribuição de tarefas, garantindo uma utilização eficiente dos recursos disponíveis. Além disso, a identificação de momentos propícios para reuniões e colaboração intensiva possibilitou uma comunicação mais eficaz e uma maior produtividade geral. Com a utilização contínua do heatmap de disponibilidade como ferramenta de apoio à gestão de projetos, esperamos manter um alto nível de organização, colaboração e desempenho ao longo de todo o ciclo de desenvolvimento.
 
+## Histórico de Versão
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 27/03/2024 | 1.0  | Versão inicial da pagina de Heatmap | [Amanda Campos](https://github.com/acamposs) |  |  |
