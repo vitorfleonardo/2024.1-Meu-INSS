@@ -8,8 +8,10 @@ nav:
     - Atas: 
         - Ata 01: "atas/Ata1.md"
     - Planejamento:
-        - ferramentas: "Planejamento/ferramentas.md"
-        - termo de uso: "Planejamento/aplicativo_escolhido.md"
+        - Termo de Abertura de Projeto: "Planejamento/tap.md"
+        - Ferramentas: "Planejamento/ferramentas.md"
+        - Aplicativo escolhido: "Planejamento/aplicativo_escolhido.md"
+        
 theme:
   name: material
   logo: imagens/inss-logo.png
