@@ -7,7 +7,10 @@ nav:
     - Inicio: "index.md"
     - Atas: 
         - Ata 01: "atas/Ata1.md"
-    - Planejamento de Projeto:
+    - Planejamento:
+        - Termo de Abertura de Projeto: "Planejamento/tap.md"
+        - Ferramentas: "Planejamento/ferramentas.md"
+        - Aplicativo escolhido: "Planejamento/aplicativo_escolhido.md"
         - Heatmap: "planejamento/heatmap.md"
 theme:
   name: material
