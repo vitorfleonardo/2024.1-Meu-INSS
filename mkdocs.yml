@@ -7,6 +7,8 @@ nav:
     - Inicio: "index.md"
     - Atas: 
         - Ata 01: "atas/Ata1.md"
+    - Planejamento de Projeto:
+        - Heatmap: "planejamento/heatmap.md"
 theme:
   name: material
   logo: imagens/inss-logo.png
