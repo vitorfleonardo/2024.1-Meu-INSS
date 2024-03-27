@@ -7,6 +7,9 @@ nav:
     - Inicio: "index.md"
     - Atas: 
         - Ata 01: "atas/Ata1.md"
+    - Planejamento:
+        - ferramentas: "Planejamento/ferramentas.md"
+        - termo de uso: "Planejamento/aplicativo_escolhido.md"
 theme:
   name: material
   logo: imagens/inss-logo.png

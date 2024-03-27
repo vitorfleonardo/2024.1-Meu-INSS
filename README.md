@@ -3,6 +3,8 @@
 <div align="center">
 <img src="docs/imagens/inss-logo.png" aly="VLC_logo" style="width: 280px">
 </div>
+<p align="center" > <font>Fonte: <a href="https://meu.inss.gov.br/#/login">Meu INSS</a></font> <br></p>
+
 
 ## Introdução
 
@@ -24,7 +26,7 @@ O aplicativo Meu INSS é uma plataforma digital desenvolvida pelo Instituto Naci
   </tr>
 </table>
 
-## Histórico de Versões
+## Histórico de Versão
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 25/03/2024 | `1.0`  | Versão inicial de documento | [Johnny Lopes](https://github.com/JohnnyLopess) |  | []() |
+| 25/03/2024 | `1.0`  | Versão inicial de documento | [Johnny Lopes](https://github.com/JohnnyLopess) | 26/03/2024 | [Paulo Borba](https://github.com/paulohborba) |
