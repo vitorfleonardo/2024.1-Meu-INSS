@@ -11,7 +11,7 @@ nav:
         - Termo de Abertura de Projeto: "Planejamento/tap.md"
         - Ferramentas: "Planejamento/ferramentas.md"
         - Aplicativo escolhido: "Planejamento/aplicativo_escolhido.md"
-        - Heatmap: "planejamento/heatmap.md"
+        - Heatmap: "Planejamento/heatmap.md"
 theme:
   name: material
   logo: imagens/inss-logo.png

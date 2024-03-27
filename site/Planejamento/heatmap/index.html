@@ -8,8 +8,10 @@
       
       
       
-        <link rel="canonical" href="https://github.com/Requisitos-de-Software/2024.1-Grupo07/planejamento/aplicativo_escolhido/">
+        <link rel="canonical" href="https://github.com/Requisitos-de-Software/2024.1-Grupo07/planejamento/heatmap/">
       
+      
+        <link rel="prev" href="../../atas/Ata1/">
       
       
       
@@ -18,7 +20,7 @@
     
     
       
-        <title>Aplicativo escolhido - Meu INSS</title>
+        <title>Heatmap - Meu INSS</title>
       
     
     
@@ -69,6 +71,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#heatmap-de-disponibilidade" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -98,7 +105,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Aplicativo escolhido
+              Heatmap
             
           </span>
         </div>
@@ -238,10 +245,12 @@
         
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
+      <li class="md-tabs__item md-tabs__item--active">
         <a href="../../Planejamento/tap.md" class="md-tabs__link">
           
   
@@ -389,8 +398,10 @@
       
   
   
+    
   
   
+  
     
     
     
@@ -399,12 +410,12 @@
       
       
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
@@ -418,7 +429,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             Planejamento
@@ -492,10 +503,30 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../heatmap/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Heatmap
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -504,6 +535,53 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resultados
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#discussoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Discussões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -533,6 +611,43 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resultados
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#discussoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Discussões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -550,9 +665,20 @@
   
 
 
-  <h1>Aplicativo escolhido</h1>
+<h1 id="heatmap-de-disponibilidade">Heatmap de disponibilidade</h1>
+<h2 id="introducao">Introdução</h2>
+<p>Na gestão de projetos de software, é fundamental garantir que a equipe esteja disponível nos momentos mais críticos do desenvolvimento. Um dos desafios enfrentados pela gerência de um projeto é entender a disponibilidade dos membros da equipe ao longo do tempo. Neste contexto, os heatmaps de disponibilidade de horário se destacam como uma ferramenta visual poderosa para identificar padrões e planejar adequadamente as tarefas do projeto. Este estudo apresenta a análise do heatmap de disponibilidade de horário da equipe.</p>
+<p>A análise do heatmap é feita utilizando cores de um mapa de calor, onde o vermelho representa maior indisponibilidade da equipe, enquanto o verde indica maior disponibilidade. A escala de cores permite uma interpretação rápida e intuitiva dos padrões de disponibilidade ao longo do tempo, facilitando a identificação de períodos críticos e a distribuição equitativa de tarefas entre os membros da equipe.</p>
+<p align="center" > <font>Figura 1: Legenda do Heatmap de disponibilidade</font> <br><img src="docs/imagens/legenda-heatmap.jpeg" width = 40%></p>
+<p align="center" > <font>Fonte: Autoria própria (2024) </font> <br></p>
 
+<h2 id="resultados">Resultados</h2>
+<p>O heatmap abaixo mostra a disponibilidade de horário dos membros da equipe ao longo de uma semana de trabalho:</p>
+<p align="center" > <font>Figura 2: Heatmap de disponibilidade</font> <br><img src="docs/imagens/heatmap.jpeg" width = 40%></p>
+<p align="center" > <font>Fonte: Autoria própria (2024) </font> <br></p>
 
+<h2 id="discussoes">Discussões</h2>
+<p>Os resultados revelam que...</p>
 
 
 
