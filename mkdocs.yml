@@ -4,11 +4,19 @@ site_url: https://github.com/Requisitos-de-Software/2024.1-Grupo07
 
 site_name: Meu INSS
 nav:
-    - Inicio: "index.md"
+    - Início: "index.md"
+    - Apresentação: 
+        - Apresentação 1: "apresentacao/apresentacao01.md"
     - Atas: 
         - Ata 01: "atas/Ata1.md"
-    - Planejamento de Projeto:
+    - Planejamento:
+        - Termo de Abertura de Projeto: "planejamento/tap.md"
+        - Ferramentas: "planejamento/ferramentas.md"
+        - Aplicativo escolhido: "planejamento/aplicativo_escolhido.md"
         - Heatmap: "planejamento/heatmap.md"
+    - Pré-Rastreabilidade: 
+        - Rich Picture: "pre-rastreabilidade/rich_picture.md"
+    
 theme:
   name: material
   logo: imagens/inss-logo.png

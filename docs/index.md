@@ -17,3 +17,8 @@ O Meu INSS é uma ferramenta digital projetada para simplificar o acesso dos usu
     <td align="center"><a href="https://github.com/vitorfleonardo"><img style="border-radius: 50%;" src="https://github.com/vitorfleonardo.png" width="100px;" alt=""/><br /><sub><b>Vitor Leonardo</b></sub></a><br />
   </tr>
 </table>
+
+## Histórico de Versão
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 25/03/2024 | `1.0`  | Criação da git pages | [Johnny Lopes](https://github.com/JohnnyLopess) | 26/03/2024 | [Paulo Borba](https://github.com/paulohborba) |
