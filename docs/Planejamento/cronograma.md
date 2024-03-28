@@ -100,7 +100,296 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi, <a href="https://github.com/vitorfleonardo">Vitor Leonardo, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> José Filipi, Vitor Leonardo, 2024 </p></font>
+</div>
+
+## Entrega 2 - Elicitação - Técnicas e Priorização - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Elicitação</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsável</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Comentários</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Criação de personas e busca de perfis de usuário</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Selecionar técnicas de elicitação de requisitos que serão usadas no projeto</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Selecionar técnicas de priorização de requisitos que serão usadas no projeto</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Observação para elicitação de requisitos</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gravação da Apresentação e Entrega</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> José Filipi, Vitor Leonardo, 2024</p></font>
+</div>
+
+## Entrega 3 - Modelagem de Requisitos 1 - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Modelagem de Requisitos 1</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsável</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Comentários</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Cenários</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Léxico</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Use Case</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Especificação Suplementar</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Especificação Suplementar</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+      <tr>
+      <td>Gravação da Apresentação e Entrega</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> José Filipi,Vitor Leonardo, 2024</p></font>
+</div>
+
+## Entrega 4 - Modelagem de Requisitos 2 - Ágil - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Modelagem de Requisitos 2</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsável</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Comentários</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos Ágil: NFR Framework</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos Ágil: Backlogs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+      <td>Técnica de Modelagem de Requisitos Ágil: User histories</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gravação da Apresentação e Entrega</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> José Filipi,Vitor Leonardo, 2024</p></font>
+</div>
+
+## Entrega 5 - Análise de Requisitos: Verificação e Validação - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Análise de Requisitos (V&V)</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsável</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Comentários</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Verificação por inspeção de todos os artefatos</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Validação: Prototipação e Comprovação Informal</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    <tr>
+      <td>Gravação da Apresentação e Entrega</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> José Filipi,Vitor Leonardo, 2024</p></font>
+</div>
+
+## Entrega 6 - Pós-Rastreabilidade - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Pós-Rastreabilidade</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsável</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Comentários</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pós-rastreabilidade: Backward-form</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Pós-rastreabilidade: Forward-form	</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    <tr>
+      <td>Gravação da Apresentação e Entrega</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> José Filipi,Vitor Leonardo, 2024</p></font>
 </div>
 
 ## Bibliografia
