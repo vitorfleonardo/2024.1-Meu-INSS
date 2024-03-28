@@ -9,6 +9,7 @@ nav:
         - Ata 01: "atas/Ata1.md"
     - Planejamento:
         - Termo de Abertura de Projeto: "Planejamento/tap.md"
+        - EAP: "Planejamento/EAP.md"
         - Cronograma: "Planejamento/cronograma.md"
         - Ferramentas: "Planejamento/ferramentas.md"
         - Aplicativo escolhido: "Planejamento/aplicativo_escolhido.md"
