@@ -120,43 +120,99 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
   </thead>
   <tbody>
     <tr>
-      <td>Criação de personas e busca de perfis de usuário</td>
+      <td>Criar perfil de usuário</td>
+      <td>Gabriel & Filipi</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Criar persona e antipersona</td>
+      <td>Bianca & Amanda</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação Brainstorm</td>
+      <td>Paulo & Johnny</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação: Entrevista</td>
+      <td>Amanda & Vitor</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação: Introspecção</td>
+      <td>Johnny & Filipi</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação: Questionário</td>
+      <td>Amanda & Bianca</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>Técnicas de elicitação: Storytelling</td>
+      <td>Gabriel & Paulo</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: $100 </td>
+      <td>Vitor & Johnny</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: First things First </td>
+      <td>Vitor & Bianca</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: MoSCoW </td>
+      <td>Filipi & Gabriel</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: Three Level Scale </td>
+      <td>Bianca & Paulo</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: In or Out </td>
+      <td>Paulo & Filipi</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Selecionar técnicas de elicitação de requisitos que serão usadas no projeto</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Selecionar técnicas de priorização de requisitos que serão usadas no projeto</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Observação para elicitação de requisitos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Gravação da Apresentação e Entrega</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Correção pós apresentação</td>
-      <td></td>
+      <td>Correção orientada ao Feedback </td>
+      <td> Vitor, Filipi, Gabriel, Bianca, Amanda, Paula, Johnny</td>
       <td></td>
       <td></td>
       <td></td>
@@ -185,35 +241,28 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
   <tbody>
     <tr>
       <td>Técnica de Modelagem de Requisitos: Cenários</td>
-      <td></td>
+      <td>Gabriel & Paulo</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Técnica de Modelagem de Requisitos: Léxico</td>
-      <td></td>
+      <td>Amanda & Bianca</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Técnica de Modelagem de Requisitos: Use Case</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Técnica de Modelagem de Requisitos: Especificação Suplementar</td>
-      <td></td>
+      <td>Filipi & Johnny</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Técnica de Modelagem de Requisitos: Especificação Suplementar</td>
-      <td></td>
+      <td>Vitor & Amanda</td>
       <td></td>
       <td></td>
       <td></td>
@@ -256,20 +305,20 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
   <tbody>
     <tr>
       <td>Técnica de Modelagem de Requisitos Ágil: NFR Framework</td>
-      <td></td>
-      <td></td>
+      <td>Johnny & Vitor & Filipi</td>
+      <td></td> 
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Técnica de Modelagem de Requisitos Ágil: Backlogs</td>
-      <td></td>
+      <td>Vitor & Filipi & Paulo</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
       <td>Técnica de Modelagem de Requisitos Ágil: User histories</td>
-      <td></td>
+      <td>Gabriel & Bianca & Amanda</td>
       <td></td>
       <td></td>
       <td></td>
@@ -361,14 +410,21 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
   <tbody>
     <tr>
       <td>Pós-rastreabilidade: Backward-form</td>
-      <td></td>
+      <td>Filipi & Amanda & Johnny</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Pós-rastreabilidade: Forward-form	</td>
+      <td>Pós-rastreabilidade: Forward-form</td>
+      <td>Amanda & Vitor & Bianca & Filipi & Johnny & Paulo & Gabriel</td>
       <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Pós-rastreabilidade: Matriz Geral	</td>
+      <td>Paulo & Gabriel & Vitor & Bianca</td>
       <td></td>
       <td></td>
       <td></td>
