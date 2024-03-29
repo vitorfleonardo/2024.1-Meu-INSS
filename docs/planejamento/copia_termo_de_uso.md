@@ -29,11 +29,10 @@ Em nenhuma hipótese, a Administração Pública Federal será responsável pela
 de quaisquer outros que venham a ser criados), em decorrência da navegação na Internet pelo usuário.
 
 ## Fonte
-> Gov.br - Termos de uso. Disponível em: https://www.gov.br/pt-br/termos-de-uso, Acesso em 28/03/2034.
+Gov.br - Termos de uso. Disponível em: https://www.gov.br/pt-br/termos-de-uso, Acesso em 28 de mar. 2024.
 
-## Histórico de versões
-
-| Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
-| ------ | ----------- | ----------- | --------- | ----------- |
-| `1.0`  | 28/03/2024  | cópia do termo de uso | [Gabriel Souza](https://github.com/GabrielMS00) | [José Souza](https://github.com/JoseFilipi) |
+## Histórico de Versão
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 28/03/2024  | cópia do termo de uso | [Gabriel Souza](https://github.com/GabrielMS00) | 28/03/2024 | [José Souza](https://github.com/JoseFilipi) |
 
