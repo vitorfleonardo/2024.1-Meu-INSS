@@ -13,88 +13,88 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
   <thead>
     <tr>
       <th>Atividade</th>
-      <th>Responsável</th>
       <th>Início</th>
       <th>Término</th>
-      <th>Comentários</th>
+      <th>Responsáveis</th>
+      <th>Revisores</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Produzir o Gitpages do projeto</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Criar o Gitpages do projeto</td>
+      <td>19/03</td>
+      <td>26/03</td>
+      <td>Johnny</td>
       <td></td>
     </tr>
     <tr>
       <td>Escrever o Readme do projeto</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>19/03</td>
+      <td>21/03</td>
+      <td>Bianca & Johnny</td>
       <td></td>
     </tr>
     <tr>
       <td>Avaliar aplicativos para o projeto</td>
-      <td></td>
+      <td>19/03</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Escrever termo de abertura do projeto</td>
+      <td>19/03</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>Vitor</td>
       <td></td>
     </tr>
     <tr>
-      <td>Produzir estrutura analítica do projeto</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Elaborar estrutura analítica do projeto</td>
+      <td>19/03</td>
+      <td>28/03</td>
+      <td>Vitor & Filipi</td>
       <td></td>
     </tr>
     <tr>
       <td>Elaborar cronograma planejado do projeto</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>19/03</td>
+      <td>29/03</td>
+      <td>Vitor & Filipi</td>
       <td></td>
     </tr>
     <tr>
-      <td>Delimitar ferramentas utilizadas no projeto</td>
+      <td>Elencar ferramentas utilizadas no projeto</td>
+      <td>19/03</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>Johnny</td>
       <td></td>
     </tr>
     <tr>
       <td>Produzir rich picture do aplicativo selecionado</td>
+      <td>27/03</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>Bianca & Paulo</td>
       <td></td>
     </tr>
     <tr>
       <td>Elaborar heatmap de disponibilidade dos integrantes</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>19/03</td>
+      <td>24/03</td>
+      <td>Amanda</td>
       <td></td>
     </tr>
     <tr>
       <td>Definir metodologias utilizadas para o projeto</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>19/03</td>
+      <td>24/03</td>
+      <td>Gabriel</td>
       <td></td>
     </tr>
     <tr>
       <td>Gravar apresentação</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>19/03</td>
+      <td>31/03</td>
+      <td>Gabriel, Vitor, Filipi, Bianca, Amanda, Johnny, Paulo</td>
       <td></td>
     </tr>
   </tbody>
