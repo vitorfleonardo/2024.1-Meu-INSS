@@ -64,6 +64,6 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 [1] Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017. PROJECT MANAGEMENT INSTITUTE (PMI).
 
 ## Histórico de Versão
-| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 27/03/2024 | 1.0  | Versão inicial de documento | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
+| `1.0` | 27/03/2024  | Versão inicial de documento | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |

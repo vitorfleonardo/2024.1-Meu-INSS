@@ -36,8 +36,18 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/Requisitos-de-Software/2024.1-Grupo07/apresentacao/apresentacao01/</loc>
+         <lastmod>2024-03-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/Requisitos-de-Software/2024.1-Grupo07/atas/Ata1/</loc>
          <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/Requisitos-de-Software/2024.1-Grupo07/pre-rastreabilidade/rich_picture/</loc>
+         <lastmod>2024-03-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

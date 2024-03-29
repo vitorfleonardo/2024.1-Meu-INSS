@@ -1,19 +1,26 @@
-repo_url: https://github.com/Requisitos-de-Software/2024.1-Grupo07
+repo_url: https://github.com/Requisitos-de-Software/2024.1-Meu-INSS
 repo_name: 2024.1-Meu-INSS
-site_url: https://github.com/Requisitos-de-Software/2024.1-Grupo07
+site_url: https://github.com/Requisitos-de-Software/2024.1-Meu-INSS
 
 site_name: Meu INSS
 nav:
-    - Inicio: "index.md"
+    - Início: "index.md"
+    - Apresentação: 
+        - Apresentação 1: "apresentacao/apresentacao01.md"
     - Atas: 
-        - Ata 01: "atas/Ata1.md"
+        - Ata 01: "atas/Ata1-24.03.2024.md"
     - Planejamento:
-        - Termo de Abertura de Projeto: "Planejamento/tap.md"
-        - EAP: "Planejamento/EAP.md"
-        - Cronograma: "Planejamento/cronograma.md"
-        - Ferramentas: "Planejamento/ferramentas.md"
-        - Aplicativo escolhido: "Planejamento/aplicativo_escolhido.md"
-        - Heatmap: "Planejamento/heatmap.md"
+        - Termo de Abertura de Projeto: "planejamento/tap.md"
+        - Termos de uso: "planejamento/copia_termo_de_uso.md"
+        - EAP: "planejamento/EAP.md"
+        - Cronograma Planejado: "planejamento/cronograma_planejado.md"
+        - Cronograma Executado: "planejamento/cronograma_executado.md"
+        - Ferramentas: "planejamento/ferramentas.md"
+        - Aplicativo escolhido: "planejamento/aplicativo_escolhido.md"
+        - Heatmap: "planejamento/heatmap.md"
+    - Pré-Rastreabilidade: 
+        - Rich Picture: "pre-rastreabilidade/rich_picture.md"
+    
 theme:
   name: material
   logo: imagens/inss-logo.png
