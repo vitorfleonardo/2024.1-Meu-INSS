@@ -38,6 +38,6 @@ A git page possui?  | Sim/Não/Incompleto
 
 ## Histórico de Versões
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
-1.0 | 27/03/2024 | Criação do documento | [Bianca Castro](https://github.com/BiancaPatrocinio7) | | |
+Versão  | Data | Descrição | Autor(es) |Data da revisão | Revisor(es)
+-------- | ------ | ------ | ---------- |----| ----------|
+`1.0` | 27/03/2024 | Criação do documento |[Bianca Castro](https://github.com/BiancaPatrocinio7) | | |

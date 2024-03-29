@@ -12,10 +12,10 @@ Nesta página, apresentamos a seleção de ferramentas feita pelo grupo. Nosso o
 |![Logo do Discord](../imagens/ferramentas/discord-logo.png)|<strong>Discord|Canal de comunicação e transferência de arquivos.[4]|
 |![Logo do Mkdocs](../imagens/ferramentas/mkdocs-logo.png)|<strong>Mkdocs|Criação e edição da documentação.[5]|
 |![Logo do Vscode](../imagens/ferramentas/Vscode-logo.png)|<strong>Visual Studio Code|Edição dos arquivos da documentação.[6]|
-
-
-
-
+|![Logo do Trello](../imagens/ferramentas/trello-logo.png)|<strong>Trello|Organização das tarefas e assuntos para as reuniões.[7]|
+|![Logo do Youtube](../imagens/ferramentas/youtube-logo.png)|<strong>Youtube|Plataforma utilizada para postagem da gravação das reuniões e das apresentações.[8]|
+|![Logo do Figma](../imagens/ferramentas/figma-logo.png)|<strong>Figma|Criação de protótipos.[9]|
+|![Logo do Drawio](../imagens/ferramentas/drawio-logo.png)|<strong>Drawio|Criação de diagramas.[10]|
 
 ## Referências
 [1] GitHub. Disponível em: https://github.com. Acesso em: 28 de mar. 2024.
@@ -28,9 +28,16 @@ Nesta página, apresentamos a seleção de ferramentas feita pelo grupo. Nosso o
 
 [5] Discord. Disponível em: https://www.mkdocs.org/. Acesso em: 28 de mar. 2024.
 
-[6]Visual Studio Code. Disponível em: https://code.visualstudio.com/. Acesso em: 28 de mar. 2024.
+[6] Visual Studio Code. Disponível em: https://code.visualstudio.com/. Acesso em: 28 de mar. 2024.
 
+[7] Trello. Disponível em: https://trello.com/pt-BR. Acesso em: 28 de mar. 2024.
+
+[8] Youtube. Disponível em: https://www.youtube.com/. Acesso em: 28 de mar. 2024.
+
+[9] Figma. Disponível em: https://www.figma.com/. Acesso em: 28 de mar. 2024.
+
+[10] Drawio. Disponível em: https://app.diagrams.net/. Acesso em: 28 de mar. 2024.
 ## Histórico de Versão
-| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 28/03/2024 | 1.0  | Versão inicial de documento | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  |
+| `1.0` | 28/03/2024  | Versão inicial de documento | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  |

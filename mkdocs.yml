@@ -1,6 +1,6 @@
-repo_url: https://github.com/Requisitos-de-Software/2024.1-Grupo07
+repo_url: https://github.com/Requisitos-de-Software/2024.1-Meu-INSS
 repo_name: 2024.1-Meu-INSS
-site_url: https://github.com/Requisitos-de-Software/2024.1-Grupo07
+site_url: https://github.com/Requisitos-de-Software/2024.1-Meu-INSS
 
 site_name: Meu INSS
 nav:
@@ -11,6 +11,7 @@ nav:
         - Ata 01: "atas/Ata1-24.03.2024.md"
     - Planejamento:
         - Termo de Abertura de Projeto: "planejamento/tap.md"
+        - Termos de uso: "planejamento/copia_termo_de_uso.md"
         - Ferramentas: "planejamento/ferramentas.md"
         - Aplicativo escolhido: "planejamento/aplicativo_escolhido.md"
         - Heatmap: "planejamento/heatmap.md"

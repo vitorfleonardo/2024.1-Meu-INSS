@@ -84,7 +84,7 @@ No vídeo 1 localiza-se a gravação da reunião.
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Data da revisão | Revisor |
+| Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0`  |xx/xx/xxxx| Criação da ata de reunião | [xxxx](xxxx) | xx/xx/xxxx|[xxxx](xxxx)|
 
