@@ -59,7 +59,7 @@ Na tabela 2 situa-se as atividades definidas e os responsáveis por cada uma del
 </div>
 
 | Atividades       | Responsável   |
-| ---------------- | ------------- |
+| :--------- | :---------- |
 | xxxx             | xxxx          |
 
 <div align="center">
@@ -77,7 +77,7 @@ No vídeo 1 localiza-se a gravação da reunião.
 <div align="center">
 <p style="text-align: center"><a href="https://youtu.be/xxx" target="blanket"><b>Vídeo 1:</b> Reunião x - Requisitos de software</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxx" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxx" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><!--Para funcionar o link na página, tem que pegar o link do vídeo em compartilhar e dps em incorporar, dentro do youtube -->
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="xxx">xxx</a>, 2024</p></font>
 </div >
