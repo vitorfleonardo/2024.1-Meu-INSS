@@ -29,7 +29,7 @@ Em nenhuma hipótese, a Administração Pública Federal será responsável pela
 de quaisquer outros que venham a ser criados), em decorrência da navegação na Internet pelo usuário.
 
 ## Fonte
-Gov.br - Termos de uso. Disponível em: https://www.gov.br/pt-br/termos-de-uso, Acesso em 28 de mar. 2024.
+Gov.br - Termos de uso. Disponível em: [https://www.gov.br/pt-br/termos-de-uso](https://www.gov.br/pt-br/termos-de-uso), Acesso em 28 de mar. 2024.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
