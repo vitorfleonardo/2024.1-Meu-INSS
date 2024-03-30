@@ -95,7 +95,7 @@ Este cronograma visa demonstrar como foi de fato executado as etapas do projeto.
       <td><a href="https://github.com/GabrielMS00">Gabriel</a></td>
       <td>19/03</td>
       <td>24/03</td>
-      <td> - </td>
+      <td></td>
     </tr>
     <tr>
       <td>Gravar apresentação</td>
