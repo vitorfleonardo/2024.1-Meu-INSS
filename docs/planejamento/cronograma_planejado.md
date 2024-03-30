@@ -74,7 +74,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
       <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
       <td>19/03</td>
       <td>28/03</td>
-      <td></td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a></td>
     </tr>
     <tr>
       <td>Produzir rich picture do aplicativo selecionado</td>
@@ -95,7 +95,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
       <td><a href="https://github.com/GabrielMS00">Gabriel</a></td>
       <td>19/03</td>
       <td>24/03</td>
-      <td></td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a></td>
     </tr>
     <tr>
       <td>Gravar apresentação</td>
