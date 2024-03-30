@@ -22,6 +22,6 @@ Um Rich Picture é como um desenho animado que mostra todas as pessoas envolvida
 
 ## Histórico de Versões
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
-`1.0` | 27/03/2024 | Criação do documento  | [Bianca Castro](https://github.com/BiancaPatrocinio7) | | |
+| Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| `1.0`  | 27/03/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|

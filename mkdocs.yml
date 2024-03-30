@@ -11,13 +11,13 @@ nav:
         - Ata 01: "atas/Ata1-24.03.2024.md"
     - Planejamento:
         - Termo de Abertura de Projeto: "planejamento/tap.md"
-        - Termos de uso: "planejamento/copia_termo_de_uso.md"
         - EAP: "planejamento/EAP.md"
         - Cronograma Planejado: "planejamento/cronograma_planejado.md"
         - Cronograma Executado: "planejamento/cronograma_executado.md"
-        - Ferramentas: "planejamento/ferramentas.md"
-        - Aplicativo escolhido: "planejamento/aplicativo_escolhido.md"
         - Heatmap: "planejamento/heatmap.md"
+        - Aplicativo escolhido: "planejamento/aplicativo_avaliados.md"
+        - Termos de uso: "planejamento/copia_termo_de_uso.md"
+        - Ferramentas: "planejamento/ferramentas.md"
     - Pré-Rastreabilidade: 
         - Rich Picture: "pre-rastreabilidade/rich_picture.md"
     

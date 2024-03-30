@@ -511,7 +511,6 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 > SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 27 de março de 2024.
 
 ## Histórico de Versão
-
-| Versão | Data       | Descrição                                        | Autor                                                                                                 |                    Revisor                     |
-| :----: | ---------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | :--------------------------------------------: |
-| `1.0`  | 27/03/2024 | Criação do cronograma                            | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | |
+| Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| `1.0`  | 27/03/2024 | Criação do cronograma. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
