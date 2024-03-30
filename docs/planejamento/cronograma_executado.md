@@ -1,8 +1,8 @@
-# Cronograma Planejado
+# Cronograma Executado
 
 ## Introdução
 
-Este cronograma visa demonstrar como foi de fato executado o planejamento das etapas do projeto.
+Este cronograma visa demonstrar como foi de fato executado as etapas do projeto.
 
 ## Entrega 1 - Planejamento do Projeto - Data de Entrega:
 
@@ -28,18 +28,18 @@ Este cronograma visa demonstrar como foi de fato executado o planejamento das et
       <td></td>
     </tr>
         <tr>
-      <td>Criar Canal no Youtube/td>
+      <td>Criar Canal no Youtube</td>
       <td><a href="https://github.com/paulohborba">Paulo</a></td>
       <td>19/03</td>
       <td>26/03</td>
-      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a></td>
     </tr>
     <tr>
       <td>Escrever o Readme do projeto</td>
       <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
       <td>19/03</td>
       <td>21/03</td>
-      <td></td>
+      <td><a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Avaliar aplicativos para o projeto</td>
@@ -66,8 +66,8 @@ Este cronograma visa demonstrar como foi de fato executado o planejamento das et
       <td>Elaborar cronograma planejado do projeto</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
       <td>19/03</td>
-      <td>29/03</td>
-      <td></td>
+      <td>30/03</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
     </tr>
     <tr>
       <td>Elencar ferramentas utilizadas no projeto</td>
@@ -81,7 +81,7 @@ Este cronograma visa demonstrar como foi de fato executado o planejamento das et
       <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
       <td>27/03</td>
       <td>28/03</td>
-      <td></td>
+      <td><a href="https://github.com/acamposs">Amanda</a></td>
     </tr>
     <tr>
       <td>Elaborar heatmap de disponibilidade dos integrantes</td>
@@ -95,19 +95,19 @@ Este cronograma visa demonstrar como foi de fato executado o planejamento das et
       <td><a href="https://github.com/GabrielMS00">Gabriel</a></td>
       <td>19/03</td>
       <td>24/03</td>
-      <td></td>
+      <td> - </td>
     </tr>
     <tr>
       <td>Gravar apresentação</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
       <td>19/03</td>
       <td>31/03</td>
-      <td></td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, 2024 </p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024 </p></font>
 </div>
 
 
@@ -122,3 +122,4 @@ Este cronograma visa demonstrar como foi de fato executado o planejamento das et
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0`  | 27/03/2024 | Criação do cronograma. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
+| `1.1`  | 30/03/2024 | Correção de datas e adição dos responsáveis pela correção | [Gabriel Souza](https://github.com/GabrielMS00) |  | [Johnny Lopes](https://github.com/JohnnyLopess)
