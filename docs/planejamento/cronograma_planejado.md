@@ -1,0 +1,517 @@
+# Cronograma Planejado
+
+## Introdução
+
+Este cronograma visa estabelecer o planejamento da equipe para as atividades do projeto, delimitando atividades, prazos e responsáveis.
+
+## Entrega 1 - Planejamento do Projeto - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Criar o Gitpages do projeto</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>19/03</td>
+      <td>26/03</td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>Criar Canal no Youtube/td>
+      <td><a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>19/03</td>
+      <td>26/03</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Escrever o Readme do projeto</td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>19/03</td>
+      <td>21/03</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Avaliar aplicativos para o projeto</td>
+      <td></td>
+      <td>19/03</td>
+      <td>28/03</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Escrever termo de abertura do projeto</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
+      <td>19/03</td>
+      <td>28/03</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Elaborar estrutura analítica do projeto</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td>19/03</td>
+      <td>28/03</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Elaborar cronograma planejado do projeto</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
+      <td>19/03</td>
+      <td>29/03</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Elencar ferramentas utilizadas no projeto</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>19/03</td>
+      <td>28/03</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Produzir rich picture do aplicativo selecionado</td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>27/03</td>
+      <td>28/03</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Elaborar heatmap de disponibilidade dos integrantes</td>
+      <td><a href="https://github.com/acamposs">Amanda</a></td>
+      <td>19/03</td>
+      <td>24/03</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Definir metodologias utilizadas para o projeto</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a></td>
+      <td>19/03</td>
+      <td>24/03</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gravar apresentação</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>19/03</td>
+      <td>31/03</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, 2024 </p></font>
+</div>
+
+## Entrega 2 - Elicitação - Técnicas e Priorização - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Elicitação</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Criar perfil de usuário</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Criar persona e antipersona</td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação Brainstorm</td>
+      <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação: Entrevista</td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação: Introspecção</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação: Questionário</td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de elicitação: Storytelling</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: $100 </td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: First things First </td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: MoSCoW </td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: Three Level Scale </td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: In or Out </td>
+      <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, 2024</p></font>
+</div>
+
+## Entrega 3 - Modelagem de Requisitos 1 - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Modelagem de Requisitos 1</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Cenários</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Léxico</td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Use Case</td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Especificação Suplementar</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>,<a href="https://github.com/vitorfleonardo">Vitor</a>, 2024</p></font>
+</div>
+
+## Entrega 4 - Modelagem de Requisitos 2 - Ágil - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Modelagem de Requisitos 2</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos Ágil: NFR Framework</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td></td> 
+      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos Ágil: Backlogs</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+    </tr>
+      <td>Técnica de Modelagem de Requisitos Ágil: User histories</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>,<a href="https://github.com/vitorfleonardo">Vitor</a>, 2024</p></font>
+</div>
+
+## Entrega 5.1 - Análise de Requisitos: Verificação e Validação - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Análise de Requisitos (V&V)</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Verificação por inspeção de todos os artefatos</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Validação: Prototipação e Comprovação Informal</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>,<a href="https://github.com/vitorfleonardo">Vitor</a>, 2024</p></font>
+</div>
+
+## Entrega 5.2 - Análise de Requisitos: Verificação e Validação - Grupo 8 - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Análise de Requisitos - Grupo 8 (V&V)</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Verificação por inspeção de todos os artefatos</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+    </tr>
+    <tr>
+      <td>Validação: Prototipação e Comprovação Informal</td>
+      <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>,<a href="https://github.com/vitorfleonardo">Vitor</a>, 2024</p></font>
+</div>
+
+## Entrega 6 - Pós-Rastreabilidade - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Pós-Rastreabilidade</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pós-rastreabilidade: Backward-form</td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+    </tr>
+    <tr>
+      <td>Pós-rastreabilidade: Forward-form</td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
+    </tr>
+    <tr>
+      <td>Pós-rastreabilidade: Matriz Geral	</td>
+      <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>,<a href="https://github.com/vitorfleonardo">Vitor</a>, 2024</p></font>
+</div>
+
+## Bibliografia
+
+> Cronograma Bilheteria Digital. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>>. Acesso em 27 de março de 2024.
+>
+> SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 27 de março de 2024.
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                        | Autor                                                                                                 |                    Revisor                     |
+| :----: | ---------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | :--------------------------------------------: |
+| `1.0`  | 27/03/2024 | Criação do cronograma                            | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | |

@@ -12,6 +12,9 @@ nav:
     - Planejamento:
         - Termo de Abertura de Projeto: "planejamento/tap.md"
         - Termos de uso: "planejamento/copia_termo_de_uso.md"
+        - EAP: "planejamento/EAP.md"
+        - Cronograma Planejado: "planejamento/cronograma_planejado.md"
+        - Cronograma Executado: "planejamento/cronograma_executado.md"
         - Ferramentas: "planejamento/ferramentas.md"
         - Aplicativo escolhido: "planejamento/aplicativo_escolhido.md"
         - Heatmap: "planejamento/heatmap.md"
