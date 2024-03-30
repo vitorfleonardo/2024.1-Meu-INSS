@@ -119,6 +119,6 @@ Este cronograma visa demonstrar como foi de fato executado o planejamento das et
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                        | Autor                                                                                                 |                    Revisor                     |
-| :----: | ---------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | :--------------------------------------------: |
-| `1.0`  | 27/03/2024 | Criação do cronograma                            | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | |
+| Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| `1.0`  | 27/03/2024 | Criação do cronograma. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|

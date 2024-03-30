@@ -66,4 +66,4 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 27/03/2024  | Versão inicial de documento | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
+| `1.0` | 27/03/2024  | Versão inicial de documento | [Vitor Feijó](https://github.com/vitorfleonardo) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |

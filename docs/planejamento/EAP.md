@@ -8,6 +8,6 @@ Esta EAP visa demonstrar de maneira visual as etapas do projeto.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                        | Autor                                                                                                 |                    Revisor                     |
-| :----: | ---------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | :--------------------------------------------: |
-| `1.0`  | 27/03/2024 | Criação da EAP                            | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor Leonardo](https://github.com/vitorfleonardo) | |
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0`  | 27/03/2024 | Criação da EAP | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor Leonardo](https://github.com/vitorfleonardo) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
