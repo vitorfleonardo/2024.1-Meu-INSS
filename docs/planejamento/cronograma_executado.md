@@ -4,7 +4,7 @@
 
 Este cronograma visa demonstrar como foi de fato executado as etapas do projeto.
 
-## Entrega 1 - Planejamento do Projeto - Data de Entrega:
+## Entrega 1 - Planejamento do Projeto
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
@@ -25,7 +25,7 @@ Este cronograma visa demonstrar como foi de fato executado as etapas do projeto.
       <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
       <td>19/03</td>
       <td>26/03</td>
-      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
     </tr>
         <tr>
       <td>Criar Canal no Youtube</td>
@@ -43,24 +43,24 @@ Este cronograma visa demonstrar como foi de fato executado as etapas do projeto.
     </tr>
     <tr>
       <td>Avaliar aplicativos para o projeto</td>
-      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
       <td>19/03</td>
       <td>28/03</td>
-      <td></td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Escrever termo de abertura do projeto</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
       <td>19/03</td>
       <td>28/03</td>
-      <td></td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
     </tr>
     <tr>
       <td>Elaborar estrutura analítica do projeto</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
       <td>19/03</td>
       <td>28/03</td>
-      <td></td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
     </tr>
     <tr>
       <td>Elaborar cronograma planejado do projeto</td>
@@ -88,7 +88,7 @@ Este cronograma visa demonstrar como foi de fato executado as etapas do projeto.
       <td><a href="https://github.com/acamposs">Amanda</a></td>
       <td>19/03</td>
       <td>24/03</td>
-      <td></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
     </tr>
     <tr>
       <td>Definir metodologias utilizadas para o projeto</td>
