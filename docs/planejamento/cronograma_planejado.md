@@ -350,7 +350,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
-## Entrega 5.1 - Análise de Requisitos: Verificação e Validação - Data de Entrega:
+## Entrega 5.1 - Análise de Requisitos: Verificação e Validação - Grupo 8 - Data de Entrega:
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Análise de Requisitos (V&V)</p></font>
@@ -455,7 +455,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
-## Entrega 5.2 - Análise de Requisitos: Verificação e Validação - Grupo 8 - Data de Entrega:
+## Entrega 5.2 - Análise de Requisitos: Verificação e Validação - Data de Entrega:
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Análise de Requisitos - Grupo 8 (V&V)</p></font>
