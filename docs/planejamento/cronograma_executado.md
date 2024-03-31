@@ -122,4 +122,4 @@ Este cronograma visa demonstrar como foi de fato executado as etapas do projeto.
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0`  | 27/03/2024 | Criação do cronograma. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
-| `1.1`  | 30/03/2024 | Correção de datas e adição dos responsáveis pela correção | [Gabriel Souza](https://github.com/GabrielMS00) |  | [Johnny Lopes](https://github.com/JohnnyLopess)
+| `1.1`  | 30/03/2024 | Correção de datas e adição dos responsáveis pela correção | [Gabriel Souza](https://github.com/GabrielMS00) | 31/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)
