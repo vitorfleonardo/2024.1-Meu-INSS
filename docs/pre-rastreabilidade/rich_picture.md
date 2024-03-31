@@ -1,7 +1,7 @@
 # Rich Picture
 
 ## Introdução
-Um Rich Picture é como um desenho animado que mostra todas as pessoas envolvidas, o que elas se preocupam e um pouco da estrutura do ambiente de trabalho. Serve para registrar e analisar esses aspectos do ambiente de trabalho e pensar em como eles devem influenciar o design.  <a id="TEC1" href="#RP1">^1^</a>  Na engenharia de software, o Rich Picture é empregado para simplificar a compreensão do funcionamento de sistemas de software. Ele é representado por um diagrama contendo elementos fundamentais, tais como atores, processos, armazenamento de dados, setas e os limites do sistema.
+Um Rich Picture é como um desenho animado que mostra todas as pessoas envolvidas, o que elas se preocupam e um pouco da estrutura do ambiente de trabalho. Serve para registrar e analisar esses aspectos do ambiente de trabalho e pensar em como eles devem influenciar o design.  <a id="TEC1" href="#RP1">[1]</a>  Na engenharia de software, o Rich Picture é empregado para simplificar a compreensão do funcionamento de sistemas de software. Ele é representado por um diagrama contendo elementos fundamentais, tais como atores, processos, armazenamento de dados, setas e os limites do sistema.
 
 ## Metodologia e Ferramentas
 O [Canva](https://www.canva.com/) foi utilizado para desenvolver o Rich Picture e a legenda.
@@ -18,7 +18,7 @@ O [Canva](https://www.canva.com/) foi utilizado para desenvolver o Rich Picture 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font> -->
 
 ## Rich Picture do Meu INSS
-<embed src="docs\imagens\rich_pictures\RichPicture_meuINSSAtual.pdf" width="100%" height="500px" />
+<embed src="..\..\imagens\rich_pictures\RichPicture_meuINSSAtual.pdf" width="100%" height="500px" />
   <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a> e <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
 ## Referências
