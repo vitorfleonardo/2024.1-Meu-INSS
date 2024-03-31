@@ -26,7 +26,7 @@ No âmbito do projeto apresentado na disciplina de Requisitos de Software, os es
 ## Aplicativos analisados
 
 ### Jitsi Meet
-O Jitsi é um conjunto de projetos de código aberto que permite construir e implantar facilmente soluções seguras de videoconferência. No centro do Jitsi estão o Jitsi Videobridge e o Jitsi Meet, que permitem realizar conferências pela internet, enquanto outros projetos na comunidade possibilitam outras funcionalidades, como áudio, discagem telefônica, gravação e transmissão simultânea.
+O Jitsi é um conjunto de projetos de código aberto que permite construir e implantar facilmente soluções seguras de videoconferência. No centro do Jitsi estão o Jitsi Videobridge e o Jitsi Meet, que permitem realizar conferências pela internet, enquanto outros projetos na comunidade possibilitam outras funcionalidades, como áudio, discagem telefônica, gravação e transmissão simultânea.[1]
 
 <details>
   <summary>Rich Picture Jitsi Meet</summary>
@@ -36,7 +36,7 @@ O Jitsi é um conjunto de projetos de código aberto que permite construir e imp
 
 
 ### Carteira de Trabalho Digital
-A Carteira de Trabalho Digital é uma ferramenta para o cidadão acompanhar de modo fácil a sua vida laboral, tendo acesso a dados pessoais e aos seus contratos de trabalho que estão registrados na Carteira de Trabalho e Previdência Social.
+A Carteira de Trabalho Digital é uma ferramenta para o cidadão acompanhar de modo fácil a sua vida laboral, tendo acesso a dados pessoais e aos seus contratos de trabalho que estão registrados na Carteira de Trabalho e Previdência Social.[2]
 <details>
   <summary>Rich Picture Carteira de Trabalho Digital</summary>
   <embed src="..\..\imagens\rich_pictures\richpicture_carteiradigital.pdf" width="100%" height="500px" />
@@ -45,7 +45,7 @@ A Carteira de Trabalho Digital é uma ferramenta para o cidadão acompanhar de m
 
 ### Receita Federal
 
-O Aplicativo da Receita Federal oferece uma série de recursos e serviços para os contribuintes, permitindo acesso a informações sobre impostos, consulta de situação fiscal, emissão de documentos, entre outros.
+O Aplicativo da Receita Federal oferece uma série de recursos e serviços para os contribuintes, permitindo acesso a informações sobre impostos, consulta de situação fiscal, emissão de documentos, entre outros.[3]
 
 <details>
   <summary>Visualizar Aplicativo</summary>
@@ -58,7 +58,7 @@ O Aplicativo da Receita Federal oferece uma série de recursos e serviços para 
 </details>
 
 ### Sinesp cidadão
-O Sinesp Cidadão é um aplicativo que oferece acesso a serviços da Secretaria Nacional de Segurança Pública, permitindo aos usuários verificar veículos roubados, consultar ocorrências policiais, mandados de prisão, pessoas desaparecidas e status de celulares roubados, além de ler QR Codes em placas de veículos.
+O Sinesp Cidadão é um aplicativo que oferece acesso a serviços da Secretaria Nacional de Segurança Pública, permitindo aos usuários verificar veículos roubados, consultar ocorrências policiais, mandados de prisão, pessoas desaparecidas e status de celulares roubados, além de ler QR Codes em placas de veículos.[4]
 
 <details>
   <summary>Rich Picture Sinesp Cidadão</summary>
@@ -67,7 +67,7 @@ O Sinesp Cidadão é um aplicativo que oferece acesso a serviços da Secretaria 
 </details>
 
 ### Jellyfin
-O Jellyfin é a solução de mídia construída por voluntários que coloca você no controle de sua mídia. Transmita para qualquer dispositivo a partir do seu próprio servidor. O Jellyfin permite que você colete, gerencie e transmita sua mídia. Execute o servidor Jellyfin em seu sistema e tenha acesso ao principal sistema de entretenimento de software livre, com todos os recursos incluídos.
+O Jellyfin é a solução de mídia construída por voluntários que coloca você no controle de sua mídia. Transmita para qualquer dispositivo a partir do seu próprio servidor. O Jellyfin permite que você colete, gerencie e transmita sua mídia. Execute o servidor Jellyfin em seu sistema e tenha acesso ao principal sistema de entretenimento de software livre, com todos os recursos incluídos.[5]
 <details>
   <summary>Rich Picture Jellyfin</summary>
   <embed src="..\..\imagens\rich_pictures\richpicture_jellyfin.pdf" width="100%" height="500px" />
@@ -78,7 +78,7 @@ O Jellyfin é a solução de mídia construída por voluntários que coloca voc�
 </details>
 
 ### GIMP
-GIMP é um acrônimo para GNU Image Manipulation Program. É um programa distribuído gratuitamente para tarefas como retoque fotográfico, composição de imagens e autoria de imagens.
+GIMP é um acrônimo para GNU Image Manipulation Program. É um programa distribuído gratuitamente para tarefas como retoque fotográfico, composição de imagens e autoria de imagens.[6]
 <details>
   <summary>Rich Picture GIMP</summary>
   <embed src="..\..\imagens\rich_pictures\richpicture_gimp.pdf" width="100%" height="500px" />
@@ -89,7 +89,7 @@ GIMP é um acrônimo para GNU Image Manipulation Program. É um programa distrib
 </details>
 
 ### Meu INSS
-O Meu INSS é um aplicativo que permite utilizar a grande maioria dos serviços prestados pelo INSS.
+O Meu INSS é um aplicativo que permite utilizar a grande maioria dos serviços prestados pelo INSS.[7]
 <details>
   <summary>Rich Picture Meu INSS</summary>
   <embed src="..\..\imagens\rich_pictures\richpicture_meuinss.pdf" width="100%" height="500px" />
@@ -102,7 +102,7 @@ O Meu INSS é um aplicativo que permite utilizar a grande maioria dos serviços 
 
 ## Aplicativo escolhido
 
-<p align="center" > <font>Figura 1: Logo do Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 30%" src="imagens/inss-logo.png" width = 40%></p>
+<p align="center" > <font>Figura 1: Logo do Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 30%" src="../../imagens/inss-logo.png" width = 40%></p>
 <p align="center" > <font>Fonte: <a href="https://meu.inss.gov.br/#/login">Meu INSS</a></font> <br></p>
 
 O Meu INSS foi escolhido principalmente pelos dois motivos citados anteriormente, a preferência por um aplicativo do governo e a exigência de que os termos de uso permitissem o uso do aplicativo para fins de estudo, além disso não tinha sido utilizado anteriormente na disciplina. A quantidade de funcionalidades também foi um fator de escolha, pois mostra uma certa complexidade com muitas funcionalidades disponíveis, e não menos importante, o acesso a usuários desse aplicativo permitindo assim que os membros tenham acesso a opniões e informações importantes de quem realmente utiliza esse aplicativo no dia a dia.
@@ -118,9 +118,9 @@ O Meu INSS foi escolhido principalmente pelos dois motivos citados anteriormente
 
 [5] Jellyfin. Disponível em: [https://jellyfin.org/](https://jellyfin.org/). Acesso em: 28 de mar. 2024.
 
-[6] Meu INSS. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US.](https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US). Acesso em: 28 de mar. 2024.
+[6] GIMP. Disponível em: [https://www.gimp.or/](https://www.gimp.org/). Acesso em: 28 de mar. 2024.
 
-[7] GIMP. Disponível em: [https://www.gimp.or/](https://www.gimp.org/). Acesso em: 28 de mar. 2024.
+[7] Meu INSS. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US.](https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US). Acesso em: 28 de mar. 2024.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
