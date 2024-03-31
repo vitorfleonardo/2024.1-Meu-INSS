@@ -71,7 +71,7 @@ O Jellyfin é a solução de mídia construída por voluntários que coloca voc�
 <details>
   <summary>Rich Picture Jellyfin</summary>
   <embed src="..\..\imagens\rich_pictures\richpicture_jellyfin.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">VJosé Souza</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Souza</a>, 2024</p></font>
 
 
 
@@ -99,7 +99,14 @@ O Meu INSS é um aplicativo que permite utilizar a grande maioria dos serviços 
 
 </details>
 
-   
+
+## Aplicativo escolhido
+
+<p align="center" > <font>Figura 1: Logo do Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 30%" src="imagens/inss-logo.png" width = 40%></p>
+<p align="center" > <font>Fonte: <a href="https://meu.inss.gov.br/#/login">Meu INSS</a></font> <br></p>
+
+O Meu INSS foi escolhido principalmente pelos dois motivos citados anteriormente, a preferência por um aplicativo do governo e a exigência de que os termos de uso permitissem o uso do aplicativo para fins de estudo, além disso não tinha sido utilizado anteriormente na disciplina. A quantidade de funcionalidades também foi um fator de escolha, pois mostra uma certa complexidade com muitas funcionalidades disponíveis, e não menos importante, o acesso a usuários desse aplicativo permitindo assim que os membros tenham acesso a opniões e informações importantes de quem realmente utiliza esse aplicativo no dia a dia.
+
 ## Referências
 [1] Jitsi Meet. Disponível em: [https://jitsi.org/](https://jitsi.org/downloads/). Acesso em: 28 de mar. 2024.
 
@@ -119,4 +126,5 @@ O Meu INSS é um aplicativo que permite utilizar a grande maioria dos serviços 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0` | 29/03/2024 | Versão inicial da página dos Aplicativo analisados | [Paulo Borba](https://github.com/paulohborba) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |  
-| `1.1` | 30/03/2024 | Adição de uma nova Rich Picture. | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  | 
+| `1.1` | 30/03/2024 | Adição de uma nova Rich Picture. | [Johnny Lopes](https://github.com/JohnnyLopess) | 31/03/2024 | [Paulo Borba](https://github.com/paulohborba) | 
+| `1.2` | 31/03/2024 | Complementando informações. | [Paulo Borba](https://github.com/paulohborba) | 31/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) | 
