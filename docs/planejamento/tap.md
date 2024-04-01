@@ -8,12 +8,15 @@ O Termo de Abertura do Projeto (TAP) é um documento que autoriza formalmente a 
 Até o final do semestre, pretendemos fazer todas as entregas das etapas do projeto de requisitos como parte do curso de Requisitos de Software na Universidade de Brasília - FGA. Isso será alcançado através da realização e entrega de todas as etapas definidas. O sucesso do projeto será determinado pela entrega final no dia 26 de junho de 2024 e avaliado pelo professor André Barros Sales. 
 
 ## Stakeholders
+<p align="center" > <strong> Tabela 1:</Strong> Stakeholders</font> <gitbr></p>
 | Nome | Externo (S/N) | Relacionamento com o projeto 
 | :-: | :-: | :-: |
 | Equipe 7 | N  | Equipe do projeto | 
 | Professor André Barros Sales | N  | Associado ao projeto e responsável pela avaliação | 
 | Usuários do MEU INSS | S  | Contribuir com a visão de usuário | 
 | Trabalhadores do MEU INSS | S  | Contribuir com a visão de desenvolvedor da solução | 
+
+<font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
 
 ## Equipe do Projeto
 <table>
@@ -47,6 +50,7 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 
 
 ## Principais Entregas do projeto
+<p align="center" > <strong> Tabela 2:</Strong> Principais entregas do projeto</font> <gitbr></p>
 | Etapa | Marcos | Previsão | 
 | :-: | :-: | :-: |
 | Etapa 1 |  Planejamento do projeto | 01/04/2024 | 
@@ -58,6 +62,7 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 | Etapa 7 | Análise de Requisitos: Verificação e Validação II | 17/06/2024 |
 | Etapa 8 | Projeto Final | 26/06/2024 |
 
+<font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
 
 
 ## Referências
@@ -66,4 +71,5 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 27/03/2024  | Versão inicial de documento | [Vitor Feijó](https://github.com/vitorfleonardo) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.0` | 27/03/2024  | Versão inicial de documento. | [Vitor Leonardo](https://github.com/vitorfleonardo) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.1` | 01/04/2024  | Adição de referência nas tabelas. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 |  |
