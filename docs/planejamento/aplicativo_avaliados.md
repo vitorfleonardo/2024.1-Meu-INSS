@@ -135,4 +135,4 @@ O Meu INSS foi escolhido principalmente pelos dois motivos citados anteriormente
 | `1.0` | 29/03/2024 | Versão inicial da página dos Aplicativo analisados | [Paulo Borba](https://github.com/paulohborba) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |  
 | `1.1` | 30/03/2024 | Adição de uma nova Rich Picture. | [Johnny Lopes](https://github.com/JohnnyLopess) | 31/03/2024 | [Paulo Borba](https://github.com/paulohborba) | 
 | `1.2` | 31/03/2024 | Complementando informações. | [Paulo Borba](https://github.com/paulohborba) | 31/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) | 
-| `1.3` | 01/04/2024 | Ajustes na página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 |  |
+| `1.3` | 01/04/2024 | Ajustes na página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 |  [José Filipi](https://github.com/JoseFilipi) |
