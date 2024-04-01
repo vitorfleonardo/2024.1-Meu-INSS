@@ -72,4 +72,4 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 27/03/2024  | Versão inicial de documento. | [Vitor Leonardo](https://github.com/vitorfleonardo) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
-| `1.1` | 01/04/2024  | Adição de referência nas tabelas. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 |  |
+| `1.1` | 01/04/2024  | Adição de referência nas tabelas. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 | [Amanda Campos](https://github.com/acamposs) |
