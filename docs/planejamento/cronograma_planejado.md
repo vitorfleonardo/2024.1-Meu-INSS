@@ -515,4 +515,4 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0`  | 27/03/2024 | Criação do cronograma. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
 | `1.1` | 30/03/2024 | Adição das datas de início e fim das atividades do cronograma. | [Gabriel Souza](https://github.com/JoseFilipi) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
-| `1.2` | 01/04/2024 | Ajustes na página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 |  |
+| `1.2` | 01/04/2024 | Ajustes na página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 | [Amanda Campos](https://github.com/acamposs)  |
