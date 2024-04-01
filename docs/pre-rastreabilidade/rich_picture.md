@@ -18,6 +18,7 @@ O [Canva](https://www.canva.com/) foi utilizado para desenvolver o Rich Picture 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font> -->
 
 ## Rich Picture do Meu INSS
+<p align="center" > <strong> Figura 1:</Strong> Rich picture</font> <gitbr></p>
 <embed src="..\..\imagens\rich_pictures\RichPicture_meuINSSAtual.pdf" width="100%" height="500px" />
   <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a> e <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 

@@ -7,7 +7,7 @@ Este cronograma visa demonstrar como foi de fato executado as etapas do projeto.
 ## Entrega 1 - Planejamento do Projeto
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Planejamento do Projeto</p></font>
 
 <table>
   <thead>

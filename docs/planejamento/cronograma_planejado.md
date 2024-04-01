@@ -7,7 +7,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 ## Entrega 1 - Planejamento do Projeto - Data de Entrega:
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Planejamento do Projeto</p></font>
 
 <table>
   <thead>
@@ -113,7 +113,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 ## Entrega 2 - Elicitação - Técnicas e Priorização - Data de Entrega:
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Elicitação</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Elicitação</p></font>
 
 <table>
   <thead>
@@ -233,7 +233,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 ## Entrega 3 - Modelagem de Requisitos 1 - Data de Entrega:
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Modelagem de Requisitos 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Modelagem de Requisitos 1</p></font>
 
 <table>
   <thead>
@@ -297,7 +297,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 ## Entrega 4 - Modelagem de Requisitos 2 - Ágil - Data de Entrega:
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Modelagem de Requisitos 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Modelagem de Requisitos 2</p></font>
 
 <table>
   <thead>
@@ -353,7 +353,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação - Grupo 8 - Data de Entrega:
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Análise de Requisitos (V&V)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Análise de Requisitos (V&V)</p></font>
 
 <table>
   <thead>
@@ -402,7 +402,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 ## Entrega 6 - Pós-Rastreabilidade - Data de Entrega:
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Pós-Rastreabilidade</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Pós-Rastreabilidade</p></font>
 
 <table>
   <thead>
@@ -458,7 +458,7 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação - Data de Entrega:
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Análise de Requisitos - Grupo 8 (V&V)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Análise de Requisitos - Grupo 8 (V&V)</p></font>
 
 <table>
   <thead>
@@ -514,4 +514,5 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0`  | 27/03/2024 | Criação do cronograma. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
-| `1.1` | 30/03/2024 | Adição das datas de início e fim das atividades do cronograma | [Gabriel Souza](https://github.com/JoseFilipi) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.1` | 30/03/2024 | Adição das datas de início e fim das atividades do cronograma. | [Gabriel Souza](https://github.com/JoseFilipi) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.2` | 01/04/2024 | Ajustes na página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 |  |
