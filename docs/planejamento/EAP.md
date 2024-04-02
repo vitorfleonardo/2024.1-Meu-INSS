@@ -14,4 +14,4 @@ Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Un
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 27/03/2024 | Criação da EAP. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor Leonardo](https://github.com/vitorfleonardo) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
-| `1.1`  | 01/04/2024 | Adição das referências.| [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 |  |
+| `1.1`  | 01/04/2024 | Adição das referências.| [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 | [Vitor Leonardo](https://github.com/vitorfleonardo) |
