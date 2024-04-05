@@ -20,6 +20,9 @@ nav:
         - Ferramentas: "planejamento/ferramentas.md"
     - Pré-Rastreabilidade: 
         - Rich Picture: "pre-rastreabilidade/rich_picture.md"
+    - Elicitação:
+        - Personas: "elicitacao/personas.md"
+
     
 theme:
   name: material
