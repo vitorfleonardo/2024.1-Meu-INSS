@@ -23,6 +23,7 @@ nav:
         - Rich Picture: "pre-rastreabilidade/rich_picture.md"
     - Elicitação:
         - Personas: "elicitacao/personas.md"
+        - Brainstorm: "elicitacao/brainStorm.md"
 
     
 theme:
