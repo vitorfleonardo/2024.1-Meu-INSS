@@ -17,6 +17,10 @@ Nesta página, apresentamos a seleção de ferramentas feita pelo grupo. Nosso o
 |<img src="../../imagens/ferramentas/figma-logo.png" alt="Logo do Figma" width="100px">|<strong>Figma|Criação de protótipos.<a id="RP9" href="#TEC9">[9]</a>|
 |<img src="../../imagens/ferramentas/drawio-logo.png" alt="Logo do Drawio" width="100px">|<strong>Drawio|Criação de diagramas.<a id="RP10" href="#TEC10">[10]</a>|
 |<img src="../../imagens/ferramentas/canva-logo.png" alt="Logo do canva" width="100px">|<strong>Canva|Criação da Rich picture.<a id="RP11" href="#TEC11">[11]</a>|
+|<img src="../../imagens/ferramentas/GoogleForms-Logo.png" alt="Logo do Google Forms" width="100px">|<strong>Google Forms|Criação do Formulário.<a id="RP12" href="#TEC12">[12]</a>|
+|<img src="../../imagens/ferramentas/googlePlanilhas-logo.png" alt="Logo do Google Planinhas" width="100px">|<strong>Google Planilhas|Criação de planilhas.<a id="RP13" href="#TEC13">[13]</a>|
+|<img src="../../imagens/ferramentas/lucidchart-logo.png" alt="Logo do LucidChart" width="100px">|<strong>LucidChart|Criação de diagramas.<a id="RP14" href="#TEC14">[14]</a>|
+|<img src="../../imagens/ferramentas/thispersondoesntexist-logo.png" alt="Logo do This Person Doesn't Exist" width="100px">|<strong>This Person Doesn't Exist|Criação de imagens para as personas.<a id="RP15" href="#TEC15">[15]</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
@@ -45,9 +49,18 @@ Nesta página, apresentamos a seleção de ferramentas feita pelo grupo. Nosso o
 
 <a id="TEC11" href="#RP11">[11]</a> Canva. Disponível em: [https://www.canva.com/](https://www.canva.com/). Acesso em: 31 de mar. 2024.
 
+<a id="TEC12" href="#RP12">[12]</a> Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](https://www.google.com/intl/pt-BR/forms/about/). Acesso em: 09 de abr. 2024.
+
+<a id="TEC13" href="#RP13">[13]</a> Google Planilhas. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](https://www.google.com/intl/pt-BR/sheets/about/). Acesso em: 09 de abr. 2024.
+
+<a id="TEC14" href="#RP14">[14]</a> Lucidchart. Disponível em: [https://www.lucidchart.com/pages/pt](https://www.lucidchart.com/pages/pt). Acesso em: 09 de abr. 2024.
+
+<a id="TEC15" href="#RP15">[15]</a> This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/pt](https://this-person-does-not-exist.com/pt). Acesso em: 09 de abr. 2024.
+
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 28/03/2024  | Versão inicial de documento. | [Johnny Lopes](https://github.com/JohnnyLopess) | 30/03/2024 | [Paulo Borba](https://github.com/paulohborba) |
 | `1.1` | 29/03/2024  | Correção no tamanho das imagens. | [Johnny Lopes](https://github.com/JohnnyLopess) | 31/03/2024 | [Paulo Borba](https://github.com/paulohborba) |
+| `1.2` | 09/04/2024  | Adição de novas ferramentas. | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  |
