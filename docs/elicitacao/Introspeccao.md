@@ -1,7 +1,9 @@
 # Introspecção
 
 ## Introdução
-## Johnny Lopes
-Eu, como usuário do aplicativo Meu INSS, me vi diante de uma situação onde precisava acessar informações sobre a minha aposentadoria enquanto estava em uma viagem de negócios. Não tendo acesso ao aplicativo, comecei a imaginar as funcionalidades ideais que gostaria de ter para resolver essa situação.
-ç
+
+### [Johnny Lopes](https://github.com/JohnnyLopess)
+
+Para aprimorar a experiência do usuário no aplicativo "Meu INSS", decidi adotar uma abordagem introspectiva e imaginativa, colocando-me na posição de um usuário que deseja acessar serviços e informações oferecidas pelo Instituto Nacional do Seguro Social (INSS) através do aplicativo, sem ter visibilidade direta de suas funcionalidades atuais.
+
 ## Metodologia
