@@ -1,24 +1,20 @@
 
 ## Introdução
 
-  No presente artefato é apresentada a técnica de entrevista, metodologia utilizada e resultados, gravação das entrevistas e requisitos elicitados.
+As entrevistas representam uma das técnicas mais comuns e amplamente empregadas na elicitação de requisitos. Este método envolve interações individuais entre um representante da equipe de desenvolvimento e os stakeholders envolvidos no novo sistema. Reconhecida pela sua capacidade de proporcionar uma compreensão profunda das necessidades e requisitos do software, a técnica de entrevista é considerada essencial para a obtenção e validação desses elementos fundamentais.
 
-## Técnica de entrevista
+### Técnica de entrevista
 
   "A entrevista é uma técnica muito utilizada. Busca-se encontrar os requisitos ideiais para o sistema" (Serrano, Milene; Serrano, Maurício, p. 22). 
   "É uma forma de diálogo, formal ou informal, entre duas ou mais pessoas, onde o entrevistador busca respostas para um conjunto de questões 
   previamente planejadas e os entrevistados se apresentam como fontes de informação" (Vazquez; Simões, 2016, p. 164).
 
 ## Metodologia
-
-  Para entrevista, seguiu-se os passos:
-#### 1. Preparação do roteiro de questões
-  Para preparação do roteiro de questões, utilizou-se da metodologia 5W2H e o repositório do e-Título do semestre de 2023.2 como base para a formulação 
-  deste roteiro. Além disso, optou-se pelo emprego da formalidade e estrutura diamante, em que se combina questões abertas e fechadas (Vazquez; Simões, 2016, p. 172). 
-  O roteiro de questões pode ser conferido na Tabela 1 abaixo:
+Durante a entrevista, adotamos uma abordagem estruturada, fundamentada em um conjunto predefinido de perguntas, usando a técnica do 5W2H (What, Why, Where, When, Who, How, How much), listadas na Tabela 1. Esse método possibilitou uma análise aprofundada do entendimento dos stakeholders em relação aos tópicos abordados. Ademais, optamos por utilizar perguntas abertas, oferecendo aos entrevistados a liberdade de expressar suas opiniões, compartilhar experiências e fornecer sugestões. 
+Além disso, foram utilizadas as abordagens adotadas pelo projeto e-Título como material de apresentação de apoio, assim como a estrutura para o desenvolvimento da entrevista.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Roteiro de questões para as entrevistas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Roteiro de perguntas para as entrevistas</p></font>
 <table>
   <thead>
     <tr>
@@ -30,7 +26,7 @@
     <tr>
       <td>What (O que):</td>
       <td>
-        1.Qual é o principal objetivo ao utilizar o aplicativo Meu INSS?<br>
+        1. Qual é o principal objetivo ao utilizar o aplicativo Meu INSS?<br>
         2. Quais recursos do aplicativo você mais utiliza com frequência? <br> 
         3. Quais serviços específicos do INSS você busca realizar por meio do aplicativo? 
       </td>
@@ -82,50 +78,16 @@
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
 </div>
 
-#### 2. Procura de potenciais entrevistados
-  O critério de busca por potenciais entevistados foi por meio de conhecidos do grupo que já haviam utilizado o aplicativo com certeza e mantém 
-  até hoje alguma frequência de uso. Para isso, foram escolhidos 2 usuários do app Meu INSS. Os dados demográficos dos entrevistados podem ser conferidos na Tabela 2 abaixo:
+## Estruturação da entrevista
 
-  <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Roteiro de perguntas para as entrevistas</p></font>
-<table>
-  <thead>
-    <tr>
-      <th>Entrevistados</th>
-      <th>Idade</th>
-      <th>Gênero</th>
-      <th>Escolaridade</th>
-      <th>Ocupação</th>
-      <th>Estado Civil</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Maria Eliane Alves Campos</td>
-      <td>?</td>
-      <td>Feminino</td>
-      <td>Ensino superior completo e com Pós-graduação</td>
-      <td>Professora e Advogada</td>
-      <td>?</td>
-    </tr>
-    <tr>
-      <td>Neysa mendes Rossi de Borba</td>
-      <td>53</td>
-      <td>Feminino</td>
-      <td>Ensino superior completo</td>
-      <td>Aposentada</td>
-      <td>Casada</td>
-    </tr>
-     </tbody>
-</table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
-</div>
+A condução eficaz de uma entrevista demanda uma cuidadosa estruturação do processo. Para isso, O roteiro foi desenvolvido com base em princípios metodológicos consolidados e adaptado às particularidades do contexto da pesquisa, como descrito pelo Guia facetado de técnicas elicitação de requisitos.
 
-#### 3. Realizar entrevistas e registrar respostas
- As entrevistas foram realizadas pela ferramenta Teams, gravadas com consentimento assinado do entrevistado e posteriormente documentadas. O Cronograma das entrevistas pode ser conferido na Tabela 3 abaixo, assim como os termos de consentimento:
+### 1. Cronograma de entrevistas
 
- <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Cronograma das entrevistas</p></font>
+Inicialmente, foram identificados potenciais candidatos que correspondessem ao [Perfil do usuário](personas.md) para participação na entrevista. Após o convite e confirmação dos entrevistados, organizamos o cronograma das entrevistas, detalhado na Tabela 2.
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cronograma das entrevistas</p></font>
+
 <table>
   <thead>
     <tr>
@@ -139,7 +101,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Entrevista 1</td>
+      <td>Entrevista 01</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a></td>
       <td>09/04</td>
       <td>22:00</td>
@@ -147,28 +109,85 @@
       <td>Pelo Teams</td>
     </tr>
     <tr>
-      <td>Entrevista 2</td>
+      <td>Entrevista 02</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a></td>
       <td>10/04</td>
       <td>20:00</td>
-      <td>Neysa mendes Rossi de Borba</td>
+      <td>Neysa Mendes Rossi de Borba</td>
       <td>Pelo Teams</td>
     </tr>
-  </tbody>
-</table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+    </tbody>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
 </div>
 
-<details>
-  <summary>Termo de consentimento Maria Eliane Alves Campos</summary>
-  <p align="center" > <strong> Figura 1:</Strong> Rich Picture Jitsi Meet</font> <gitbr></p>
-  <embed src="..\..\imagens\termos_consentimento\tc_neysa.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, 2024</p></font>
-</details>
+### 2. Materiais de apoio
 
-<details>
- <p> Tabela 5: Perguntas realizadas na entrevista 1 </p>
-   <summary>[Respostas] Maria Eliane Alves Campos</summary>
+ - Utilizamos um [slide de apresentação](https://www.canva.com/design/DAGB2hD6QRE/5G4JJHLFHVfifDPMHEK1oA/view?utm_content=DAGB2hD6QRE&utm_campaign=designshare&utm_medium=link&utm_source=editor) para aprimorar a condução da entrevista, especialmente considerando que foi realizada remotamente. Essa abordagem não apenas tornou a entrevista mais organizada, mas também proporcionou uma apresentação mais clara e envolvente.
+ - Disponibilizamos um documento contendo o [Termo de Consentimento](https://docs.google.com/document/d/1-9clNfHVrAQ4EIl-t1aBRplU4VCoGgPeesqrBWo0SEU/edit?usp=sharing) para garantir que os entrevistados estejam plenamente cientes dos procedimentos envolvidos na entrevista. 
+
+### 3. Condução da entrevista
+
+1. **Apresentação:**  A entrevista teve início com a apresentação dos entrevistadores e do entrevistado, seguida pela coleta dos dados demográficos conforme listados na tabela 3. Nesta etapa, foram fornecidas informações aos entrevistados sobre a duração da entrevista, sua finalidade e o uso que seria feito das respostas coletadas.
+
+    <div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Dados demográficos dos entrevistados </p></font>
+    <table>
+      <thead>
+        <tr>
+          <th>Entrevistados</th>
+          <th>Idade</th>
+          <th>Gênero</th>
+          <th>Escolaridade</th>
+          <th>Ocupação</th>
+          <th>Estado Civil</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Maria Eliane Alves Campos</td>
+          <td>48 anos e 2 meses</td>
+          <td>Feminino</td>
+          <td>Ensino superior Completo e 2 especializações</td>
+          <td>Professora e Advogada</td>
+          <td>Solteira</td>
+        </tr>
+        <tr>
+          <td>Neysa Mendes Rossi de Borba</td>
+          <td>53 anos e 4 meses</td>
+          <td>Feminino</td>
+          <td>Ensino superior Completo</td>
+          <td>Professora aposentada</td>
+          <td>Casada</td>
+        </tr>
+        </tbody>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+    </div>
+
+2.  **Leitura do termo de consentimento:** Um dos entrevistadores solicitou que o entrevistado lesse em voz alta o termo de consentimento. Em caso de concordância, o entrevistado responderia positivamente; caso contrário, os dados demográficos não seriam coletados para esse entrevistado específico. 
+Após a confirmação, o termo foi enviado por e-mail para que o entrevistado pudesse assiná-lo. As figuras 1 e 2 apresentam os termos assinados.
+
+    <details>
+      <summary>Termo de consentimento Maria Eliane Alves Campos</summary>
+      <p align="center" > <strong> Figura 1:</Strong> Termo de consentimento Maria Eliane Alves Campos</font> <gitbr></p>
+      <embed src="..\..\imagens\termos_consentimento\tc_neysa.pdf" width="100%" height="500px" />
+      <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font> 
+    </details>
+
+    <details>
+      <summary>Termo de consentimento Neysa mendes Rossi de Borba</summary>
+    <p align="center" > <strong> Figura 2:</Strong> Termo de consentimento Neysa mendes Rossi de Borba</font> <gitbr></p>
+      <embed src="..\..\imagens\termos_consentimento\tc_maria.pdf" width="100%" height="500px" />
+      <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+    </details>
+
+3. **Execução das perguntas e documentação das respostas:** Durante a entrevista, o primeiro entrevistador conduziu a realização das perguntas, enquanto o segundo entrevistador ficou responsável por documentar as respostas fornecidas pelo entrevistado. Essa abordagem permitiu uma divisão clara de tarefas, garantindo uma execução eficiente e organizada do processo. Enquanto o primeiro entrevistador se concentrava em fazer as perguntas de forma clara e objetiva, o segundo entrevistador registrava cuidadosamente as respostas para posterior análise e documentação. Essa divisão de papéis contribuiu para manter o fluxo da entrevista e garantir a precisão na documentação das informações obtidas.
+
+
+  <details>
+      <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Respostas coletadas da entrevistada Maria Eliane Alves Campos </p></font>
+      <summary>Respostas coletadas: Maria Eliane Alves Campos </summary>
    <table>
       <thead>
          <tr>
@@ -242,21 +261,15 @@
          </tr>
       </tbody>
    </table>
-    <div style="text-align: center">
-      <p>Fonte:  Campos, Maria. 2024.</p>
-   </div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a>, 2024.</p></font>
+    </details>
+  <p style=" text-align: justify">
+  </p>
 </details>
 
-<details>
-  <summary>[Termo de consentimento] Neysa mendes Rossi de Borba</summary>
-  <p align="center" > <strong> Figura 1:</Strong> Rich Picture Jitsi Meet</font> <gitbr></p>
-  <embed src="..\..\imagens\termos_consentimento\tc_maria.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, 2024</p></font>
-</details>
-
-<details>
- <p> Tabela 5: Perguntas realizadas na entrevista 2 </p>
-   <summary>[Respostas] Neysa mendes Rossi de Borba</summary>
+  <details>
+      <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Respostas coletadas da entrevistada Neysa Mendes Rossi de Borba</p></font>
+      <summary>Respostas coletadas: Neysa Mendes Rossi de Borba </summary>
    <table>
       <thead>
          <tr>
@@ -330,23 +343,17 @@
          </tr>
       </tbody>
    </table>
-    <div style="text-align: center">
-      <p>Fonte:  Rossi, Neysa. 2024.</p>
-   </div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b><a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
 </details>
 
 
-
-#### 4. Finalização
-   
-  Ao final, enviamos o documento com as repostas do entrevistado para confirmação, método sugerido por Vazquez e Simões, (2016, p. 175). 
+4. **Encerramento e agradecimento:** Ao final da entrevista, os entrevistadores conduziram o encerramento agradecendo cordialmente ao entrevistado pela sua participação e contribuição. Esse momento foi crucial para expressar gratidão pela disponibilidade e colaboração do entrevistado, destacando a importância do seu envolvimento para o sucesso do projeto. Além disso, os entrevistadores aproveitaram para reforçar o propósito da pesquisa e a relevância das informações fornecidas pelo entrevistado.
 
 
 
+## Entrevista Maria Eliane Alves Campos
 
-## Entrevista 01
-
-No vídeo abaixo ecnontra-se a gravação da entrevista 01.
+No vídeo abaixo econtra-se a gravação da entrevista da Maria Eliane Alves Campos.
 
 <div align="center">
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=jfJ9akhwQT8" target="blanket"><b>Entrevista 01:</b> Maria Eliane Alves Campos</a></p>
@@ -356,9 +363,9 @@ No vídeo abaixo ecnontra-se a gravação da entrevista 01.
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
 </div >
 
-## Entrevista 02
+## Entrevista Neysa Mendes Rossi de Borba
 
-No vídeo abaixo ecnontra-se a gravação da entrevista 02.
+No vídeo abaixo encontra-se a gravação da entrevista da Neysa Mendes Rossi de Borba.
 
 <div align="center">
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=-N-xyzFcEpk" target="blanket"><b>Entrevista 02:</b> Neysa mendes Rossi de Borba</a></p>
