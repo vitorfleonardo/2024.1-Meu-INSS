@@ -10,7 +10,7 @@ A aplicação da técnica é dividida em duas fases:
 - Fase de evolução, onde as ideias coletadas são discutidas.
 
 ## Metodologia
-O brainstorming foi realizado em formato de reunião e contou com a presença de todos os membros do grupo, sendo o moderador [Paulo Barbosa](https://github.com/paulohborba) e o secretário [Johnny Lopes](https://github.com/JohnnyLopess)
+O brainstorming foi realizado em formato de reunião e contou com a presença de todos os membros do grupo, sendo o moderador [Paulo Borba](https://github.com/paulohborba) e o secretário [Johnny Lopes](https://github.com/JohnnyLopess)
 , nessa reunião foram realizadas 10 perguntas no total, com 2 minutos para elaborar as respostas e 1 minuto para discutir essas mesmas respostas, podendo existir alterações nos tempos estabelecidos previamente. Após essa reunião o moderador e o secretário analisaram essas respostas e com base nelas felicitaram os requisitos presentes na tabela 12. Utilizamos como base o livro Interação humano-computador e experiência de usuário <a id="TEC2" href="#RP2">[2]</a>, onde utilizamos as regras e a metodologia presentes no livro, fizemos algumas alterações necessárias para uma melhor adequação ao nosso projeto e grupo, como a utilização de perguntas e um tempo de duração reduzido.
 
 ### Participantes
@@ -281,7 +281,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 7 -</strong> Respostas da pergunta 6 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Barbosa</a>, 2024.</p>
+<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -323,7 +323,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 8 -</strong> Respostas da pergunta 7 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Barbosa</a>, 2024.</p>
+<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -365,7 +365,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 9 -</strong> Respostas da pergunta 8 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Barbosa</a>, 2024.</p>
+<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -407,7 +407,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 10 -</strong> Respostas da pergunta 9 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Barbosa</a>, 2024.</p>
+<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -449,7 +449,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 11 -</strong> Respostas da pergunta 10 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Barbosa</a>, 2024.</p>
+<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -469,42 +469,41 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 
 | Identificador | Requisito                                                                                                     | Implementação |
 |---------------|---------------------------------------------------------------------------------------------------------------|---------------|
-| BS01          | O usuário deve realizar o login com o acesso unificado do gov.br.                                              |        Sim           |
+| BS01          | O usuário deve realizar o login com o acesso unificado do gov.br.                                              |  Sim           |
 | BS02          | O usuário deve receber um termo de uso em seu primeiro acesso.                                                 |        Não |
 | BS03          | O usuário deve ter acesso a documentos legislativos.                                                           |        Não|
-| BS04          | O usuário deve ter um meio de resolver suas dúvidas.                                                           |        Sim      |
-| BS05          | O usuário deve conseguir acessar tutoriais para a compreensão e melhor uso do aplicativo.                      |        Não         |
-| BS06          | O usuário deve ser capaz de agendar um horário em uma agência.                                                 |        Não      |
+| BS04          | O usuário deve ter um meio de resolver suas dúvidas.                                                           |       Sim      |
+| BS05          | O usuário deve conseguir acessar tutoriais para a compreensão e melhor uso do aplicativo.                      |    Não         |
+| BS06          | O usuário deve ser capaz de agendar um horário em uma agência.                                                 |       Sim      |
 | BS07          | O usuário deve ser capaz de consultar seus benefícios.                                                         |        Sim    |
 | BS08          | O usuário deve conseguir simular sua aposentadoria.                                                            |        Sim    |
 | BS09          | O usuário deve ser capaz de checar o extrato referente ao dinheiro da aposentadoria.                           |        Sim   |
 | BS10          | O aplicativo deve permitir o acesso dos usuários através de autenticação biométrica, como impressão digital.   |        Sim     |
-| BS11          | Os usuários devem poder acessar detalhes sobre aposentadoria e outros benefícios sociais, incluindo extratos do CNIS. | Sim         |
-| BS12          | O aplicativo deve oferecer funcionalidades para simulação de cálculos de aposentadoria e benefícios.           |        Sim        |
-| BS13          | Implementar tutoriais interativos e guiados para auxiliar novos usuários no uso do aplicativo.                 |        Não     |
-| BS14          | Disponibilizar um sistema de suporte ao usuário operado por inteligência artificial.                           |        Não   |
-| BS15          | Desenvolver um processo de onboarding personalizado que se adapte ao nível de habilidade tecnológica do usuário.|       Não     |
+| BS11          | Os usuários devem poder acessar detalhes sobre aposentadoria e outros benefícios sociais, incluindo extratos do CNIS | Sim         |
+| BS12          | O aplicativo deve oferecer funcionalidades para simulação de cálculos de aposentadoria e benefícios.           |     Sim        |
+| BS13          | O aplicativo deve disponibilizar um sistema de suporte ao usuário operado por inteligência artificial.                |        Não     |
+| BS14          | O aplicativo deve possuir um processo de onboarding personalizado que se adapte ao nível de habilidade tecnológica do usuário.                           |        Não   |
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Barbosa</a>, 2024.</p>
+<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 
 ### Requisitos não Funcionais
 <p align="center" > <strong> Tabela 13 - </Strong> Elicitação dos requisitos não Funcionais</font> <gitbr></p>
 
 | Identificador | Requisito                                                                                                     | Implementação |
 |---------------|---------------------------------------------------------------------------------------------------------------|---------------|
-| BS16          | O aplicativo deve ser capaz de funcionar em diversos aparelhos.                                                |      Sim         |
-| BS17          | O aplicativo deve possuir funcionalidades com nomes referentes a deveres ou obrigações.                        |               |
-| BS18          | O aplicativo deve notificar agendamentos próximos.                                                             |       Não        |
-| BS19          | O aplicativo deve possuir abas mais organizadas para permitir uma navegação mais fácil e intuitiva.            |        Não       |
-| BS20          | O aplicativo deve criar uma fila digital referente aos agendamentos.                                           |       Não        |
-| BS21          | O aplicativo deve possuir ferramentas de acessibilidade como navegação guiada, alto contraste, comando por voz e possibilidade de aumentar a fonte.|Não|
-| BS22          | O aplicativo deve ter integração com outros serviços do governo.                                               |     Sim          |
-| BS23          | O aplicativo deve permitir outras formas de acesso como profissionais do legislativo para o acompanhamento facilitado de documentos e processos.|    Não           |
-| BS24          | Proteção de dados dos usuários através de criptografia e conformidade com a LGPD.                               |      Sim         |
-| BS25          | O aplicativo deve ser compatível com as principais plataformas móveis como iOS e Android.                      |        Sim       |
-| BS26          | O aplicativo deve oferecer suporte em vários idiomas, especialmente português.                                 |         Não      |
+| BS15          | O aplicativo deve ser capaz de funcionar em diversos aparelhos.                                                |      Sim         |
+| BS16          | O aplicativo deve possuir funcionalidades com nomes referentes a deveres ou obrigações.                        |               |
+| BS17          | O aplicativo deve notificar agendamentos próximos.                                                             |       Não        |
+| BS18          | O aplicativo deve possuir abas mais organizadas para permitir uma navegação mais fácil e intuitiva.            |        Não       |
+| BS19          | O aplicativo deve criar uma fila digital referente aos agendamentos.                                           |       Não        |
+| BS20          | O aplicativo deve possuir ferramentas de acessibilidade como navegação guiada, alto contraste, comando por voz e possibilidade de aumentar a fonte.|Não|
+| BS21          | O aplicativo deve ter integração com outros serviços do governo.                                               |     Sim          |
+| BS22          | O aplicativo deve permitir outras formas de acesso como profissionais do legislativo para o acompanhamento facilitado de documentos e processos.|    Não           |
+| BS23          | Proteção de dados dos usuários através de criptografia e conformidade com a LGPD.                               |      Sim         |
+| BS24          | O aplicativo deve ser compatível com as principais plataformas móveis como iOS e Android.                      |        Sim       |
+| BS25          | O aplicativo deve oferecer suporte em vários idiomas, especialmente português.                                 |         Não      |
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Barbosa</a>, 2024.</p>
+<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 
 
 ## Gravação
@@ -536,5 +535,6 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/04/2024  | Versão inicial da pagina de Brainstorm. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| || 
-| `1.1` | 11/04/2024  | Adicionando o conteúdo da página de Brainstorm. | [Paulo Barbosa](https://github.com/paulohborba) |12/04/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
+| `1.1` | 11/04/2024  | Adicionando o conteúdo da página de Brainstorm. | [Paulo Borba](https://github.com/paulohborba) |12/04/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
 | `1.2` | 12/04/2024  | Adicionando as perguntas e as respostas. | [Johnny Lopes](https://github.com/JohnnyLopess) |||
+| `1.3` | 12/04/2024  | Complementando informações. | [Paulo Borba](https://github.com/paulohborba) |||
