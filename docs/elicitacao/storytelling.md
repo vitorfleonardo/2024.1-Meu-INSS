@@ -2,12 +2,32 @@
 
 ## Introdução
 
+A técnica para a elicitação de requisitos, Storytelling, se baseia em uma narrativa de histórias que visam capturar as necessidades, os desejos e as motivações dos usuários de uma forma mais autêntica e profunda, o que 
+acaba sendo refletido em produtos mais inovadores e de sucesso. Através do desenvolvimento dessas narrativas, podemos citar alguns benefícios que esta téctica fornece, tais como:
+* Engajar os stakeholders.
+* Obter uma visão holística das necessidades dos usuários.
+* Revelação de novas ideias.
+* Uma maneira mais eficaz de realizar a comunicação.
+* Refinamento e contextualização dos requisitos.
+
 ## Metodologia
+
 Utilizamos as [Personas](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/personas/) e as informações delas criadas anteriormente pela [Amanda Campos](https://github.com/acamposs) e [Bianca Castro](https://github.com/BiancaPatrocinio7), para a elaboração das histórias e contexto, e depois fizemos uma lista contendo todos os requisitos elicitados nesse artefato.
 
 ## Storytelling
 
 ### História 1
+
+Elisa Silva é uma aposentada que trabalhou a vida toda com o serviço público, possui 63 anos e é viúva. Ela possui apenas um filho, mas este se encontra morando em outra cidade, por conta disso, ela acaba sentindo
+bastante falta do contato físico com sua família. Elisa possui uma rotina saudável, costuma realizar caminhadas no período da manhã e sempre prioriza uma alimentação saudável, baseada em alimentos frescos, sempre 
+comprados semanalmente.
+
+Como uma senhora aposentada, Elisa costuma utilizar o aplicativo Meu INSS para fazer o gerenciamento da sua aposentadoria - verificar os extratos de pagamento e os comprovantes de rendimentos. 
+
+Mas por se tratar de uma senhora que não possui muita afinidade com a tecnologia, e por não possuir um familiar próximo que possa estar auxiliando ela em seus processos, Elisa deseja que o aplicativo do Meu INSS 
+seja o mais simples e acessíevl possível para se utilizar, possuindo uma interface clara e instruções simples para orientá-la em suas tarefas do cotidiano, além disso, ela espera que o aplicativo rode tanto em 
+celulares como em computadores, para facilitar seus afazeres cotidianos, e é extremamente importante para a Elisa que o aplicativo forneça suporte para diversos idioams, incluindo o Português, para ajudar na 
+interação com o sistema.
 
 ### História 2
 
@@ -61,6 +81,7 @@ Para Julyana, cada caso é único e ela se empenha em oferecer um serviço de qu
     </tr>
         <tr>
       <td>ST00</td>
+      <td>RF</td>
       <td>O formulário deve incluir campos para descrição do acidente, data do acidente, e anexos de documentos médicos.</td>
     </tr>
         <tr>
@@ -119,14 +140,31 @@ Para Julyana, cada caso é único e ela se empenha em oferecer um serviço de qu
       <td>RNF</td>
       <td>O aplicativo deve permitir outras formas de acesso como profissionais do legislativo para o acompanhamento facilitado de documentos e processos.</td>
     </tr>
+        <tr>
+      <td>ST00</td>
+      <td>RF</td>
+      <td>O sistema deve possui suporte para os principais idiomas existentes, principalmente o Português.</td>
+    </tr>
+        <tr>
+      <td>ST00</td>
+      <td>RNF</td>
+      <td>O sistema deve ser acessível tanto por meio de celulares quanto por meio de computadores.</td>
+    </tr>
+        <tr>
+      <td>ST00</td>
+      <td>RF</td>
+      <td>O aplicativo deve oferecer informações sempre atualizadas referente aos benefícios previdenciários e os extratos de pagamentos.</td>
+    </tr>    
   </tbody>
 </table>
 
 ## Referências Bibliográficas
 
->[1] Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH. Disponível em: https://revistas.unibh.br/dtec/article/view/440. 
+>[1] Sommerville, I., Engenharia de software, 10ª ed., Editora Pearson, 2016.
+
+>[2] Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH. Disponível em: https://revistas.unibh.br/dtec/article/view/440. 
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 11/04/2024  | Versão inicial da pagina de Storytelling | [Paulo Borba](https://github.com/paulohborba)| | 
+| `1.0` | 11/04/2024  | Versão inicial da pagina de Storytelling | [Paulo Borba](https://github.com/paulohborba) & [Gabriel Souza](https://github.com/GabrielMS00)| |
