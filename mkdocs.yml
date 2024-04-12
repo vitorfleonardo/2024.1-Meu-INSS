@@ -26,7 +26,11 @@ nav:
     - Elicitação:
         - Personas: "elicitacao/personas.md"
         - Brainstorm: "elicitacao/brainStorm.md"
+<<<<<<< HEAD
         
+=======
+        - Entrevisa: "elicitacao/entrevista.md"
+>>>>>>> 7ce806731c01ad64a5d897a579002a87c4d07a8e
 
     
 theme:

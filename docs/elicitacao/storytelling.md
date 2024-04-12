@@ -56,105 +56,124 @@ Para Julyana, cada caso é único e ela se empenha em oferecer um serviço de qu
       <th>Identificador</th>
       <th>Tipo</th>
       <th>Requisito</th>
+      <th>Implementação</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td>O usuário deve realizar o login com o acesso unificado do gov.br.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td>O sistema deve oferecer uma opção de recuperação de senha para usuários que a esquecerem.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td>O aplicativo deve apresentar uma interface clara e fácil de usar, especialmente para usuários que não são frequentes ou que possam ter limitações físicas.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td> O usuário deve conseguir solicitar auxílio-acidente através de um formulário específico.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td>O formulário deve incluir campos para descrição do acidente, data do acidente, e anexos de documentos médicos.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td>O usuário deve ser capaz de verificar o status de suas solicitações de auxílio.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td>O sistema deve oferecer suporte direto, como um chat ao vivo ou uma linha direta, para assistência imediata.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td>O sistema deve permitir que um advogado acesse os processos dos seus clientes com a autorização destes.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td>O sistema deve permitir que um advogado solicite documentos necessários ao processo diretamente ao sistema.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td>O sistema deve possuir uma funcionalidade onde o advogado possa fornecer documentos.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RNF</td>
-      <td>
-    O sistema deve notificar o usuário sobre atualizações importantes em suas solicitações via notificações no aplicativo ou por email.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RNF</td>
-      <td>O design do aplicativo deve ser acessível, com fontes legíveis e botões grandes, considerando usuários com dificuldades físicas como a tendinite.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RNF</td>
-      <td>O aplicativo deve ser compatível com as principais plataformas móveis.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RNF</td>
-      <td>O aplicativo deve possuir um sistema de segurança que permita que os dados sejam armazenados sem riscos.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RNF</td>
-      <td>O aplicativo deve ser capaz de interagir com outros sistemas governamentais.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RNF</td>
-      <td>O aplicativo deve permitir outras formas de acesso como profissionais do legislativo para o acompanhamento facilitado de documentos e processos.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RF</td>
-      <td>O sistema deve possui suporte para os principais idiomas existentes, principalmente o Português.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
-      <td>RNF</td>
-      <td>O sistema deve ser acessível tanto por meio de celulares quanto por meio de computadores.</td>
-    </tr>
-        <tr>
-      <td>ST00</td>
+      <td>ST01</td>
       <td>RF</td>
       <td>O aplicativo deve oferecer informações sempre atualizadas referente aos benefícios previdenciários e os extratos de pagamentos.</td>
-    </tr>    
+      <td>Sim</td>
+    </tr>   
+    <tr>
+      <td>ST02</td>
+      <td>RF</td>
+      <td>O usuário deve realizar o login com o acesso unificado do gov.br.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST03</td>
+      <td>RF</td>
+      <td>O sistema deve oferecer uma opção de recuperação de senha para usuários que a esquecerem.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST04</td>
+      <td>RF</td>
+      <td>O aplicativo deve apresentar uma interface clara e fácil de usar, especialmente para usuários que não são frequentes ou que possam ter limitações físicas.</td>
+      <td>Não</td>
+    </tr>
+        <tr>
+      <td>ST05</td>
+      <td>RF</td>
+      <td> O usuário deve conseguir solicitar auxílio-acidente através de um formulário específico.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST06</td>
+      <td>RF</td>
+      <td>O formulário deve incluir campos para descrição do acidente, data do acidente, e anexos de documentos médicos.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST07</td>
+      <td>RF</td>
+      <td>O usuário deve ser capaz de verificar o status de suas solicitações de auxílio.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST08</td>
+      <td>RF</td>
+      <td>O sistema deve oferecer suporte direto, como um chat ao vivo ou uma linha direta, para assistência imediata.</td>
+      <td>Não</td>
+    </tr>
+        <tr>
+      <td>ST09</td>
+      <td>RF</td>
+      <td>O sistema deve permitir que um advogado acesse os processos dos seus clientes com a autorização destes.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST10</td>
+      <td>RF</td>
+      <td>O sistema deve permitir que um advogado solicite documentos necessários ao processo diretamente ao sistema.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST11</td>
+      <td>RF</td>
+      <td>O sistema deve possuir uma funcionalidade onde o advogado possa fornecer documentos.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST12</td>
+      <td>RNF</td>
+      <td>O sistema deve notificar o usuário sobre atualizações importantes em suas solicitações via notificações no aplicativo ou por email.</td>
+    <td>Não</td>
+    </tr>
+        <tr>
+      <td>ST13</td>
+      <td>RNF</td>
+      <td>O design do aplicativo deve ser acessível, com fontes legíveis e botões grandes, considerando usuários com dificuldades físicas como a tendinite.</td>
+      <td>Não</td>
+    </tr>
+        <tr>
+      <td>ST14</td>
+      <td>RNF</td>
+      <td>O aplicativo deve ser compatível com as principais plataformas móveis.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST15</td>
+      <td>RNF</td>
+      <td>O aplicativo deve possuir um sistema de segurança que permita que os dados sejam armazenados sem riscos.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST16</td>
+      <td>RNF</td>
+      <td>O aplicativo deve ser capaz de interagir com outros sistemas governamentais.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST17</td>
+      <td>RNF</td>
+      <td>O aplicativo deve permitir outras formas de acesso como profissionais do legislativo para o acompanhamento facilitado de documentos e processos.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST17</td>
+      <td>RNF</td>
+      <td>O sistema deve possuir suporte para os principais idiomas existentes, principalmente o Português.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST19</td>
+      <td>RNF</td>
+      <td>O sistema deve ser acessível tanto por meio de celulares quanto por meio de computadores.</td>
+      <td>Sim</td>
+    </tr> 
   </tbody>
 </table>
 
@@ -168,3 +187,4 @@ Para Julyana, cada caso é único e ela se empenha em oferecer um serviço de qu
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 11/04/2024  | Versão inicial da pagina de Storytelling | [Paulo Borba](https://github.com/paulohborba) & [Gabriel Souza](https://github.com/GabrielMS00)| |
+| `1.1` | 12/04/2024  | Complementando informações da pagina de Storytelling | [Paulo Borba](https://github.com/paulohborba) | |
