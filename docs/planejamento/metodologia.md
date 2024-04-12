@@ -21,10 +21,14 @@ uma vez que o projeto pode ser adaptado ao decorrer do tempo, de acordo com as n
 <p align="center" > <font>Fonte: <a href="https://pt.linkedin.com/pulse/um-resumo-de-tudo-que-voc%C3%AA-precisa-saber-sobre-o-scrum-netto" target="_blanck">LinkedIn - Resumo sobre Scrum</a>, 2024 </font> <br></p>
 
 Podemos destacar como os principais benefícios deste método:
-* Maior rapidez no desenvolvimento do projeto
-* Melhor qualidade do produto final
-* Aumento da satisfação do cliente
-* Maior produtividade da equipe
+
+- Maior rapidez no desenvolvimento do projeto
+
+- Melhor qualidade do produto final
+
+- Aumento da satisfação do cliente
+
+- Maior produtividade da equipe
 
 ### Glossário:
 - **_Issue_**:  termo geralmente utilizado em sistemas de rastreamento de problemas ou projetos para descrever uma tarefa, problema, melhoria ou trabalho a ser realizado no contexto de um projeto;
