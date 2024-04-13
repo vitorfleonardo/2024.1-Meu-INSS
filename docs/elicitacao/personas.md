@@ -94,7 +94,7 @@ A metodologia para criar personas envolve um processo estruturado de coleta, an�
 | **Requisitos**: Acompanhar processos, soliticar processos e entrar com recursos.                                                                                                                                                      |
 | **Tarefas**: Julyana é especialista em leis do INSS, logo tem experiência com o aplicativo, contudo existem processos que somente o cliente tem acesso, então uma de suas tarefas é dar suporte.                                                                                                                   |
 
-<font size="3"><p style="text-align: center">[Bianca Castro](https://github.com/BiancaPatrocinio7).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</p></font>
 
 <font size="3"><p style="text-align: center">**Tabela 5** - Antipersona Enzo Fernandes    </p></font>
 
@@ -113,7 +113,7 @@ A metodologia para criar personas envolve um processo estruturado de coleta, an�
 | **Requisitos**: Enzo espera ter suporte técinico, ter respostas do sistema e que não seja tranquilo fazer o login.                                                                                   |
 | **Tarefas**: Geralmente o Enzo passa grande parte do seu tempo estudando ou realizando as suas tarefas de casa, como passa muito tempo com o seu avô já usou umas 3 vezes o aplicativo, mas ele geralmente não mantém o aplicativo instalado no celular.           |
 
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</p></font>
 
 ## Referências Bibliográficas
 

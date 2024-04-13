@@ -9,6 +9,8 @@ nav:
         - Apresentação 1: "apresentacao/apresentacao01.md"
     - Atas: 
         - Ata 01: "atas/Ata1-24.03.2024.md"
+        - Ata 02: "atas/Ata2-31.03.2024.md"
+        - Ata 03: "atas/Ata3-07.04.2024.md"
     - Planejamento:
         - Termo de Abertura de Projeto: "planejamento/tap.md"
         - EAP: "planejamento/EAP.md"
@@ -18,10 +20,13 @@ nav:
         - Aplicativo escolhido: "planejamento/aplicativo_avaliados.md"
         - Termos de uso: "planejamento/copia_termo_de_uso.md"
         - Ferramentas: "planejamento/ferramentas.md"
+        - Metodologia: "planejamento/metodologia.md"
     - Pré-Rastreabilidade: 
         - Rich Picture: "pre-rastreabilidade/rich_picture.md"
     - Elicitação:
         - Personas: "elicitacao/personas.md"
+        - Brainstorming: "elicitacao/brainStorm.md"
+        - Introspecção: "elicitacao/Introspeccao.md"
 
     
 theme:
