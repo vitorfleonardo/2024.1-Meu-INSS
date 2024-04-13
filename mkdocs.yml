@@ -25,8 +25,8 @@ nav:
         - Rich Picture: "pre-rastreabilidade/rich_picture.md"
     - Elicitação:
         - Personas: "elicitacao/personas.md"
-        - Brainstorm: "elicitacao/brainStorm.md"
-        - Entrevisa: "elicitacao/entrevista.md"
+        - Brainstorming: "elicitacao/brainStorm.md"
+        - Introspecção: "elicitacao/Introspeccao.md"
 
     
 theme:
