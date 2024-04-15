@@ -1,5 +1,5 @@
 # Termos de uso do app Meu INSS
-* É importante salientar que por se tratar de um aplicativo do governo, o termo de uso é o mesmo utilizado pelo [gov.br](https://www.gov.br/pt-br).
+* É importante salientar que por se tratar de um aplicativo do governo, o termo de uso é o mesmo utilizado pelo [Gov.br](https://www.gov.br/pt-br).
 
 ## Termo de uso
 
@@ -28,11 +28,12 @@ h) Perímetro inseguro. <br>
 Em nenhuma hipótese, a Administração Pública Federal será responsável pela instalação no equipamento do usuário ou de terceiros, de códigos maliciosos (vírus, trojans, malware, worm, bot, backdoor, spyware, rootkit, ou
 de quaisquer outros que venham a ser criados), em decorrência da navegação na Internet pelo usuário.
 
-## Fonte
-Gov.br - Termos de uso. Disponível em: [https://www.gov.br/pt-br/termos-de-uso](https://www.gov.br/pt-br/termos-de-uso), Acesso em 28 de mar. 2024.
+## Referências Bibliográficas
+> <a id="QT1" href="#anchor_1">1.</a> Gov.br - Termos de uso. Disponível em: https://www.gov.br/pt-br/termos-de-uso. Acesso em 28 de mar. 2024.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 28/03/2024  | cópia do termo de uso | [Gabriel Souza](https://github.com/GabrielMS00) | 28/03/2024 | [José Souza](https://github.com/JoseFilipi) |
+| `1.1`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
 

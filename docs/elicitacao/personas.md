@@ -2,12 +2,12 @@
 
 ## Introdução
 
-O desenvolvimento de um aplicativo eficaz requer uma compreensão profunda dos usuários que irão interagir com ele. Nesse contexto, as personas desempenham um papel fundamental, permitindo que as equipes de desenvolvimento criem produtos que atendam às necessidades e expectativas de diferentes segmentos de usuários. Este documento tem como objetivo apresentar as personas desenvolvidas para o projeto de elicitação de requisitos do aplicativo Meu INSS, fornecendo insights valiosos sobre os diversos perfis de usuários que serão considerados durante o processo de desenvolvimento.<a id="QT4" href="#anchor_4" >^4^</a> 
-Foi utilizado o repositório da Bilheteria Digital do semestre de 2023.1 como base para esse documento. <a id="QT3" href="#anchor_3">^3^</a>
+O desenvolvimento de um aplicativo eficaz requer uma compreensão profunda dos usuários que irão interagir com ele. Nesse contexto, as personas desempenham um papel fundamental, permitindo que as equipes de desenvolvimento criem produtos que atendam às necessidades e expectativas de diferentes segmentos de usuários. Este documento tem como objetivo apresentar as personas desenvolvidas para o projeto de elicitação de requisitos do aplicativo Meu INSS, fornecendo insights valiosos sobre os diversos perfis de usuários que serão considerados durante o processo de desenvolvimento.[(PIOVESANA, 2024)](#anchor_4)
+Foi utilizado o repositório da Bilheteria Digital do semestre de 2023.1 como base para esse documento.[(MELO, 2023)](#anchor_3)
 
 ## Metodologia
 
-A metodologia para criar personas envolve um processo estruturado de coleta, análise e síntese de dados sobre os usuários reais de um negócio. A seguir, como citado por PIOVESANA (2024), apresentamos um passo a passo básico para a criação de personas:<a id="QT4" href="#anchor_4" >^4^</a>
+A metodologia para criar personas envolve um processo estruturado de coleta, análise e síntese de dados sobre os usuários reais de um negócio. A seguir, como citado por PIOVESANA (2024), apresentamos um passo a passo básico para a criação de personas:[(PIOVESANA, 2024)](#anchor_4)
 
 1. **Coleta de dados sobre os usuários:** Inicialmente, é fundamental reunir informações detalhadas sobre os usuários existentes ou potenciais. Esses dados podem ser obtidos por meio de entrevistas, questionários, aobservação direta do comportamento do usuário, entre outras técnicas de elicitação. É importante utilizar perguntas objetivas que abordem aspectos como idade, gênero, localização, profissão, interesses, comportamentos de compra e desafios enfrentados no dia a dia.
 
@@ -121,7 +121,7 @@ A metodologia para criar personas envolve um processo estruturado de coleta, an�
 
 > <a id="QT2" href="#anchor_2">2.</a> Imagem gerada através da aplicação This Person Doesn't Exist. Disponível em: [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/). Acesso em: 04 de abr. de 2024. 
 
-> <a id="QT3" href="#anchor_3" >3.</a> Repositório usado como referência. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital)
+> <a id="QT3" href="#anchor_3" >3.</a> MELO, A. et al. (2023).1-BilheteriaDigital. Requisitos de Software. GitHub. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital).
 
 > <a id="QT4" href="#anchor_4" >4.</a> PIOVESANA, L. O que é persona? Importância e como criar para a sua empresa. Nuvemshop. Brasil. 2024. Disponível em: [https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/](https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/). Acesso em 04 abr. 2024.
 
@@ -131,6 +131,6 @@ A metodologia para criar personas envolve um processo estruturado de coleta, an�
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 04/04/2024  | Versão inicial da pagina de Personas | [Amanda Campos](https://github.com/acamposs) e [Bianca Castro](https://github.com/BiancaPatrocinio7)| | 
-
+| `1.1`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
 
 

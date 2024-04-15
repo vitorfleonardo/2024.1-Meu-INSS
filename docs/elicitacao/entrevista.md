@@ -542,4 +542,4 @@ Na entrevista 2 encontra-se a gravação da entrevista da Neysa Mendes Rossi de 
 | `1.1` | 11/04/2024  | Preenchimento das informações de introdução, técnica de entrevista, metodologia e resultados e gravação das entrevistas | [Vitor Feijó](https://github.com/vitorfleonardo)  | 11/04/2024 | [Amanda](https://github.com/acamposs) |
 | `1.2` | 11/04/2024  | Alteração da estrutura | [Amanda](https://github.com/acamposs) | 11/04/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
 | `1.3` | 11/04/2024  | Elicitação de requisitos | [Vitor Feijó](https://github.com/vitorfleonardo) | 11/04/2024 | [Amanda](https://github.com/acamposs) |
-
+| `1.4`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |

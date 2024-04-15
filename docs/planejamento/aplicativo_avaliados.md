@@ -1,7 +1,6 @@
 # Aplicativo escolhido
 
 ## Introdução
-
 No âmbito do projeto apresentado na disciplina de Requisitos de Software, os estudantes foram convidados a selecionar um aplicativo para realizar o projeto em questão. Contudo algumas condições essenciais foram estabelecidas, incluido a preferência por um aplicativo do governo e a exigência de que os termos de uso permitissem o uso do aplicativo para fins de estudo. Após analisarmos alguns aplicativos como solicitado em uma atividade proposta pelo professor, escolhemos apenas um desses para trabalharmos nessa disciplina, como já citado antes o Meu INSS.
 
 ## Lista de aplicativos analisados
@@ -26,7 +25,7 @@ No âmbito do projeto apresentado na disciplina de Requisitos de Software, os es
 ## Aplicativos analisados
 
 ### Jitsi Meet
-O Jitsi é um conjunto de projetos de código aberto que permite construir e implantar facilmente soluções seguras de videoconferência. No centro do Jitsi estão o Jitsi Videobridge e o Jitsi Meet, que permitem realizar conferências pela internet, enquanto outros projetos na comunidade possibilitam outras funcionalidades, como áudio, discagem telefônica, gravação e transmissão simultânea.[1]
+O Jitsi é um conjunto de projetos de código aberto que permite construir e implantar facilmente soluções seguras de videoconferência. No centro do Jitsi estão o Jitsi Videobridge e o Jitsi Meet, que permitem realizar conferências pela internet, enquanto outros projetos na comunidade possibilitam outras funcionalidades, como áudio, discagem telefônica, gravação e transmissão simultânea.[(Jitsi Meet)](#anchor_1)
 
 <details>
   <summary>Rich Picture Jitsi Meet</summary>
@@ -37,7 +36,7 @@ O Jitsi é um conjunto de projetos de código aberto que permite construir e imp
 
 
 ### Carteira de Trabalho Digital
-A Carteira de Trabalho Digital é uma ferramenta para o cidadão acompanhar de modo fácil a sua vida laboral, tendo acesso a dados pessoais e aos seus contratos de trabalho que estão registrados na Carteira de Trabalho e Previdência Social.[2]
+A Carteira de Trabalho Digital é uma ferramenta para o cidadão acompanhar de modo fácil a sua vida laboral, tendo acesso a dados pessoais e aos seus contratos de trabalho que estão registrados na Carteira de Trabalho e Previdência Social.[(Carteira de Trabalho Digital)](#anchor_2)
 <details>
   <summary>Rich Picture Carteira de Trabalho Digital</summary>
   <p align="center" > <strong> Figura 2:</Strong> Rich Picture Carteira de Trabalho Digital</font> <gitbr></p>
@@ -47,7 +46,7 @@ A Carteira de Trabalho Digital é uma ferramenta para o cidadão acompanhar de m
 
 ### Receita Federal
 
-O Aplicativo da Receita Federal oferece uma série de recursos e serviços para os contribuintes, permitindo acesso a informações sobre impostos, consulta de situação fiscal, emissão de documentos, entre outros.[3]
+O Aplicativo da Receita Federal oferece uma série de recursos e serviços para os contribuintes, permitindo acesso a informações sobre impostos, consulta de situação fiscal, emissão de documentos, entre outros.[(Receita Federal)](#anchor_3)
 
 <details>
   <summary>Visualizar Aplicativo</summary>
@@ -61,7 +60,7 @@ O Aplicativo da Receita Federal oferece uma série de recursos e serviços para 
 </details>
 
 ### Sinesp cidadão
-O Sinesp Cidadão é um aplicativo que oferece acesso a serviços da Secretaria Nacional de Segurança Pública, permitindo aos usuários verificar veículos roubados, consultar ocorrências policiais, mandados de prisão, pessoas desaparecidas e status de celulares roubados, além de ler QR Codes em placas de veículos.[4]
+O Sinesp Cidadão é um aplicativo que oferece acesso a serviços da Secretaria Nacional de Segurança Pública, permitindo aos usuários verificar veículos roubados, consultar ocorrências policiais, mandados de prisão, pessoas desaparecidas e status de celulares roubados, além de ler QR Codes em placas de veículos.[(Sinesp cidadão)](#anchor_4)
 
 <details>
   <summary>Rich Picture Sinesp Cidadão</summary>
@@ -71,7 +70,7 @@ O Sinesp Cidadão é um aplicativo que oferece acesso a serviços da Secretaria 
 </details>
 
 ### Jellyfin
-O Jellyfin é a solução de mídia construída por voluntários que coloca você no controle de sua mídia. Transmita para qualquer dispositivo a partir do seu próprio servidor. O Jellyfin permite que você colete, gerencie e transmita sua mídia. Execute o servidor Jellyfin em seu sistema e tenha acesso ao principal sistema de entretenimento de software livre, com todos os recursos incluídos.[5]
+O Jellyfin é a solução de mídia construída por voluntários que coloca você no controle de sua mídia. Transmita para qualquer dispositivo a partir do seu próprio servidor. O Jellyfin permite que você colete, gerencie e transmita sua mídia. Execute o servidor Jellyfin em seu sistema e tenha acesso ao principal sistema de entretenimento de software livre, com todos os recursos incluídos.[(Jellyfin)](#anchor_5)
 <details>
   <summary>Rich Picture Jellyfin</summary>
   <p align="center" > <strong> Figura 5:</Strong> Rich Picture Jellyfin</font> <gitbr></p>
@@ -83,7 +82,7 @@ O Jellyfin é a solução de mídia construída por voluntários que coloca voc�
 </details>
 
 ### GIMP
-GIMP é um acrônimo para GNU Image Manipulation Program. É um programa distribuído gratuitamente para tarefas como retoque fotográfico, composição de imagens e autoria de imagens.[6]
+GIMP é um acrônimo para GNU Image Manipulation Program. É um programa distribuído gratuitamente para tarefas como retoque fotográfico, composição de imagens e autoria de imagens.[(GIMP)](#anchor_6)
 <details>
   <summary>Rich Picture GIMP</summary>
   <p align="center" > <strong> Figura 6:</Strong> Rich Picture GIMP</font> <gitbr></p>
@@ -95,7 +94,7 @@ GIMP é um acrônimo para GNU Image Manipulation Program. É um programa distrib
 </details>
 
 ### Meu INSS
-O Meu INSS é um aplicativo que permite utilizar a grande maioria dos serviços prestados pelo INSS.[7]
+O Meu INSS é um aplicativo que permite utilizar a grande maioria dos serviços prestados pelo INSS.[(Meu INSS)](#anchor_7)
 <details>
   <summary>Rich Picture Meu INSS</summary>
   <p align="center" > <strong> Figura 7:</Strong> Rich Picture Meu INSS</font> <gitbr></p>
@@ -114,20 +113,20 @@ O Meu INSS é um aplicativo que permite utilizar a grande maioria dos serviços 
 
 O Meu INSS foi escolhido principalmente pelos dois motivos citados anteriormente, a preferência por um aplicativo do governo e a exigência de que os termos de uso permitissem o uso do aplicativo para fins de estudo, além disso não tinha sido utilizado anteriormente na disciplina. A quantidade de funcionalidades também foi um fator de escolha, pois mostra uma certa complexidade com muitas funcionalidades disponíveis, e não menos importante, o acesso a usuários desse aplicativo permitindo assim que os membros tenham acesso a opniões e informações importantes de quem realmente utiliza esse aplicativo no dia a dia.
 
-## Referências
-[1] Jitsi Meet. Disponível em: [https://jitsi.org/](https://jitsi.org/downloads/). Acesso em: 28 de mar. 2024.
+## Referências Bibliográficas
+> <a id="QT1" href="#anchor_1">1.</a> Jitsi Meet. Disponível em: https://jitsi.org/. Acesso em: 28 de mar. 2024.
 
-[2] Carteira de Trabalho Digital. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US&pli=1](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US&pli=1). Acesso em: 28 de mar. 2024.
+> <a id="QT2" href="#anchor_2">2.</a> Carteira de Trabalho Digital. Disponível em: https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US&pli=1. Acesso em: 28 de mar. 2024.
 
-[3] Receita Federal. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.economia.receita.rfb&hl=pt_BR&gl=US&pli=1](https://play.google.com/store/apps/details?id=br.gov.economia.receita.rfb&hl=pt_BR&gl=US&pli=1). Acesso em: 30 de mar. 2024.
+> <a id="QT3" href="#anchor_3">3.</a> Receita Federal. Disponível em: https://play.google.com/store/apps/details?id=br.gov.economia.receita.rfb&hl=pt_BR&gl=US&pli=1. Acesso em: 30 de mar. 2024.
 
-[4] Sinesp Cidadão. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR&gl=USm](https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR&gl=USm). Acesso em: 28 de mar. 2024.
+> <a id="QT4" href="#anchor_4">4.</a> Sinesp Cidadão. Disponível em: https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR&gl=USm. Acesso em: 28 de mar. 2024.
 
-[5] Jellyfin. Disponível em: [https://jellyfin.org/](https://jellyfin.org/). Acesso em: 28 de mar. 2024.
+> <a id="QT5" href="#anchor_5">5.</a> Jellyfin. Disponível em: https://jellyfin.org/. Acesso em: 28 de mar. 2024.
 
-[6] GIMP. Disponível em: [https://www.gimp.or/](https://www.gimp.org/). Acesso em: 28 de mar. 2024.
+> <a id="QT6" href="#anchor_6">6.</a> GIMP. Disponível em: https://www.gimp.or/. Acesso em: 28 de mar. 2024.
 
-[7] Meu INSS. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US.](https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US). Acesso em: 28 de mar. 2024.
+> <a id="QT7" href="#anchor_7">7.</a> Meu INSS. Disponível em: https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US.. Acesso em: 28 de mar. 2024.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
