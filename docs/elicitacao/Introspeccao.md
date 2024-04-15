@@ -5,7 +5,7 @@ Introspecção é uma técnica muito rica e profunda. Consiste em entender quais
 
 ## Metodologia
 
-Para aplicar esta técnica, os alunos [Johnny Lopes](https://github.com/JohnnyLopess) e [José Souza](https://github.com/JoseFilipi) primeiro assumiram papéis distintos, cada um se colocando em um cenário hipotético onde o uso do aplicativo se fazia necessário. Essa abordagem permitiu que cada um explorasse de forma criativa e detalhada como o aplicativo poderia ser utilizado em contextos diferentes, considerando variadas necessidades e desafios.
+Para aplicar esta técnica, os alunos [Johnny Lopes](https://github.com/JohnnyLopess) e [José Filipi](https://github.com/JoseFilipi) primeiro assumiram papéis distintos, cada um se colocando em um cenário hipotético onde o uso do aplicativo se fazia necessário. Essa abordagem permitiu que cada um explorasse de forma criativa e detalhada como o aplicativo poderia ser utilizado em contextos diferentes, considerando variadas necessidades e desafios.
 
 Durante a introspecção, eles se concentraram em identificar as funcionalidades que o aplicativo deveria possuir para atender efetivamente às situações propostas. A análise desses cenários possibilitou uma compreensão profunda das exigências práticas e das preferências dos usuários em potencial.
 
@@ -17,7 +17,9 @@ Com base nesta análise, foram elicitados requisitos específicos, que foram cui
 
 Para aprimorar a experiência do usuário no aplicativo "Meu INSS", decidi adotar uma abordagem introspectiva e imaginativa, colocando-me na posição de um usuário que deseja acessar serviços e informações oferecidas pelo Instituto Nacional do Seguro Social (INSS) através do aplicativo, sem ter visibilidade direta de suas funcionalidades atuais.
 
-### [José Souza](https://github.com/JoseFilipi)
+### [José Filipi](https://github.com/JoseFilipi)
+
+Visando melhorar a acessibilidade e a experiência do usuário no aplicativo "Meu INSS", optei por uma abordagem introspectiva na posição de um usuário com deficiência que busca acessar os serviços e informações fornecidos pelo Instituto Nacional do Seguro Social (INSS) por meio do aplicativo.
 
 
 ## Lista de Requisitos Elicitados
@@ -43,7 +45,7 @@ Para aprimorar a experiência do usuário no aplicativo "Meu INSS", decidi adota
 |IT06|Deve haver uma funcionalidade para simular o tempo de contribuição e estimar a aposentadoria com base nos dados do usuário.|Sim|
 |IT07|O usuário deve poder atualizar seus dados pessoais, como endereço, telefone e email.|Sim|
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/JoseFilipi">José Souza</a>, 2024.</p>
+<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024.</p>
 
 
 ### Requisitos não Funcionais
@@ -52,14 +54,16 @@ Para aprimorar a experiência do usuário no aplicativo "Meu INSS", decidi adota
 |Identificador|Requisito|Implementação|
 |:--:|:--:|:--:|
 |IT08|O aplicativo deve ser fácil de usar, com uma interface intuitiva que minimize o número de cliques para realizar uma tarefa.|Não|
-|IT09|O aplicativo deve atender às diretrizes de acessibilidade, garantindo acessibilidade a usuários com diferentes capacidades.|Não|
-|IT10|O aplicativo deve garantir a segurança das informações pessoais dos usuários através de criptografia de dados e autenticação robusta.|Sim|
-|IT11|O aplicativo deve responder a comandos do usuário em menos de 3 segundos.|Sim|
-|IT12|O aplicativo deve estar disponível 24 horas por dia, 7 dias por semana, com uma taxa de uptime de 99.9%.|Sim|
+|IT09|Todos os recursos do aplicativo devem ser acessíveis para pessoas com deficiência visual, incluindo leitores de tela compatíveis e suporte para gestos de acessibilidade.|Não|
+|IT10|O aplicativo deve permitir ajustes de contraste e tamanho de fonte para facilitar a leitura por pessoas com deficiências visuais.|Não|
+|IT11|O aplicativo deve ser compatível com tecnologias assistivas, como teclados virtuais, controle por voz e dispositivos de entrada alternativos.|Não|
+|IT12|O aplicativo deve garantir a segurança das informações pessoais dos usuários através de criptografia de dados e autenticação robusta.|Sim|
+|IT13|O aplicativo deve responder a comandos do usuário em menos de 3 segundos.|Sim|
+|IT14|O aplicativo deve estar disponível 24 horas por dia, 7 dias por semana, com uma taxa de uptime de 99.9%.|Sim|
 |IT13|O aplicativo deve ser compatível com as versões mais recentes e anteriores dos sistemas operacionais iOS e Android.|Sim|
-|IT14|O aplicativo deve oferecer suporte em português e, opcionalmente, em inglês e espanhol.|Não|
+|IT15|O aplicativo deve oferecer suporte em português e, opcionalmente, em inglês e espanhol.|Não|
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/JoseFilipi">José Souza</a>, 2024.</p>
+<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024.</p>
 
 ## Referências Bibliográficas
 
@@ -72,5 +76,6 @@ Para aprimorar a experiência do usuário no aplicativo "Meu INSS", decidi adota
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 11/04/2024  | Versão inicial da pagina de Introspecção. | [Johnny Lopes](https://github.com/JohnnyLopess) & [José Souza](https://github.com/JoseFilipi) | | |
+| `1.0` | 11/04/2024  | Versão inicial da pagina de Introspecção. | [Johnny Lopes](https://github.com/JohnnyLopess) & [José Filipi](https://github.com/JoseFilipi) | | |
 | `1.1` | 14/04/2024  | Adição da introdução, metodologia e requisitos elicitados. | [Johnny Lopes](https://github.com/JohnnyLopess) | | |
+| `1.2` | 15/04/2024  | Adição de requisitos de acessibilidade elicitados. | [José Filipi](https://github.com/JohnnyLopess) | | |
