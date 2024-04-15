@@ -26,8 +26,10 @@ nav:
     - Elicitação:
         - Perfil de Usuário: "elicitacao/perfil_de_Usuario.md"
         - Personas: "elicitacao/personas.md"
-        - Brainstorming: "elicitacao/brainStorm.md"
-        - Introspecção: "elicitacao/Introspeccao.md"
+        - Técnicas de Elicitação:
+          - Brainstorming: "elicitacao/brainStorm.md"
+          - Introspecção: "elicitacao/Introspeccao.md"
+        
 
     
 theme:

@@ -110,6 +110,125 @@ Este cronograma visa demonstrar como foi de fato executado as etapas do projeto.
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024 </p></font>
 </div>
 
+## Entrega 2 - Elicitação - Técnicas e Priorização - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Elicitação</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Criar perfil de usuário</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td>01/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Criar persona e antipersona</td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
+      <td>01/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação Brainstorm</td>
+      <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>04/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação: Entrevista</td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a></td>
+      <td>01/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação: Introspecção</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td>13/04</td>
+      <td>15/04</td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a></td>
+    </tr>
+    <tr>
+      <td>Técnicas de elicitação: Questionário</td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+      <td>01/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de elicitação: Storytelling</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>01/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: $100 </td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>01/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: First things First </td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+      <td>01/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: MoSCoW </td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
+      <td>01/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: Three Level Scale </td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>01/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
+    </tr>
+     <tr>
+      <td>Técnicas de priorização: In or Out </td>
+      <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td>01/04</td>
+      <td>13/04</td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>14/04</td>
+      <td>14/04</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>18/04</td>
+      <td>21/04</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+</div>
 
 ## Bibliografia
 
@@ -122,4 +241,5 @@ Este cronograma visa demonstrar como foi de fato executado as etapas do projeto.
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0`  | 27/03/2024 | Criação do cronograma. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
-| `1.1`  | 30/03/2024 | Correção de datas e adição dos responsáveis pela correção | [Gabriel Souza](https://github.com/GabrielMS00) | 31/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)
+| `1.1`  | 30/03/2024 | Correção de datas e adição dos responsáveis pela correção. | [Gabriel Souza](https://github.com/GabrielMS00) | 31/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)|
+| `1.2`  | 15/04/2024 | Adição do cronograma executado para entrega 2.| [Johnny Lopes](https://github.com/JohnnyLopess) |  | |
