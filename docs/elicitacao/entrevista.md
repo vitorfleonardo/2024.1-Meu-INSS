@@ -380,7 +380,7 @@ Na entrevista 2 encontra-se a gravação da entrevista da Neysa Mendes Rossi de 
 
 ## Legenda
 - RF: Requisito Funcional
-- RNF: Requisito Não Funcional
+- ET: Requisito Não Funcional
 - N: Numeração do requisito
 
 <div align="center">
@@ -395,77 +395,77 @@ Na entrevista 2 encontra-se a gravação da entrevista da Neysa Mendes Rossi de 
   </thead>
   <tbody>
     <tr>
-      <td>RF#001</td>
+      <td>ENT01</td>
       <td> O aplicativo deve permitir que os usuários acessem e visualizem o Cadastro Nacional de Informações Sociais (CNIS).</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RF#002</td>
+      <td>ENT02</td>
       <td> Deve fornecer ferramentas voltadas para os benefícios dos segurados, incluindo um recurso de pesquisa.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RF#003</td>
+      <td>ENT03</td>
       <td> Deve permitir o requerimento de benefícios e a atualização do vínculo do CNIS do segurado.</td>
       <td>Sim</td>
     </tr>
      <tr>
-      <td>RF#004</td>
+      <td>ENT04</td>
       <td> Deve fornecer informações sobre pagamentos não recebidos devido a erros.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RF#005</td>
+      <td>ENT05</td>
       <td> Deve fornecer um serviço de suporte técnico acessível diretamente no aplicativo ou por meio de um número 0800 ou chat de atendimento.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RF#006</td>
+      <td>ENT06</td>
       <td> Deve permitir que os usuários atualizem seu cadastro e localidade.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RF#007</td>
+      <td>ENT07</td>
       <td>  Deve oferecer uma funcionalidade de simulação que reflita com precisão a situação do usuário.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RF#008</td>
+      <td>ENT08</td>
       <td> Deve permitir ao usuário visualizar o valor do seu benefício (salário).</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RF#009</td>
+      <td>ENT09</td>
       <td> Deve fornecer um meio para o usuário acompanhar e verificar se houve algum desconto indevido em seu benefício.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RF#010</td>
+      <td>ENT10</td>
       <td> Deve permitir ao usuário verificar a correção do seu benefício.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RF#011</td>
+      <td>ENT11</td>
       <td> Deve fornecer um extrato de pagamento mensal.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RF#012</td>
+      <td>ENT12</td>
       <td> Deve alertar o usuário sobre empréstimos indevidos.</td>
       <td>Não</td>
     </tr>
      <tr>
-      <td>RF#013</td>
+      <td>ENT13</td>
       <td> Deve permitir ao usuário bloquear empréstimos.</td>
       <td>Não</td>
     </tr>
      <tr>
-      <td>RF#014</td>
+      <td>ENT14</td>
       <td>  Deve fornecer um extrato anual de imposto de renda.</td>
       <td>Não</td>
     </tr>
      <tr>
-      <td>RF#015</td>
+      <td>ENT15</td>
       <td> Deve permitir ao usuário visualizar o extrato de empréstimo.</td>
       <td>Sim</td>
     </tr>
@@ -479,44 +479,44 @@ Na entrevista 2 encontra-se a gravação da entrevista da Neysa Mendes Rossi de 
 <table>
   <thead>
     <tr>
-     <th>ID</th>
+     <th>Identidicação</th>
       <th>Descrição</th>
       <th>Implementado</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>RNF#001</td>
+      <td>ENT01</td>
       <td> Deve ser fácil de usar e intuitivo, mesmo para usuários com conhecimento técnico limitado</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RNF#002</td>
+      <td>ENT02</td>
       <td> Deve ser capaz de lidar com um grande número de processos e distribuí-los nacionalmente</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RNF#003</td>
+      <td>ENT03</td>
       <td>  Deve ser eficiente, permitindo que os usuários realizem tarefas rápidas em 2-5 minutos e tarefas mais complexas em até 1h20.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>RNF#004</td>
+      <td>ENT04</td>
       <td>  Deve ser projetado considerando a segurança dos usuários, especialmente os idosos.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RNF#005</td>
+      <td>ENT05</td>
       <td>  Deve ter uma interface visual clara, com letras de tamanho adequado e rotas intuitivas.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RNF#006</td>
+      <td>ENT06</td>
       <td>  Deve ter um design de cores que facilite a utilização.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>RNF#007</td>
+      <td>ENT07</td>
       <td>  Deve permitir ao usuário obter as informações necessárias em menos de dois minutos por sessão.</td>
       <td>Sim</td>
     </tr>
