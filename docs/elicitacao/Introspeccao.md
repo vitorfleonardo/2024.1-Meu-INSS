@@ -77,5 +77,5 @@ Visando melhorar a acessibilidade e a experiência do usuário no aplicativo "Me
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 11/04/2024  | Versão inicial da pagina de Introspecção. | [Johnny Lopes](https://github.com/JohnnyLopess) & [José Filipi](https://github.com/JoseFilipi) | | |
-| `1.1` | 14/04/2024  | Adição da introdução, metodologia e requisitos elicitados. | [Johnny Lopes](https://github.com/JohnnyLopess) | | |
-| `1.2` | 15/04/2024  | Adição de requisitos de acessibilidade elicitados. | [José Filipi](https://github.com/JohnnyLopess) | | |
+| `1.1` | 14/04/2024  | Adição da introdução, metodologia e requisitos elicitados. | [Johnny Lopes](https://github.com/JohnnyLopess) | 15/04/2024 |[José Filipi](https://github.com/JohnnyLopess) |
+| `1.2` | 15/04/2024  | Adição de requisitos de acessibilidade elicitados. | [José Filipi](https://github.com/JohnnyLopess) |15/04/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)|
