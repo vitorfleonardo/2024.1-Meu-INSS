@@ -24,6 +24,7 @@ nav:
     - Pré-Rastreabilidade: 
         - Rich Picture: "pre-rastreabilidade/rich_picture.md"
     - Elicitação:
+        - Perfil de Usuário: "elicitacao/perfil_de_Usuario.md"
         - Personas: "elicitacao/personas.md"
         - Brainstorming: "elicitacao/brainStorm.md"
         - Introspecção: "elicitacao/Introspeccao.md"
