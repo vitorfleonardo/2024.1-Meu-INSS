@@ -31,6 +31,12 @@ interação com o sistema.
 
 ### História 2
 
+Rafael Costa atua como um analista de sistemas em uma empresa de tecnologia inovatech, possui 35 anos, é casado e possui um filho pequeno, costuma dedicar seu tempo livre à sua família, buscando sempre atividades ao ar livre e momentos de lazer em casa. Além disso, se dedica bastante ao seu trabalho, sendo bem capacitado e considerado uma referência dentro de sua empresa.
+
+Rafael costuma utilizar constantemente o aplicativo do Meu INSS para obter informações referentes a sua situação previdenciária, incluindo seu tempo de contribuição, o valor estimado da sua aposentadoria e os requisitos necessários para que ele possa se aposentar.
+
+Por utilizar constantemente o aplicativo, Rafael espera que o sistema seja seguro e confiável, garantido sempre a integridade dos seus dados, além disso, ele também deseja que o aplicativo forneça recursos avançados, como simulações de aposentadora e ferramentas de planejamento financeiro, para auxiliá-lo em suas decisões refentes à sua aposentadoria.
+
 ### História 3
 
 Melanie Lima, 42 anos, é uma dedicada professora de matemática para o fundamental 2, com uma longa história de trabalho desde os 15 anos. Sua paixão pelo ensino é evidente, mas sua jornada foi marcada por desafios, incluindo uma lesão no pulso que resultou em tendinite, devido ao excesso de escrita nos quadros. Apesar disso, Melanie mantém sua paixão pelo ensino e busca maneiras de tornar suas aulas mais eficazes e envolventes.
@@ -172,6 +178,12 @@ Para Julyana, cada caso é único e ela se empenha em oferecer um serviço de qu
       <td>ST19</td>
       <td>RNF</td>
       <td>O sistema deve ser acessível tanto por meio de celulares quanto por meio de computadores.</td>
+      <td>Sim</td>
+    </tr>
+        <tr>
+      <td>ST20</td>
+      <td>RF</td>
+      <td>O sistema deve ser capaz de realizar simulações referentes à aposentadoria.</td>
       <td>Sim</td>
     </tr> 
   </tbody>
