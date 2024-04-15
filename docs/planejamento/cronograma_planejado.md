@@ -2,7 +2,11 @@
 
 ## Introdução
 
-Este cronograma visa estabelecer o planejamento da equipe para as atividades do projeto, delimitando atividades, prazos e responsáveis.
+O cronograma planejado desempenha um papel fundamental na gestão eficaz de projetos, fornecendo uma estrutura organizada para a execução de atividades, definindo claramente as etapas a serem seguidas, os prazos a serem cumpridos e os responsáveis por cada tarefa. Em um contexto de desenvolvimento de projetos, como o que estamos envolvidos, o cronograma não apenas serve como uma ferramenta de planejamento, mas também como um guia para monitorar o progresso, identificar potenciais desafios e ajustar estratégias conforme necessário.
+
+Inicialmente, adotamos o modelo de cronograma fornecido pelo professor André Barros Sales no ambiente virtual de aprendizagem [(Aprender 3)](#anchor_2) como uma metodologia para organizar as atividades do projeto. Além disso, utilizamos como base o repositório do projeto [(Bilheteria Digital)](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma) como referência fundamental para o desenvolvimento de um cronograma mais eficiente.
+
+A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. Começamos com a entrega 1, detalhada na Tabela 1, seguida pela entrega 2, apresentada na Tabela 2, e assim por diante.
 
 ## Entrega 1 - Planejamento do Projeto - Data de Entrega:
 
@@ -504,11 +508,11 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
-## Bibliografia
+## Referências Bibliográficas
 
-> Cronograma Bilheteria Digital. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>>. Acesso em 27 de março de 2024.
->
-> SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 27 de março de 2024.
+> <a id="QT1" href="#anchor_1">1.</a> Cronograma Bilheteria Digital. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md. Acesso em 27 de março de 2024.
+
+> <a id="QT2" href="#anchor_2">2.</a> SALES, André Barros. Ambientação - Exemplo de Cronograma. Aprender 3. Distrito Federal, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf. Acesso em 27 de março de 2024.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
@@ -516,3 +520,4 @@ Este cronograma visa estabelecer o planejamento da equipe para as atividades do 
 | `1.0`  | 27/03/2024 | Criação do cronograma. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
 | `1.1` | 30/03/2024 | Adição das datas de início e fim das atividades do cronograma. | [Gabriel Souza](https://github.com/JoseFilipi) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.2` | 01/04/2024 | Ajustes na página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 | [Amanda Campos](https://github.com/acamposs)  |
+| `1.3`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
