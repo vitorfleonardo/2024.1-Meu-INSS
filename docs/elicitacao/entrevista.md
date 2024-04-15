@@ -486,37 +486,37 @@ Na entrevista 2 encontra-se a gravação da entrevista da Neysa Mendes Rossi de 
   </thead>
   <tbody>
     <tr>
-      <td>ENT01</td>
+      <td>ENT16</td>
       <td> Deve ser fácil de usar e intuitivo, mesmo para usuários com conhecimento técnico limitado</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT02</td>
+      <td>ENT17</td>
       <td> Deve ser capaz de lidar com um grande número de processos e distribuí-los nacionalmente</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>ENT03</td>
+      <td>ENT18</td>
       <td>  Deve ser eficiente, permitindo que os usuários realizem tarefas rápidas em 2-5 minutos e tarefas mais complexas em até 1h20.</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>ENT04</td>
+      <td>ENT19</td>
       <td>  Deve ser projetado considerando a segurança dos usuários, especialmente os idosos.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT05</td>
+      <td>ENT20</td>
       <td>  Deve ter uma interface visual clara, com letras de tamanho adequado e rotas intuitivas.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT06</td>
+      <td>ENT21</td>
       <td>  Deve ter um design de cores que facilite a utilização.</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>ENT07</td>
+      <td>ENT22</td>
       <td>  Deve permitir ao usuário obter as informações necessárias em menos de dois minutos por sessão.</td>
       <td>Sim</td>
     </tr>
