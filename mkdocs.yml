@@ -30,8 +30,7 @@ nav:
           - Brainstorming: "elicitacao/brainStorm.md"
           - Introspecção: "elicitacao/Introspeccao.md"
           - Entrevista: "elicitacao/entrevista.md"
-        
-
+          - Storytelling: "elicitacao/storytelling.md"
     
 theme:
   name: material
