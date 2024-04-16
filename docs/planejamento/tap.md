@@ -1,7 +1,7 @@
 # Termo de abertura de Projeto
 
 ## Objetivo do TAP
-O Termo de Abertura do Projeto (TAP) é um documento que autoriza formalmente a existência de um projeto, concedendo ao gerente do projeto a autoridade para aplicar os recursos organizacionais nas atividades do projeto. Ele contém informações sumarizadas sobre o projeto, incluindo requisitos, objetivos, cronograma, orçamento, entre outros. O TAP é fundamental para o início de qualquer projeto de acordo com o Guia PMBOK [1].
+O Termo de Abertura do Projeto (TAP) é um documento que autoriza formalmente a existência de um projeto, concedendo ao gerente do projeto a autoridade para aplicar os recursos organizacionais nas atividades do projeto. Ele contém informações sumarizadas sobre o projeto, incluindo requisitos, objetivos, cronograma, orçamento, entre outros. O TAP é fundamental para o início de qualquer projeto de acordo com o [Guia PMBOK](#anchor_1).
 
 ## Objetivo SMART
 
@@ -64,12 +64,12 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
 
-
-## Referências
-[1] Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017. PROJECT MANAGEMENT INSTITUTE (PMI).
+## Referências Bibliográficas
+> <a id="QT1" href="#anchor_1">1.<a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 27/03/2024  | Versão inicial de documento. | [Vitor Leonardo](https://github.com/vitorfleonardo) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.1` | 01/04/2024  | Adição de referência nas tabelas. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 | [Amanda Campos](https://github.com/acamposs) |
+| `1.2`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |

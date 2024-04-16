@@ -17,10 +17,11 @@ uma vez que o projeto pode ser adaptado ao decorrer do tempo, de acordo com as n
 ### Processo Scrum
 
 
-<p align="center" > <font>Imagem 1: Processo Scrum</font> <br><img src="../imagens/processo_Scrum.jpg" width = 300%></p>
+<p align="center" > <font>Imagem 1: Processo Scrum</font> <br><img src="..\imagens\processo_Scrum.jpg" width = 300%></p>
 <p align="center" > <font>Fonte: <a href="https://pt.linkedin.com/pulse/um-resumo-de-tudo-que-voc%C3%AA-precisa-saber-sobre-o-scrum-netto" target="_blanck">LinkedIn - Resumo sobre Scrum</a>, 2024 </font> <br></p>
 
 Podemos destacar como os principais benefícios deste método:
+
 * Maior rapidez no desenvolvimento do projeto
 * Melhor qualidade do produto final
 * Aumento da satisfação do cliente
@@ -62,17 +63,18 @@ Para nossa comunicação, utilizaremos:
 * [WhatsApp](https://web.whatsapp.com/)
 * [Discord](https://discord.com/)
 
-## Referências
+## Referências Bibliográficas
 
-> Site metodologias ágeis - <a href="https://www.metodologiaagil.com">www.metodologiaagil.com</a> Acessado em 2024.
+> <a id="QT1." href="#anchor_1.">1.</a> Site metodologias ágeis - <a href="https://www.metodologiaagil.com">www.metodologiaagil.com</a> Acessado em 2024.
 
-> Sommerville,Ian - Engenharia de Software - 9 ed. - São Paulo: Pearson Prentice Hall, 2011.
+> <a id="QT2" href="#anchor_2">2.</a> Sommerville, Ian. Engenharia de Software. 9 ed. São Paulo: Pearson Prentice Hall, 2011.
 
-> Site LinkedIn - Um resumo de tudo que você precisa saber sobre o Scrum <a>https://pt.linkedin.com/pulse/um-resumo-de-tudo-que-voc%C3%AA-precisa-saber-sobre-o-scrum-netto</a> Acessado em 2024.
+> <a id="QT3" href="#anchor_3">3.</a> Site LinkedIn - Um resumo de tudo que você precisa saber sobre o Scrum. Disponível em: https://pt.linkedin.com/pulse/um-resumo-de-tudo-que-voc%C3%AA-precisa-saber-sobre-o-scrum-netto. Acesso em: 2024.
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0`  |10/04/2024| Criação do documento | [Gabriel Souza](https://github.com/GabrielMS00) |  | <a href="https://github.com/JoseFilipi">José Filipi</a> |
+| `1.1`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
 
