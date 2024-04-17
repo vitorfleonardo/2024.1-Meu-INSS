@@ -32,6 +32,8 @@ nav:
           - Entrevista: "elicitacao/entrevista.md"
           - Questionário: "elicitacao/questionario.md"
           - Storytelling: "elicitacao/storytelling.md"
+        - Técnicas de Priorização:
+          - Three level scale: "elicitacao/Priorização/threelevelscale.md"
     
 theme:
   name: material
