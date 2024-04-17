@@ -34,6 +34,7 @@ nav:
           - Storytelling: "elicitacao/storytelling.md"
         - Técnicas de Priorização:
           - Three level scale: "elicitacao/Priorização/threelevelscale.md"
+          - 100$: "elicitacao/Priorização/100$.md"
     
 theme:
   name: material
