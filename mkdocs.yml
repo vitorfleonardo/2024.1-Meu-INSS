@@ -39,6 +39,7 @@ nav:
         - Técnicas de Priorização:
           - Three level scale: "elicitacao/Priorização/threelevelscale.md"
           - 100$: "elicitacao/Priorização/100$.md"
+          - First Things First: "elicitacao/first_things.md"
         - Requisitos Elicitados: "elicitacao/requisitosElicitados.md"
     
 theme:
