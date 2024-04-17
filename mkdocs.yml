@@ -32,6 +32,9 @@ nav:
           - Entrevista: "elicitacao/entrevista.md"
           - Questionário: "elicitacao/questionario.md"
           - Storytelling: "elicitacao/storytelling.md"
+        - Técnicas de Priorização:
+          - First Things First: "elicitacao/first_things.md"
+
     
 theme:
   name: material
