@@ -492,7 +492,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 | Identificador | Requisito                                                                                                     | Implementação |
 |---------------|---------------------------------------------------------------------------------------------------------------|---------------|
 | BS15          | O aplicativo deve ser capaz de funcionar em diversos aparelhos.                                                |      Sim         |
-| BS16          | O aplicativo deve possuir funcionalidades com nomes referentes a deveres ou obrigações.                        |               |
+| BS16          | O aplicativo deve possuir funcionalidades com nomes referentes a deveres ou obrigações.                        |       Sim        |
 | BS17          | O aplicativo deve notificar agendamentos próximos.                                                             |       Não        |
 | BS18          | O aplicativo deve possuir abas mais organizadas para permitir uma navegação mais fácil e intuitiva.            |        Não       |
 | BS19          | O aplicativo deve criar uma fila digital referente aos agendamentos.                                           |       Não        |
