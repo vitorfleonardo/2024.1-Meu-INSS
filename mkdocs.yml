@@ -7,10 +7,12 @@ nav:
     - Início: "index.md"
     - Apresentação: 
         - Apresentação 1: "apresentacao/apresentacao01.md"
+
     - Atas: 
         - Ata 01: "atas/Ata1-24.03.2024.md"
         - Ata 02: "atas/Ata2-31.03.2024.md"
         - Ata 03: "atas/Ata3-07.04.2024.md"
+    
     - Planejamento:
         - Termo de Abertura de Projeto: "planejamento/tap.md"
         - EAP: "planejamento/EAP.md"
@@ -21,8 +23,10 @@ nav:
         - Termos de uso: "planejamento/copia_termo_de_uso.md"
         - Ferramentas: "planejamento/ferramentas.md"
         - Metodologia: "planejamento/metodologia.md"
+    
     - Pré-Rastreabilidade: 
         - Rich Picture: "pre-rastreabilidade/rich_picture.md"
+    
     - Elicitação:
         - Perfil de Usuário: "elicitacao/perfil_de_Usuario.md"
         - Personas: "elicitacao/personas.md"
@@ -35,6 +39,7 @@ nav:
         - Técnicas de Priorização:
           - Three level scale: "elicitacao/Priorização/threelevelscale.md"
           - 100$: "elicitacao/Priorização/100$.md"
+        - Requisitos Elicitados: "elicitacao/requisitosElicitados.md"
     
 theme:
   name: material
