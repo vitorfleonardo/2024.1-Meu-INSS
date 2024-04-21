@@ -17,7 +17,7 @@ A metodologia adotada para a elicitação de requisitos utilizando questionário
 
 ## Resultados
 
-A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 11 respostas, antes da coleta os usuários aceitaram o nosso [termo consentimento](../imagens/termos_consentimento/termo_quest.pdf).
+A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 14 respostas, antes da coleta os usuários aceitaram o nosso [termo consentimento](../imagens/termos_consentimento/termo_quest.pdf).
 Durante o período de coleta de dados, que ocorreu entre os dias 12 de abril de 2024 e 15 de abril de 2024. Este questionário foi composto por 11 perguntas fechadas, que permitiam respostas livres, elaboradas levando em consideração o perfil dos usuários do aplicativo Meu INSS. 
 
 
@@ -86,7 +86,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRV
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 9</b> - Pergunta nº 9 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="
-https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=1653330547&format=interactive
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=391635859&format=interactive
 "></iframe>
 <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
