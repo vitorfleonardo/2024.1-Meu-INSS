@@ -72,6 +72,8 @@ Na aplicação da técnica peguntava-se a classificação, de 1 a 9, do benefíc
 
 Após o término da reunião, as formulas caluclaram os resultados da priorização. sendo assim o resultado da aplicação da técnica pode ser observado abaixo.
 
+<iframe width="950" height="600" src="https://docs.google.com/spreadsheets/d/1VeBIDGbKOMZeGDX1ShCmdT_P7V5_agt16XZWWFqB0Is/edit?usp=sharing"></iframe>
+
 
 ## Gravação
 
@@ -98,3 +100,5 @@ No vídeo 1 localiza-se a gravação da utilização da técnica.
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 17/04/2024  | Preenchimento do artefato da técnica First Things First | [Vitor Feijó](https://github.com/vitorfleonardo)  | 19/042024| [Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.0` | 21/04/2024  | Adição do video gravado | [Vitor Feijó](https://github.com/vitorfleonardo)  | 21/042024| [Johnny Lopes](https://github.com/JohnnyLopess) |
+
