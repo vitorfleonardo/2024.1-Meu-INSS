@@ -23,10 +23,10 @@ Um usuário do aplicativo foi convidado para participar de uma reunião online, 
 
 <center>
 
-|Participante|Função|
-|:--:|:--:|
-|[Paulo Borba](https://github.com/paulohborba)|Desenvolvedor|
-|Neys Mendes Rossi de Borba|Usuário|
+|Participante|Função|Local|Data|
+|:--:|:--:|:--:|:--:|
+|[Paulo Borba](https://github.com/paulohborba)|Desenvolvedor|Online|17/04/2024|
+|Neys Mendes Rossi de Borba|Usuário|Online|17/04/2024|
 
 </center>
 
@@ -112,5 +112,5 @@ No vídeo 1 localiza-se a gravação da reunião.
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 09/04/2024  | Versão inicial da página de Three level. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| || 
-| `1.1` | 17/04/2024  | Adição da tabela de requisitos. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| || 
+| `1.0` | 09/04/2024  | Versão inicial da página de Three level. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)|15/04/2024 |<a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a>| 
+| `1.1` | 17/04/2024  | Adição da tabela de requisitos. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| 18/04/2024|<a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a>| 

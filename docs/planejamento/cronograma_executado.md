@@ -132,21 +132,21 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
       <td>Criar perfil de usuário</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
       <td>01/04</td>
-      <td>13/04</td>
+      <td>14/04</td>
       <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Criar persona e antipersona</td>
       <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
       <td>01/04</td>
-      <td>13/04</td>
+      <td>14/04</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
     </tr>
     <tr>
-      <td>Técnicas de elicitação Brainstorm</td>
+      <td>Técnicas de elicitação: Brainstorm</td>
       <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
       <td>04/04</td>
-      <td>13/04</td>
+      <td>12/04</td>
       <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
     </tr>
     <tr>
@@ -167,14 +167,14 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
       <td>Técnicas de elicitação: Questionário</td>
       <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
       <td>01/04</td>
-      <td>13/04</td>
+      <td>16/04</td>
       <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
     </tr>
      <tr>
       <td>Técnicas de elicitação: Storytelling</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
       <td>01/04</td>
-      <td>13/04</td>
+      <td>12/04</td>
       <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
     </tr>
      <tr>
@@ -186,17 +186,10 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
     </tr>
      <tr>
       <td>Técnicas de priorização: First things First </td>
-      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
       <td>01/04</td>
-      <td>13/04</td>
+      <td>17/04</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
-    </tr>
-     <tr>
-      <td>Técnicas de priorização: MoSCoW </td>
-      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
-      <td>01/04</td>
-      <td>13/04</td>
-      <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
     </tr>
      <tr>
       <td>Técnicas de priorização: Three Level Scale </td>
@@ -205,12 +198,12 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
       <td>17/04</td>
       <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
     </tr>
-     <tr>
-      <td>Técnicas de priorização: In or Out </td>
-      <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+       <tr>
+      <td>Página de requisitos elicitados </td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
       <td>01/04</td>
-      <td>13/04</td>
-      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>17/04</td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
     </tr>
     <tr>
       <td>Gravação da apresentação e entrega</td>
@@ -229,7 +222,7 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/johnnylopess">Johnny Lopes</a>, 2024</p></font>
 </div>
 
 ## Referências Bibliográficas
@@ -244,5 +237,6 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0`  | 27/03/2024 | Criação do cronograma. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
 | `1.1`  | 30/03/2024 | Correção de datas e adição dos responsáveis pela correção. | [Gabriel Souza](https://github.com/GabrielMS00) | 31/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)|
-| `1.2`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
-| `1.3`  | 15/04/2024 | Adição do cronograma executado para entrega 2.| [Johnny Lopes](https://github.com/JohnnyLopess) |  | |
+| `1.2`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 15/04/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.3`  | 15/04/2024 | Adição do cronograma executado para entrega 2.| [Johnny Lopes](https://github.com/JohnnyLopess) | 19/04/2024 | [Amanda Campos](https://github.com/acamposs)|
+| `1.4`  | 21/04/2024 | Correções no cronograma executado.| [Johnny Lopes](https://github.com/JohnnyLopess) | 21/04/2024 |[Amanda Campos](https://github.com/acamposs) |

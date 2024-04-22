@@ -18,15 +18,15 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <p align="center" > <strong> Tabela 1 - </Strong> Participantes</font> <gitbr></p>
 <center>
 
-|Nome|Função|
-|:-:|:-:|
-|[Paulo Borba](https://github.com/paulohborba)|Moderador|
-|[Johnny Lopes](https://github.com/JohnnyLopess)|Secretário|
-|[Amanda Campos](https://github.com/acamposs)|Participante|
-|[Bianca Castro](https://github.com/BiancaPatrocinio7)|Participante|
-|[Gabriel Souza](https://github.com/GabrielMS00)|Participante|
-|[José Souza](https://github.com/JoseFilipi)|Participante|
-|[Vitor Leonardo](https://github.com/vitorfleonardo)|Participante|
+|Nome|Função|Local|Data|
+|:-:|:-:|:-:|:-:|
+|[Paulo Borba](https://github.com/paulohborba)|Moderador|Online|11/04/2024|
+|[Johnny Lopes](https://github.com/JohnnyLopess)|Secretário|Online|11/04/2024|
+|[Amanda Campos](https://github.com/acamposs)|Participante|Online|11/04/2024|
+|[Bianca Castro](https://github.com/BiancaPatrocinio7)|Participante|Online|11/04/2024|
+|[Gabriel Souza](https://github.com/GabrielMS00)|Participante|Online|11/04/2024|
+|[José Souza](https://github.com/JoseFilipi)|Participante|Online|11/04/2024|
+|[Vitor Leonardo](https://github.com/vitorfleonardo)|Participante|Online|11/04/2024|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
 </center>
@@ -534,7 +534,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 09/04/2024  | Versão inicial da pagina de Brainstorm. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| || 
+| `1.0` | 09/04/2024  | Versão inicial da pagina de Brainstorm. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| 10/04/2024|<a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>| 
 | `1.1` | 11/04/2024  | Adicionando o conteúdo da página de Brainstorm. | [Paulo Borba](https://github.com/paulohborba) |12/04/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
-| `1.2` | 12/04/2024  | Adicionando as perguntas e as respostas. | [Johnny Lopes](https://github.com/JohnnyLopess) |||
-| `1.3` | 12/04/2024  | Complementando informações. | [Paulo Borba](https://github.com/paulohborba) |||
+| `1.2` | 12/04/2024  | Adicionando as perguntas e as respostas. | [Johnny Lopes](https://github.com/JohnnyLopess) |12/04/2024|[Paulo Borba](https://github.com/paulohborba)|
+| `1.3` | 12/04/2024  | Complementando informações. | [Paulo Borba](https://github.com/paulohborba) | 13/04/2024|<a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>|

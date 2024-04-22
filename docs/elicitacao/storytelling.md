@@ -198,5 +198,5 @@ Para Julyana, cada caso é único e ela se empenha em oferecer um serviço de qu
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 11/04/2024  | Versão inicial da pagina de Storytelling | [Paulo Borba](https://github.com/paulohborba) & [Gabriel Souza](https://github.com/GabrielMS00)| |
-| `1.1` | 12/04/2024  | Complementando informações da pagina de Storytelling | [Paulo Borba](https://github.com/paulohborba) | |
+| `1.0` | 11/04/2024  | Versão inicial da pagina de Storytelling | [Paulo Borba](https://github.com/paulohborba) & [Gabriel Souza](https://github.com/GabrielMS00)| 12/04/2024|<a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a>|
+| `1.1` | 12/04/2024  | Complementando informações da pagina de Storytelling | [Paulo Borba](https://github.com/paulohborba) | 14/04/2024 |<a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a>|
