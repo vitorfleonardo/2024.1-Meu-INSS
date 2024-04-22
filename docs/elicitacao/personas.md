@@ -130,7 +130,7 @@ A metodologia para criar personas envolve um processo estruturado de coleta, an�
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 04/04/2024  | Versão inicial da pagina de Personas | [Amanda Campos](https://github.com/acamposs) e [Bianca Castro](https://github.com/BiancaPatrocinio7)| | 
-| `1.1`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
+| `1.0` | 04/04/2024  | Versão inicial da pagina de Personas | [Amanda Campos](https://github.com/acamposs) e [Bianca Castro](https://github.com/BiancaPatrocinio7)| 13/04/2024 |<a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/JoseFilipi">José Filipi</a>| 
+| `1.1`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 14/04/2024 |  <a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/JoseFilipi">José Filipi</a>|
 
 
