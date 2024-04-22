@@ -43,6 +43,10 @@ A reunião foi agendada pelo [Paulo Borba](https://github.com/paulohborba) para 
 | :-: | :-: | :-: | 
 | 16/04/2024  às 20:00  | Teams | Priorização de requisitos elicitados utilizando a técnica First Thing First | 
 
+<div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+</div>
+
 #### 3. Participantes e uso da técnica 
 
 A reunião contou com a participação de um moderador, um secretário, uma usuária do aplicativo MeuINSS e dois desenvolvedores. Representado na tabela 2.
@@ -58,7 +62,7 @@ A reunião contou com a participação de um moderador, um secretário, uma usu�
 |[José Souza](https://github.com/JoseFilipi)|Desenvolvedora|
 | Neysa Mendes Rossi de Borba |Usuária| 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 </center>
 
 Na aplicação da técnica peguntava-se a classificação, de 1 a 9, do benefício realativo e depois a penalidade relativa para o usuário. Logo após o custo e risco relativos para cada um dos desenvolvedores, de 1 a 9, anotando-se sempre a maior calssificação. Repetia-se esse processo para cada um dos requisitos.
@@ -69,9 +73,18 @@ Na aplicação da técnica peguntava-se a classificação, de 1 a 9, do benefíc
 Após o término da reunião, as formulas caluclaram os resultados da priorização. sendo assim o resultado da aplicação da técnica pode ser observado abaixo.
 
 
+## Gravação
 
+No vídeo 1 localiza-se a gravação da utilização da técnica.
 
-<iframe width="950" height="600" src="https://docs.google.com/spreadsheets/d/1VeBIDGbKOMZeGDX1ShCmdT_P7V5_agt16XZWWFqB0Is/edit?usp=sharing"></iframe>
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/fFj1F8-Ci_s" target="blanket"><b>Vídeo 1:</b> Reunião - First THings First</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fFj1F8-Ci_s" title="First things first do Grupo 7 Meu INSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+</div >
 
 ## Referências Bibliográficas
 
@@ -84,4 +97,4 @@ Após o término da reunião, as formulas caluclaram os resultados da priorizaç
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 17/04/2024  | Preenchimento do artefato da técnica First Things First | [Vitor Feijó](https://github.com/vitorfleonardo)  | | |
+| `1.0` | 17/04/2024  | Preenchimento do artefato da técnica First Things First | [Vitor Feijó](https://github.com/vitorfleonardo)  | 19/042024| [Johnny Lopes](https://github.com/JohnnyLopess) |
