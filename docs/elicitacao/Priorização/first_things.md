@@ -54,13 +54,13 @@ A reunião contou com a participação de um moderador, um secretário, uma usu�
 <p align="center" > <strong> Tabela 2 - </Strong> Participantes</font> <gitbr></p>
 <center>
 
-|Nome|Função|
-|:-:|:-:|
-|[Vitor Leonardo](https://github.com/vitorfleonardo)|Moderador|
-|[Paulo Borba](https://github.com/paulohborba)|Secretário|
-|[Bianca Castro](https://github.com/BiancaPatrocinio7)|Desenvolvedora|
-|[José Souza](https://github.com/JoseFilipi)|Desenvolvedora|
-| Neysa Mendes Rossi de Borba |Usuária| 
+|Nome|Função|Local|Data|
+|:-:|:-:|:-:|:-:|
+|[Vitor Leonardo](https://github.com/vitorfleonardo)|Moderador|Online|17/04/2024|
+|[Paulo Borba](https://github.com/paulohborba)|Secretário|Online|17/04/2024|
+|[Bianca Castro](https://github.com/BiancaPatrocinio7)|Desenvolvedora|Online|17/04/2024|
+|[José Souza](https://github.com/JoseFilipi)|Desenvolvedora|Online|17/04/2024|
+| Neysa Mendes Rossi de Borba |Usuária|Online|17/04/2024|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 </center>
@@ -97,4 +97,5 @@ No vídeo 1 localiza-se a gravação da utilização da técnica.
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 17/04/2024  | Preenchimento do artefato da técnica First Things First | [Vitor Feijó](https://github.com/vitorfleonardo)  | 19/042024| [Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.0` | 17/04/2024  | Preenchimento do artefato da técnica First Things First. | [Vitor Feijó](https://github.com/vitorfleonardo) &  | 19/04/2024| [Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.1` | 21/04/2024  | Adição do local e data. | [Johnny Lopes](https://github.com/JohnnyLopess)  | 21/04/2024|  <a href="https://github.com/vitorfleonardo">Vitor</a>|

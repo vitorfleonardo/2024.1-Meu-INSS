@@ -135,4 +135,4 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRV
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 15/04/2024  | Versão inicial da página de Questionário| [Amanda Campos](https://github.com/acamposs) | 15/04/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
-| `1.1` | 16/04/2024  | Gráficos e requisitos elicitados documentados|  [Bianca Castro](https://github.com/BiancaPatrocinio7) | 16/04/2024 | [Amanda Campos](https://github.com/acamposs) |
+| `1.1` | 16/04/2024  | Gráficos e requisitos elicitados documentados|  [Bianca Castro](https://github.com/BiancaPatrocinio7) | 16/04/2024 | <a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> |

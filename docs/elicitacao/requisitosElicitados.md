@@ -86,4 +86,4 @@ Legenda da tabela 2:
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 17/04/2024  | Versão inicial da pagina de requisitos elicitados. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| || 
+| `1.0` | 17/04/2024  | Versão inicial da pagina de requisitos elicitados. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)|21/04/2024|[José Filipi](https://github.com/JoseFilipi) & [Gabriel](https://github.com/GabrielMS00)| 

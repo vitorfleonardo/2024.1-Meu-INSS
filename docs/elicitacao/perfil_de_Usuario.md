@@ -69,5 +69,5 @@ Analisando as respostas do questionário é possível traçar um perfil de usuá
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| `1.0`  | 13/04/2024 | Criação do perfil de usuário. | [José Filipi](https://github.com/JoseFilipi) <br> [Gabriel Souza](https://github.com/GabrielMS00) | ||
+| `1.0`  | 13/04/2024 | Criação do perfil de usuário. | [José Filipi](https://github.com/JoseFilipi) <br> [Gabriel Souza](https://github.com/GabrielMS00) | 14/04/2024|<a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a>|
 
