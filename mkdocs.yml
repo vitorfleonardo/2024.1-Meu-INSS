@@ -7,6 +7,7 @@ nav:
     - Início: "index.md"
     - Apresentação: 
         - Apresentação 1: "apresentacao/apresentacao01.md"
+        - Apresentação 2: "apresentacao/apresentacao02.md"
 
     - Atas: 
         - Ata 01: "atas/Ata1-24.03.2024.md"
