@@ -42,6 +42,9 @@ nav:
           - 100$: "elicitacao/Priorização/100$.md"
           - First Things First: "elicitacao/Priorização/first_things.md"
         - Requisitos Elicitados: "elicitacao/requisitosElicitados.md"
+
+    - Modelagem:
+        - Especificação Suplementar: "modelagem/specSuplementar.md"
     
 theme:
   name: material
