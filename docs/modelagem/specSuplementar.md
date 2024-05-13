@@ -8,9 +8,9 @@
 
 A Metodologia utilizada neste artefato foi baseada no modelo FURPS+. "É um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos" <a id="TEC3" href="#RP3">[3]</a>. Dentre elas: Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade, sendo que o "+" engloba outros requisitos não-funcionais: requisitos de design, requisitos de implementação, requisitos de interface, requisitos físicos <a id="TEC3" href="#RP3">[3]</a>.
 
-A Legenda para identificação dos requisitos em cada acrônimo estão representadas na tabela 1.
+A Legenda para identificação dos requisitos em cada acrônimo estão representadas na tabela 1 e na tabela 2.
 
-<p align="center" > <strong> Tabela 1 - </Strong> Legenda das tabelas</font> <gitbr></p>
+<p align="center" > <strong> Tabela 1 - </Strong> Legenda das tabelas FURPS</font> <gitbr></p>
 <center>
 
 |Acrônimo | Significado | Tradução | Identificador
@@ -24,15 +24,29 @@ A Legenda para identificação dos requisitos em cada acrônimo estão represent
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
+<p align="center" > <strong> Tabela 2 - </Strong> Legenda das tabelas +</font> <gitbr></p>
+<center>
+
+|Acrônimo | Significado | Tradução | Identificador
+|:-:|:-:|:-:|:-:|
+| +D | Plus: Design constrains | Requisitos de Design | +D |
+| +Im | Plus: Implementation constrains | Requisitos de Implementação | +Im |
+| +In | Plus: Iterface constrains | Requisitos de interface | +In |
+| +P | Plus: Physical constrains | Requisitos físicos | +P |
+
+
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+
 ## Funcionalidade
 
 Os requisitos funcionais foram capturados ateriormente com as técnicas de [Brainstorming](../elicitacao/brainStorm.md), [Introspeção](../elicitacao/Introspeccao.md), [Entrevista](../elicitacao/entrevista.md), [Questionário](../elicitacao/questionario.md), [Storytelling](../elicitacao/storytelling.md), e podem ser consultados em [Requisitos Elicitados](../elicitacao/requisitosElicitados.md). Os casos de uso também podem ser considerados como requisitos funcionais. 
 
 ## Usabilidade
 
-Esta seção inclui todos os requisitos que afetam a usabilidade. Os requisitos não funcionais para usabilidade estão representados na tabela 1.
+Esta seção inclui todos os requisitos que afetam a usabilidade. Os requisitos não funcionais para usabilidade estão representados na tabela 3.
 
-<p align="center" > <strong> Tabela 2 - </Strong> Requisitos de usabilidade</font> <gitbr></p>
+<p align="center" > <strong> Tabela 3 - </Strong> Requisitos de usabilidade</font> <gitbr></p>
 
 |ID|Descrição do requisito|
 |:-:|:-:|
@@ -60,9 +74,9 @@ Esta seção inclui todos os requisitos que afetam a usabilidade. Os requisitos 
 
 ## Confiabilidade
 
-Esta seção inclui todos os requisitos que afetam a confiabilidade. "Refere-se a integridade, conformidade e interoperabilidade do software" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de confiabilidade est'ao representados na tabela 3.
+Esta seção inclui todos os requisitos que afetam a confiabilidade. "Refere-se a integridade, conformidade e interoperabilidade do software" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de confiabilidade estão representados na tabela 4.
 
-<p align="center" > <strong> Tabela 3 - </Strong> Requisitos de usabilidade</font> <gitbr></p>
+<p align="center" > <strong> Tabela 4 - </Strong> Requisitos de confiabilidade</font> <gitbr></p>
 
 |ID|Descrição do requisito|
 |:-:|:-:|
@@ -80,19 +94,123 @@ Esta seção inclui todos os requisitos que afetam a confiabilidade. "Refere-se 
 
 ## Desempenho
 
+Esta seção inclui todos os requisitos que afetam o desempenho. Os requisitos de desempenho estão representados na tabela 5.
+
+<p align="center" > <strong> Tabela 5 - </Strong> Requisitos de desempenho</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+| RP001 | O tempo médio de resposta para uma transação deve ser de 200 milissegundos durante o horário de pico. |
+| RP002 | O tempo máximo de resposta para uma transação não deve exceder 5 segundos em qualquer circunstância. |
+| RP003 | O aplicativo deve ser capaz de processar pelo menos 1000 transações por segundo durante o horário de pico. |
+| RP004 | O aplicativo deve ser capaz de processar pelo menos 29,4 milhões de transações por mês (com base nos dados de fevereiro de 2022) |
+| RP005 | Em caso de falha no aplicativo, o aplicativo deve entrar em um modo de operação degradado que permita pelo menos 70% da capacidade normal |
+| RP006 | O aplicativo deve ser capaz de se recuperar de um modo degradado para a operação normal em não mais que 15 minutos |
+| RP007 | O aplicativo deve utilizar não mais que 60% da memória disponível sob carga normal |
+| RP008 | O aplicativo deve utilizar não mais que 50% do espaço em disco disponível |
+| RP009 | O aplicativo deve utilizar não mais que 70% da largura de banda disponível sob carga normal |
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+
 ## Suportabilidade
+
+Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisitos de suportabilidade estão representados na tabela 6.
+
+<p align="center" > <strong> Tabela 6 - </Strong> Requisitos de suportabilidade</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+| RS001 | O aplicativo deve ser compatível e otimizado para smartphones e tablets fabricados por Samsung, Apple, Motorola, Xiaomi, entre outros principais fabricantes. |
+| RS002 | O aplicativo é projetado de forma modular, facilitando a manutenção e atualizações. As atualizações de segurança são lançadas a cada trimestre, enquanto as atualizações de recursos são lançadas semestralmente. |
+| RS003 | O aplicativo deve suportar as versões mais recentes e as duas versões anteriores dos sistemas operacionais iOS (para dispositivos Apple) e Android (para dispositivos Samsung, Motorola, Xiaomi, etc.).  |
+| RS004 | O aplicativo permite a personalização de configurações pelo usuário final, incluindo notificações, preferências de idioma e configurações de privacidade.  |
+| RS005 | O aplicativo oferece um processo de instalação simples e direto através das lojas de aplicativos Google Play e Apple App Store. |
+| RS006 | O aplicativo é capaz de escalar para acomodar um aumento no número de usuários ou transações. Ele pode suportar até 30 milhões de usuários por mês |
+| RS007 | O aplicativo executa testes automatizados de integração e sistema, garantindo a qualidade e experiẽncia do usuário. |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
 ## Outros requisitos do Produto (+)
 
 ### Requisitos de Design
 
+"Requisitos de design (desenho) – Um requisito de design, freqüentemente chamado de uma restrição de design, especifica ou restringe o design de um sistema. Exemplos podem incluir: linguagens de programação, processo de software, uso de ferramentas de desenvolvimento, biblioteca de classes, etc"  <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de design estão representados na tabela 7.
+
+<p align="center" > <strong> Tabela 7 - </Strong> Requisitos de Design</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+| +D001 | O aplicativo deve ser desenvolvido usando Java para o backend e Javascript para o frontend |
+| +D002 | O desenvolvimento deve seguir a metodologia Agile, com sprints de duas semanas e revisões de código regulares |
+| +D003 | O código deve ser desenvolvido e mantido usando Git para controle de versão, Jira para rastreamento de problemas e Jenkins para integração contínua |
+| +D004 | O aplicativo deve seguir uma arquitetura microserviços para permitir a escalabilidade e a manutenção independentes dos diferentes componentes do sistema |
+| +D005 | O sistema deve usar a biblioteca Spring Boot para o backend e a biblioteca React Navigation para a navegação no frontend. |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+
 ### Requisitos de Implementação
+
+"Requisitos de design (desenho) – Um requisito de design, freqüentemente chamado de uma restrição de design, especifica ou restringe o design de um sistema. Exemplos podem incluir: linguagens de programação, processo de software, uso de ferramentas de desenvolvimento, biblioteca de classes, etc"  <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de design estão representados na tabela 8.
+
+<p align="center" > <strong> Tabela 8 - </Strong> Requisitos de Design</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+| +D001 | O aplicativo deve ser desenvolvido usando Java para o backend e Javascript para o frontend |
+| +D002 | O desenvolvimento deve seguir a metodologia Agile, com sprints de duas semanas e revisões de código regulares |
+| +D003 | O código deve ser desenvolvido e mantido usando Git para controle de versão, Jira para rastreamento de problemas e Jenkins para integração contínua |
+| +D004 | O aplicativo deve seguir uma arquitetura microserviços para permitir a escalabilidade e a manutenção independentes dos diferentes componentes do sistema |
+| +D005 | O sistema deve usar a biblioteca Spring Boot para o backend e a biblioteca React Navigation para a navegação no frontend. |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
 ### Requisitos de Interface
 
+"Requisitos de implementação – Um requisito de implementação especifica ou restringe o código ou a construção de um sistema. Como exemplos, podemos citar: padrões obrigatórios, linguagens de implementação, políticas de integridade de banco de dados, limites de recursos, ambientes operacionais" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de implementação estão representados na tabela 9.
+
+<p align="center" > <strong> Tabela 9 - </Strong> Requisitos de Implementação</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+| +Im001 | O aplicativo deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD) do brasil, garantindo a privacidade e segurança dos dados dos usuários. |
+| +Im002 | O aplicativo deve suportar protocolos de comunicação padrão, como HTTP/HTTPS para comunicação web. |
+| +Im003 | O aplicativo deve seguir as melhores práticas de segurança, incluindo a criptografia de dados em trânsito. |
+| +Im003 | O aplicativo deve garantir a integridade dos dados do usuário. Isso inclui a implementação de políticas e recuperação de dados, bem como medidas para previnir a corrupção de dados |
+| +Im004 | O aplicativo deve ser otimizado para uso eficiente de recursos, garantindo que funcione de maneira eficaz mesmo em dispositivos com recursos limitados. |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+
+
+### Requisitos de interface
+
+"Requisitos de interface – especifica ou restringe as funcionalidades inerentes a interface do sistema com usuário" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de interface estão representados na tabela 11.
+
+<p align="center" > <strong> Tabela 11 - </Strong> Requisitos de Interface</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+| +In001 | A interface do usuário deve ser intuitiva e fácil de usar, mesmo para usuários com pouca experiência em tecnologia. |
+| +In002 | O aplicativo deve ser acessível para todos os usuários, incluindo aqueles com deficiências visuais, auditivas ou motoras. Isso pode incluir recursos como leitores de tela, ampliação de texto e contraste de cores ajustável. |
+| +In003 | A navegação deve ser clara e consistente em todo o aplicativo, com menus e botões facilmente identificáveis. |
+| +In004 | A interface do usuário deve permitir atualizações fáceis e fornecer acesso a suporte ao usuário, como FAQs e tutoriais em vídeo. |
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+
 ### Requisitos Físicos
 
+"Requisitos físicos – especifica uma limitação física pelo hardware utilizado, por exemplo: material, forma, tamanho ou peso. Podendo representar requisitos de hardware, como as configurações físicas de rede obrigatórias" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos físicos estão representados na tabela 12.
 
+<p align="center" > <strong> Tabela 12 - </Strong> Requisitos de Físicos</font> <gitbr></p>
+
+|ID|Descrição do requisito|
+|:-:|:-:|
+| +P001 | O aplicativo deve funcionar em redes 3G, 4G e 5G, bem como em conexões Wi-Fi. Deve ser otimizado para uso eficiente de dados. |
+| +P002 | O aplicativo deve ser otimizado para uso mínimo de armazenamento no dispositivo. Isso é especialmente importante para usuários com dispositivos que têm capacidades de armazenamento limitadas. |
+| +P003 | O aplicativo deve ser otimizado para consumo mínimo de energia para não esgotar rapidamente a bateria do dispositivo do usuário. 
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
 ## Referências Bibliográficas
 
@@ -114,3 +232,4 @@ Esta seção inclui todos os requisitos que afetam a confiabilidade. "Refere-se 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 10/05/2024 | Versão inicial da pagina de Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) | || 
+| `1.1` | 13/05/2024 | Preenchimento de toda Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) & [Amanda Campos](https://github.com/acamposs)| || 
