@@ -63,6 +63,23 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
+### UC03 - Solicitar benefício
+
+<p align="center" > <font><strong>Tabela 4:</strong> Solicitar benefícios</font> <br></p>
+
+| <strong>UC03 | <strong>Solicitar benefício |
+|:--|:--|
+|<strong>Descrição| Permite que o usuário solicite os benefícios aos quais tem direito nosistema MeuINSS. |
+| <strong>Ator | Usuário |
+| <strong>Fluxo básico | 1. Usuário acessa a opção "Benefícios" na tela inicial do aplicativo.<br>2. O usuário é direcionado para uma página de seleção de benefícios.<br>3. Usuário seleciona um benefício específico para poder emitir.<br>4. O sistema exibe um formulário para preencher informações do benefício selecionado para a emissão.<br>5. O sistema armazena e protocola a emissão. |
+| <strong>Fluxos alternativos | 1. Se o formulário não for preenchido corretamente ,o sistema alerta o usuário e não permite o envio da solicitação até que todas as informações sejam fornecidas corretamente. |
+| <strong>Fluxo de exceção | 1. Se ocorrer um erro no envio da solicitação, o sistema deve apresentar uma mensagem de erro e permitir que o usuário tente enviar novamente. |
+| <strong>Pré-condições | 1. Usuário deve estar autenticado no sistema MeuINSS com uma conta GOV.br regular.<br> 2. Usuário deve ter pelo menos 1 ano de contribuição.<br> 3. O aplicativo MeuINSS deve estar instalado e o dispositivo conectado à internet.<br>4. O usuário deve estar apto a receber o benefício selecionado. |
+| <strong>pós-condições | O usuário consegue realizar a emissão da solicitação garantindo o seu benefício. |
+| <strong>Data da criação | 16/05/2024 |
+| <strong>Rastreabilidade | RE15, RE22, RE24, RE25 |
+
+<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
 
 ## Referências Bibliográficas
 
