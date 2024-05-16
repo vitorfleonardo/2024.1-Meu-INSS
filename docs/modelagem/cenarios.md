@@ -171,7 +171,7 @@ O cenário de número 5 diz sobre o objetivo de Atualização de Dados Pessoais 
 | Restrição | O servidor do sistema estar fora do ar |
 | Exceção | Erro de preenchimento em campos de dados que possuam validação |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/"></a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
 
 ### CEN06 - Segurança e Alertas
 
@@ -199,15 +199,15 @@ O cenário de número 7 diz sobre o objetivo de Perícias Médicas e sua descri�
 
 | Elemento | Descrição |
 |:-:|:-:|
-| Objetivo |  |
-| Contexto |  |
-| Recurso |  |
-| Ator |  |
-| Episódio |  |
-| Restrição |  |
-| Exceção |  |
+| Objetivo | Permitir que o usuário realize agendamentos, reagendamentos e cancelamento de perícias médicas  |
+| Contexto | Local: Em casa. <br>Tempo: Menos de 10 minutos. <br>Pré-condição: Aplicativo do Meu INSS instalado no dispositivo móvel, acesso à internet pelo dispositivo móvel, login já efetivado no aplicativo. |
+| Recurso | Internet <br>Informações de login GOV.br <br>Dispositivo móvel com acesso à internet <br>Aplicativo Meu INSS instalado |
+| Ator | Usuário com cadastro no GOV.br |
+| Episódio | O usuário seleciona a opção "Novo pedido" situado no menu principal <br>O usuário é direcionado para uma página com diversas opções de solicitações <br>O usuário seleciona a opção "Perícia médica" <br>O usuário seleciona a opção desejada para agendar, reagendar ou cancelar uma perícia <br>O usuário é direcionado para uma página onde coloca as informações necessárias de acordo com a opção escolhida <br>O usuário clica em "Concluir" <br>Os dados são processados e as informações referentes a perícia médica são atualizados |
+| Restrição | A data desejada para agendamento ou reagendamento não está disponível |
+| Exceção | O servidor estar fora do ar |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/"></a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
 
 ### CEN08 - Acesso para Advogados
 
@@ -217,15 +217,15 @@ O cenário de número 8 diz sobre o objetivo de Acesso para Advogados e sua desc
 
 | Elemento | Descrição |
 |:-:|:-:|
-| Objetivo |  |
-| Contexto |  |
-| Recurso |  |
-| Ator |  |
-| Episódio |  |
-| Restrição |  |
-| Exceção |  |
+| Objetivo | Permitir que um advogado possua acesso aos documentos e processos referentes aos seus clientes dentro do sistema |
+| Contexto | Local: Em um escritório de advocacia. <br>Tempo: Menos que 15 minutos. <br>Pré-condição: Aplicativo do MEU INSS instalado no dispositivo móvel, acesso à internet pelo dispositivo móvel. <br>Autorização de acesso aos processos e documentos de seus clientes dentro do sistema, perfil com condição especial de advogado. |
+| Recurso | Internet <br>Aplicativo MEU INSS instalado <br>Dispositivo móvel com conectividade com a internet <br>Autorização prévia para acessar os dados de seus clientes |
+| Ator | Advogado que possua um perfil dentro do APP do MEU INSS |
+| Episódio | O advogado seleciona a opção "Clientes" situado no menu principal <br>O advogado é direcionado para uma página onde ele visualiza todos os seus clientes que possuam processos vinculados à previdência <br>O advogado seleciona o cliente desejado <br>É disponibilizado para o advogado todos os processos que estão vinculados ao seu cliente <br>O advogado passa a ter acesso às informações necessárias para o andamento do processo |
+| Restrição | Erro de vínculo entre usuário cliente e usuário advogado, impedidndo que o advogado tenha acesso aos processos do seu cliente |
+| Exceção | O servidor estar fora do ar |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/"></a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
 
 ## Referências Bibliográficas
 
@@ -239,4 +239,5 @@ O cenário de número 8 diz sobre o objetivo de Acesso para Advogados e sua desc
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 15/05/2024 | Versão inicial da pagina de Cenários. | [Paulo Borba](https://github.com/paulohborba) | 16/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)| 
-| `1.1` | 16/05/2024 | Adição do cenário 2. | [Johnny Lopes](https://github.com/JohnnyLopess) | || 
+| `1.1` | 16/05/2024 | Adição do cenário 2. | [Johnny Lopes](https://github.com/JohnnyLopess) | | | 
+| `1.2` | 16/05/2024 | Adição do cenário 7 e 8 | [Gabriel Souza](https://github.com/GabrielMS00) | | |
