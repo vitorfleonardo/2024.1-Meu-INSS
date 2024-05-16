@@ -45,6 +45,7 @@ nav:
 
     - Modelagem:
         - Especificação Suplementar: "modelagem/specSuplementar.md"
+        - Casos de Uso: "modelagem/useCase.md"
     
 theme:
   name: material
