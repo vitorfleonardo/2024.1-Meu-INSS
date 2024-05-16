@@ -46,6 +46,7 @@ nav:
 
     - Modelagem:
         - Especificação Suplementar: "modelagem/specSuplementar.md"
+        - Cenários: "modelagem/cenarios.md"
     
 theme:
   name: material

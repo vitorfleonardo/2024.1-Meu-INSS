@@ -30,27 +30,54 @@ A Legenda para identificação dos elementos dos cenários de cada tabela estão
 
 <details>
   <summary>Pré-rastreabilidade dos requisitos agrupados nos cenários</summary>
-
-Tabela onde mostra a relação dos requisitos priorizados anteriormente com os cenários criados.
-
-<p align="center" > <strong> Tabela 2 - </Strong> Tabelas da pré-rastreabilidade dos requisitos</font> <gitbr></p>
-<center>
-
-| Cenário | Requisitos |
-|:-:|:-:|
-| CEN01 - Acesso Inicial e Autenticação | RE01, RE02, RE12, RE20, RE23 |
-| CEN02 - Acesso a Informações de Benefícios | RE03, RE07, RE09, RE10, RE11, RE14, RE16, RE17 |
-| CEN03 - Suporte e Aprendizado | RE04, RE05 |
-| CEN04 - Solicitação e Atualização de Benefícios | RE15, RE22, RE24, RE25 |
-| CEN05 -  Atualização de Dados Pessoais | RE17 |
-| CEN06 - Segurança e Alertas | RE18, RE19 |
-| CEN07 - Perícias Médicas | RE21 |
-| CEN08 - Acesso para Advogados | RE26, RE27 |
-
-</center>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
-
+  <div style="text-align: center;">
+    <strong>Tabela 2 - Pré-rastreabilidade dos requisitos</strong>
+    <table align="center" style="margin-top: 20px; border-collapse: collapse; width: 80%;" border="1">
+      <thead>
+        <tr>
+          <th>Cenário</th>
+          <th>Requisitos</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>CEN01 - Acesso Inicial e Autenticação</td>
+          <td>RE01, RE02, RE12, RE20, RE23</td>
+        </tr>
+        <tr>
+          <td>CEN02 - Acesso a Informações de Benefícios</td>
+          <td>RE03, RE07, RE09, RE10, RE11, RE14, RE16, RE17</td>
+        </tr>
+        <tr>
+          <td>CEN03 - Suporte e Aprendizado</td>
+          <td>RE04, RE05</td>
+        </tr>
+        <tr>
+          <td>CEN04 - Solicitação e Atualização de Benefícios</td>
+          <td>RE15, RE22, RE24, RE25</td>
+        </tr>
+        <tr>
+          <td>CEN05 - Atualização de Dados Pessoais</td>
+          <td>RE17</td>
+        </tr>
+        <tr>
+          <td>CEN06 - Segurança e Alertas</td>
+          <td>RE18, RE19</td>
+        </tr>
+        <tr>
+          <td>CEN07 - Perícias Médicas</td>
+          <td>RE21</td>
+        </tr>
+        <tr>
+          <td>CEN08 - Acesso para Advogados</td>
+          <td>RE26, RE27</td>
+        </tr>
+      </tbody>
+    </table>
+    <p><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p>
+  </div>
 </details>
+
 
 ## Cenários
 
@@ -90,7 +117,7 @@ O cenário de número 2 diz sobre o objetivo de Acesso a Informações de Benef�
 | Restrição | O usuário tem menos de 1 ano de contribuição |
 | Exceção | O sistema do MeuINSS está fora do ar |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p>
 
 ### CEN03 - Suporte e Aprendizado
 
@@ -211,4 +238,5 @@ O cenário de número 8 diz sobre o objetivo de Acesso para Advogados e sua desc
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 15/05/2024 | Versão inicial da pagina de Cenários. | [Paulo Borba](https://github.com/paulohborba) | || 
+| `1.0` | 15/05/2024 | Versão inicial da pagina de Cenários. | [Paulo Borba](https://github.com/paulohborba) | 16/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)| 
+| `1.1` | 16/05/2024 | Adição do cenário 2. | [Johnny Lopes](https://github.com/JohnnyLopess) | || 
