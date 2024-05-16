@@ -7,15 +7,29 @@ Foi utilizado o repositório da Bilheteria Digital do semestre de 2023.1 como ba
 
 ## Metodologia
 
-A metodologia para criar personas envolve um processo estruturado de coleta, análise e síntese de dados sobre os usuários reais de um negócio. A seguir, como citado por PIOVESANA (2024), apresentamos um passo a passo básico para a criação de personas:[(PIOVESANA, 2024)](#anchor_4)
+A criação das personas para o projeto do aplicativo Meu INSS foi realizada seguindo uma metodologia estruturada, que envolveu etapas importantes de coleta, análise e síntese de dados. A seguir, como citado por [(PIOVESANA (2024))](#anchor_4), apresentamos um passo a passo de como foi a criação das personas:
 
-1. **Coleta de dados sobre os usuários:** Inicialmente, é fundamental reunir informações detalhadas sobre os usuários existentes ou potenciais. Esses dados podem ser obtidos por meio de entrevistas, questionários, aobservação direta do comportamento do usuário, entre outras técnicas de elicitação. É importante utilizar perguntas objetivas que abordem aspectos como idade, gênero, localização, profissão, interesses, comportamentos de compra e desafios enfrentados no dia a dia.
 
-2. **Análise dos dados coletados:** Após a coleta de dados, é necessário analisar as informações obtidas para identificar padrões e tendências. Isso pode ser feito por meio da organização dos dados em tabelas ou gráficos, destacando as características mais comuns entre os usuários. Essa análise permite identificar elementos recorrentes, como níveis de escolaridade, renda, preferências de compra e concorrência.
+1. **Coleta de dados sobre os usuários:** Inicialmente, foram utilizadas diversas técnicas de elicitação de requisitos para obter informações detalhadas sobre os usuários reais ou potenciais do aplicativo. Isso incluiu entrevistas com usuários, questionários online, observação direta do comportamento dos usuários, sendo a metodologia de perfil de usuário a principal ferramenta. Para mais detalhes sobre essa metodologia, é possível encontrar na página de [Perfil do Usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/perfil_de_Usuario/). As perguntas elaboradas foram objetivas e abordaram aspectos como idade, gênero, localização geográfica, profissão, interesses relacionados ao aplicativo, desafios enfrentados no dia a dia ao lidar com o INSS, preferências de uso de tecnologia, entre outros.
 
-3. **Estruturação da persona:** Com base na análise dos dados, é hora de dar vida às personas. Isso envolve a criação de perfis fictícios que representam os diferentes segmentos de usuários identificados. Cada persona deve ter um nome, uma história de vida e características específicas que reflitam seus comportamentos, necessidades, desejos e desafios. É essencial pensar na persona como um cliente real, capaz de interagir com a marca e influenciar as decisões de compra.
+2. **Análise dos dados coletados:** Após a coleta dos dados, foi realizada uma análise minuciosa para identificar padrões, tendências e características comuns entre os usuários. Os dados foram organizados em tabelas, gráficos e outros recursos visuais para facilitar a identificação das informações relevantes. Essa análise permitiu compreender melhor as necessidades, expectativas, comportamentos e desafios enfrentados pelos diferentes perfis de usuários.
+
+3. **Estruturação das personas:** Com base na análise dos dados coletados, foram criadas as personas, que são representações fictícias de diferentes segmentos de usuários. Cada persona recebeu um nome, uma história de vida e características específicas que refletem seus comportamentos, necessidades, desejos e desafios em relação ao uso do aplicativo Meu INSS. As personas foram desenvolvidas de forma a representar com precisão os diferentes perfis de usuários identificados durante o processo de elicitação de requisitos.
+
+Durante todo o processo de criação das personas, foi fundamental considerar a metodologia adequada para garantir a qualidade e a representatividade dos perfis de usuários. Isso contribui para que as equipes de desenvolvimento possam criar um aplicativo que atenda às necessidades e expectativas dos usuários reais, proporcionando uma experiência positiva e eficaz ao utilizar o Meu INSS.
 
 ## Elenco
+O elenco de personas no projeto do aplicativo Meu INSS consiste em quatro personas principais e uma antipersona, totalizando cinco perfis de usuários. A quantidade foi definida após uma análise cuidadosa dos dados coletados durante o processo de elicitação de requisitos.
+
+A escolha de quatro personas principais foi baseada na diversidade de perfis de usuários identificados. Cada persona representa um segmento significativo dos usuários reais ou potenciais do aplicativo Meu INSS, abrangendo diferentes características demográficas, necessidades, experiências e expectativas em relação ao sistema.
+
+A Persona Primária Elisa Silva representa um usuário idoso, aposentado, com pouca experiência em tecnologia, mas que utiliza o aplicativo para acessar informações sobre sua aposentadoria e gerenciar seus benefícios. A Persona Primária Rafael Costa é um profissional de tecnologia mais jovem, que busca informações detalhadas sobre sua previdência e utiliza o aplicativo para simular cenários de aposentadoria e planejar seu futuro financeiro.
+
+A Persona Primária Melanie Lima é uma professora com lesão por esforço repetitivo, que busca auxílio-acidente pelo aplicativo. E a Persona Secundária Julyana Batista é uma advogada especializada em direito previdenciário, que utiliza o aplicativo para acompanhar processos de seus clientes.
+
+A Antipersona Enzo Fernandes representa um usuário jovem, com habilidades tecnológicas avançadas, que utiliza o aplicativo em nome de terceiros, como seu avô, para acessar informações sobre aposentadoria.
+
+Essa quantidade de personas foi considerada adequada para abranger os principais perfis de usuários e garantir que as funcionalidades do aplicativo atendam às necessidades e expectativas de uma ampla gama de usuários, desde aqueles com menor familiaridade com tecnologia até aqueles com conhecimento mais avançado.
 
 <p style="text-align: justify;">As tabelas de 1 a 5 apresentam o elenco de personas.</p>
 
@@ -132,5 +146,6 @@ A metodologia para criar personas envolve um processo estruturado de coleta, an�
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 04/04/2024  | Versão inicial da pagina de Personas | [Amanda Campos](https://github.com/acamposs) e [Bianca Castro](https://github.com/BiancaPatrocinio7)| 13/04/2024 |<a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/JoseFilipi">José Filipi</a>| 
 | `1.1`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 14/04/2024 |  <a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/JoseFilipi">José Filipi</a>|
+|`1.2`| 13/05/2024 | Correção após análise do monitor | [Bianca Castro](https://github.com/BiancaPatrocinio7) | [Amanda Campos](https://github.com/acamposs) |
 
 
