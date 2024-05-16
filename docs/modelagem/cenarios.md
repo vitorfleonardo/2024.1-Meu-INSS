@@ -2,11 +2,11 @@
 
 ## Introdução
 
-
+Os cenários são responsáveis por nos guiar por uma jornada de descoberta da interação entre o sistema e o ambiente na qual ele está vinculado, isso ocorre através de histórias detalhadas, na qual permite com que as pessoas envolvidas no projeto possam imaginar diferentes situações no mundo real, explorando como o software se comporta em cada uma delas. Nesse sentido, os cenários se tornam uma ferramenta valiosa para compreender as necessidades dos usuários, para auxiliar no desenvolvimento de sistemas robustos e até mesmo contribuem para fazer a validação do software.
 
 ## Metodologia
 
-Utilizamos o método do texto estruturado e com base no modelo proposto no material disponibilizado pelo professor, onde esse modelo é descrito pelo uso de uma linguagem natural semi-estruturada, que parte da premissa que a utilização desse tipo de linguagem da aplicação e no do software facilita a compreensão e a validação dos requisitos por psrte dos clientes<a id="TEC1" href="#RP1">[1]</a>.
+Utilizamos o método do texto estruturado e com base no modelo proposto no material disponibilizado pelo professor, onde esse modelo é descrito pelo uso de uma linguagem natural semi-estruturada, que parte da premissa que a utilização desse tipo de linguagem da aplicação e no do software facilita a compreensão e a validação dos requisitos por parte dos clientes<a id="TEC1" href="#RP1">[1]</a>.
 
 A Legenda para identificação dos elementos dos cenários de cada tabela estão representadas na tabela 1.
 
@@ -136,13 +136,13 @@ O cenário de número 5 diz sobre o objetivo de Atualização de Dados Pessoais 
 
 | Elemento | Descrição |
 |:-:|:-:|
-| Objetivo |  |
-| Contexto |  |
-| Recurso |  |
-| Ator |  |
-| Episódio |  |
-| Restrição |  |
-| Exceção |  |
+| Objetivo | Permitir que o usuário possa atualizar seus dados pessoais a qualquer instante dentro do aplicativo |
+| Contexto | Local: Em casa. <br>Tempo: Menos que 5 minutos. <br>Pré-condição: Aplicativo do Meu INSS instalado no dispositivo móvel, acesso à internet pelo dispositivo móvel, login e dados iniciais já iniciados. |
+| Recurso | Internet <br> Aplicativo Meu INSS instalado <br>Dispositivo móvel com conectividade com a internet <br> Perfil já iniciado com informações básicas no aplicativo |
+| Ator | Usuário que já possua um perfil dentro do APP do MEU INSS |
+| Episódio | O usuário seleciona a opção "Meu cadastro" situado no menu principal <br>O usuário é direcionado para uma página com seus dados cadastrais <br>O usuário seleciona a opção "Complementar" <br>O sistema exibe os campos com os dados cadastrais do usuário e uma opção de mudar os dados <br>O usuário muda os dados nos campos desejados <br>O usuário clica na opção "concluir" <br>Os dados do usuário são alterados de acordo com suas opções escolhidas |
+| Restrição | O servidor do sistema estar fora do ar |
+| Exceção | Erro de preenchimento em campos de dados que possuam validação |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/"></a>, 2024</p></font>
 
