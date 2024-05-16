@@ -16,7 +16,7 @@ A Legenda para identificação dos elementos dos cenários de cada tabela estão
 ### Título: Identifica o cenário.
 
 | Elemento | Descrição |
-|:-:|:-:|
+|:--|:--|
 | Objetivo | Dita a finalidade de um cenário. O cenário deve descrever de que jeito o objetivo deve ser alcançado. |
 | Contexto | Descreve o estado inicial do cenário,suas pré-condições, o local e tempo. |
 | Recurso | Identifica os objetos passivos com os quais lidam os atores. |
@@ -90,7 +90,7 @@ O cenário de número 1 diz sobre o objetivo de Acesso e Autenticação Inicial 
 <p align="center" > <strong> Tabela 3 - </Strong>  Cenário 1</font> <gitbr></p>
 
 | Elemento | Descrição |
-|:-:|:-:|
+|:--|:--|
 | Objetivo | Permitir que o usuário possa realizar uma autenticação e acessar o aplicativo com informações já existentes do GOV.br |
 | Contexto | Local: Na fila de espera do banco. <br>Tempo: Menos de 5 minutos. <br>Pré-condição: Conta no GOV.br regular, celular conectado na internet, o aplicativo MeuINSS instalado no celular. |
 | Recurso | Internet <br>Informações de login do GOV.br <br>Aparelho celular <br>Aplicativo MeuINSS instalado |
@@ -108,7 +108,7 @@ O cenário de número 2 diz sobre o objetivo de Acesso a Informações de Benef�
 <p align="center" > <strong> Tabela 4 - </Strong>  Cenário 2</font> <gitbr></p>
 
 | Elemento | Descrição |
-|:-:|:-:|
+|:--|:--|
 | Objetivo | Permitir que o usuário acesse as informações dos seus benefícios do INSS |
 | Contexto | Local: Em casa. <br>Tempo: Menos de 30 segundos por benefício. <br>Pré-condição: Conta no GOV.br regular, celular conectado na internet, o aplicativo MeuINSS instalado no celular, possuir pelo menos 1 ano de contribuição. |
 | Recurso | Internet <br>Informações de login do GOV.br <br>Aparelho celular <br>Aplicativo MeuINSS instalado <br>Pelo menos 1 ano de contribuição |
@@ -126,7 +126,7 @@ O cenário de número 3 diz sobre o objetivo de Suporte e Aprendizado e sua desc
 </font><p align="center" > <strong> Tabela 5 - </Strong>  Cenário 3</font> <gitbr></p>
 
 | Elemento | Descrição |
-|:-:|:-:|
+|:--|:--|
 | Objetivo | Permitir que o usuário do aplicativo do INSS consiga receber suporte técnico e acessar tutoriais para melhor compreensão e uso do aplicativo |
 | Contexto | Local: Em casa. <br>Tempo: Menos de 15 minutos. <br>Pré-condição: Conta no GOV.br regular, celular conectado na internet, o aplicativo MeuINSS instalado no celular. |
 | Recurso | Internet <br>Informações de login do GOV.br <br>Aparelho celular <br>Aplicativo MeuINSS instalado |
@@ -144,7 +144,7 @@ O cenário de número 3 diz sobre o objetivo de Suporte e Aprendizado e sua desc
 <p align="center" > <strong> Tabela 6 - </Strong>  Cenário 4</font> <gitbr></p>
 
 | Elemento | Descrição |
-|:-:|:-:|
+|:--|:--|
 | Objetivo | O usuário precisa acessar o aplicativo do INSS para conseguir solicitar ou atualizar benefícios previdenciários. |
 | Contexto | Local: Em casa. <br>Tempo: Menos de 5 minutos. <br>Pré-condição: Conta no GOV.br regular, celular conectado na internet, o aplicativo MeuINSS instalado no celular, possuir pelo menos 1 ano de contribuição. |
 | Recurso | Internet <br>Informações de login do GOV.br <br>Aparelho celular <br>Aplicativo MeuINSS instalado <br>Pelo menos 1 ano de contribuição |
@@ -162,7 +162,7 @@ O cenário de número 5 diz sobre o objetivo de Atualização de Dados Pessoais 
 <p align="center" > <strong> Tabela 7 - </Strong>  Cenário 5</font> <gitbr></p>
 
 | Elemento | Descrição |
-|:-:|:-:|
+|:--|:--|
 | Objetivo | Permitir que o usuário possa atualizar seus dados pessoais a qualquer instante dentro do aplicativo |
 | Contexto | Local: Em casa. <br>Tempo: Menos que 5 minutos. <br>Pré-condição: Aplicativo do Meu INSS instalado no dispositivo móvel, acesso à internet pelo dispositivo móvel, login e dados iniciais já iniciados. |
 | Recurso | Internet <br> Aplicativo Meu INSS instalado <br>Dispositivo móvel com conectividade com a internet <br> Perfil já iniciado com informações básicas no aplicativo |
@@ -171,25 +171,25 @@ O cenário de número 5 diz sobre o objetivo de Atualização de Dados Pessoais 
 | Restrição | O servidor do sistema estar fora do ar |
 | Exceção | Erro de preenchimento em campos de dados que possuam validação |
 
-<font size="3"><p style="text-align: center"><b>Fonte: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
 
 ### CEN06 - Segurança e Alertas
 
 O cenário de número 6 diz sobre o objetivo de Segurança e Alertas e sua descrição está contida na tabela 8. 
 
-<p align="center" > <strong> Tabela 8 - </Strong>  Cenário 6</font> <gitbr></p>
+<p align="center" > <strong> Tabela 8 - </Strong>Cenário 6</font> <gitbr></p>
 
 | Elemento | Descrição |
-|:-:|:-:|
-| Objetivo |  |
-| Contexto |  |
-| Recurso |  |
-| Ator |  |
-| Episódio |  |
-| Restrição |  |
-| Exceção |  |
+|:--|:--|
+| Objetivo | Garantir a segurança dos dados dos usuários e prover alertas proativos sobre atividades suspeitas ou importantes relacionadas à conta do usuário. |
+| Contexto | Local: Em qualquer local com acesso ao aplicativo. <br> Tempo: Alertas e verificações de segurança ocorrem em tempo real durante o uso do aplicativo. <br>Pré-condição: Aplicativo do Meu INSS instalado no dispositivo móvel, usuário Autenticado, configurações de Segurança Ativas, dispositivo Seguro, conexão Segura. |
+| Recurso | Conexão segura de internet, ferramentas de autenticação forte (como autenticação de dois fatores), sistema de alertas via e-mail ou SMS. |
+| Ator | Usuário do aplicativo Meu INSS, sistema de segurança do Meu INSS. |
+| Episódio | O sistema monitora continuamente a sessão do usuário para detectar atividades suspeitas. <br> O usuário recebe alertas via SMS ou e-mail quando uma tentativa de login suspeita é detectada. <br> O usuário deve autenticar novamente usando um método de autenticação de dois fatores se comportamentos atípicos forem identificados. <br> O sistema registra todas as atividades de segurança e alertas emitidos para auditoria e melhoria contínua. |
+| Restrição | Dependência de conectividade de internet constante e eficaz para enviar/receber alertas em tempo real. |
+| Exceção |  Interrupções de serviço devido a falhas de servidor que afetam a capacidade do sistema de monitorar segurança ou enviar alertas. <br> Falsos positivos em alertas de segurança causando inconvenientes aos usuários.|
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/"></a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
 
 ### CEN07 - Perícias Médicas
 
@@ -198,7 +198,7 @@ O cenário de número 7 diz sobre o objetivo de Perícias Médicas e sua descri�
 <p align="center" > <strong> Tabela 9 - </Strong>  Cenário 7</font> <gitbr></p>
 
 | Elemento | Descrição |
-|:-:|:-:|
+|:--|:--|
 | Objetivo | Permitir que o usuário realize agendamentos, reagendamentos e cancelamento de perícias médicas  |
 | Contexto | Local: Em casa. <br>Tempo: Menos de 10 minutos. <br>Pré-condição: Aplicativo do Meu INSS instalado no dispositivo móvel, acesso à internet pelo dispositivo móvel, login já efetivado no aplicativo. |
 | Recurso | Internet <br>Informações de login GOV.br <br>Dispositivo móvel com acesso à internet <br>Aplicativo Meu INSS instalado |
@@ -216,7 +216,7 @@ O cenário de número 8 diz sobre o objetivo de Acesso para Advogados e sua desc
 <p align="center" > <strong> Tabela 10 - </Strong>  Cenário 8</font> <gitbr></p>
 
 | Elemento | Descrição |
-|:-:|:-:|
+|:--|:--|
 | Objetivo | Permitir que um advogado possua acesso aos documentos e processos referentes aos seus clientes dentro do sistema |
 | Contexto | Local: Em um escritório de advocacia. <br>Tempo: Menos que 15 minutos. <br>Pré-condição: Aplicativo do MEU INSS instalado no dispositivo móvel, acesso à internet pelo dispositivo móvel. <br>Autorização de acesso aos processos e documentos de seus clientes dentro do sistema, perfil com condição especial de advogado. |
 | Recurso | Internet <br>Aplicativo MEU INSS instalado <br>Dispositivo móvel com conectividade com a internet <br>Autorização prévia para acessar os dados de seus clientes |
@@ -239,5 +239,5 @@ O cenário de número 8 diz sobre o objetivo de Acesso para Advogados e sua desc
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 15/05/2024 | Versão inicial da pagina de Cenários. | [Paulo Borba](https://github.com/paulohborba) | 16/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)| 
-| `1.1` | 16/05/2024 | Adição do cenário 2. | [Johnny Lopes](https://github.com/JohnnyLopess) | | | 
+| `1.1` | 16/05/2024 | Adição do cenário 2 e 6. | [Johnny Lopes](https://github.com/JohnnyLopess) | | | 
 | `1.2` | 16/05/2024 | Adição do cenário 7 e 8 | [Gabriel Souza](https://github.com/GabrielMS00) | | |

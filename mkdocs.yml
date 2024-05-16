@@ -49,10 +49,12 @@ nav:
         - Cenários: "modelagem/cenarios.md"
     
 theme:
+  language: pt-BR
   name: material
   logo: imagens/inss-logo.png
   features:
     - navigation.tabs
+    - navigation.top
   palette: 
 
     # Palette toggle for light mode
