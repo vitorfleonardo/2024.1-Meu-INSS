@@ -45,11 +45,11 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
-### UC02 - Consultar benefícios
+### UC01 - Consultar benefícios
 
 <p align="center" > <font><strong>Tabela 3:</strong> Consultar benefícios</font> <br></p>
 
-|<strong>UC02|<strong>Consultar benefícios|
+|<strong>UC01|<strong>Consultar benefícios|
 |:--|:--|
 |<strong>Descrição|Permite que o usuário visualize informações detalhadas sobre os benefícios aos quais tem direito no sistema MeuINSS.|
 |<strong>Ator|Usuário|
@@ -63,13 +63,13 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
-### UC03 - Solicitar benefício
+### UC02 - Solicitar benefício
 
-<p align="center" > <font><strong>Tabela 4:</strong> Solicitar benefícios</font> <br></p>
+<p align="center" > <font><strong>Tabela 4:</strong> Solicitar benefício</font> <br></p>
 
-| <strong>UC03 | <strong>Solicitar benefício |
+| <strong>UC02 | <strong>Solicitar benefício |
 |:--|:--|
-|<strong>Descrição| Permite que o usuário solicite os benefícios aos quais tem direito nosistema MeuINSS. |
+|<strong>Descrição| Permite que o usuário solicite os benefícios aos quais tem direito no sistema MeuINSS. |
 | <strong>Ator | Usuário |
 | <strong>Fluxo básico | 1. Usuário acessa a opção "Benefícios" na tela inicial do aplicativo.<br>2. O usuário é direcionado para uma página de seleção de benefícios.<br>3. Usuário seleciona um benefício específico para poder emitir.<br>4. O sistema exibe um formulário para preencher informações do benefício selecionado para a emissão.<br>5. O sistema armazena e protocola a emissão. |
 | <strong>Fluxos alternativos | 1. Se o formulário não for preenchido corretamente ,o sistema alerta o usuário e não permite o envio da solicitação até que todas as informações sejam fornecidas corretamente. |
@@ -80,6 +80,24 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 | <strong>Rastreabilidade | RE15, RE22, RE24, RE25 |
 
 <font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
+
+### UC02 - Agendar Atendimentos Presenciais
+
+<p align="center" > <font><strong>Tabela 5:</strong> Agendar Atendimentos Presenciais</font> <br></p>
+
+| <strong>UC03 | <strong>Agendar Atendimentos Presenciais|
+|:--|:--|
+|<strong>Descrição| Permite que o usuário agende um horário para atendimento presencial em uma agência do INSS, escolhendo data, hora e local conforme disponibilidade. |
+| <strong>Ator | Usuário |
+| <strong>Fluxo básico | 1. Usuário acessa a opção "Novo Pedido" na tela inicial do aplicativo. <br>2. O usuário é direcionado a uma página de seleção de pedidos. <br>3. Usuário seleciona um pedido na opção "Atendimento Presencial".<br>4. São fornecidas Informações do Serviço solicitado ao usuário.<br>5. São solicitados os dados do requerente da solicitação, celular e email. <br>6. É solicitado o endereço para que as Agências mais próximas sejam listadas. <br>7. O usuário seleciona a agência e sua solicitação é atribuída. |
+| <strong>Fluxos alternativos | 1. O usuário acessa a opção "Consultar Pedidos" e seleciona "Novo Pedido". |
+| <strong>Fluxo de exceção | 1. Caso o usuário não preencha os campos obrigatórios será solicitado a revisão das informações do formulário|
+| <strong>Pré-condições | 1. Usuário deve estar autenticado no sistema MeuINSS com uma conta GOV.br regular.<br> 2. O aplicativo MeuINSS deve estar instalado e o dispositivo conectado à internet.|
+| <strong>pós-condições | 1. O usuário consegue agendar o atendimento solicitado na agência mais próxima do endereço fornecido. |
+| <strong>Data da criação | 17/05/2024 |
+| <strong>Rastreabilidade | RE06|
+
+<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi), 2024</p></font>
 
 ## Referências Bibliográficas
 
@@ -99,4 +117,5 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 13/05/2024 | Versão inicial da pagina de Casos de Uso. | [Vitor Feijó](https://github.com/vitorfleonardo) & [Johnny Lopes](https://github.com/JohnnyLopess) & [José Filipi](https://github.com/JoseFilipi) | | | 
-| `1.1` | 16/05/2024 | Adição de conteúdo à página. | [Johnny Lopes](https://github.com/JohnnyLopess) | | | 
+| `1.1` | 16/05/2024 | Adição de conteúdo à página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 17/05/2024 | [José Filipi](https://github.com/JoseFilipi) | 
+| `1.2` | 17/05/2024 | Adição de caso de uso 3. | [José Filipi](https://github.com/JoseFilipi) | | | 
