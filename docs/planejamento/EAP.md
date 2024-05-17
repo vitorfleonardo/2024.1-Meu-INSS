@@ -19,4 +19,4 @@ A Estrutura Analítica do Projeto (EAP) é uma ferramenta essencial para o plane
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 27/03/2024 | Criação da EAP. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor Leonardo](https://github.com/vitorfleonardo) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.1`  | 01/04/2024 | Adição das referências.| [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 | [Vitor Leonardo](https://github.com/vitorfleonardo) |
-| `1.2`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
+| `1.2`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  17/05/2024 | [Vitor Feijó](https://github.com/vitorfleonardo)  |
