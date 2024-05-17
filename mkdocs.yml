@@ -46,6 +46,7 @@ nav:
 
     - Modelagem:
         - Especificação Suplementar: "modelagem/specSuplementar.md"
+        - Léxicos: "modelagem/lexicos.md"
     
 theme:
   name: material
