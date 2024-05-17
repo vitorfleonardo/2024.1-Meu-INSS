@@ -64,12 +64,12 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
 
-## Referências Bibliográficas
-> <a id="QT1" href="#anchor_1">1.<a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
+## Bibliografia
+> <a>1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 27/03/2024  | Versão inicial de documento. | [Vitor Leonardo](https://github.com/vitorfleonardo) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.1` | 01/04/2024  | Adição de referência nas tabelas. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 | [Amanda Campos](https://github.com/acamposs) |
-| `1.2`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
+| `1.2`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 17/05/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
