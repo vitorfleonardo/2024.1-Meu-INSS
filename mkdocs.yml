@@ -47,6 +47,8 @@ nav:
     - Modelagem:
         - Especificação Suplementar: "modelagem/specSuplementar.md"
         - Cenários: "modelagem/cenarios.md"
+        - Léxicos: "modelagem/lexicos.md"
+
     
 theme:
   language: pt-BR
