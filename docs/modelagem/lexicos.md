@@ -35,6 +35,7 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 | L05 - Autenticação     | Login, Acesso| Processo de Acesso| O usuário pode realizar login no sistema para acessar e gerenciar seus benefícios e informações pessoais de forma segura. |    Objeto     |[Johnny Lopes](https://github.com/JohnnyLopess)|
 |L06 - Notificação|Alerta, Aviso|Receber Notificações|O usuário recebe notificações sobre atualizações de status das solicitações, novos documentos necessários, ou outras informações importantes relacionadas aos seus benefícios e solicitações.|Objeto|[Johnny Lopes](https://github.com/JohnnyLopess)|
 |L17 - Atendimento|Suporte, Assistência|Acesso ao Atendimento|O usuário pode solicitar atendimento para resolver dúvidas ou problemas relacionados aos benefícios e serviços.|Objeto|[José Filipi](https://github.com/JoseFilipi)|
+|L18 - Extrato|Sumário, Documento|Emissão de benefícios|O usuário pode gerar um documento que contém informações sobre os benefícios e/ou salário do aposentado.|Objeto|[Paulo Borba](https://github.com/paulohborba)|
 
 
 
@@ -59,7 +60,7 @@ Os léxicos do tipo verbo representam ações ou operações que os usuários po
 | :--------- | :------------ | :---------------: | :----------------------------------------------------- | :----------- |:----------- |
 | L07 - Solicitar | Pedir, Requerer | Enviar Solicitação | O usuário pode enviar, acompanhar e verificar o status das solicitações. |    Verbo     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
 | L08 - Consultar | Verificar, Checar | Consultar Informações | O usuário pode buscar e visualizar informações relacionadas a benefícios e processos. |    Verbo     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
-| L09 - Simular    | Estimar, Prever  | Simular Cenários  | O usuário pode simular diferentes cenários e calcular possíveis benefícios e impactos. |    Verbo     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
+| L09 - Simular    | Estimar, Prever, Demonstrar  | Simular Cenários  | O usuário pode simular a questão de sua aposentadoria, o tempo de contribuição ou renda inicial. |    Verbo     |[Bianca Castro](https://github.com/BiancaPatrocinio7) e [Paulo Borba](https://github.com/paulohborba)|
 | L10 - Atualizar    | Modificar, Alterar  | Atualizar Dados Pessoais  | O usuário pode atualizar seus dados pessoais, como endereço, contato e informações bancárias. |    Verbo     |[Johnny Lopes](https://github.com/JohnnyLopess)|
 |L11 - Rastrear|Monitorar, Acompanhar|Rastrear Solicitação|O usuário pode acompanhar o progresso detalhado das suas solicitações, visualizando cada etapa até a conclusão.|Verbo|[Johnny Lopes](https://github.com/JohnnyLopess)|
 |L18 - Avaliar|Analisar, Julgar|Avaliar Situação|O usuário pode avaliar sua situação atual em relação aos benefícios disponíveis, identificando possíveis opções e etapas necessárias.|Verbo|[José Filipi](https://github.com/JoseFilipi)|
@@ -84,6 +85,7 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 | L15 - Rejeitado  |    Negado, Recusado      |   Status Rejeitado | O usuário teve sua solicitação rejeitada devido a não conformidade com os requisitos necessários ou por erros no processo de solicitação.    |    Estado     |[Johnny Lopes](https://github.com/JohnnyLopess)|
 |L16 - Complementar|Ajustar, Suplementar|Status Complementar|O usuário é notificado para fornecer informações ou documentos adicionais necessários para o prosseguimento ou conclusão da sua solicitação.|Estado|[Johnny Lopes](https://github.com/JohnnyLopess)|
 |L19 - Suspenso|Interrompido, Parado|Status Suspenso|O benefício ou solicitação do usuário foi temporariamente interrompido, podendo ser retomado após a resolução de pendências ou conformidades.|Estado|[José Filipi](https://github.com/JoseFilipi)|
+|L20 - Beneficiário|Favorecido, Contemplado|Tipo específico de usuário|Representa um tipo específico de usuário, onde esse está apto a receber os benefícios do INSS.|Estado|[Paulo Borba](https://github.com/paulohborba)|
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Fonte: <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024)</p></font>
@@ -99,5 +101,6 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
 |:----:|:----:|:---------:|:-----:|:-----:|:-------:|
 |`1.0`|16/05/2024|Criação do documento e adição dos lexicos.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|19/05/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
-|`1.1`|19/05/2024|Adição de lexicos e ajustes nas tabelas.|[Johnny Lopes](https://github.com/JohnnyLopess)|||
-|`1.2`|19/05/2024|Adição de novos léxicos |[José Filipi](https://github.com/JoseFilipi)|||
+|`1.1`|19/05/2024|Adição de lexicos e ajustes nas tabelas.|[Johnny Lopes](https://github.com/JohnnyLopess)|19/05/2024|[Paulo Borba](https://github.com/paulohborba)|
+|`1.2`|19/05/2024|Adição de novos léxicos |[José Filipi](https://github.com/JoseFilipi)|19/05/2024|[Paulo Borba](https://github.com/paulohborba)|
+|`1.3`|19/05/2024|Adição de novos léxicos |[Paulo Borba](https://github.com/paulohborba)|||
