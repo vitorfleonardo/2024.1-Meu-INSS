@@ -1,6 +1,7 @@
 # Especificação suplementar
 
 ## Introdução
+A **Especificação Suplementar**, no contexto da engenharia de software, refere-se à prática de classificar e organizar os requisitos de um sistema em diferentes grupos ou categorias. Essa abordagem facilita a compreensão, o gerenciamento e a priorização dos requisitos durante o ciclo de desenvolvimento do software.
 
 "Este documento captura os requisitos de sistema que não foram identificados imediatamente nos Casos de Uso do Modelo de Casos de Uso. Entre estes requisitos estão incluídos: o Requisitos legais e reguladores, incluindo padrões de aplicativo; Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade. Outros requisitos, como sistemas operacionais e ambientes, requisitos de compatibilidade e restrições de design" <a id="TEC1" href="#RP1">[1]</a>. Esses requisitos são cruciais para garantir a qualidade do software e a satisfação do usuário  <a id="TEC2" href="#RP2">[2]</a>.
 
@@ -40,9 +41,13 @@ A Legenda para identificação dos requisitos em cada acrônimo estão represent
 
 ## Funcionalidade
 
+A **funcionalidade** trata do núcleo do sistema, abordando as funções e capacidades que o software precisa oferecer. Os requisitos de funcionalidade especificam o que o sistema deve fazer, englobando tarefas, operações, recursos e comportamentos esperados.
+
 Os requisitos funcionais foram capturados ateriormente com as técnicas de [Brainstorming](../elicitacao/brainStorm.md), [Introspeção](../elicitacao/Introspeccao.md), [Entrevista](../elicitacao/entrevista.md), [Questionário](../elicitacao/questionario.md), [Storytelling](../elicitacao/storytelling.md), e podem ser consultados em [Requisitos Elicitados](../elicitacao/requisitosElicitados.md). Os casos de uso também podem ser considerados como requisitos funcionais. 
 
 ## Usabilidade
+
+A **usabilidade** se refere a quão eficiente e agradável é para uma pessoa usar um produto ou sistema. Ela envolve aspectos como a simplicidade do uso, a clareza e a organização da interface, a facilidade de acesso para todos os tipos de usuários, e qualquer outro fator que possa melhorar ou prejudicar a interação do usuário com o produto.
 
 Esta seção inclui todos os requisitos que afetam a usabilidade. Os requisitos não funcionais para usabilidade estão representados na tabela 3.
 
@@ -74,7 +79,9 @@ Esta seção inclui todos os requisitos que afetam a usabilidade. Os requisitos 
 
 ## Confiabilidade
 
-Esta seção inclui todos os requisitos que afetam a confiabilidade. "Refere-se a integridade, conformidade e interoperabilidade do software" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de confiabilidade estão representados na tabela 4.
+A **confiabilidade** refere-se à habilidade do sistema de operar continuamente e sem problemas, reduzindo ao máximo as falhas. Isso envolve a capacidade de lidar com falhas, a forma como os erros são gerenciados e a disponibilidade constante do sistema. "Refere-se a integridade, conformidade e interoperabilidade do software" <a id="TEC3" href="#RP3">[3]</a>.
+
+Esta seção inclui todos os requisitos que afetam a confiabilidade.. Os requisitos de confiabilidade estão representados na tabela 4.
 
 <p align="center" > <strong> Tabela 4 - </Strong> Requisitos de confiabilidade</font> <gitbr></p>
 
@@ -93,6 +100,8 @@ Esta seção inclui todos os requisitos que afetam a confiabilidade. "Refere-se 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
 ## Desempenho
+
+O **desempenho** diz respeito à rapidez e eficiência com que o sistema opera. Os requisitos de desempenho incluem fatores como a velocidade de resposta, a capacidade de processamento de dados e a habilidade do sistema de crescer e se adaptar a maiores demandas.
 
 Esta seção inclui todos os requisitos que afetam o desempenho. Os requisitos de desempenho estão representados na tabela 5.
 
@@ -115,6 +124,8 @@ Esta seção inclui todos os requisitos que afetam o desempenho. Os requisitos d
 
 ## Suportabilidade
 
+A **suportabilidade** refere-se à facilidade de manter e suportar o sistema ao longo do tempo. Isso envolve requisitos como a frequência e facilidade de atualizações, a manutenção contínua, a disponibilidade de documentação completa e a necessidade de treinamento para os usuários e administradores.
+
 Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisitos de suportabilidade estão representados na tabela 6.
 
 <p align="center" > <strong> Tabela 6 - </Strong> Requisitos de suportabilidade</font> <gitbr></p>
@@ -132,6 +143,8 @@ Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisi
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
 ## Outros requisitos do Produto (+)
+
+A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema", abrange quaisquer requisitos que não se enquadrem nas categorias anteriores. Isso pode incluir exigências legais, éticas, regulatórias, ambientais ou outros requisitos específicos do projeto.
 
 ### Requisitos de Design
 
@@ -232,4 +245,4 @@ Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisi
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 10/05/2024 | Versão inicial da pagina de Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) | || 
-| `1.1` | 13/05/2024 | Preenchimento de toda Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) & [Amanda Campos](https://github.com/acamposs)| || 
+| `1.1` | 13/05/2024 | Preenchimento de toda Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) & [Amanda Campos](https://github.com/acamposs)| || S
