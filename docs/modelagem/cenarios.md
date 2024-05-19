@@ -99,7 +99,7 @@ O cenário de número 1 diz sobre o objetivo de Acesso e Autenticação Inicial 
 | Restrição | Se o usuário não possuir leitor de digital no celular a biometria não pode ser ativada |
 | Exceção | Erro de conexão <br>Conta do GOV.br apresenta irregularidade |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b>  <a href="https://github.com/GabrielMS00">Gabriel Souza</a> e <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
 ### CEN02 - Acesso a Informações de Benefícios
 
@@ -135,7 +135,7 @@ O cenário de número 3 diz sobre o objetivo de Suporte e Aprendizado e sua desc
 | Restrição | O suporte estando indisponível |
 | Exceção | Erro de conexão |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
 ### CEN04 - Solicitação e Atualização de Benefícios
 
@@ -189,7 +189,7 @@ O cenário de número 6 diz sobre o objetivo de Segurança e Alertas e sua descr
 | Restrição | Dependência de conectividade de internet constante e eficaz para enviar/receber alertas em tempo real. |
 | Exceção |  Interrupções de serviço devido a falhas de servidor que afetam a capacidade do sistema de monitorar segurança ou enviar alertas. <br> Falsos positivos em alertas de segurança causando inconvenientes aos usuários.|
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, 2024</p></font>
 
 ### CEN07 - Perícias Médicas
 
@@ -207,7 +207,7 @@ O cenário de número 7 diz sobre o objetivo de Perícias Médicas e sua descri�
 | Restrição | A data desejada para agendamento ou reagendamento não está disponível |
 | Exceção | O servidor estar fora do ar |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: <a href="https://github.com/acamposs">Amanda</a>, 2024</p></font>
 
 ### CEN08 - Acesso para Advogados
 
@@ -225,19 +225,20 @@ O cenário de número 8 diz sobre o objetivo de Acesso para Advogados e sua desc
 | Restrição | Erro de vínculo entre usuário cliente e usuário advogado, impedidndo que o advogado tenha acesso aos processos do seu cliente |
 | Exceção | O servidor estar fora do ar |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024</p></font>
 
 ## Referências Bibliográficas
 
-> <a id="RP1" href="#TEC1">1.</a> CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: [http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf](http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf). Acesso em: 15 abr. 2024.
+> <a id="RP1" href="#TEC1">1.</a> CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: [http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf](http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf). Acesso em: 15 mai. 2024.
 
 ## Bibliografia
+> </a> Requisitos de Software. Bilheteria Digital (2023.1). Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 15 mai. 2024.
 
-> </a> 
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 15/05/2024 | Versão inicial da pagina de Cenários. | [Paulo Borba](https://github.com/paulohborba) | 16/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)| 
-| `1.1` | 16/05/2024 | Adição do cenário 2 e 6. | [Johnny Lopes](https://github.com/JohnnyLopess) | | | 
-| `1.2` | 16/05/2024 | Adição do cenário 7 e 8 | [Gabriel Souza](https://github.com/GabrielMS00) | | |
+| `1.1` | 16/05/2024 | Adição do cenário 2 e 6. | [Johnny Lopes](https://github.com/JohnnyLopess) | 17/05/2024| [Paulo Borba](https://github.com/paulohborba)| 
+| `1.2` | 16/05/2024 | Adição do cenário 7 e 8 | [Gabriel Souza](https://github.com/GabrielMS00) | 19/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
+| `1.3` | 19/05/2024 | Correção da pagina de Cenários. | [Paulo Borba](https://github.com/paulohborba) | 19/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
