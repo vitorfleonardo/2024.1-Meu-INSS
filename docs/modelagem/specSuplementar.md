@@ -244,5 +244,5 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 10/05/2024 | Versão inicial da pagina de Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) | || 
-| `1.1` | 13/05/2024 | Preenchimento de toda Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) & [Amanda Campos](https://github.com/acamposs)| || S
+| `1.0` | 10/05/2024 | Versão inicial da pagina de Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) | 19/05/2024 |[Paulo Borba](https://github.com/paulohborba)| 
+| `1.1` | 13/05/2024 | Preenchimento de toda Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) & [Amanda Campos](https://github.com/acamposs)| 19/05/2024 |[Paulo Borba](https://github.com/paulohborba)|
