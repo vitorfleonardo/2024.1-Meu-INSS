@@ -9,6 +9,8 @@ A **Especificação Suplementar**, no contexto da engenharia de software, refere
 
 A Metodologia utilizada neste artefato foi baseada no modelo FURPS+. "É um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos" <a id="TEC3" href="#RP3">[3]</a>. Dentre elas: Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade, sendo que o "+" engloba outros requisitos não-funcionais: requisitos de design, requisitos de implementação, requisitos de interface, requisitos físicos <a id="TEC3" href="#RP3">[3]</a>.
 
+Este artefato foi desenvolvido de maneira assíncrona por cada membro do grupo. Após a conclusão, o material foi enviado ao [Vitor Feijó](https://github.com/vitorfleonardo) e à [Amanda Campos](https://github.com/acamposs), que ficaram responsáveis pela criação e publicação da página no GitHub Pages.
+
 A Legenda para identificação dos requisitos em cada acrônimo estão representadas na tabela 1 e na tabela 2.
 
 <p align="center" > <strong> Tabela 1 - </Strong> Legenda das tabelas FURPS</font> <gitbr></p>
@@ -97,7 +99,7 @@ Esta seção inclui todos os requisitos que afetam a confiabilidade.. Os requisi
 | RR008 | Em caso de interrupções não planejadas que afetem o funcionamento do aplicativo, os usuários devem ser informados de maneira clara e precisa sobre o problema, o progresso da solução e o tempo estimado de restauração do serviço  |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, 2024</p></font>
 
 ## Desempenho
 
@@ -120,7 +122,7 @@ Esta seção inclui todos os requisitos que afetam o desempenho. Os requisitos d
 | RP009 | O aplicativo deve utilizar não mais que 70% da largura de banda disponível sob carga normal |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
 
 ## Suportabilidade
 
@@ -140,29 +142,13 @@ Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisi
 | RS006 | O aplicativo é capaz de escalar para acomodar um aumento no número de usuários ou transações. Ele pode suportar até 30 milhões de usuários por mês |
 | RS007 | O aplicativo executa testes automatizados de integração e sistema, garantindo a qualidade e experiẽncia do usuário. |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024</p></font>
 
 ## Outros requisitos do Produto (+)
 
 A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema", abrange quaisquer requisitos que não se enquadrem nas categorias anteriores. Isso pode incluir exigências legais, éticas, regulatórias, ambientais ou outros requisitos específicos do projeto.
 
 ### Requisitos de Design
-
-"Requisitos de design (desenho) – Um requisito de design, freqüentemente chamado de uma restrição de design, especifica ou restringe o design de um sistema. Exemplos podem incluir: linguagens de programação, processo de software, uso de ferramentas de desenvolvimento, biblioteca de classes, etc"  <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de design estão representados na tabela 7.
-
-<p align="center" > <strong> Tabela 7 - </Strong> Requisitos de Design</font> <gitbr></p>
-
-|ID|Descrição do requisito|
-|:-:|:-:|
-| +D001 | O aplicativo deve ser desenvolvido usando Java para o backend e Javascript para o frontend |
-| +D002 | O desenvolvimento deve seguir a metodologia Agile, com sprints de duas semanas e revisões de código regulares |
-| +D003 | O código deve ser desenvolvido e mantido usando Git para controle de versão, Jira para rastreamento de problemas e Jenkins para integração contínua |
-| +D004 | O aplicativo deve seguir uma arquitetura microserviços para permitir a escalabilidade e a manutenção independentes dos diferentes componentes do sistema |
-| +D005 | O sistema deve usar a biblioteca Spring Boot para o backend e a biblioteca React Navigation para a navegação no frontend. |
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
-
-### Requisitos de Implementação
 
 "Requisitos de design (desenho) – Um requisito de design, freqüentemente chamado de uma restrição de design, especifica ou restringe o design de um sistema. Exemplos podem incluir: linguagens de programação, processo de software, uso de ferramentas de desenvolvimento, biblioteca de classes, etc"  <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de design estão representados na tabela 8.
 
@@ -178,7 +164,7 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
-### Requisitos de Interface
+### Requisitos de Implementação
 
 "Requisitos de implementação – Um requisito de implementação especifica ou restringe o código ou a construção de um sistema. Como exemplos, podemos citar: padrões obrigatórios, linguagens de implementação, políticas de integridade de banco de dados, limites de recursos, ambientes operacionais" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de implementação estão representados na tabela 9.
 
@@ -192,7 +178,7 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 | +Im003 | O aplicativo deve garantir a integridade dos dados do usuário. Isso inclui a implementação de políticas e recuperação de dados, bem como medidas para previnir a corrupção de dados |
 | +Im004 | O aplicativo deve ser otimizado para uso eficiente de recursos, garantindo que funcione de maneira eficaz mesmo em dispositivos com recursos limitados. |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024</p></font>
 
 
 ### Requisitos de interface
@@ -209,7 +195,7 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 | +In004 | A interface do usuário deve permitir atualizações fáceis e fornecer acesso a suporte ao usuário, como FAQs e tutoriais em vídeo. |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
 ### Requisitos Físicos
 
@@ -223,7 +209,7 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 | +P002 | O aplicativo deve ser otimizado para uso mínimo de armazenamento no dispositivo. Isso é especialmente importante para usuários com dispositivos que têm capacidades de armazenamento limitadas. |
 | +P003 | O aplicativo deve ser otimizado para consumo mínimo de energia para não esgotar rapidamente a bateria do dispositivo do usuário. 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
 
 ## Referências Bibliográficas
 
@@ -246,3 +232,4 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 10/05/2024 | Versão inicial da pagina de Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) | 19/05/2024 |[Paulo Borba](https://github.com/paulohborba)| 
 | `1.1` | 13/05/2024 | Preenchimento de toda Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) & [Amanda Campos](https://github.com/acamposs)| 19/05/2024 |[Paulo Borba](https://github.com/paulohborba)|
+| `1.2` | 19/05/2024 | Ajustes na página | [Johnny Lopes](https://github.com/JohnnyLopess)| 19/05/2024 |[Paulo Borba](https://github.com/paulohborba)|
