@@ -225,6 +225,77 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/johnnylopess">Johnny Lopes</a>, 2024</p></font>
 </div>
 
+## Entrega 3 - Modelagem de Requisitos 1 - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Modelagem de Requisitos 1</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Cenários</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>05/05</td>
+      <td>19/05</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Léxico</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>05/05</td>
+      <td>19/05</td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Use Case</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>05/05</td>
+      <td>19/05</td>
+      <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos: Especificação Suplementar</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>05/05</td>
+      <td>19/05</td>
+      <td><a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+        <tr>
+      <td>Técnica de Modelagem de Requisitos: Validação dos Casos de uso</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>05/05</td>
+      <td>19/05</td>
+      <td><a href="https://github.com/JoseFilipi">José Filipi</a></td>
+    </tr>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>19/05</td>
+      <td>19/05</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>21/05</td>
+      <td>26/05</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+</div>
+
 ## Referências Bibliográficas
 
 > <a id="QT1" href="#anchor_1">1.</a> Cronograma Bilheteria Digital. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md. Acesso em 27 de março de 2024.
@@ -240,3 +311,4 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 | `1.2`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 15/04/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.3`  | 15/04/2024 | Adição do cronograma executado para entrega 2.| [Johnny Lopes](https://github.com/JohnnyLopess) | 19/04/2024 | [Amanda Campos](https://github.com/acamposs)|
 | `1.4`  | 21/04/2024 | Correções no cronograma executado.| [Johnny Lopes](https://github.com/JohnnyLopess) | 21/04/2024 |[Amanda Campos](https://github.com/acamposs) |
+| `1.5`  | 20/05/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 20/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |

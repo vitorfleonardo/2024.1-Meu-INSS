@@ -40,4 +40,4 @@ No vídeo 1 localiza-se a gravação da validação dos casos de uso.
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 19/05/2024 | Versão inicial da pagina de validação de casos de Uso. | [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba) |19/05/2024|[José Filipi](https://github.com/JoseFilipi) | 
+| `1.0` | 19/05/2024 | Versão inicial da pagina de validação de casos de Uso. | [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba) & [Gabriel Souza](https://github.com/GabrielMS00) |19/05/2024|[José Filipi](https://github.com/JoseFilipi) | 
