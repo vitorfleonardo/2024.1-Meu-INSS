@@ -1,12 +1,15 @@
 # Especificação suplementar
 
 ## Introdução
+A **Especificação Suplementar**, no contexto da engenharia de software, refere-se à prática de classificar e organizar os requisitos de um sistema em diferentes grupos ou categorias. Essa abordagem facilita a compreensão, o gerenciamento e a priorização dos requisitos durante o ciclo de desenvolvimento do software.
 
 "Este documento captura os requisitos de sistema que não foram identificados imediatamente nos Casos de Uso do Modelo de Casos de Uso. Entre estes requisitos estão incluídos: o Requisitos legais e reguladores, incluindo padrões de aplicativo; Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade. Outros requisitos, como sistemas operacionais e ambientes, requisitos de compatibilidade e restrições de design" <a id="TEC1" href="#RP1">[1]</a>. Esses requisitos são cruciais para garantir a qualidade do software e a satisfação do usuário  <a id="TEC2" href="#RP2">[2]</a>.
 
 ## Metodologia
 
 A Metodologia utilizada neste artefato foi baseada no modelo FURPS+. "É um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos" <a id="TEC3" href="#RP3">[3]</a>. Dentre elas: Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade, sendo que o "+" engloba outros requisitos não-funcionais: requisitos de design, requisitos de implementação, requisitos de interface, requisitos físicos <a id="TEC3" href="#RP3">[3]</a>.
+
+Este artefato foi desenvolvido de maneira assíncrona por cada membro do grupo. Após a conclusão, o material foi enviado ao [Vitor Feijó](https://github.com/vitorfleonardo) e à [Amanda Campos](https://github.com/acamposs), que ficaram responsáveis pela criação e publicação da página no GitHub Pages.
 
 A Legenda para identificação dos requisitos em cada acrônimo estão representadas na tabela 1 e na tabela 2.
 
@@ -40,9 +43,13 @@ A Legenda para identificação dos requisitos em cada acrônimo estão represent
 
 ## Funcionalidade
 
+A **funcionalidade** trata do núcleo do sistema, abordando as funções e capacidades que o software precisa oferecer. Os requisitos de funcionalidade especificam o que o sistema deve fazer, englobando tarefas, operações, recursos e comportamentos esperados.
+
 Os requisitos funcionais foram capturados ateriormente com as técnicas de [Brainstorming](../elicitacao/brainStorm.md), [Introspeção](../elicitacao/Introspeccao.md), [Entrevista](../elicitacao/entrevista.md), [Questionário](../elicitacao/questionario.md), [Storytelling](../elicitacao/storytelling.md), e podem ser consultados em [Requisitos Elicitados](../elicitacao/requisitosElicitados.md). Os casos de uso também podem ser considerados como requisitos funcionais. 
 
 ## Usabilidade
+
+A **usabilidade** se refere a quão eficiente e agradável é para uma pessoa usar um produto ou sistema. Ela envolve aspectos como a simplicidade do uso, a clareza e a organização da interface, a facilidade de acesso para todos os tipos de usuários, e qualquer outro fator que possa melhorar ou prejudicar a interação do usuário com o produto.
 
 Esta seção inclui todos os requisitos que afetam a usabilidade. Os requisitos não funcionais para usabilidade estão representados na tabela 3.
 
@@ -74,7 +81,9 @@ Esta seção inclui todos os requisitos que afetam a usabilidade. Os requisitos 
 
 ## Confiabilidade
 
-Esta seção inclui todos os requisitos que afetam a confiabilidade. "Refere-se a integridade, conformidade e interoperabilidade do software" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de confiabilidade estão representados na tabela 4.
+A **confiabilidade** refere-se à habilidade do sistema de operar continuamente e sem problemas, reduzindo ao máximo as falhas. Isso envolve a capacidade de lidar com falhas, a forma como os erros são gerenciados e a disponibilidade constante do sistema. "Refere-se a integridade, conformidade e interoperabilidade do software" <a id="TEC3" href="#RP3">[3]</a>.
+
+Esta seção inclui todos os requisitos que afetam a confiabilidade.. Os requisitos de confiabilidade estão representados na tabela 4.
 
 <p align="center" > <strong> Tabela 4 - </Strong> Requisitos de confiabilidade</font> <gitbr></p>
 
@@ -90,9 +99,11 @@ Esta seção inclui todos os requisitos que afetam a confiabilidade. "Refere-se 
 | RR008 | Em caso de interrupções não planejadas que afetem o funcionamento do aplicativo, os usuários devem ser informados de maneira clara e precisa sobre o problema, o progresso da solução e o tempo estimado de restauração do serviço  |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, 2024</p></font>
 
 ## Desempenho
+
+O **desempenho** diz respeito à rapidez e eficiência com que o sistema opera. Os requisitos de desempenho incluem fatores como a velocidade de resposta, a capacidade de processamento de dados e a habilidade do sistema de crescer e se adaptar a maiores demandas.
 
 Esta seção inclui todos os requisitos que afetam o desempenho. Os requisitos de desempenho estão representados na tabela 5.
 
@@ -111,9 +122,11 @@ Esta seção inclui todos os requisitos que afetam o desempenho. Os requisitos d
 | RP009 | O aplicativo deve utilizar não mais que 70% da largura de banda disponível sob carga normal |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
 
 ## Suportabilidade
+
+A **suportabilidade** refere-se à facilidade de manter e suportar o sistema ao longo do tempo. Isso envolve requisitos como a frequência e facilidade de atualizações, a manutenção contínua, a disponibilidade de documentação completa e a necessidade de treinamento para os usuários e administradores.
 
 Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisitos de suportabilidade estão representados na tabela 6.
 
@@ -129,27 +142,13 @@ Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisi
 | RS006 | O aplicativo é capaz de escalar para acomodar um aumento no número de usuários ou transações. Ele pode suportar até 30 milhões de usuários por mês |
 | RS007 | O aplicativo executa testes automatizados de integração e sistema, garantindo a qualidade e experiẽncia do usuário. |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024</p></font>
 
 ## Outros requisitos do Produto (+)
 
+A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema", abrange quaisquer requisitos que não se enquadrem nas categorias anteriores. Isso pode incluir exigências legais, éticas, regulatórias, ambientais ou outros requisitos específicos do projeto.
+
 ### Requisitos de Design
-
-"Requisitos de design (desenho) – Um requisito de design, freqüentemente chamado de uma restrição de design, especifica ou restringe o design de um sistema. Exemplos podem incluir: linguagens de programação, processo de software, uso de ferramentas de desenvolvimento, biblioteca de classes, etc"  <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de design estão representados na tabela 7.
-
-<p align="center" > <strong> Tabela 7 - </Strong> Requisitos de Design</font> <gitbr></p>
-
-|ID|Descrição do requisito|
-|:-:|:-:|
-| +D001 | O aplicativo deve ser desenvolvido usando Java para o backend e Javascript para o frontend |
-| +D002 | O desenvolvimento deve seguir a metodologia Agile, com sprints de duas semanas e revisões de código regulares |
-| +D003 | O código deve ser desenvolvido e mantido usando Git para controle de versão, Jira para rastreamento de problemas e Jenkins para integração contínua |
-| +D004 | O aplicativo deve seguir uma arquitetura microserviços para permitir a escalabilidade e a manutenção independentes dos diferentes componentes do sistema |
-| +D005 | O sistema deve usar a biblioteca Spring Boot para o backend e a biblioteca React Navigation para a navegação no frontend. |
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
-
-### Requisitos de Implementação
 
 "Requisitos de design (desenho) – Um requisito de design, freqüentemente chamado de uma restrição de design, especifica ou restringe o design de um sistema. Exemplos podem incluir: linguagens de programação, processo de software, uso de ferramentas de desenvolvimento, biblioteca de classes, etc"  <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de design estão representados na tabela 8.
 
@@ -165,7 +164,7 @@ Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisi
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
-### Requisitos de Interface
+### Requisitos de Implementação
 
 "Requisitos de implementação – Um requisito de implementação especifica ou restringe o código ou a construção de um sistema. Como exemplos, podemos citar: padrões obrigatórios, linguagens de implementação, políticas de integridade de banco de dados, limites de recursos, ambientes operacionais" <a id="TEC3" href="#RP3">[3]</a>. Os requisitos de implementação estão representados na tabela 9.
 
@@ -179,7 +178,7 @@ Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisi
 | +Im003 | O aplicativo deve garantir a integridade dos dados do usuário. Isso inclui a implementação de políticas e recuperação de dados, bem como medidas para previnir a corrupção de dados |
 | +Im004 | O aplicativo deve ser otimizado para uso eficiente de recursos, garantindo que funcione de maneira eficaz mesmo em dispositivos com recursos limitados. |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024</p></font>
 
 
 ### Requisitos de interface
@@ -196,7 +195,7 @@ Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisi
 | +In004 | A interface do usuário deve permitir atualizações fáceis e fornecer acesso a suporte ao usuário, como FAQs e tutoriais em vídeo. |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
 ### Requisitos Físicos
 
@@ -210,7 +209,7 @@ Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisi
 | +P002 | O aplicativo deve ser otimizado para uso mínimo de armazenamento no dispositivo. Isso é especialmente importante para usuários com dispositivos que têm capacidades de armazenamento limitadas. |
 | +P003 | O aplicativo deve ser otimizado para consumo mínimo de energia para não esgotar rapidamente a bateria do dispositivo do usuário. 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
 
 ## Referências Bibliográficas
 
@@ -231,5 +230,6 @@ Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisi
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 10/05/2024 | Versão inicial da pagina de Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) | || 
-| `1.1` | 13/05/2024 | Preenchimento de toda Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) & [Amanda Campos](https://github.com/acamposs)| || 
+| `1.0` | 10/05/2024 | Versão inicial da pagina de Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) | 19/05/2024 |[Paulo Borba](https://github.com/paulohborba)| 
+| `1.1` | 13/05/2024 | Preenchimento de toda Especificação Suplementar. | [Vitor Feijó](https://github.com/vitorfleonardo) & [Amanda Campos](https://github.com/acamposs)| 19/05/2024 |[Paulo Borba](https://github.com/paulohborba)|
+| `1.2` | 19/05/2024 | Ajustes na página | [Johnny Lopes](https://github.com/JohnnyLopess)| 19/05/2024 |[Paulo Borba](https://github.com/paulohborba)|

@@ -106,4 +106,4 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |`1.1`|19/05/2024|Adição de lexicos e ajustes nas tabelas.|[Johnny Lopes](https://github.com/JohnnyLopess)|19/05/2024|[Paulo Borba](https://github.com/paulohborba)|
 |`1.2`|19/05/2024|Adição de novos léxicos |[José Filipi](https://github.com/JoseFilipi)|19/05/2024|[Paulo Borba](https://github.com/paulohborba)|
 |`1.3`|19/05/2024|Adição de novos léxicos |[Paulo Borba](https://github.com/paulohborba)|19/05/2024|[Amanda Campos](https://github.com/acamposs)|
-|`1.4`|19/05/2024|Adição de novos léxicos |[Amanda Campos](https://github.com/acamposs)|||
+|`1.4`|19/05/2024|Adição de novos léxicos |[Amanda Campos](https://github.com/acamposs)|19/05/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
