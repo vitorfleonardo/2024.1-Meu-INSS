@@ -8,6 +8,7 @@ nav:
     - Apresentação: 
         - Apresentação 1: "apresentacao/apresentacao01.md"
         - Apresentação 2: "apresentacao/apresentacao02.md"
+        - Apresentação 3: "apresentacao/apresentacao03.md"
 
     - Atas: 
         - Ata 01: "atas/Ata1-24.03.2024.md"
@@ -46,10 +47,10 @@ nav:
 
     - Modelagem:
         - Especificação Suplementar: "modelagem/specSuplementar.md"
+        - Casos de Uso: "modelagem/useCase.md"
         - Cenários: "modelagem/cenarios.md"
         - Léxicos: "modelagem/lexicos.md"
-
-    
+        - Validação dos casos de uso: "modelagem/validusecase.md"
 theme:
   language: pt-BR
   name: material

@@ -8,6 +8,10 @@ Inicialmente, adotamos o modelo de cronograma fornecido pelo professor André Ba
 
 A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. Começamos com a entrega 1, detalhada na Tabela 1, seguida pela entrega 2, apresentada na Tabela 2, e assim por diante.
 
+## Ajuste do cronograma!
+
+Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 28 DE JUNHO DE 1989 <a id="TEC1" href="#RP1">[1]</a>, a Universidade de Brasília vivenciou uma desajuste de calendário <a id="TEC2" href="#RP2">[2]</a> e, portanto, após um período sem aulas, retornamos com o conteudo programático do curso. Em consequência disso, realizamos ajustes de data no cronograma planejado deste artefato, adicionando 2 semanas às datas definidas anteriormente, a partir da segunda entrega.
+
 ## Entrega 1 - Planejamento do Projeto - Data de Entrega:
 
 <div align="center">
@@ -218,14 +222,14 @@ A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. C
       <td>Gravação da apresentação e entrega</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
       <td>14/04</td>
-      <td>14/04</td>
+      <td>21/04</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Correção pós apresentação</td>
       <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
-      <td>18/04</td>
-      <td>21/04</td>
+      <td>02/05</td>
+      <td>19/05</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
     </tr>
   </tbody>
@@ -253,43 +257,43 @@ A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. C
     <tr>
       <td>Técnica de Modelagem de Requisitos: Cenários</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
-      <td>22/04</td>
-      <td>04/05</td>
+      <td>05/05</td>
+      <td>19/05</td>
       <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a></td>
     </tr>
     <tr>
       <td>Técnica de Modelagem de Requisitos: Léxico</td>
       <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
-      <td>22/04</td>
-      <td>04/05</td>
+      <td>05/05</td>
+      <td>19/05</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Técnica de Modelagem de Requisitos: Use Case</td>
       <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
-      <td>22/04</td>
-      <td>04/05</td>
+      <td>05/05</td>
+      <td>19/05</td>
       <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
     </tr>
     <tr>
       <td>Técnica de Modelagem de Requisitos: Especificação Suplementar</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a></td>
-      <td>22/04</td>
-      <td>04/05</td>
+      <td>05/05</td>
+      <td>19/05</td>
       <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
     </tr>
     <tr>
       <td>Gravação da apresentação e entrega</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
-      <td>05/05</td>
-      <td>05/05</td>
+      <td>19/05</td>
+      <td>19/05</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Correção pós apresentação</td>
       <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
-      <td>07/05</td>
-      <td>09/05</td>
+      <td>21/05</td>
+      <td>26/05</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
     </tr>
   </tbody>
@@ -317,35 +321,35 @@ A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. C
     <tr>
       <td>Técnica de Modelagem de Requisitos Ágil: NFR Framework</td>
       <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
-      <td>09/05</td> 
-      <td>11/05</td>
+      <td>21/05</td>
+      <td>26/05</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a></td>
     </tr>
     <tr>
       <td>Técnica de Modelagem de Requisitos Ágil: Backlogs</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
-      <td>09/05</td>
-      <td>11/05</td>
+      <td>21/05</td>
+      <td>26/05</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
     </tr>
       <td>Técnica de Modelagem de Requisitos Ágil: User histories</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
-      <td>09/05</td>
-      <td>11/05</td>
+      <td>21/05</td>
+      <td>26/05</td>
       <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Gravação da apresentação e entrega</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
-      <td>12/05</td>
-      <td>12/05</td>
+      <td>26/05</td>
+      <td>26/05</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Correção pós apresentação</td>
       <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
-      <td>14/05</td>
-      <td>16/05</td>
+      <td>28/05</td>
+      <td>09/06</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
     </tr>
   </tbody>
@@ -373,28 +377,28 @@ A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. C
     <tr>
       <td>Verificação por inspeção de todos os artefatos</td>
       <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
-      <td>16/05</td>
-      <td>18/05</td>
+      <td>28/05</td>
+      <td>09/06</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Validação: Prototipação e Comprovação Informal</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
-      <td>16/05</td>
-      <td>18/05</td>
+      <td>28/05</td>
+      <td>09/06</td>
       <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
     <tr>
       <td>Gravação da apresentação e entrega</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
-      <td>19/05</td>
-      <td>19/05</td>
+      <td>09/06</td>
+      <td>09/06</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Correção pós apresentação</td>
       <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
-      <td>23/05</td>
-      <td>25/05</td>
+      <td>11/06</td>
+      <td>16/06</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
     </tr>
   </tbody>
@@ -422,35 +426,35 @@ A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. C
     <tr>
       <td>Pós-rastreabilidade: Backward-form</td>
       <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
-      <td>25/05</td>
-      <td>01/06</td>
+      <td>11/06</td>
+      <td>16/06</td>
       <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
     </tr>
     <tr>
       <td>Pós-rastreabilidade: Forward-form</td>
       <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
-      <td>25/05</td>
-      <td>01/06</td>
+      <td>11/06</td>
+      <td>16/06</td>
       <td><a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/GabrielMS00">Gabriel</a></td>
     </tr>
     <tr>
       <td>Pós-rastreabilidade: Matriz Geral	</td>
       <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
-      <td>25/05</td>
-      <td>01/06</td>
+      <td>11/06</td>
+      <td>16/06</td>
       <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/JohnnyLopess">Johnny</a></td>
     <tr>
       <td>Gravação da apresentação e entrega</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
-      <td>02/06</td>
-      <td>02/06</td>
+      <td>16/06</td>
+      <td>16/06</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Correção pós apresentação</td>
       <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
-      <td>04/06</td>
-      <td>08/06</td>
+      <td>18/06</td>
+      <td>23/06</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
     </tr>
   </tbody>
@@ -478,28 +482,28 @@ A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. C
     <tr>
       <td>Verificação por inspeção de todos os artefatos</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
-      <td>08/06</td>
-      <td>15/06</td>
+      <td>18/06</td>
+      <td>23/06</td>
       <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
     </tr>
     <tr>
       <td>Validação: Prototipação e Comprovação Informal</td>
       <td><a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
-      <td>08/06</td>
-      <td>15/06</td>
+      <td>18/06</td>
+      <td>23/06</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a></td>
     <tr>
       <td>Gravação da apresentação e entrega</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
-      <td>16/06</td>
-      <td>16/06</td>
+      <td>23/06</td>
+      <td>23/06</td>
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <tr>
       <td>Correção pós apresentação</td>
       <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
-      <td>18/06</td>
-      <td>24/06</td>
+      <td>25/06</td>
+      <td>30/06</td>
       <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
     </tr>
   </tbody>
@@ -508,7 +512,13 @@ A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. C
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
-## Referências Bibliográficas
+## Referências bibliográficas
+
+> <a id="TEC1" href="#RP1">1.</a> BRASIL. Lei nº 7.783, de 28 de junho de 1989. Dispõe sobre o exercício do direito de greve, define as atividades essenciais, regula o atendimento das necessidades inadiáveis da comunidade, e dá outras providências. Brasília, DF, 1989.
+
+> <a id="TEC2" href="#RP2">1.</a> G1 Distrito Federal. Professores da Universidade de Brasília entram em greve. Distrito Federal. 15 abr. 2024, 08h31. Disponível em: [https://g1.globo.com/df/distrito-federal/noticia/2024/04/15/professores-da-universidade-de-brasilia-entram-em-greve.ghtml](https://g1.globo.com/df/distrito-federal/noticia/2024/04/15/professores-da-universidade-de-brasilia-entram-em-greve.ghtml). Acesso em: 17 Mai. 2024.
+
+## Bibliografia
 
 > <a id="QT1" href="#anchor_1">1.</a> Cronograma Bilheteria Digital. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md. Acesso em 27 de março de 2024.
 
@@ -520,4 +530,5 @@ A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. C
 | `1.0`  | 27/03/2024 | Criação do cronograma. | [José Filipi](https://github.com/JoseFilipi) <br> [Vitor](https://github.com/vitorfleonardo) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
 | `1.1` | 30/03/2024 | Adição das datas de início e fim das atividades do cronograma. | [Gabriel Souza](https://github.com/JoseFilipi) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.2` | 01/04/2024 | Ajustes na página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 | [Amanda Campos](https://github.com/acamposs)  |
-| `1.3`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
+| `1.3`  | 13/04/2024 | Correção das referencias e citações | [Amanda Campos](https://github.com/acamposs) | 17/05/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
+| `1.4`  | 17/05/2024 | Correção das das datas de acordo com a greve dos servidores | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
