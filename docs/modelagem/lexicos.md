@@ -31,8 +31,8 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 | L01 -  Benefício    | Auxílio, Provento | Tipo de Benefício   | O usuário pode visualizar e solicitar benefícios. |    Objeto     | [Bianca Castro](https://github.com/BiancaPatrocinio7)|
 | L02 - Solicitação  | Pedido, Requisição| Enviar Solicitação  | O usuário pode enviar, acompanhar e verificar o status das solicitações. |    Objeto     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
 | L03 - Documentação | Arquivo, Prova    | Enviar Documentos   | O usuário pode enviar, visualizar e gerenciar documentos necessários para os processos. |    Objeto     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
-| L04 - Usuário      | Cliente, Assinante| Dados do Usuário    | Informações pessoais do usuário, permitindo personalização e acesso aos serviços. |    Objeto     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
-| L05 - Autenticação     | Login, Acesso| Processo de Acesso| O usuário pode realizar login no sistema para acessar e gerenciar seus benefícios e informações pessoais de forma segura. |    Objeto     |[Johnny Lopes](https://github.com/JohnnyLopess)|
+| L04 - Usuário      | Cliente, Assinante| Dados do Usuário    | Informações pessoais do usuário, permitindo personalização e acesso aos serviços. |    Objeto     |[Bianca Castro](https://github.com/BiancaPatrocinio7) e [Gabriel Souza](https://github.com/GabrielMS00) |
+| L05 - Autenticação     | Login, Acesso| Processo de Acesso| O usuário pode realizar login no sistema para acessar e gerenciar seus benefícios e informações pessoais de forma segura. |    Objeto     |[Johnny Lopes](https://github.com/JohnnyLopess) e [Vitor Feijó](https://github.com/vitorfleonardo)|
 |L06 - Notificação|Alerta, Aviso|Receber Notificações|O usuário recebe notificações sobre atualizações de status das solicitações, novos documentos necessários, ou outras informações importantes relacionadas aos seus benefícios e solicitações.|Objeto|[Johnny Lopes](https://github.com/JohnnyLopess)|
 |L17 - Atendimento|Suporte, Assistência|Acesso ao Atendimento|O usuário pode solicitar atendimento para resolver dúvidas ou problemas relacionados aos benefícios e serviços.|Objeto|[José Filipi](https://github.com/JoseFilipi)|
 |L18 - Extrato|Sumário, Documento|Emissão de benefícios|O usuário pode gerar um documento que contém informações sobre os benefícios e/ou salário do aposentado.|Objeto|[Paulo Borba](https://github.com/paulohborba)|
@@ -42,7 +42,7 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos (Fonte: <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos (Fonte: Autores, 2024)</p></font>
 </div>
 
 
@@ -60,15 +60,15 @@ Os léxicos do tipo verbo representam ações ou operações que os usuários po
 |   Léxico    |    Sinônimo    |       Noção       |                         Impacto                          | Classificação |Fonte      |
 | :----------- | :------------ | :---------------: | :----------------------------------------------------- | :----------- |:----------- |
 | L07 - Solicitar | Pedir, Requerer | Enviar Solicitação | O usuário pode enviar, acompanhar e verificar o status das solicitações. |    Verbo     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
-| L08 - Consultar | Verificar, Checar | Consultar Informações | O usuário pode buscar e visualizar informações relacionadas a benefícios e processos. |    Verbo     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
+| L08 - Consultar | Verificar, Checar | Consultar Informações | O usuário pode buscar e visualizar informações relacionadas a benefícios e processos. |    Verbo     |[Bianca Castro](https://github.com/BiancaPatrocinio7) e [Gabriel Souza](https://github.com/GabrielMS00)|
 | L09 - Simular    | Estimar, Prever, Demonstrar  | Simular Cenários  | O usuário pode simular a questão de sua aposentadoria, o tempo de contribuição ou renda inicial. |    Verbo     |[Bianca Castro](https://github.com/BiancaPatrocinio7) e [Paulo Borba](https://github.com/paulohborba)|
-| L10 - Atualizar    | Modificar, Alterar  | Atualizar Dados Pessoais  | O usuário pode atualizar seus dados pessoais, como endereço, contato e informações bancárias. |    Verbo     |[Johnny Lopes](https://github.com/JohnnyLopess)|
+| L10 - Atualizar    | Modificar, Alterar  | Atualizar Dados Pessoais  | O usuário pode atualizar seus dados pessoais, como endereço, contato e informações bancárias. |    Verbo     |[Johnny Lopes](https://github.com/JohnnyLopess) e [Vitor Feijó](https://github.com/vitorfleonardo)|
 |L11 - Rastrear|Monitorar, Acompanhar|Rastrear Solicitação|O usuário pode acompanhar o progresso detalhado das suas solicitações, visualizando cada etapa até a conclusão.|Verbo|[Johnny Lopes](https://github.com/JohnnyLopess)|
 |L18 - Avaliar|Analisar, Julgar|Avaliar Situação|O usuário pode avaliar sua situação atual em relação aos benefícios disponíveis, identificando possíveis opções e etapas necessárias.|Verbo|[José Filipi](https://github.com/JoseFilipi)|
 |L19 - Enviar  |  Submeter |Enviar Documentos | O usuário pode enviar documentos para processos que requerem documentação adicional  |Verbo|[Amanda Campos](https://github.com/acamposs)|
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3: </b>Léxicos classificados como Verbos (Fonte: <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3: </b>Léxicos classificados como Verbos (Fonte: Autores, 2024)</p></font>
 
 </div>
 
@@ -82,15 +82,15 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 | :--------- | :--------------- | :----------------- | :------------------------------------------- | :----------- |:----------- |
 | L12 - Pendente    |   Em Espera       |   Status Pendente   | O usuário está aguardando a aprovação ou análise de uma solicitação.  |    Estado     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
 | L13 - Aprovado    |    Confirmado, Deferido     |   Status Aprovado   | O usuário teve sua solicitação aprovada, permitindo o acesso aos benefícios ou serviços. |    Estado     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
-| L14 - Em Análise  |    Avaliando      |   Status Em Análise | A solicitação do usuário está sendo avaliada, sem uma decisão final ainda tomada.    |    Estado     |[Bianca Castro](https://github.com/BiancaPatrocinio7)|
+| L14 - Em Análise  |    Avaliando      |   Status Em Análise | A solicitação do usuário está sendo avaliada, sem uma decisão final ainda tomada.    |    Estado     |[Bianca Castro](https://github.com/BiancaPatrocinio7) e [Gabriel Souza](https://github.com/GabrielMS00)|
 | L15 - Rejeitado  |    Negado, Recusado, Indeferido      |   Status Rejeitado | O usuário teve sua solicitação rejeitada devido a não conformidade com os requisitos necessários ou por erros no processo de solicitação.    |    Estado     |[Johnny Lopes](https://github.com/JohnnyLopess)|
-|L16 - Incompleto |Pendente, Inacabado|Status Incompleto |O usuário é notificado para fornecer informações ou documentos adicionais necessários para o prosseguimento ou conclusão da sua solicitação.|Estado|[Johnny Lopes](https://github.com/JohnnyLopess)|
+|L16 - Incompleto |Pendente, Inacabado|Status Incompleto |O usuário é notificado para fornecer informações ou documentos adicionais necessários para o prosseguimento ou conclusão da sua solicitação.|Estado|[Johnny Lopes](https://github.com/JohnnyLopess) e [Vitor Feijó](https://github.com/vitorfleonardo)|
 |L19 - Suspenso|Interrompido, Parado|Status Suspenso|O benefício ou solicitação do usuário foi temporariamente interrompido, podendo ser retomado após a resolução de pendências ou conformidades.|Estado|[José Filipi](https://github.com/JoseFilipi)|
 |L20 - Beneficiário|Favorecido, Contemplado|Tipo específico de usuário|Representa um tipo específico de usuário, onde esse está apto a receber os benefícios do INSS.|Estado|[Paulo Borba](https://github.com/paulohborba)|
 |L21 - Logado | Autenticado  |  Status Logado |  O usuário passou com sucesso pelo processo de verificação de acesso unificado (gov.br) e obteve acesso ao sistema. |Estado|[Amanda Campos](https://github.com/acamposs)|
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Fonte: <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Fonte: Autores, 2024)</p></font>
 
 </div>
 

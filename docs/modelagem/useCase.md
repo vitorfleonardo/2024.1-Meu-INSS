@@ -1,4 +1,4 @@
-# Especificação suplementar
+# Casos de Uso
 
 ## Introdução
 
@@ -8,7 +8,7 @@ Cada caso de uso busca proporcionar um resultado observável e valioso para os a
 
 ## Metodologia
 
-A metodologia para criar o diagrama de casos de uso inicia com a identificação dos atores, utilizando personas [Juliana Batista](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/personas/) e [Elisa Silva](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/personas/) para definir as necessidades dos usuários finais. Em seguida, os casos de uso são determinados com base nos requisitos funcionais elicitados, descrevendo funcionalidades ou ações do sistema.
+A metodologia para criar o diagrama de casos de uso inicia com a identificação dos atores, utilizando a persona [Rafael Costa](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/personas/) para definir as necessidades dos usuários finais. Em seguida, os casos de uso são determinados com base nos requisitos funcionais elicitados, descrevendo funcionalidades ou ações do sistema.
 
 Cada caso de uso é detalhadamente descrito, incluindo fluxos básicos, alternativos e de exceção, além de pré-condições e pós-condições. Utilizamos a ferramenta [Lucidchart](https://requisitos-de-software.github.io/2024.1-Meu-INSS/planejamento/ferramentas/) para criar o diagrama visual, mostrando os atores, casos de uso e suas inter-relações.
 
