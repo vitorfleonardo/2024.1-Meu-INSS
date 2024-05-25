@@ -51,6 +51,8 @@ nav:
         - Cenários: "modelagem/cenarios.md"
         - Léxicos: "modelagem/lexicos.md"
         - Validação dos casos de uso: "modelagem/validusecase.md"
+        - Ágil:
+          - Backlog: "modelagem/Agil/backlog.md"
 theme:
   language: pt-BR
   name: material
