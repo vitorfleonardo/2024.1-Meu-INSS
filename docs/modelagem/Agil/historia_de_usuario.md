@@ -273,6 +273,97 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 
 </center>
 
+### US13 - Acesso e visualização do Cadastro Nacional de Informações Sociais (CNIS) 
+
+<center>
+
+**Tabela 15 - História de Usuário Acesso CNIS.**
+
+| **ID**                 | **Nome**                                                                 |
+| :--------------------- | :----------------------------------------------------------------------- |
+| US13                   | Acesso e visualização do Cadastro Nacional de Informações Sociais (CNIS) |                                  
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter total acesso ao CNIS através do próprio sistema _para_ poder visualizar o meu histórico de contribuições da Previdência Social. |
+| Critérios de Aceitação | - O sistema deve oferecer a opção de acesso ao CNIS através de um link no menu principal <br> - O documento gerado deve apresentar todos os vínculos, remunerações e contribuições previdenciárias <br>                    |
+| Prioridade             |                     |
+
+
+<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+
+</center>
+
+### US14 - Acesso à área de ferramentas dos benefícios dos segurados
+
+<center>
+
+**Tabela 16 - História de Usuário Acesso a ferramentas de benefícios dos segurados.**
+
+| **ID**                 | **Nome**                                          |
+| :--------------------- | :------------------------------------------------ |
+| US14                   | Acesso a ferramentas de benefícios dos segurados. |                                  
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter acesso a uma área dentro do sistema com ferramentas voltadas aos benefícios, como um recurso de pesquisa _para_ poder rastrear e acompanhar o andamento dos meus benefícios. |
+| Critérios de Aceitação | - O sistema deve oferecer uma página com ferramentas voltadas exclusivamente para os benefícios <br> - A área de ferramenta dos benefícios deve permitir fazer buscas e realizar filtros <br> - Deve haver uma descrição detalhada sobre a origem de cada benefício |
+| Prioridade             |                     |
+
+
+<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+
+</center>
+
+### US15 - Requerimento de benefícios e atualização do vínculo do CNIS
+
+<center>
+
+**Tabela 17 - História de Usuário Requerimento de benefícios e atualização do vínculo do CNIS.**
+
+| **ID**                 | **Nome**                                                     |
+| :--------------------- | :----------------------------------------------------------- |
+| US15                   |  Requerimento de benefícios e atualização do vínculo do CNIS |                                  
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ poder realizar o requerimento de um benefício _para_ poder ter acesso aos recursos na qual tenho direito. |
+| Critérios de Aceitação | - O sistema deve ofertar uma área para realizar o requerimento de benefícios <br> - A área deve permitir realizar também a atualização do vínculo CNIS <br> - Benefícios de quaisquer natureza devem poder sofrer o requerimento |
+| Prioridade             |                     |
+
+
+<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+
+</center>
+
+### US16 - Fornecimento de informações referentes a pagamentos não recebidos
+
+<center>
+
+**Tabela 18 - História de Usuário Fornecimento de informações referentes a pagamentos não recebidos.**
+
+| **ID**                 | **Nome**                                                           |
+| :--------------------- | :----------------------------------------------------------------- |
+| US16                   |  Fornecimento de informações referentes a pagamentos não recebidos |                                  
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter acesso a uma área que me mostre as informações referentes aos pagamentos não recebidos devido erros e descontos indevidos, _para_ que eu possa acompanhar o status dos meus benefícios e saber o motivo do seu bloqueio.  |
+| Critérios de Aceitação | - O sistema deve ofercer uma área dedicada a mostrar as informações dos pagamentos não efetivados <br> - Deve haver uma descrição a respeito de cada pagamento não realizado e seus motivadores |
+| Prioridade             |                     |
+
+
+<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+
+</center>
+
+### US17 - Atualização de dados pessoais
+
+<center>
+
+**Tabela 19 - História de Usuário Atualização de dados pessoais.**
+
+| **ID**                 | **Nome**                        |
+| :--------------------- | :------------------------------ |
+| US17                   |  Atualização de dados pessoais  |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ poder atualizar meus dados pessoais sempre que desejar, _para_ que eu possa manter meu status e minhas informações pessoais sempre atualizadas. |
+| Critérios de Aceitação | - O sistema deve oferecer de forma clara uma opção de atualização dos dados cadastrais pessoais no menu princiapl do sistema <br> - O sistema deve me permitir alterar meus dados pessoais sempre que eu desejar, sem haver limitações desnecessárias |
+| Prioridade             |                     |
+
+
+<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+
+</center>
+
+
 ## Bibliografia
 
 > SERRANO, Milene. Requisitos - Aula 15. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 15](https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 25 de Maio de 2024.
@@ -287,4 +378,5 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 |Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
 |:----:|:----:|:---------:|:-----:|:-----:|:-------:|
 |`1.0`|25/05/2024|Criação do documento.|[Gabriel Souza](https://github.com/GabrielMS00)|25/05/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)|
-|`1.1`|25/05/2024|Adição de histórias do usuário.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|||
+|`1.1`|25/05/2024|Adição de histórias do usuário.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|26/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
+|`1.2`|26/05/2024|Adição de histórias do usuário.|[Gabriel Souza](https://github.com/GabrielMS00)|||
