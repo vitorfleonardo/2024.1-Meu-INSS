@@ -363,6 +363,59 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 
 </center>
 
+### US18 - Alerta sobre empréstimos indevidos
+
+<center>
+
+**Tabela 20 - História de Usuário Alertas sobre empréstimos indevidos.**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| US18                   |  Alertas caso haja empréstimos indevidos  |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ receber alertas no dispositivo por meio do sistema caso haja empréstimos indevidos, _para_ que eu possa me manter atualizado sobre os empréstimos solicitados. |
+| Critérios de Aceitação | - O sistema deve enviar alertas ao dispositivo sempre que houver empréstimos indevidos <br> - Os alertas devem especificar o empréstimo que se configura como indevido <br> - Os alertas devem ser enviados imediatamente após o empréstimo ser configurado como indevido |
+| Prioridade             |                     |
+
+
+<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+
+</center>
+
+### US19 - Bloquear empréstimos
+
+<center>
+
+**Tabela 21 - História de Usuário Bloqueio de empréstimos.**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| US19                   |  Exibir a opção de bloquear o empréstimo  |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter a opção de bloquear meus empréstimos solicitados, _para_ que eu possa cancelar uma decisão de empréstimo se assim for da minha vontade. |
+| Critérios de Aceitação | - O sistema deve, em uma área própria de empréstimos, exibir uma opção para cada empréstimo solicitado oferecendo a opção de realizar o bloqueio dele <br> - A opção de bloqueio deve ficar visível logo após a solicitação do empréstimo <br> - A opção de bloqueio de empréstimo deve ser de fácil identificação dentro do sistema |
+| Prioridade             |                     |
+
+
+<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+
+</center>
+
+### US20 - Acesso pelo sistema mediante CPF e senha
+
+<center>
+
+**Tabela 22 - História de Usuário Acesso ao sistema mediante CPF e senha.**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| US20                   |  Oferecer a opção de ingresso ao sistema mediante CPF e senha  |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter a opção de me logar ao sistema por meio do meu CPF e minha senha, _para_ que eu possa ter uma maior variedade de opções ao me logar no sistema. |
+| Critérios de Aceitação | - Na área de login, deve existir uma opção de cadastro no sistema por meio do CPF e de uma senha que será criada no momento do cadastro <br> - A opção de cadastro mediante CPF e senha deve ser de fácil identificação na área de login, garantido que todos possam ver as opções de logine  escolher a que melhor lhe agrada |
+| Prioridade             |                     |
+
+
+<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+
+</center>
 
 ## Bibliografia
 
