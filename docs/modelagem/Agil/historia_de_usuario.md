@@ -399,7 +399,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 
 </center>
 
-### US20 - Acesso pelo sistema mediante CPF e senha
+### US20 - Acesso ao sistema mediante CPF e senha
 
 <center>
 
