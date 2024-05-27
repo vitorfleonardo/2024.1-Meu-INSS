@@ -21,7 +21,7 @@ Dentre os principais objetivos do uso das histórias de usuários como um artefa
 
 ## Metodologia
 
-Para a criação deste documento, um usuário assumiu o papel de Product Owner (PO) do projeto e foi entrevistado via Teams do dia 26 de Maio de 2024. Durante a entrevista, o PO descreveu as funcionalidades desejadas, enquanto os desenvolvedores/entrevistadores tomavam notas e faziam perguntas. Após a elicitação das histórias de usuário, os critérios de aceitação foram estabelecidos, e as histórias foram priorizadas pelo PO nas categorias Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Os participantes da entrevista estão listados na Tabela 1, a gravação da entrevista pode ser visualizada no Vídeo 1, e o modelo de card para as histórias de usuário está descrito na Tabela 2.
+Para a criação deste documento, um usuário assumiu o papel de Product Owner (PO) do projeto e foi entrevistado via Teams do dia 26 de Maio de 2024. Durante a entrevista, o PO descreveu as funcionalidades desejadas, enquanto os desenvolvedores/entrevistadores tomavam notas e faziam perguntas. Após a elicitação das histórias de usuário, os critérios de aceitação foram estabelecidos, e as histórias foram priorizadas pelo PO nas categorias , Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Os participantes da entrevista estão listados na Tabela 1, a gravação da entrevista pode ser visualizada no Vídeo 1, e o modelo de card para as histórias de usuário está descrito na Tabela 2.
 <center>
 
 **Tabela 1** - Participantes da entrevista.
@@ -414,16 +414,136 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+</center>
 
-### US21 - Acessar processos dos clientes
+### US21.1 - Agendar Perícias Médicas
 
 <center>
 
-**Tabela 23 - História de Usuário Acessar processos dos clientes.**
+**Tabela 23 - História de Usuário Agendar Perícias Médicas**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US21.1_                   | Agendar Perícias Médicas |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ agendar perícias médicas _para_ gerir minhas consultas de forma conveniente |
+| Critérios de Aceitação | - O usuário deve poder selecionar uma data e hora disponíveis para agendar uma perícia médica |
+| Prioridade             |                                    |
+
+
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+</center>
+
+
+### US21.2 - Reagendar Perícias Médicas
+
+<center>
+
+**Tabela 24 - História de Usuário Reagendar Perícias Médicas**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US21.2_                   | Reagendar Perícias Médicas |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ reagendar perícias médicas _para_ ajustar minhas consultas conforme necessário |
+| Critérios de Aceitação | - O usuário deve poder reagendar uma perícia médica já agendada |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+</center>
+
+---
+
+### US21.3 - Cancelar Perícias Médicas
+
+<center>
+
+**Tabela 25 - História de Usuário Cancelar Perícias Médicas**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US21.3_                   | Cancelar Perícias Médicas |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ cancelar perícias médicas _para_ gerenciar meus compromissos de forma flexível |
+| Critérios de Aceitação | - O usuário deve poder cancelar uma perícia médica já agendada |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+</center>
+
+
+### US22 - Enviar Documentos Necessários para Benefícios
+
+<center>
+
+**Tabela 26 - História de Usuário Enviar Documentos Necessários para Benefícios**
 
 | **ID**                 | **Nome**                                |
 | :--------------------- | :-------------------------------------- |
-| US21                   | Acessar processos dos clientes          |
+| _US22_                   | Enviar Documentos Necessários para Benefícios |
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ enviar documentos necessários _para_ o processo de requerimento ou manutenção de benefícios |
+| Critérios de Aceitação | - O usuário deve poder anexar documentos em vários formatos (PDF, JPG, PNG) <br> - O sistema deve confirmar o recebimento dos documentos enviados |
+| Prioridade             |                                     |
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+</center>
+
+### US23 - Recuperação de Senha
+
+<center>
+
+**Tabela 27 - História de Usuário Recuperação de Senha**
+
+| **ID**                 | **Nome**                                |
+| :--------------------- | :-------------------------------------- |
+| _US23_                   | Recuperação de Senha |
+| Descrição              | _Eu, como_ usuário do sistema, _desejo_ recuperar minha senha _para_ poder acessar minha conta se eu esquecê-la |
+| Critérios de Aceitação | - O usuário deve poder solicitar a recuperação de senha via email <br> - O usuário deve receber um link ou código para redefinir a senha |
+| Prioridade             |                                     |
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+</center>
+
+### US24 - Solicitar Auxílio-Acidente
+
+<center>
+
+**Tabela 28 - História de Usuário Solicitar Auxílio-Acidente**
+
+| **ID**                 | **Nome**                                |
+| :--------------------- | :-------------------------------------- |
+| _US24_                   | Solicitar Auxílio-Acidente |
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ solicitar auxílio-acidente _para_ receber suporte financeiro devido a um acidente |
+| Critérios de Aceitação | - O usuário deve poder preencher um formulário específico para auxílio-acidente <br> - O sistema deve confirmar o recebimento da solicitação |
+| Prioridade             |                                     |
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+</center>
+
+### US25 - Formulário de Auxílio-Acidente
+
+<center>
+
+**Tabela 29 - História de Usuário Preencher Formulário de Auxílio-Acidente**
+
+| **ID**                 | **Nome**                                |
+| :--------------------- | :-------------------------------------- |
+| _US25_                   | Preencher Formulário de Auxílio-Acidente |
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ preencher um formulário de auxílio-acidente _para_ descrever o acidente e anexar documentos médicos |
+| Critérios de Aceitação | - O formulário deve incluir campos para descrição do acidente, data do acidente, e anexos de documentos médicos <br> - O sistema deve validar os campos obrigatórios antes do envio |
+| Prioridade             |                                     |
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+</center>
+
+### US26 - Acesso de Advogado aos Processos dos Clientes
+
+<center>
+
+**Tabela 30 - História de Usuário Acesso de Advogado aos Processos dos Clientes**
+
+| **ID**                 | **Nome**                                |
+| :--------------------- | :-------------------------------------- |
+| US21                   | Acesso de Advogado aos Processos dos Clientes      |
 | Descrição              | _Eu, como_ advogado, _desejo_ acessar os processos dos meus clientes com a autorização deles _para_ poder acompanhar e gerenciar os casos. |
 | Critérios de Aceitação | - O sistema deve permitir que advogados acessem processos com a autorização dos clientes <br> - O sistema deve verificar e registrar a autorização do cliente <br> - O advogado deve poder visualizar, baixar e imprimir os documentos do processo |
 | Prioridade             |                                                  |
@@ -432,15 +552,15 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 
 </center>
 
-### US22 - Solicitar e fornecer documentos necessários ao processo
+### US27 - Solicitar e Fornecer Documentos pelo Advogado
 
 <center>
 
-**Tabela 24 - História de Usuário Solicitar e fornecer documentos necessários ao processo.**
+**Tabela 31 - História de Usuário Solicitar e Fornecer Documentos pelo Advogado**
 
 | **ID**                 | **Nome**                                        |
 | :--------------------- | :---------------------------------------------- |
-| US22                   | Solicitar e fornecer documentos necessários ao processo |
+| US22                   | Solicitar e Fornecer Documentos pelo Advogado |
 | Descrição              | _Eu, como_ advogado, _desejo_ solicitar e fornecer documentos necessários ao processo diretamente ao sistema _para_ agilizar a tramitação dos processos dos meus clientes. |
 | Critérios de Aceitação | - O sistema deve permitir que advogados solicitem documentos necessários ao processo <br> - O sistema deve permitir que advogados forneçam documentos diretamente ao processo <br> - O sistema deve notificar os clientes sobre solicitações de documentos |
 | Prioridade             |                                                  |
@@ -449,59 +569,258 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 
 </center>
 
-### US23 - Agendar perícia médica
+### US28 - Facilidade de Uso e Intuitividade do Aplicativo
 
 <center>
 
-**Tabela 25 - História de Usuário Agendar perícia médica.**
+**Tabela 32 - História de Usuário Facilidade de Uso e Intuitividade do Aplicativo**
 
-| **ID**                 | **Nome**                                |
-| :--------------------- | :-------------------------------------- |
-| US23                   | Agendar perícia médica                  |
-| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ agendar uma perícia médica _para_ poder ser avaliado por um médico em um horário conveniente. |
-| Critérios de Aceitação | - O sistema deve permitir o agendamento de perícias médicas <br> - O usuário deve receber uma confirmação do agendamento <br> - O sistema deve enviar lembretes do agendamento ao usuário |
-| Prioridade             |                                                  |
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US28_                   | Facilidade de Uso e Intuitividade do Aplicativo |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja fácil de usar e intuitivo, mesmo para usuários com conhecimento técnico limitado, e que minimize o número de cliques para realizar uma tarefa _para_ facilitar a utilização e agilizar o processo de interação |
+| Critérios de Aceitação | - O aplicativo deve apresentar uma interface intuitiva, com navegação simples e clara <br> - O número de cliques necessários para realizar uma tarefa deve ser minimizado, priorizando a eficiência e agilidade |
+| Prioridade             |                                     |
 
-<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 
 </center>
 
-### US24 - Reagendar perícia médica
+### US29 - Compatibilidade com Diferentes Sistemas Operacionais
 
 <center>
 
-**Tabela 26 - História de Usuário Reagendar perícia médica.**
+**Tabela 33 - História de Usuário Compatibilidade com Diferentes Sistemas Operacionais**
 
-| **ID**                 | **Nome**                                |
-| :--------------------- | :-------------------------------------- |
-| US24                   | Reagendar perícia médica                |
-| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ reagendar uma perícia médica _para_ ajustar o horário da minha consulta quando necessário. |
-| Critérios de Aceitação | - O sistema deve permitir o reagendamento de perícias médicas <br> - O usuário deve receber uma confirmação do reagendamento <br> - O sistema deve enviar lembretes do novo agendamento ao usuário |
-| Prioridade             |                                                  |
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US29_                   | Compatibilidade com Diferentes Sistemas Operacionais |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja compatível com as versões mais recentes e anteriores dos sistemas operacionais iOS, Android e computador _para_ garantir que eu possa acessar o aplicativo em qualquer dispositivo que eu utilize |
+| Critérios de Aceitação | - O aplicativo deve funcionar corretamente nas versões mais recentes e anteriores dos sistemas operacionais iOS, Android e computador <br> - Todos os recursos do aplicativo devem estar disponíveis em todas as plataformas suportadas |
+| Prioridade             |                                     |
 
-<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 
 </center>
 
-### US25 - Cancelar perícia médica
+### US30 - Notificação de Atualizações Importantes
 
 <center>
 
-**Tabela 27 - História de Usuário Cancelar perícia médica.**
+**Tabela 34 - História de Usuário Notificação de Atualizações Importantes**
 
-| **ID**                 | **Nome**                                |
-| :--------------------- | :-------------------------------------- |
-| US25                   | Cancelar perícia médica                 |
-| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ cancelar uma perícia médica _para_ desmarcar a consulta quando não for mais necessário. |
-| Critérios de Aceitação | - O sistema deve permitir o cancelamento de perícias médicas <br> - O usuário deve receber uma confirmação do cancelamento <br> - O sistema deve enviar notificações de cancelamento ao usuário |
-| Prioridade             |                                                  |
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US30_                   | Notificação de Atualizações Importantes |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ receber notificações sobre atualizações importantes em minhas solicitações e agendamentos via notificações no aplicativo ou por email _para_ ficar atualizado sobre qualquer mudança ou informação relevante |
+| Critérios de Aceitação | - O aplicativo deve enviar notificações sobre atualizações importantes relacionadas às solicitações e agendamentos do usuário <br> - O usuário deve poder optar por receber notificações por email ou no aplicativo |
+| Prioridade             |                                     |
 
-<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+
+</center>
+
+### US31 - Criação de Fila Digital para Agendamentos
+
+<center>
+
+**Tabela 35 - História de Usuário Criação de Fila Digital para Agendamentos**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US31_                   | Criação de Fila Digital para Agendamentos |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo crie uma fila digital referente aos agendamentos _para_ organizar e otimizar o processo de marcação de consultas e serviços |
+| Critérios de Aceitação | - O aplicativo deve gerenciar uma fila digital de agendamentos, organizando-os por ordem de chegada <br> - Os usuários devem ser notificados quando sua vez na fila chegar |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 
 </center>
 
+### US32 - Ferramentas de Acessibilidade
+
+<center>
+
+**Tabela 36 - História de Usuário Ferramentas de Acessibilidade**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US32_                   | Ferramentas de Acessibilidade |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo possua ferramentas de acessibilidade como navegação guiada, alto contraste, comando por voz e possibilidade de aumentar a fonte _para_ garantir que todas as pessoas, independentemente de suas habilidades ou necessidades, possam utilizar o aplicativo |
+| Critérios de Aceitação | - O aplicativo deve oferecer opções de navegação guiada para facilitar a interação para usuários com deficiência visual <br> - Deve ser possível alterar para um modo de alto contraste para usuários com dificuldades de visão |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 
 </center>
+
+### US33 - Integração com Outros Serviços do Governo
+
+<center>
+
+**Tabela 37 - História de Usuário Integração com Outros Serviços do Governo**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US33_                   | Integração com Outros Serviços do Governo |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo tenha integração com outros serviços do governo _para_ facilitar o acesso e a utilização de diferentes serviços públicos em um único local |
+| Critérios de Aceitação | - O aplicativo deve permitir acesso direto a outros serviços do governo, como consulta de informações fiscais e previdenciárias <br> - Deve ser possível realizar transações entre diferentes serviços sem a necessidade de sair do aplicativo |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+
+</center>
+
+### US34 - Acesso para Profissionais do Legislativo
+
+<center>
+
+**Tabela 38 - História de Usuário Acesso para Profissionais do Legislativo**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US34_                   | Acesso para Profissionais do Legislativo |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo permita outras formas de acesso, como para profissionais do legislativo, para o acompanhamento facilitado de documentos e processos _para_ garantir que todas as partes interessadas tenham acesso às informações relevantes |
+| Critérios de Aceitação | - O aplicativo deve oferecer acesso exclusivo para profissionais do legislativo, com permissões específicas para visualização e edição de documentos <br> - Deve ser possível acompanhar o andamento de processos legislativos de forma organizada e intuitiva |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+
+</center>
+
+### US35 - Suporte em Vários Idiomas
+
+<center>
+
+**Tabela 39 - História de Usuário Suporte em Vários Idiomas**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US35_                   | Suporte em Vários Idiomas |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo ofereça suporte em vários idiomas, especialmente português _para_ facilitar a utilização por usuários de diferentes nacionalidades e idiomas |
+| Critérios de Aceitação | - O aplicativo deve disponibilizar a opção de seleção de idioma na interface de usuário <br> - Todas as funcionalidades do aplicativo devem ser totalmente traduzidas para os idiomas suportados |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+
+</center>
+
+### US36 - Escalabilidade Nacional do Sistema
+
+<center>
+
+**Tabela 40 - História de Usuário Escalabilidade Nacional do Sistema**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US36_                   | Escalabilidade Nacional do Sistema |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o sistema seja capaz de lidar com um grande número de processos e distribuí-los nacionalmente _para_ garantir que o sistema seja escalável e possa atender às demandas de todos os usuários em diferentes regiões do país |
+| Critérios de Aceitação | - O sistema deve ser capaz de processar e armazenar um grande volume de dados de forma eficiente <br> - Deve ser possível distribuir os processos e dados de forma equitativa entre diferentes servidores e regiões |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+
+</center>
+
+### US37 - Eficiência nas Tarefas do Aplicativo
+
+<center>
+
+**Tabela 41 - História de Usuário Eficiência nas Tarefas do Aplicativo**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US37_                   | Eficiência nas Tarefas do Aplicativo |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja eficiente, permitindo que eu realize tarefas rápidas em 1-5 minutos e tarefas mais complexas em até 1h20 _para_ otimizar meu tempo e tornar o uso do aplicativo mais produtivo |
+| Critérios de Aceitação | - As tarefas comuns do aplicativo devem ser realizadas em um intervalo de tempo entre 1 e 5 minutos <br> - Tarefas mais complexas, como preenchimento de formulários extensos, devem ser concluídas em até 1 hora e 20 minutos |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+
+</center>
+
+### US38 - Compatibilidade com Tecnologias Assistivas
+
+<center>
+
+**Tabela 42 - História de Usuário Compatibilidade com Tecnologias Assistivas**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US38_                   | Compatibilidade com Tecnologias Assistivas |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja compatível com tecnologias assistivas, como teclados virtuais, controle por voz e dispositivos de entrada alternativos _para_ garantir que pessoas com deficiências físicas possam utilizar o aplicativo de forma acessível |
+| Critérios de Aceitação | - O aplicativo deve ser totalmente operável através de teclados virtuais e controles por voz <br> - Deve ser possível navegar por todas as funcionalidades do aplicativo utilizando dispositivos de entrada alternativos |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+
+</center>
+
+### US39 - Garantia de Segurança das Informações Pessoais
+
+<center>
+
+**Tabela 43 - História de Usuário Garantia de Segurança das Informações Pessoais**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US39_                   | Garantia de Segurança das Informações Pessoais |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo garanta a segurança das minhas informações pessoais através de criptografia de dados e autenticação robusta _para_ proteger minha privacidade e confidencialidade |
+| Critérios de Aceitação | - Todas as informações pessoais dos usuários devem ser criptografadas durante a transmissão e armazenamento <br> - Deve ser implementada uma autenticação robusta, como autenticação de dois fatores, para garantir o acesso seguro às contas dos usuários |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+
+</center>
+
+### US40 - Tempo de Resposta do Aplicativo
+
+<center>
+
+**Tabela 44 - História de Usuário Tempo de Resposta do Aplicativo**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US40_                   | Tempo de Resposta do Aplicativo |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo responda a comandos em menos de 3 segundos _para_ garantir uma experiência de uso rápida e eficiente |
+| Critérios de Aceitação | - Todas as interações do usuário com o aplicativo, incluindo cliques e entrada de dados, devem ser respondidas em menos de 3 segundos <br> - O tempo de resposta do aplicativo deve ser consistente em diferentes dispositivos e condições de rede |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+
+</center>
+
+### US41 - Disponibilidade do Aplicativo 24/7
+
+<center>
+
+**Tabela 45 - História de Usuário Disponibilidade do Aplicativo 24/7**
+
+| **ID**                 | **Nome**                                  |
+| :--------------------- | :---------------------------------------- |
+| _US41_                   | Disponibilidade do Aplicativo 24/7 |                                
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo esteja disponível 24 horas por dia, 7 dias por semana, com uma taxa de uptime de 99.9% _para_ garantir que eu possa acessar o aplicativo sempre que precisar, sem interrupções |
+| Critérios de Aceitação | - O aplicativo deve estar disponível para acesso a qualquer momento, sem restrições de horário <br> - A taxa de uptime do aplicativo deve ser monitorada e mantida em 99.9% ou superior |
+| Prioridade             |                                     |
+
+
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+
+</center>
+
 
 ## Bibliografia
 
@@ -519,5 +838,5 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 |`1.0`|25/05/2024|Criação do documento.|[Gabriel Souza](https://github.com/GabrielMS00)|25/05/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)|
 |`1.1`|25/05/2024|Adição de histórias do usuário.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|26/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
 |`1.2`|26/05/2024|Adição de histórias do usuário.|[Gabriel Souza](https://github.com/GabrielMS00)|27/05/2024|[José Filipi](https://github.com/JoseFilipi)|
-|`1.3`|27/05/2024|Adição de histórias do usuário.|[José Filipi](https://github.com/JoseFilipi)|||
-
+|`1.3`|27/05/2024|Adição de histórias do usuário.|[José Filipi](https://github.com/JoseFilipi)|27/05/2024|[Amanda Campos](https://github.com/acamposs)|
+|`1.4`|27/05/2024|Adição de histórias do usuário.|[Amanda Campos](https://github.com/acamposs)|27/05/2024||
