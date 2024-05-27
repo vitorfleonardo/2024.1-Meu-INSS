@@ -16,16 +16,26 @@ Para organizar nosso backlog de forma eficiente, seguimos uma metodologia que co
 
 ### Épicos
 
-* **Épico 1.1:** Eu, como usuário, gostaria de realizar o login com o acesso unificado do gov.br, autenticar-me usando CPF e senha, e utilizar autenticação biométrica para segurança adicional.
-* **Épico 1.2:** Eu, como usuário, gostaria de que minhas informações pessoais sejam criptografadas e ter uma opção de recuperação de senha para garantir a segurança dos meus dados. 
-* **Épico 2.1:**Eu, como usuário, gostaria de visualizar detalhes de todos os benefícios, simular tempo de contribuição, estimar aposentadoria, e checar o extrato da aposentadoria mensal para planejar meu futuro financeiro.
-* **Épico 2.2:**Eu, como usuário, gostaria de agendar um horário em uma agência, ter a flexibilidade de agendar, reagendar e cancelar perícias médicas.
-* **Épico 3.1:**Eu, como usuário, gostaria de acessar extratos anuais de imposto de renda e empréstimo, e visualizar o Cadastro Nacional de Informações Sociais (CNIS) para ter um registro detalhado das minhas contribuições.
-* **Épico 3.2:**Eu, como usuário, gostaria de enviar documentos necessários para requerimento ou manutenção de benefícios, e como advogado, acessar processos dos meus clientes e fornecer documentos pelo sistema para agilizar o atendimento jurídico.
-* **Épico 4.1:**Eu, como usuário, gostaria de acessar tutoriais para entender melhor o uso do aplicativo e um serviço de suporte técnico acessível para resolver problemas rapidamente.
-* **Épico 4.2:**Eu, como usuário, gostaria de ser notificado sobre atualizações importantes em minhas solicitações e agendamentos via notificações no aplicativo ou por email.
-* **Épico 5:**Eu, como usuário, gostaria de que o aplicativo seja fácil de usar e intuitivo, mesmo para quem tem conhecimento técnico limitado.
-* **Épico 6:**Eu, como usuário, gostaria de que o aplicativo tenha integração com outros serviços do governo para facilitar o acesso a diversas informações e funcionalidades em um único lugar. 
+* **Épico 1.1: Autenticação e Segurança**
+Eu, como usuário, gostaria de realizar o login com o acesso unificado do gov.br, autenticar-me usando CPF e senha, e utilizar autenticação biométrica para segurança adicional.
+* **Épico 1.2: Autenticação e Segurança** 
+Eu, como usuário, gostaria de que minhas informações pessoais sejam criptografadas e ter uma opção de recuperação de senha para garantir a segurança dos meus dados. 
+* **Épico 2.1: Gerenciamento de Benefícios**
+Eu, como usuário, gostaria de visualizar detalhes de todos os benefícios, simular tempo de contribuição, estimar aposentadoria, e checar o extrato da aposentadoria mensal para planejar meu futuro financeiro.
+* **Épico 2.2: Gerenciamento de Benefícios**
+Eu, como usuário, gostaria de agendar um horário em uma agência, ter a flexibilidade de agendar, reagendar e cancelar perícias médicas.
+* **Épico 3.1: Acesso a Documentos**
+Eu, como usuário, gostaria de acessar extratos anuais de imposto de renda e empréstimo, e visualizar o Cadastro Nacional de Informações Sociais (CNIS) para ter um registro detalhado das minhas contribuições.
+* **Épico 3.2: Acesso a Documentos**
+Eu, como usuário, gostaria de enviar documentos necessários para requerimento ou manutenção de benefícios, e como advogado, acessar processos dos meus clientes e fornecer documentos pelo sistema para agilizar o atendimento jurídico.
+* **Épico 4.1: Suporte e Tutoriais**
+Eu, como usuário, gostaria de acessar tutoriais para entender melhor o uso do aplicativo e um serviço de suporte técnico acessível para resolver problemas rapidamente.
+* **Épico 4.2: Suporte e Tutoriais**
+Eu, como usuário, gostaria de ser notificado sobre atualizações importantes em minhas solicitações e agendamentos via notificações no aplicativo ou por email.
+* **Épico 5: Usabilidade e Acessibilidade**
+Eu, como usuário, gostaria de que o aplicativo seja fácil de usar e intuitivo, mesmo para quem tem conhecimento técnico limitado.
+* **Épico 6: Integração e Desempenho**
+Eu, como usuário, gostaria de que o aplicativo tenha integração com outros serviços do governo para facilitar o acesso a diversas informações e funcionalidades em um único lugar. 
 
 ### Tabela de backlog
 
@@ -88,4 +98,5 @@ A tabela 1 é um esqueleto de como a tabela de backlog foi feita.
 
 |Versão|Data|Descrição|Autor(es)|Data de revisão|Revisor(es)|
 |:----:|:----:|:---------:|:-----:|:-----:|:-------:|
-|`1.0`|25/05/2024|Criação do documento.|[Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)|||
+|`1.0`|25/05/2024|Criação do documento.|[Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)|[Gabriel Souza](https://github.com/GabrielMS00)|27/05/2024|
+`1.1`|27/05/2024|Alteração do documento.|[Paulo Borba](https://github.com/paulohborba)|[Gabriel Souza](https://github.com/GabrielMS00)|27/05/2024|
