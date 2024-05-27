@@ -33,7 +33,7 @@ Para a criação deste documento, um usuário assumiu o papel de Product Owner (
 |        | Entrevistadora |
 |     | Desenvolvedor  |
 
-_Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) e [NOME](GITHUB)._
+_Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7) e [NOME](GITHUB)._
 
 </center>
 
@@ -45,7 +45,7 @@ _Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) e [NOME](GITHUB)._
 
 <a href="https://www.youtube.com/" target="blanket">Clique aqui</a>
 
-Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).
+Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).
 
 </center>
 <center>
@@ -60,7 +60,7 @@ Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).
 | Prioridade             | Alta, Média ou Baixa                    |
 
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -81,7 +81,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve permitir login através do gov.br <br> - O sistema deve verificar as credenciais através do serviço gov.br <br> - Após o login, o usuário deve ser redirecionado para a página inicial do aplicativo |
 | Prioridade             |                                                  |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -98,7 +98,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - No primeiro login, o sistema deve exibir o termo de uso <br> - O usuário deve ter que aceitar o termo de uso para continuar <br> - O sistema deve registrar a aceitação do termo de uso pelo usuário |
 | Prioridade             |                                                 |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -115,7 +115,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve exibir uma lista de documentos legislativos <br> - O usuário deve poder buscar e filtrar documentos legislativos <br> - O sistema deve permitir a visualização e download dos documentos |
 | Prioridade             |                                                  |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -132,7 +132,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve oferecer uma opção de suporte técnico dentro do aplicativo <br> - O suporte técnico deve estar acessível via número 0800 e chat <br> - O sistema deve registrar as interações de suporte para acompanhamento |
 | Prioridade             |                                                  |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -149,7 +149,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve oferecer tutoriais de uso acessíveis na página inicial <br> - Os tutoriais devem cobrir as principais funcionalidades do aplicativo <br> - O sistema deve permitir feedback dos usuários sobre os tutoriais |
 | Prioridade             |                                                 |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -166,7 +166,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve permitir o agendamento de horários em agências <br> - O sistema deve enviar uma confirmação do agendamento ao usuário <br> - O usuário deve poder cancelar ou reagendar o horário, se necessário |
 | Prioridade             |                                                  |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -184,7 +184,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve exibir detalhes completos dos benefícios <br> - O usuário deve poder visualizar histórico de benefícios <br> - O sistema deve alertar o usuário sobre mudanças no status dos benefícios |
 | Prioridade             |                                                  |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -201,7 +201,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve permitir a entrada de dados sobre o tempo de contribuição <br> - O sistema deve calcular e exibir uma estimativa de aposentadoria com base nos dados fornecidos <br> - O usuário deve poder ajustar os dados e ver como isso impacta na estimativa |
 | Prioridade             |                                                  |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -218,7 +218,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve exibir o extrato mensal da aposentadoria <br> - O usuário deve poder ver detalhes sobre cada pagamento <br> - O sistema deve permitir a exportação do extrato para outros formatos, como PDF |
 | Prioridade             |                                                  |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -235,7 +235,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve exibir o extrato anual de imposto de renda <br> - O usuário deve poder visualizar detalhes de cada item do extrato <br> - O sistema deve permitir a exportação do extrato para formatos como PDF |
 | Prioridade             |                                                  |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -252,7 +252,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve exibir o extrato anual de empréstimos <br> - O usuário deve poder ver detalhes de cada item do extrato <br> - O sistema deve permitir a exportação do extrato para formatos como PDF |
 | Prioridade             |                                                 |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -269,7 +269,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve suportar autenticação biométrica, como impressão digital <br> - O usuário deve poder configurar a autenticação biométrica nas configurações do aplicativo <br> - O sistema deve garantir que a autenticação biométrica seja segura e confiável |
 | Prioridade             |                                                  |
 
-<font size="3">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
 
@@ -287,7 +287,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -305,7 +305,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -323,7 +323,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -341,7 +341,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -359,7 +359,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -377,7 +377,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -395,7 +395,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -413,7 +413,93 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Fonte: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+
+### US21 - Acessar processos dos clientes
+
+<center>
+
+**Tabela 23 - História de Usuário Acessar processos dos clientes.**
+
+| **ID**                 | **Nome**                                |
+| :--------------------- | :-------------------------------------- |
+| US21                   | Acessar processos dos clientes          |
+| Descrição              | _Eu, como_ advogado, _desejo_ acessar os processos dos meus clientes com a autorização deles _para_ poder acompanhar e gerenciar os casos. |
+| Critérios de Aceitação | - O sistema deve permitir que advogados acessem processos com a autorização dos clientes <br> - O sistema deve verificar e registrar a autorização do cliente <br> - O advogado deve poder visualizar, baixar e imprimir os documentos do processo |
+| Prioridade             |                                                  |
+
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+
+</center>
+
+### US22 - Solicitar e fornecer documentos necessários ao processo
+
+<center>
+
+**Tabela 24 - História de Usuário Solicitar e fornecer documentos necessários ao processo.**
+
+| **ID**                 | **Nome**                                        |
+| :--------------------- | :---------------------------------------------- |
+| US22                   | Solicitar e fornecer documentos necessários ao processo |
+| Descrição              | _Eu, como_ advogado, _desejo_ solicitar e fornecer documentos necessários ao processo diretamente ao sistema _para_ agilizar a tramitação dos processos dos meus clientes. |
+| Critérios de Aceitação | - O sistema deve permitir que advogados solicitem documentos necessários ao processo <br> - O sistema deve permitir que advogados forneçam documentos diretamente ao processo <br> - O sistema deve notificar os clientes sobre solicitações de documentos |
+| Prioridade             |                                                  |
+
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+
+</center>
+
+### US23 - Agendar perícia médica
+
+<center>
+
+**Tabela 25 - História de Usuário Agendar perícia médica.**
+
+| **ID**                 | **Nome**                                |
+| :--------------------- | :-------------------------------------- |
+| US23                   | Agendar perícia médica                  |
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ agendar uma perícia médica _para_ poder ser avaliado por um médico em um horário conveniente. |
+| Critérios de Aceitação | - O sistema deve permitir o agendamento de perícias médicas <br> - O usuário deve receber uma confirmação do agendamento <br> - O sistema deve enviar lembretes do agendamento ao usuário |
+| Prioridade             |                                                  |
+
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+
+</center>
+
+### US24 - Reagendar perícia médica
+
+<center>
+
+**Tabela 26 - História de Usuário Reagendar perícia médica.**
+
+| **ID**                 | **Nome**                                |
+| :--------------------- | :-------------------------------------- |
+| US24                   | Reagendar perícia médica                |
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ reagendar uma perícia médica _para_ ajustar o horário da minha consulta quando necessário. |
+| Critérios de Aceitação | - O sistema deve permitir o reagendamento de perícias médicas <br> - O usuário deve receber uma confirmação do reagendamento <br> - O sistema deve enviar lembretes do novo agendamento ao usuário |
+| Prioridade             |                                                  |
+
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+
+</center>
+
+### US25 - Cancelar perícia médica
+
+<center>
+
+**Tabela 27 - História de Usuário Cancelar perícia médica.**
+
+| **ID**                 | **Nome**                                |
+| :--------------------- | :-------------------------------------- |
+| US25                   | Cancelar perícia médica                 |
+| Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ cancelar uma perícia médica _para_ desmarcar a consulta quando não for mais necessário. |
+| Critérios de Aceitação | - O sistema deve permitir o cancelamento de perícias médicas <br> - O usuário deve receber uma confirmação do cancelamento <br> - O sistema deve enviar notificações de cancelamento ao usuário |
+| Prioridade             |                                                  |
+
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+
+</center>
+
 
 </center>
 
@@ -432,4 +518,6 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 |:----:|:----:|:---------:|:-----:|:-----:|:-------:|
 |`1.0`|25/05/2024|Criação do documento.|[Gabriel Souza](https://github.com/GabrielMS00)|25/05/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)|
 |`1.1`|25/05/2024|Adição de histórias do usuário.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|26/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
-|`1.2`|26/05/2024|Adição de histórias do usuário.|[Gabriel Souza](https://github.com/GabrielMS00)|||
+|`1.2`|26/05/2024|Adição de histórias do usuário.|[Gabriel Souza](https://github.com/GabrielMS00)|27/05/2024|[José Filipi](https://github.com/JoseFilipi)|
+|`1.3`|27/05/2024|Adição de histórias do usuário.|[José Filipi](https://github.com/JoseFilipi)|||
+
