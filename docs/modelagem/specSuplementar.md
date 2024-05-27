@@ -175,8 +175,8 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 | +Im001 | O aplicativo deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD) do brasil, garantindo a privacidade e segurança dos dados dos usuários. |
 | +Im002 | O aplicativo deve suportar protocolos de comunicação padrão, como HTTP/HTTPS para comunicação web. |
 | +Im003 | O aplicativo deve seguir as melhores práticas de segurança, incluindo a criptografia de dados em trânsito. |
-| +Im003 | O aplicativo deve garantir a integridade dos dados do usuário. Isso inclui a implementação de políticas e recuperação de dados, bem como medidas para previnir a corrupção de dados |
-| +Im004 | O aplicativo deve ser otimizado para uso eficiente de recursos, garantindo que funcione de maneira eficaz mesmo em dispositivos com recursos limitados. |
+| +Im004 | O aplicativo deve garantir a integridade dos dados do usuário. Isso inclui a implementação de políticas e recuperação de dados, bem como medidas para previnir a corrupção de dados |
+| +Im005 | O aplicativo deve ser otimizado para uso eficiente de recursos, garantindo que funcione de maneira eficaz mesmo em dispositivos com recursos limitados. |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024</p></font>
 
