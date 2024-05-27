@@ -179,8 +179,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | **ID**                 | **Nome**                                             |
 | :--------------------- | :--------------------------------------------------- |
 | US07                   | Visualizar detalhes dos benefícios                   |
-| Descrição              | _Eu, como_ beneficiário, _desejo_ |
-| visualizar todos os detalhes dos benefícios aos quais tenho direito _para_ ter informações claras sobre valores, datas de pagamento, status e correções. |
+| Descrição              | _Eu, como_ beneficiário, _desejo_  visualizar todos os detalhes dos benefícios aos quais tenho direito _para_ ter informações claras sobre valores, datas de pagamento, status e correções. |
 | Critérios de Aceitação | - O sistema deve exibir detalhes completos dos benefícios <br> - O usuário deve poder visualizar histórico de benefícios <br> - O sistema deve alertar o usuário sobre mudanças no status dos benefícios |
 | Prioridade             |                                                  |
 
