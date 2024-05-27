@@ -298,20 +298,63 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 
 ## Entrega 4 - Modelagem de Requisitos 2 - Ágil - Data de Entrega:
 
-| Atividade| Responsáveis|Início|Término|Revisores|
-|:--|:--|:--|:--|:--|
-| Técnica de Modelagem de Requisitos Ágil: NFR Framework| [Vitor](https://github.com/vitorfleonardo) & [José Filipi](https://github.com/JoseFilipi)| 21/05  | 27/05| [Paulo Borba](https://github.com/paulohborba)                                                   |
-| Técnica de Modelagem de Requisitos Ágil: Backlogs     | [Johnny](https://github.com/JohnnyLopess) & [Amanda](https://github.com/acamposs) & [Paulo](https://github.com/paulohborba)              | 21/05  | 26/05   | [José Filipi](https://github.com/JoseFilipi) |
-| Técnica de Modelagem de Requisitos Ágil: User histories| [Gabriel](https://github.com/GabrielMS00), [Vitor](https://github.com/vitorfleonardo), [José Filipi](https://github.com/JoseFilipi), [Bianca](https://github.com/BiancaPatrocinio7), [Amanda](https://github.com/acamposs), [Johnny](https://github.com/JohnnyLopess), [Paulo](https://github.com/paulohborba)| 21/05  | 26/05   | [José Filipi](https://github.com/JoseFilipi)|
-| Gravação da apresentação e entrega                    | [Gabriel](https://github.com/GabrielMS00), [Vitor](https://github.com/vitorfleonardo), [José Filipi](https://github.com/JoseFilipi), [Bianca](https://github.com/BiancaPatrocinio7), [Amanda](https://github.com/acamposs), [Johnny](https://github.com/JohnnyLopess), [Paulo](https://github.com/paulohborba) | 26/05  | 26/05   | [Gabriel](https://github.com/GabrielMS00), [Vitor](https://github.com/vitorfleonardo), [José Filipi](https://github.com/JoseFilipi), [Bianca](https://github.com/BiancaPatrocinio7), [Amanda](https://github.com/acamposs), [Johnny](https://github.com/JohnnyLopess), [Paulo](https://github.com/paulohborba) |
-| Correção pós apresentação                             | [Vitor](https://github.com/vitorfleonardo), [José Filipi](https://github.com/JoseFilipi), [Gabriel](https://github.com/GabrielMS00), [Bianca](https://github.com/BiancaPatrocinio7), [Amanda](https://github.com/acamposs), [Paulo](https://github.com/paulohborba), [Johnny](https://github.com/JohnnyLopess) | 28/05  | 09/06   | [Vitor](https://github.com/vitorfleonardo), [José Filipi](https://github.com/JoseFilipi), [Gabriel](https://github.com/GabrielMS00), [Bianca](https://github.com/BiancaPatrocinio7), [Amanda](https://github.com/acamposs), [Paulo](https://github.com/paulohborba), [Johnny](https://github.com/JohnnyLopess) |
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Modelagem de Requisitos 2</p></font>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b><a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos Ágil: NFR Framework</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>21/05</td>
+      <td>27/05</td>
+      <td><a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Técnica de Modelagem de Requisitos Ágil: Backlogs/td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>21/05</td>
+      <td>27/05</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a></td>
+    </tr>
+      <td>Técnica de Modelagem de Requisitos Ágil: User histories</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td>21/05</td>
+      <td>27/05</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+    </tr>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>26/05</td>
+      <td>27/05</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>28/05</td>
+      <td>09/06</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
-
 ## Bibliografia
+
 
 > <a id="QT1" href="#anchor_1">1.</a> Cronograma Bilheteria Digital. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md. Acesso em 27 de março de 2024.
 
@@ -327,3 +370,4 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 | `1.3`  | 15/04/2024 | Adição do cronograma executado para entrega 2.| [Johnny Lopes](https://github.com/JohnnyLopess) | 19/04/2024 | [Amanda Campos](https://github.com/acamposs)|
 | `1.4`  | 21/04/2024 | Correções no cronograma executado.| [Johnny Lopes](https://github.com/JohnnyLopess) | 21/04/2024 |[Amanda Campos](https://github.com/acamposs) |
 | `1.5`  | 20/05/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 20/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.6`  | 27/05/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 27/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
