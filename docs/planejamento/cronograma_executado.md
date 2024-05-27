@@ -298,6 +298,7 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 
 ## Entrega 4 - Modelagem de Requisitos 2 - Ágil - Data de Entrega:
 
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Modelagem de Requisitos 2</p></font>
 
@@ -352,7 +353,8 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
-## Referências Bibliográficas
+## Bibliografia
+
 
 > <a id="QT1" href="#anchor_1">1.</a> Cronograma Bilheteria Digital. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md. Acesso em 27 de março de 2024.
 
