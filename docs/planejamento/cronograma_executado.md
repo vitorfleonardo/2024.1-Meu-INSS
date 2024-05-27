@@ -296,7 +296,22 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
-## Referências Bibliográficas
+## Entrega 4 - Modelagem de Requisitos 2 - Ágil - Data de Entrega:
+
+| Atividade| Responsáveis|Início|Término|Revisores|
+|:--|:--|:--|:--|:--|
+| Técnica de Modelagem de Requisitos Ágil: NFR Framework| [Vitor](https://github.com/vitorfleonardo) & [José Filipi](https://github.com/JoseFilipi)| 21/05  | 27/05| [Paulo Borba](https://github.com/paulohborba)                                                   |
+| Técnica de Modelagem de Requisitos Ágil: Backlogs     | [Johnny](https://github.com/JohnnyLopess) & [Amanda](https://github.com/acamposs) & [Paulo](https://github.com/paulohborba)              | 21/05  | 26/05   | [Gabriel](https://github.com/GabrielMS00) & [Bianca](https://github.com/BiancaPatrocinio7)                                               |
+| Técnica de Modelagem de Requisitos Ágil: User histories| [Gabriel](https://github.com/GabrielMS00), [Vitor](https://github.com/vitorfleonardo), [José Filipi](https://github.com/JoseFilipi), [Bianca](https://github.com/BiancaPatrocinio7), [Amanda](https://github.com/acamposs), [Johnny](https://github.com/JohnnyLopess), [Paulo](https://github.com/paulohborba)| 21/05  | 26/05   | [José Filipi](https://github.com/JoseFilipi) & [Paulo](https://github.com/paulohborba)                                                    |
+| Gravação da apresentação e entrega                    | [Gabriel](https://github.com/GabrielMS00), [Vitor](https://github.com/vitorfleonardo), [José Filipi](https://github.com/JoseFilipi), [Bianca](https://github.com/BiancaPatrocinio7), [Amanda](https://github.com/acamposs), [Johnny](https://github.com/JohnnyLopess), [Paulo](https://github.com/paulohborba) | 26/05  | 26/05   | [Gabriel](https://github.com/GabrielMS00), [Vitor](https://github.com/vitorfleonardo), [José Filipi](https://github.com/JoseFilipi), [Bianca](https://github.com/BiancaPatrocinio7), [Amanda](https://github.com/acamposs), [Johnny](https://github.com/JohnnyLopess), [Paulo](https://github.com/paulohborba) |
+| Correção pós apresentação                             | [Vitor](https://github.com/vitorfleonardo), [José Filipi](https://github.com/JoseFilipi), [Gabriel](https://github.com/GabrielMS00), [Bianca](https://github.com/BiancaPatrocinio7), [Amanda](https://github.com/acamposs), [Paulo](https://github.com/paulohborba), [Johnny](https://github.com/JohnnyLopess) | 28/05  | 09/06   | [Vitor](https://github.com/vitorfleonardo), [José Filipi](https://github.com/JoseFilipi), [Gabriel](https://github.com/GabrielMS00), [Bianca](https://github.com/BiancaPatrocinio7), [Amanda](https://github.com/acamposs), [Paulo](https://github.com/paulohborba), [Johnny](https://github.com/JohnnyLopess) |
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b><a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
+</div>
+
+
+## Bibliografia
 
 > <a id="QT1" href="#anchor_1">1.</a> Cronograma Bilheteria Digital. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md. Acesso em 27 de março de 2024.
 
