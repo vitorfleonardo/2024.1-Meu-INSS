@@ -184,7 +184,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve exibir detalhes completos dos benefícios <br> - O usuário deve poder visualizar histórico de benefícios <br> - O sistema deve alertar o usuário sobre mudanças no status dos benefícios |
 | Prioridade             |                                                  |
 
-<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -201,7 +201,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve permitir a entrada de dados sobre o tempo de contribuição <br> - O sistema deve calcular e exibir uma estimativa de aposentadoria com base nos dados fornecidos <br> - O usuário deve poder ajustar os dados e ver como isso impacta na estimativa |
 | Prioridade             |                                                  |
 
-<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -218,7 +218,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve exibir o extrato mensal da aposentadoria <br> - O usuário deve poder ver detalhes sobre cada pagamento <br> - O sistema deve permitir a exportação do extrato para outros formatos, como PDF |
 | Prioridade             |                                                  |
 
-<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -235,7 +235,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve exibir o extrato anual de imposto de renda <br> - O usuário deve poder visualizar detalhes de cada item do extrato <br> - O sistema deve permitir a exportação do extrato para formatos como PDF |
 | Prioridade             |                                                  |
 
-<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -252,7 +252,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve exibir o extrato anual de empréstimos <br> - O usuário deve poder ver detalhes de cada item do extrato <br> - O sistema deve permitir a exportação do extrato para formatos como PDF |
 | Prioridade             |                                                 |
 
-<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -269,7 +269,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve suportar autenticação biométrica, como impressão digital <br> - O usuário deve poder configurar a autenticação biométrica nas configurações do aplicativo <br> - O sistema deve garantir que a autenticação biométrica seja segura e confiável |
 | Prioridade             |                                                  |
 
-<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
 </center>
 
@@ -287,7 +287,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
 
 </center>
 
@@ -305,7 +305,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
 
 </center>
 
@@ -323,7 +323,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
 
 </center>
 
@@ -341,7 +341,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
 
 </center>
 
@@ -359,7 +359,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
 
 </center>
 
@@ -377,7 +377,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
 
 </center>
 
@@ -395,7 +395,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 
 </center>
 
@@ -413,7 +413,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                     |
 
 
-<font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 </center>
 
 ### US21.1 - Agendar Perícias Médicas
@@ -430,7 +430,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                    |
 
 
-<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 </center>
 
 
@@ -448,7 +448,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 </center>
 
 ---
@@ -467,7 +467,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 </center>
 
 
@@ -500,7 +500,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O usuário deve poder solicitar a recuperação de senha via email <br> - O usuário deve receber um link ou código para redefinir a senha |
 | Prioridade             |                                     |
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 </center>
 
 ### US24 - Solicitar Auxílio-Acidente
@@ -516,7 +516,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O usuário deve poder preencher um formulário específico para auxílio-acidente <br> - O sistema deve confirmar o recebimento da solicitação |
 | Prioridade             |                                     |
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 </center>
 
 ### US25 - Formulário de Auxílio-Acidente
@@ -532,7 +532,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O formulário deve incluir campos para descrição do acidente, data do acidente, e anexos de documentos médicos <br> - O sistema deve validar os campos obrigatórios antes do envio |
 | Prioridade             |                                     |
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 </center>
 
 ### US26 - Acesso de Advogado aos Processos dos Clientes
@@ -548,7 +548,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve permitir que advogados acessem processos com a autorização dos clientes <br> - O sistema deve verificar e registrar a autorização do cliente <br> - O advogado deve poder visualizar, baixar e imprimir os documentos do processo |
 | Prioridade             |                                                  |
 
-<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+<font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 
 </center>
 
@@ -565,7 +565,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Critérios de Aceitação | - O sistema deve permitir que advogados solicitem documentos necessários ao processo <br> - O sistema deve permitir que advogados forneçam documentos diretamente ao processo <br> - O sistema deve notificar os clientes sobre solicitações de documentos |
 | Prioridade             |                                                  |
 
-<font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
+<font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 
 </center>
 
@@ -583,7 +583,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 
 </center>
 
@@ -601,7 +601,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
 
 </center>
 
@@ -619,7 +619,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
 
 </center>
 
@@ -637,7 +637,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
 
 </center>
 
@@ -655,7 +655,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
 
 </center>
 
@@ -673,7 +673,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
 
 </center>
 
@@ -691,7 +691,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
 
 </center>
 
@@ -709,7 +709,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
 
 </center>
 
@@ -727,7 +727,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
 
 </center>
 
@@ -745,7 +745,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor:[Paulo Borba](https://github.com/paulohborba).</font>
 
 </center>
 
@@ -763,7 +763,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
 
 </center>
 
@@ -781,7 +781,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
 
 </center>
 
@@ -799,7 +799,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
 
 </center>
 
@@ -817,7 +817,7 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 | Prioridade             |                                     |
 
 
-<font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
+<font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
 
 </center>
 
@@ -837,6 +837,9 @@ As tabelas 3 a Y detalham as histórias de usuário elicitadas durante o process
 |:----:|:----:|:---------:|:-----:|:-----:|:-------:|
 |`1.0`|25/05/2024|Criação do documento.|[Gabriel Souza](https://github.com/GabrielMS00)|25/05/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)|
 |`1.1`|25/05/2024|Adição de histórias do usuário.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|26/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
-|`1.2`|26/05/2024|Adição de histórias do usuário.|[Gabriel Souza](https://github.com/GabrielMS00)|27/05/2024|[José Filipi](https://github.com/JoseFilipi)|
-|`1.3`|27/05/2024|Adição de histórias do usuário.|[José Filipi](https://github.com/JoseFilipi)|27/05/2024|[Amanda Campos](https://github.com/acamposs)|
-|`1.4`|27/05/2024|Adição de histórias do usuário.|[Amanda Campos](https://github.com/acamposs)|27/05/2024||
+|`1.2`|26/05/2024|Adição de histórias do usuário.|[Gabriel Souza](https://github.com/GabrielMS00)|26/05/2024|[José Filipi](https://github.com/JoseFilipi)|
+|`1.3`|26/05/2024|Adição de histórias do usuário.|[José Filipi](https://github.com/JoseFilipi)|27/05/2024|[Amanda Campos](https://github.com/acamposs)|
+|`1.4`|27/05/2024|Adição de histórias do usuário.|[Amanda Campos](https://github.com/acamposs)|27/05/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
+|`1.5`|27/05/2024|Adição de histórias do usuário.|[Johnny Lopes](https://github.com/JohnnyLopess)|27/05/2024|[Vitor Feijó](https://github.com/vitorfleonardo)|
+|`1.6`|27/05/2024|Adição de histórias do usuário.|[Vitor Feijó](https://github.com/vitorfleonardo)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|
+|`1.7`|27/05/2024|Adição de histórias do usuário.|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
