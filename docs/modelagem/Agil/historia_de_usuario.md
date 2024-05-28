@@ -21,7 +21,7 @@ Dentre os principais objetivos do uso das histórias de usuários como um artefa
 
 ## Metodologia
 
-Para a criação deste documento, as funcionalidades desejadas foram descritas e os desenvolvedores tomaram notas e fizeram perguntas. Após a elicitação das histórias de usuário, os critérios de aceitação foram estabelecidos e as histórias foram priorizadas nas categorias Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Posteriormente, houve uma validação com o Product Owner (PO) para garantir a precisão e a relevância das histórias, os critérios de aceitação foram estabelecidos, e as histórias foram priorizadas nas categorias , Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Os participantes da validação estão listados na Tabela 1, a gravação da validação pode ser visualizada no Vídeo 1, e o modelo de card para as histórias de usuário está descrito na Tabela 2.
+Para a criação deste documento, as funcionalidades desejadas foram descritas e os desenvolvedores tomaram notas. Após a elicitação das histórias de usuário, foram estabelecidos critérios de aceitação e as histórias foram priorizadas em categorias de Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Em seguida, houve uma validação com o Product Owner (PO) para garantir a precisão e a relevância das histórias. Os participantes da validação estão listados na Tabela 1, a gravação da validação pode ser visualizada no Vídeo 1, e o modelo de card para as histórias de usuário está descrito na Tabela 2.
 <center>
 
 **Tabela 1** - Participantes da validação.
@@ -42,7 +42,7 @@ _Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7), [Vitor Feijó](ht
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwjY2x_zZHo?si=bCntushlCMSIytt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://www.youtube.com/" target="blanket">Clique aqui</a>
+<a href="https://www.youtube.com/embed/AwjY2x_zZHo?si=bCntushlCMSIytt1" target="blanket">Clique aqui</a>
 
 Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba).
 
@@ -391,7 +391,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US18                   |  Alertas caso haja empréstimos indevidos  |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ receber alertas no dispositivo por meio do sistema caso haja empréstimos indevidos, _para_ que eu possa me manter atualizado sobre os empréstimos solicitados. |
 | Critérios de Aceitação | - O sistema deve enviar alertas ao dispositivo sempre que houver empréstimos indevidos <br> - Os alertas devem especificar o empréstimo que se configura como indevido <br> - Os alertas devem ser enviados imediatamente após o empréstimo ser configurado como indevido |
-| Prioridade             |     M édia               |
+| Prioridade             |     Média               |
 | Status                 | Validada |
 
 
