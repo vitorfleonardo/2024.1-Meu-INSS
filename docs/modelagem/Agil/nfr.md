@@ -32,11 +32,11 @@ da rastreabilidade(CHUNG et al., 2000).
 
 <p align="center">
     <strong>Figura 1: Tipos de Softgoal</strong><br>
-    <img src="../../imagens/Soft-goals.jpg" width="300%">
+    <img src="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/assets/nfr-framework/tipos.png" width="300%">
 </p>
 
 
-<font size="3"><p style="text-align: center">Fonte: (CHUNG et al., 2000)</p></font>
+<font size="3"><p style="text-align: center">Fonte: Bilheteria Digital 2023.1</p></font>
 
 A figura 1 ilustra as representações gráficas dos três tipos de softgoals utilizados pelo
 NFR Framework. Para representar os softgoals NFR são utilizadas nuvens claras, os softgoals de operacionalização são nuvens com linhas mais grossas, enquanto os softgoals de
