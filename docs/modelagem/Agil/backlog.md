@@ -56,31 +56,50 @@ A tabela 1 é um esqueleto de como a tabela de backlog foi feita.
 
 <p align="center" > <strong> Tabela 2 - </Strong>backlog</font> <gitbr></p>
 <center>
+### Tabela de Backlog Completa (Com Rastreabilidade Corrigida)
 
 |Tema|Épico|Histórias de Usuário|ID US|Prioridade|Rastreabilidade|
-|:--|:--|:--|:--|:--|:--|
-|Autenticação e Segurança|EP1.1|Como usuário, eu quero realizar o login com o acesso unificado do gov.br para ter uma autenticação segura e padronizada.|US1|-|RE01|
-|Autenticação e Segurança|EP1.1|Como usuário, eu quero autenticar-me usando CPF e senha para acessar informações pessoais e serviços.|US2|-|RE20|
-|Autenticação e Segurança|EP1.1|Como usuário, eu quero que o aplicativo permita autenticação biométrica, como impressão digital, para uma segurança adicional.|US3|-|RE12|
-|Autenticação e Segurança|EP1.2|Como usuário, eu quero que minhas informações pessoais sejam criptografadas para garantir a segurança dos meus dados.|US4|-|RE39|
-|Autenticação e Segurança|EP1.2|Como usuário, eu quero uma opção de recuperação de senha caso eu a esqueça para não perder o acesso ao aplicativo.|US5|-|RE23|
-|Gerenciamento de Benefícios|EP2.1|Como usuário, eu quero visualizar detalhes de todos os benefícios aos quais tenho direito, incluindo valores, datas de pagamento, status e correções para melhor gerenciar meus benefícios.|US6|-|RE07|
-|Gerenciamento de Benefícios|EP2.1|Como usuário, eu quero simular o tempo de contribuição e estimar a aposentadoria e seus benefícios com base nos meus dados para planejar meu futuro financeiro.|US7|-|RE08|
-|Gerenciamento de Benefícios|EP2.1|Como usuário, eu quero checar o extrato referente ao dinheiro da aposentadoria mensal para monitorar meus recebimentos.|US8|-|RE09|
-|Gerenciamento de Benefícios|EP2.2|Como usuário, eu quero agendar um horário em uma agência para resolver pendências presencialmente.|US9|-|RE06|
-|Gerenciamento de Benefícios|EP2.2|Como usuário, eu quero agendar, reagendar e cancelar perícias médicas para ter flexibilidade e controle sobre minhas consultas.|US10|-|RE21|
-|Acesso a Documentos|EP3.1|Como usuário, eu quero acessar um extrato anual de imposto de renda para cumprir minhas obrigações fiscais.|US11|-|RE10|
-|Acesso a Documentos|EP3.1|Como usuário, eu quero acessar um extrato anual de empréstimo para controlar minhas dívidas.|US12|-|RE11|
-|Acesso a Documentos|EP3.1|Como usuário, eu quero acessar e visualizar o Cadastro Nacional de Informações Sociais (CNIS) para ter um registro detalhado das minhas contribuições.|US13|-|RE13|
-|Acesso a Documentos|EP3.2|Como usuário, eu quero enviar documentos necessários para o processo de requerimento ou manutenção de benefícios para facilitar o processamento do meu pedido.|US14|-|RE22|
-|Acesso a Documentos|EP3.2|Como advogado, eu quero acessar os processos dos meus clientes e solicitar/fornecer documentos necessários ao processo diretamente pelo sistema para agilizar o atendimento jurídico.|US15|-|RE26, RE27|
-|Suporte e Tutoriais|EP4.1|Como usuário, eu quero acessar tutoriais para compreender melhor o uso do aplicativo para aproveitar todas as funcionalidades disponíveis.|US16|-|RE05|
-|Suporte e Tutoriais|EP4.1|Como usuário, eu quero um serviço de suporte técnico acessível diretamente no aplicativo ou por meio de um número 0800 ou chat de atendimento para resolver problemas e tirar dúvidas rapidamente.|US17|-|RE04|
-|Suporte e Tutoriais|EP4.2|Como usuário, eu quero ser notificado sobre atualizações importantes em minhas solicitações e agendamentos via notificações no aplicativo ou por email para me manter informado sobre o status dos meus pedidos.|US18|-|RE30|
-|Usabilidade e Acessibilidade|EP5|Como usuário, eu quero que o aplicativo seja fácil de usar e intuitivo, mesmo para quem tem conhecimento técnico limitado.|US19|-|RE28|
-|Integração e Desempenho|EP6|Como usuário, eu quero que o aplicativo tenha integração com outros serviços do governo para facilitar o acesso a diversas informações e funcionalidades em um único lugar.|US20|-|RE33|
-
-
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|Autenticação e Segurança|Épico 1.1|Realizar login com acesso unificado do gov.br|US01|Média|RE01|
+|Autenticação e Segurança|Épico 1.1|Autenticação utilizando CPF e senha|US20|Baixa|RE20|
+|Autenticação e Segurança|Épico 1.1|Autenticação biométrica|US12|Baixa|RE12|
+|Autenticação e Segurança|Épico 1.2|Recuperação de senha|US23|Alta|RE23|
+|Autenticação e Segurança|Épico 1.2|Garantia de segurança das informações pessoais|US39|Alta|RE39|
+|Gerenciamento de Benefícios|Épico 2.1|Visualizar detalhes dos benefícios|US07|Alta|RE07|
+|Gerenciamento de Benefícios|Épico 2.1|Simular tempo de contribuição e aposentadoria|US08|Alta|RE08|
+|Gerenciamento de Benefícios|Épico 2.1|Checar extrato da aposentadoria|US09|Alta|RE09|
+|Gerenciamento de Benefícios|Épico 2.1|Solicitar auxílio-acidente|US24|Média|RE24|
+|Gerenciamento de Benefícios|Épico 2.1|Preencher formulário de auxílio-acidente|US25|Alta|RE25|
+|Gerenciamento de Benefícios|Épico 2.1|Acesso à área de ferramentas dos benefícios dos segurados|US14|Alta|RE14|
+|Gerenciamento de Benefícios|Épico 2.1|Alerta sobre empréstimos indevidos|US18|Média|RE18|
+|Gerenciamento de Benefícios|Épico 2.1|Bloquear empréstimos|US19|Alta|RE19|
+|Gerenciamento de Benefícios|Épico 2.2|Agendar horário em uma agência|US06|Alta|RE06|
+|Gerenciamento de Benefícios|Épico 2.2|Agendar perícias médicas|US21.1|Média|RE21|
+|Gerenciamento de Benefícios|Épico 2.2|Reagendar perícias médicas|US21.2|Média|RE21|
+|Gerenciamento de Benefícios|Épico 2.2|Cancelar perícias médicas|US21.3|Média|RE21|
+|Gerenciamento de Benefícios|Épico 2.2|Fornecimento de informações referentes a pagamentos não recebidos|US16|Média|RE16|
+|Gerenciamento de Benefícios|Épico 2.2|Requerimento de benefícios e atualização do vínculo do CNIS|US15|Alta|RE15|
+|Acesso a Documentos|Épico 3.1|Acessar extrato anual de imposto de renda|US10|Média|RE10|
+|Acesso a Documentos|Épico 3.1|Acessar documentos legislativos|US03|Baixa|RE03|
+|Acesso a Documentos|Épico 3.1|Acessar extrato anual de empréstimo|US11|Média|RE11|
+|Acesso a Documentos|Épico 3.1|Acesso e visualização do CNIS|US13|Alta|RE13|
+|Acesso a Documentos|Épico 3.2|Enviar documentos necessários para benefícios|US22|Alta|RE22|
+|Acesso a Documentos|Épico 3.2|Acesso de advogado aos processos dos clientes|US26|Média|RE26|
+|Acesso a Documentos|Épico 3.2|Solicitar e fornecer documentos pelo advogado|US27|Alta|RE27|
+|Suporte e Tutoriais|Épico 4.1|Acessar tutoriais de uso|US05|Média|RE05|
+|Suporte e Tutoriais|Épico 4.1|Acessar suporte técnico|US04|Alta|RE04|
+|Suporte e Tutoriais|Épico 4.2|Notificação de atualizações importantes|US30|Alta|RE30|
+|Usabilidade e Acessibilidade|Épico 5|Facilidade de uso e intuitividade do aplicativo|US28|Alta|RE28|
+|Usabilidade e Acessibilidade|Épico 5|Ferramentas de acessibilidade|US32|Média|RE32|
+|Usabilidade e Acessibilidade|Épico 5|Compatibilidade com tecnologias assistivas|US38|Alta|RE38|
+|Usabilidade e Acessibilidade|Épico 5|Suporte em vários idiomas|US35|Baixa|RE35|
+|Usabilidade e Acessibilidade|Épico 5|Garantia de segurança das informações pessoais|US39|Alta|RE39|
+|Integração e Desempenho|Épico 6|Integração com outros serviços do governo|US33|Baixa|RE33|
+|Integração e Desempenho|Épico 6|Tempo de resposta do aplicativo|US40|Alta|RE40|
+|Integração e Desempenho|Épico 6|Disponibilidade do aplicativo 24/7|US41|Média|RE41|
+|Integração e Desempenho|Épico 6|Escalabilidade nacional do sistema|US36|Alta|RE36|
+|Integração e Desempenho|Épico 6|Eficiência nas tarefas do aplicativo|US37|Alta|RE37|
+|Integração e Desempenho|Épico 6|Compatibilidade com diferentes sistemas operacionais|US29|Alta|RE29|
 
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
