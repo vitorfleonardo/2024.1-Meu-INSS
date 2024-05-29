@@ -21,7 +21,7 @@ Dentre os principais objetivos do uso das histórias de usuários como um artefa
 
 ## Metodologia
 
-Para a criação deste documento, as funcionalidades desejadas foram descritas e os desenvolvedores tomaram notas. Após a elicitação das histórias de usuário, foram estabelecidos critérios de aceitação e as histórias foram priorizadas em categorias de Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Em seguida, houve uma validação com o Product Owner (PO) para garantir a precisão e a relevância das histórias. Os participantes da validação estão listados na Tabela 1, a gravação da validação pode ser visualizada no Vídeo 1, e o modelo de card para as histórias de usuário está descrito na Tabela 2.
+Para a criação deste documento, as funcionalidades desejadas foram descritas e os desenvolvedores tomaram notas. As histórias de usuário foram elaboradas com base nos [requisitos previamente elicitados](../../elicitacao/requisitosElicitados.md). Após a elaboração das histórias de usuário, foi realizada uma reunião com um usuário para validar e priorizar esses requisitos. Os critérios de aceitação foram estabelecidos e as histórias foram categorizadas em Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Os participantes da validação estão listados na Tabela 1, a gravação da validação pode ser visualizada no Vídeo 1, e o modelo de card para as histórias de usuário está descrito na Tabela 2.
 <center>
 
 **Tabela 1** - Participantes da validação.
@@ -80,7 +80,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ realizar o login com o acesso unificado do GOV.br _para_ garantir uma autenticação segura e integrada com os serviços do governo |
 | Critérios de Aceitação | - O sistema deve permitir login através do GOV.br <br> - O sistema deve verificar as credenciais através do serviço GOV.br <br> - Após o login, o usuário deve ser redirecionado para a página inicial do aplicativo |
 |Prioridade             |                                               |
-|Rastreabilidade| [RE01](../requisitosElicitados) & [Tema 1](..\backlog.md) & [Épico 1.1](..\backlog.md) & [US01](..\backlog.md) |
+|Rastreabilidade| [RE01](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.1](backlog.md) & [US01](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -99,7 +99,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ novo usuário do aplicativo, _desejo_ receber um termo de uso em meu primeiro acesso _para_ estar ciente das condições e políticas do uso do aplicativo. |
 | Critérios de Aceitação | - No primeiro login, o sistema deve exibir o termo de uso <br> - O usuário deve ter que aceitar o termo de uso para continuar <br> - O sistema deve registrar a aceitação do termo de uso pelo usuário |
 | Prioridade             |                                                 |
-|Rastreabilidade|  [RE01](../requisitosElicitados) & [Tema 0](..\backlog.md) & [Épico 0](..\backlog.md) & [US00](..\backlog.md) |
+|Rastreabilidade|  [RE02](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.3](backlog.md) & [US02](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -118,7 +118,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário interessado em informações legislativas, _desejo_ ter acesso a documentos legislativos _para_ acompanhar e consultar a legislação vigente. |
 | Critérios de Aceitação | - O sistema deve exibir uma lista de documentos legislativos <br> - O usuário deve poder buscar e filtrar documentos legislativos <br> - O sistema deve permitir a visualização e download dos documentos |
 | Prioridade             |                                                  |
-|Rastreabilidade| [RE03](../requisitosElicitados) & [Tema 3](..\backlog.md) & [Épico 3.1](..\backlog.md) & [US03](..\backlog.md) |
+|Rastreabilidade| [RE03](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.1](backlog.md) & [US03](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -137,7 +137,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário com dificuldades técnicas, _desejo_ acessar o suporte técnico diretamente pelo aplicativo ou por um número 0800 ou chat _para_ resolver meus problemas rapidamente e continuar usando o serviço sem interrupções. |
 | Critérios de Aceitação | - O sistema deve oferecer uma opção de suporte técnico dentro do aplicativo <br> - O suporte técnico deve estar acessível via número 0800 e chat <br> - O sistema deve registrar as interações de suporte para acompanhamento |
 | Prioridade             |                                                  |
-|Rastreabilidade| [RE04](../requisitosElicitados) & [Tema 4](..\backlog.md) & [Épico 4.1](..\backlog.md) & [US04](..\backlog.md) |
+|Rastreabilidade| [RE04](../../elicitacao/requisitosElicitados.md) & [Tema 4](backlog.md) & [Épico 4.1](backlog.md) & [US04](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -156,7 +156,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário que deseja entender melhor o aplicativo, _desejo_ acessar tutoriais de uso _para_ maximizar as funcionalidades e recursos disponíveis. |
 | Critérios de Aceitação | - O sistema deve oferecer tutoriais de uso acessíveis na página inicial <br> - Os tutoriais devem cobrir as principais funcionalidades do aplicativo <br> - O sistema deve permitir feedback dos usuários sobre os tutoriais |
 | Prioridade             |                                                 |
-|Rastreabilidade| [RE05](../requisitosElicitados) & [Tema 4](..\backlog.md) & [Épico 4.1](..\backlog.md) & [US05](..\backlog.md) |
+|Rastreabilidade| [RE05](../../elicitacao/requisitosElicitados.md) & [Tema 4](backlog.md) & [Épico 4.1](backlog.md) & [US05](backlog.md) |
 | Status                 |  |
 
 
@@ -176,7 +176,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ agendar um horário em uma agência _para_ resolver questões que necessitam de atendimento presencial de maneira organizada. |
 | Critérios de Aceitação | - O sistema deve permitir o agendamento de horários em agências <br> - O sistema deve enviar uma confirmação do agendamento ao usuário <br> - O usuário deve poder cancelar ou reagendar o horário, se necessário |
 | Prioridade             |                                                  |
-|Rastreabilidade| [RE06](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.2](..\backlog.md) & [US06](..\backlog.md) |
+|Rastreabilidade| [RE06](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US06](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -195,7 +195,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ beneficiário, _desejo_  visualizar todos os detalhes dos benefícios aos quais tenho direito _para_ ter informações claras sobre valores, datas de pagamento, status e correções. |
 | Critérios de Aceitação | - O sistema deve exibir detalhes completos dos benefícios <br> - O usuário deve poder visualizar histórico de benefícios <br> - O sistema deve alertar o usuário sobre mudanças no status dos benefícios |
 | Prioridade             |                                                  |
-|Rastreabilidade| [RE07](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.1](..\backlog.md) & [US07](..\backlog.md) |
+|Rastreabilidade| [RE07](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US07](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -214,7 +214,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ contribuinte, _desejo_ acessar uma funcionalidade para simular o tempo de contribuição e estimar a aposentadoria _para_ planejar melhor meu futuro financeiro. |
 | Critérios de Aceitação | - O sistema deve permitir a entrada de dados sobre o tempo de contribuição <br> - O sistema deve calcular e exibir uma estimativa de aposentadoria com base nos dados fornecidos <br> - O usuário deve poder ajustar os dados e ver como isso impacta na estimativa |
 | Prioridade             |                                                  |
-|Rastreabilidade| [RE08](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.1](..\backlog.md) & [US08](..\backlog.md) |
+|Rastreabilidade| [RE08](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US08](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -233,7 +233,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ aposentado, _desejo_ checar o extrato do dinheiro da minha aposentadoria mensal _para_ acompanhar meus recebimentos de maneira detalhada. |
 | Critérios de Aceitação | - O sistema deve exibir o extrato mensal da aposentadoria <br> - O usuário deve poder ver detalhes sobre cada pagamento <br> - O sistema deve permitir a exportação do extrato para outros formatos, como PDF |
 | Prioridade             |                                                  |
-|Rastreabilidade| [RE09](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.1](..\backlog.md) & [US09](..\backlog.md) |
+|Rastreabilidade| [RE09](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US09](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -252,7 +252,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ contribuinte, _desejo_ acessar um extrato anual de imposto de renda _para_ preencher corretamente minha declaração anual de imposto. |
 | Critérios de Aceitação | - O sistema deve exibir o extrato anual de imposto de renda <br> - O usuário deve poder visualizar detalhes de cada item do extrato <br> - O sistema deve permitir a exportação do extrato para formatos como PDF |
 | Prioridade             |                                                  |
-|Rastreabilidade| [RE10](../requisitosElicitados) & [Tema 3](..\backlog.md) & [Épico 3.1](..\backlog.md) & [US10](..\backlog.md) |
+|Rastreabilidade| [RE10](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.1](backlog.md) & [US10](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -271,7 +271,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário com empréstimos, _desejo_ acessar um extrato anual de empréstimo _para_ controlar e verificar meus empréstimos anuais. |
 | Critérios de Aceitação | - O sistema deve exibir o extrato anual de empréstimos <br> - O usuário deve poder ver detalhes de cada item do extrato <br> - O sistema deve permitir a exportação do extrato para formatos como PDF |
 | Prioridade             |                                                 |
-|Rastreabilidade| [RE11](../requisitosElicitados) & [Tema 3](..\backlog.md) & [Épico 3.1](..\backlog.md) & [US11](..\backlog.md) |
+|Rastreabilidade| [RE11](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.1](backlog.md) & [US11](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -290,7 +290,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ acessar o aplicativo utilizando autenticação biométrica como impressão digital _para_ ter um acesso seguro e rápido. |
 | Critérios de Aceitação | - O sistema deve suportar autenticação biométrica, como impressão digital <br> - O usuário deve poder configurar a autenticação biométrica nas configurações do aplicativo <br> - O sistema deve garantir que a autenticação biométrica seja segura e confiável |
 | Prioridade             |                                                  |
-|Rastreabilidade| [RE12](../requisitosElicitados) & [Tema 1](..\backlog.md) & [Épico 1.1](..\backlog.md) & [US12](..\backlog.md) |
+|Rastreabilidade| [RE12](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.1](backlog.md) & [US12](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -309,7 +309,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter total acesso ao CNIS através do próprio sistema _para_ poder visualizar o meu histórico de contribuições da Previdência Social. |
 | Critérios de Aceitação | - O sistema deve oferecer a opção de acesso ao CNIS através de um link no menu principal <br> - O documento gerado deve apresentar todos os vínculos, remunerações e contribuições previdenciárias <br>                    |
 | Prioridade             |                     |
-|Rastreabilidade| [RE13](../requisitosElicitados) & [Tema 3](..\backlog.md) & [Épico 3.1](..\backlog.md) & [US13](..\backlog.md) |
+|Rastreabilidade| [RE13](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.1](backlog.md) & [US13](backlog.md) |
 | Status                 |  |
 
 
@@ -329,7 +329,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter acesso a uma área dentro do sistema com ferramentas voltadas aos benefícios, como um recurso de pesquisa _para_ poder rastrear e acompanhar o andamento dos meus benefícios. |
 | Critérios de Aceitação | - O sistema deve oferecer uma página com ferramentas voltadas exclusivamente para os benefícios <br> - A área de ferramenta dos benefícios deve permitir fazer buscas e realizar filtros <br> - Deve haver uma descrição detalhada sobre a origem de cada benefício |
 | Prioridade             |                     |
-|Rastreabilidade| [RE14](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.1](..\backlog.md) & [US14](..\backlog.md) |
+|Rastreabilidade| [RE14](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US14](backlog.md) |
 | Status                 |  |
 
 
@@ -349,7 +349,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ poder realizar o requerimento de um benefício _para_ poder ter acesso aos recursos na qual tenho direito. |
 | Critérios de Aceitação | - O sistema deve ofertar uma área para realizar o requerimento de benefícios <br> - A área deve permitir realizar também a atualização do vínculo CNIS <br> - Benefícios de quaisquer natureza devem poder sofrer o requerimento |
 | Prioridade             |                     |
-|Rastreabilidade| [RE15](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.2](..\backlog.md) & [US15](..\backlog.md) |
+|Rastreabilidade| [RE15](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US15](backlog.md) |
 | Status                 |  |
 
 
@@ -369,7 +369,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter acesso a uma área que me mostre as informações referentes aos pagamentos não recebidos devido erros e descontos indevidos, _para_ que eu possa acompanhar o status dos meus benefícios e saber o motivo do seu bloqueio.  |
 | Critérios de Aceitação | - O sistema deve ofercer uma área dedicada a mostrar as informações dos pagamentos não efetivados <br> - Deve haver uma descrição a respeito de cada pagamento não realizado e seus motivadores |
 | Prioridade             |                     |
-|Rastreabilidade| [RE16](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.2](..\backlog.md) & [US16](..\backlog.md) |
+|Rastreabilidade| [RE16](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US16](backlog.md) |
 | Status                 |  |
 
 
@@ -389,7 +389,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ poder atualizar meus dados pessoais sempre que desejar, _para_ que eu possa manter meu status e minhas informações pessoais sempre atualizadas. |
 | Critérios de Aceitação | - O sistema deve oferecer de forma clara uma opção de atualização dos dados cadastrais pessoais no menu princiapl do sistema <br> - O sistema deve me permitir alterar meus dados pessoais sempre que eu desejar, sem haver limitações desnecessárias |
 | Prioridade             |                     |
-|Rastreabilidade| [RE00](../requisitosElicitados) & [Tema 0](..\backlog.md) & [Épico 0](..\backlog.md) & [US00](..\backlog.md) |
+|Rastreabilidade| [RE17](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.2](backlog.md) & [US17](backlog.md) |
 | Status                 |  |
 
 
@@ -409,7 +409,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ receber alertas no dispositivo por meio do sistema caso haja empréstimos indevidos, _para_ que eu possa me manter atualizado sobre os empréstimos solicitados. |
 | Critérios de Aceitação | - O sistema deve enviar alertas ao dispositivo sempre que houver empréstimos indevidos <br> - Os alertas devem especificar o empréstimo que se configura como indevido <br> - Os alertas devem ser enviados imediatamente após o empréstimo ser configurado como indevido |
 | Prioridade             |                    |
-|Rastreabilidade| [RE18](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.1](..\backlog.md) & [US18](..\backlog.md) |
+|Rastreabilidade| [RE18](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US18](backlog.md) |
 | Status                 |  |
 
 
@@ -429,7 +429,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter a opção de bloquear meus empréstimos solicitados, _para_ que eu possa cancelar uma decisão de empréstimo se assim for da minha vontade. |
 | Critérios de Aceitação | - O sistema deve, em uma área própria de empréstimos, exibir uma opção para cada empréstimo solicitado oferecendo a opção de realizar o bloqueio dele <br> - A opção de bloqueio deve ficar visível logo após a solicitação do empréstimo <br> - A opção de bloqueio de empréstimo deve ser de fácil identificação dentro do sistema |
 | Prioridade             |                     |
-|Rastreabilidade| [RE19](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.1](..\backlog.md) & [US19](..\backlog.md) |
+|Rastreabilidade| [RE19](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US19](backlog.md) |
 | Status                 |  |
 
 
@@ -449,7 +449,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter a opção de me logar ao sistema por meio do meu CPF e minha senha, _para_ que eu possa ter uma maior variedade de opções ao me logar no sistema. |
 | Critérios de Aceitação | - Na área de login, deve existir uma opção de cadastro no sistema por meio do CPF e de uma senha que será criada no momento do cadastro <br> - A opção de cadastro mediante CPF e senha deve ser de fácil identificação na área de login, garantido que todos possam ver as opções de logine  escolher a que melhor lhe agrada |
 | Prioridade             |                     |
-|Rastreabilidade|[RE20](../requisitosElicitados) & [Tema 1](..\backlog.md) & [Épico 1.1](..\backlog.md) & [US20](..\backlog.md) |
+|Rastreabilidade|[RE20](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.1](backlog.md) & [US20](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
@@ -467,7 +467,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ agendar perícias médicas _para_ gerir minhas consultas de forma conveniente |
 | Critérios de Aceitação | - O usuário deve poder selecionar uma data e hora disponíveis para agendar uma perícia médica |
 | Prioridade             |                                    |
-|Rastreabilidade| [RE21](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.2](..\backlog.md) & [US21.1](..\backlog.md) |
+|Rastreabilidade| [RE21](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US21.1](backlog.md) |
 | Status                 |  |
 
 
@@ -487,7 +487,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ reagendar perícias médicas _para_ ajustar minhas consultas conforme necessário |
 | Critérios de Aceitação | - O usuário deve poder reagendar uma perícia médica já agendada |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE21](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.2](..\backlog.md) & [US21.2](..\backlog.md) |
+|Rastreabilidade| [RE21](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US21.2](backlog.md) |
 | Status                 |  |
 
 
@@ -508,7 +508,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ cancelar perícias médicas _para_ gerenciar meus compromissos de forma flexível |
 | Critérios de Aceitação | - O usuário deve poder cancelar uma perícia médica já agendada |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE21](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.2](..\backlog.md) & [US21.3](..\backlog.md) |
+|Rastreabilidade| [RE21](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US21.3](backlog.md) |
 | Status                 |  |
 
 
@@ -528,7 +528,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ enviar documentos necessários _para_ o processo de requerimento ou manutenção de benefícios |
 | Critérios de Aceitação | - O usuário deve poder anexar documentos em vários formatos (PDF, JPG, PNG) <br> - O sistema deve confirmar o recebimento dos documentos enviados |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE22](../requisitosElicitados) & [Tema 3](..\backlog.md) & [Épico 3.2](..\backlog.md) & [US22](..\backlog.md) |
+|Rastreabilidade| [RE22](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.2](backlog.md) & [US22](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
@@ -546,7 +546,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do sistema, _desejo_ recuperar minha senha _para_ poder acessar minha conta se eu esquecê-la |
 | Critérios de Aceitação | - O usuário deve poder solicitar a recuperação de senha via email <br> - O usuário deve receber um link ou código para redefinir a senha |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE23](../requisitosElicitados) & [Tema 1](..\backlog.md) & [Épico 1.2](..\backlog.md) & [US23](..\backlog.md) |
+|Rastreabilidade| [RE23](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.2](backlog.md) & [US23](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -564,7 +564,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ solicitar auxílio-acidente _para_ receber suporte financeiro devido a um acidente |
 | Critérios de Aceitação | - O usuário deve poder preencher um formulário específico para auxílio-acidente <br> - O sistema deve confirmar o recebimento da solicitação |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE24](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.1](..\backlog.md) & [US24](..\backlog.md) |
+|Rastreabilidade| [RE24](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US24](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -582,7 +582,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ preencher um formulário de auxílio-acidente _para_ descrever o acidente e anexar documentos médicos |
 | Critérios de Aceitação | - O formulário deve incluir campos para descrição do acidente, data do acidente, e anexos de documentos médicos <br> - O sistema deve validar os campos obrigatórios antes do envio |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE25](../requisitosElicitados) & [Tema 2](..\backlog.md) & [Épico 2.1](..\backlog.md) & [US25](..\backlog.md) |
+|Rastreabilidade| [RE25](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US25](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -600,7 +600,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ advogado, _desejo_ acessar os processos dos meus clientes com a autorização deles _para_ poder acompanhar e gerenciar os casos. |
 | Critérios de Aceitação | - O sistema deve permitir que advogados acessem processos com a autorização dos clientes <br> - O sistema deve verificar e registrar a autorização do cliente <br> - O advogado deve poder visualizar, baixar e imprimir os documentos do processo |
 | Prioridade             |                                                  |
-|Rastreabilidade| [RE26](../requisitosElicitados) & [Tema 3](..\backlog.md) & [Épico 3.2](..\backlog.md) & [US26](..\backlog.md) |
+|Rastreabilidade| [RE26](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.2](backlog.md) & [US26](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -619,7 +619,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ advogado, _desejo_ solicitar e fornecer documentos necessários ao processo diretamente ao sistema _para_ agilizar a tramitação dos processos dos meus clientes. |
 | Critérios de Aceitação | - O sistema deve permitir que advogados solicitem documentos necessários ao processo <br> - O sistema deve permitir que advogados forneçam documentos diretamente ao processo <br> - O sistema deve notificar os clientes sobre solicitações de documentos |
 | Prioridade             |                                                  |
-|Rastreabilidade| [RE27](../requisitosElicitados) & [Tema 3](..\backlog.md) & [Épico 3.2](..\backlog.md) & [US27](..\backlog.md) |
+|Rastreabilidade| [RE27](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.2](backlog.md) & [US27](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -638,7 +638,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja fácil de usar e intuitivo, mesmo para usuários com conhecimento técnico limitado, e que minimize o número de cliques para realizar uma tarefa _para_ facilitar a utilização e agilizar o processo de interação |
 | Critérios de Aceitação | - O aplicativo deve apresentar uma interface intuitiva, com navegação simples e clara <br> - O número de cliques necessários para realizar uma tarefa deve ser minimizado, priorizando a eficiência e agilidade |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE28](../requisitosElicitados) & [Tema 5](..\backlog.md) & [Épico 5](..\backlog.md) & [US28](..\backlog.md) |
+|Rastreabilidade| [RE28](../../elicitacao/requisitosElicitados.md) & [Tema 5](backlog.md) & [Épico 5](backlog.md) & [US28](backlog.md) |
 | Status                 |  |
 
 
@@ -658,7 +658,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja compatível com as versões mais recentes e anteriores dos sistemas operacionais iOS, Android e computador _para_ garantir que eu possa acessar o aplicativo em qualquer dispositivo que eu utilize |
 | Critérios de Aceitação | - O aplicativo deve funcionar corretamente nas versões mais recentes e anteriores dos sistemas operacionais iOS, Android e computador <br> - Todos os recursos do aplicativo devem estar disponíveis em todas as plataformas suportadas |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE39](../requisitosElicitados) & [Tema 5](..\backlog.md) & [Épico 5](..\backlog.md) & [US29](..\backlog.md) |
+|Rastreabilidade| [RE39](../../elicitacao/requisitosElicitados.md) & [Tema 5](backlog.md) & [Épico 5](backlog.md) & [US29](backlog.md) |
 | Status                 |  |
 
 
@@ -678,7 +678,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ receber notificações sobre atualizações importantes em minhas solicitações e agendamentos via notificações no aplicativo ou por email _para_ ficar atualizado sobre qualquer mudança ou informação relevante |
 | Critérios de Aceitação | - O aplicativo deve enviar notificações sobre atualizações importantes relacionadas às solicitações e agendamentos do usuário <br> - O usuário deve poder optar por receber notificações por email ou no aplicativo |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE30](../requisitosElicitados) & [Tema 4](..\backlog.md) & [Épico 4.2](..\backlog.md) & [US30](..\backlog.md) |
+|Rastreabilidade| [RE30](../../elicitacao/requisitosElicitados.md) & [Tema 4](backlog.md) & [Épico 4.2](backlog.md) & [US30](backlog.md) |
 | Status                 |  |
 
 
@@ -698,7 +698,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo crie uma fila digital referente aos agendamentos _para_ organizar e otimizar o processo de marcação de consultas e serviços |
 | Critérios de Aceitação | - O aplicativo deve gerenciar uma fila digital de agendamentos, organizando-os por ordem de chegada <br> - Os usuários devem ser notificados quando sua vez na fila chegar |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE00](../requisitosElicitados) & [Tema 0](..\backlog.md) & [Épico 0](..\backlog.md) & [US00](..\backlog.md) |
+|Rastreabilidade| [RE00](../../elicitacao/requisitosElicitados.md) & [Tema 0](backlog.md) & [Épico 0](backlog.md) & [US00](backlog.md) |
 | Status                 |  |
 
 
@@ -718,7 +718,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo possua ferramentas de acessibilidade como navegação guiada, alto contraste, comando por voz e possibilidade de aumentar a fonte _para_ garantir que todas as pessoas, independentemente de suas habilidades ou necessidades, possam utilizar o aplicativo |
 | Critérios de Aceitação | - O aplicativo deve oferecer opções de navegação guiada para facilitar a interação para usuários com deficiência visual <br> - Deve ser possível alterar para um modo de alto contraste para usuários com dificuldades de visão |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE32](../requisitosElicitados) & [Tema 5](..\backlog.md) & [Épico 5](..\backlog.md) & [US32](..\backlog.md) |
+|Rastreabilidade| [RE32](../../elicitacao/requisitosElicitados.md) & [Tema 5](backlog.md) & [Épico 5](backlog.md) & [US32](backlog.md) |
 | Status                 |  |
 
 
@@ -738,7 +738,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo tenha integração com outros serviços do governo _para_ facilitar o acesso e a utilização de diferentes serviços públicos em um único local |
 | Critérios de Aceitação | - O aplicativo deve permitir acesso direto a outros serviços do governo, como consulta de informações fiscais e previdenciárias <br> - Deve ser possível realizar transações entre diferentes serviços sem a necessidade de sair do aplicativo |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE33](../requisitosElicitados) & [Tema 6](..\backlog.md) & [Épico 6](..\backlog.md) & [US33](..\backlog.md) |
+|Rastreabilidade| [RE33](../../elicitacao/requisitosElicitados.md) & [Tema 6](backlog.md) & [Épico 6](backlog.md) & [US33](backlog.md) |
 | Status                 |  |
 
 <font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
@@ -757,7 +757,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo permita outras formas de acesso, como para profissionais do legislativo, para o acompanhamento facilitado de documentos e processos _para_ garantir que todas as partes interessadas tenham acesso às informações relevantes |
 | Critérios de Aceitação | - O aplicativo deve oferecer acesso exclusivo para profissionais do legislativo, com permissões específicas para visualização e edição de documentos <br> - Deve ser possível acompanhar o andamento de processos legislativos de forma organizada e intuitiva |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE00](../requisitosElicitados) & [Tema 0](..\backlog.md) & [Épico 0](..\backlog.md) & [US00](..\backlog.md) |
+|Rastreabilidade| [RE34](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.2](backlog.md) & [US34](backlog.md) |
 | Status                 |  |
 
 
@@ -777,7 +777,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo ofereça suporte em vários idiomas, especialmente português _para_ facilitar a utilização por usuários de diferentes nacionalidades e idiomas |
 | Critérios de Aceitação | - O aplicativo deve disponibilizar a opção de seleção de idioma na interface de usuário <br> - Todas as funcionalidades do aplicativo devem ser totalmente traduzidas para os idiomas suportados |
 | Prioridade             |                                    |
-|Rastreabilidade| [RE35](../requisitosElicitados) & [Tema 5](..\backlog.md) & [Épico 5](..\backlog.md) & [US35](..\backlog.md) |
+|Rastreabilidade| [RE35](../../elicitacao/requisitosElicitados.md) & [Tema 5](backlog.md) & [Épico 5](backlog.md) & [US35](backlog.md) |
 | Status                 |  |
 
 
@@ -797,7 +797,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o sistema seja capaz de lidar com um grande número de processos e distribuí-los nacionalmente _para_ garantir que o sistema seja escalável e possa atender às demandas de todos os usuários em diferentes regiões do país |
 | Critérios de Aceitação | - O sistema deve ser capaz de processar e armazenar um grande volume de dados de forma eficiente <br> - Deve ser possível distribuir os processos e dados de forma equitativa entre diferentes servidores e regiões |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE36](../requisitosElicitados) & [Tema 6](..\backlog.md) & [Épico 6](..\backlog.md) & [US36](..\backlog.md) |
+|Rastreabilidade| [RE36](../../elicitacao/requisitosElicitados.md) & [Tema 6](backlog.md) & [Épico 6](backlog.md) & [US36](backlog.md) |
 | Status                 |  |
 
 
@@ -817,7 +817,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja eficiente, permitindo que eu realize tarefas rápidas em 1-5 minutos e tarefas mais complexas em até 1h20 _para_ otimizar meu tempo e tornar o uso do aplicativo mais produtivo |
 | Critérios de Aceitação | - As tarefas comuns do aplicativo devem ser realizadas em um intervalo de tempo entre 1 e 5 minutos <br> - Tarefas mais complexas, como preenchimento de formulários extensos, devem ser concluídas em até 1 hora e 20 minutos |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE37](../requisitosElicitados) & [Tema 6](..\backlog.md) & [Épico 6](..\backlog.md) & [US37](..\backlog.md) |
+|Rastreabilidade| [RE37](../../elicitacao/requisitosElicitados.md) & [Tema 6](backlog.md) & [Épico 6](backlog.md) & [US37](backlog.md) |
 | Status                 |  |
 
 
@@ -837,7 +837,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja compatível com tecnologias assistivas, como teclados virtuais, controle por voz e dispositivos de entrada alternativos _para_ garantir que pessoas com deficiências físicas possam utilizar o aplicativo de forma acessível |
 | Critérios de Aceitação | - O aplicativo deve ser totalmente operável através de teclados virtuais e controles por voz <br> - Deve ser possível navegar por todas as funcionalidades do aplicativo utilizando dispositivos de entrada alternativos |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE38](../requisitosElicitados) & [Tema 5](..\backlog.md) & [Épico 5](..\backlog.md) & [US38](..\backlog.md) |
+|Rastreabilidade| [RE38](../../elicitacao/requisitosElicitados.md) & [Tema 5](backlog.md) & [Épico 5](backlog.md) & [US38](backlog.md) |
 | Status                 |  |
 
 
@@ -857,7 +857,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo garanta a segurança das minhas informações pessoais através de criptografia de dados e autenticação robusta _para_ proteger minha privacidade e confidencialidade |
 | Critérios de Aceitação | - Todas as informações pessoais dos usuários devem ser criptografadas durante a transmissão e armazenamento <br> - Deve ser implementada uma autenticação robusta, como autenticação de dois fatores, para garantir o acesso seguro às contas dos usuários |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE39](../requisitosElicitados) & [Tema 1](..\backlog.md) & [Épico 1.2](..\backlog.md) & [US39](..\backlog.md) |
+|Rastreabilidade| [RE39](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.2](backlog.md) & [US39](backlog.md) |
 | Status                 |  |
 
 
@@ -877,7 +877,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo responda a comandos em menos de 3 segundos _para_ garantir uma experiência de uso rápida e eficiente |
 | Critérios de Aceitação | - Todas as interações do usuário com o aplicativo, incluindo cliques e entrada de dados, devem ser respondidas em menos de 3 segundos <br> - O tempo de resposta do aplicativo deve ser consistente em diferentes dispositivos e condições de rede |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE40](../requisitosElicitados) & [Tema 6](..\backlog.md) & [Épico 6](..\backlog.md) & [US40](..\backlog.md) |
+|Rastreabilidade| [RE40](../../elicitacao/requisitosElicitados.md) & [Tema 6](backlog.md) & [Épico 6](backlog.md) & [US40](backlog.md) |
 | Status                 |  |
 
 
@@ -897,7 +897,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo esteja disponível 24 horas por dia, 7 dias por semana, com uma taxa de uptime de 99.9% _para_ garantir que eu possa acessar o aplicativo sempre que precisar, sem interrupções |
 | Critérios de Aceitação | - O aplicativo deve estar disponível para acesso a qualquer momento, sem restrições de horário <br> - A taxa de uptime do aplicativo deve ser monitorada e mantida em 99.9% ou superior |
 | Prioridade             |                                     |
-|Rastreabilidade| [RE41](../requisitosElicitados) & [Tema 6](..\backlog.md) & [Épico 6](..\backlog.md) & [US41](..\backlog.md) |
+|Rastreabilidade| [RE41](../../elicitacao/requisitosElicitados.md) & [Tema 6](backlog.md) & [Épico 6](backlog.md) & [US41](backlog.md) |
 | Status                 |  |
 
 
@@ -928,4 +928,5 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 |`1.6`|27/05/2024|Adição de histórias do usuário.|[Vitor Feijó](https://github.com/vitorfleonardo)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|
 |`1.7`|27/05/2024|Adição de histórias do usuário.|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
 |`1.8`|27/05/2024|Adição da validação e priorização.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|
-|`1.9`|28/05/2024|Adição de histórias do usuário.|[Paulo Borba](https://github.com/paulohborba)|||
+|`1.9`|28/05/2024|Ajustes na página.|[Paulo Borba](https://github.com/paulohborba)|28/05/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
+|`2.0`|28/05/2024|Ajustes na página.|[Johnny Lopes](https://github.com/JohnnyLopess)|-|-|
