@@ -21,16 +21,25 @@ Dentre os principais objetivos do uso das histórias de usuários como um artefa
 
 ## Metodologia
 
-Para a criação deste documento, as funcionalidades desejadas foram descritas e os desenvolvedores tomaram notas. Após a elicitação das histórias de usuário, foram estabelecidos critérios de aceitação e as histórias foram priorizadas em categorias de Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Em seguida, houve uma validação com o Product Owner (PO) para garantir a precisão e a relevância das histórias. Os participantes da validação estão listados na Tabela 1, a gravação da validação pode ser visualizada no Vídeo 1, e o modelo de card para as histórias de usuário está descrito na Tabela 2.
+Para a criação deste documento, seguimos um processo estruturado para garantir a precisão e a relevância das funcionalidades desejadas. Primeiro, realizamos a elicitação dos requisitos funcionais e não funcionais. Com base nesses [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/requisitosElicitados/), elaboramos as histórias de usuário.
+
+Para validar as histórias de usuário, conduzimos duas entrevistas: uma com o Product Owner (PO) e outra com um usuário do aplicativo. Essas entrevistas foram essenciais para ajustar as histórias e confirmar que atendiam às necessidades reais dos usuários. Durante essas entrevistas, também realizamos a priorização das histórias, utilizando o método Three Level Scale para classificá-las em Alta, Média ou Baixa prioridade.
+
+Após a elaboração, estabelecemos critérios de aceitação claros para cada história. Os participantes da validação estão listados na Tabela 1, e a gravação da sessão de validação pode ser visualizada no Vídeo 1 com o PO e o Vídeo 2 com o Usuário. O modelo de card para as histórias de usuário está descrito na Tabela 2.
+
+Esse processo assegura que todas as funcionalidades são bem compreendidas, priorizadas corretamente e alinhadas com as expectativas dos stakeholders.
 <center>
 
-**Tabela 1** - Participantes da validação.
+**Tabela 1** - Participantes da priorização e validação.
 
 | **Participante**                                        | **Função**     |
 | :------------------------------------------------------ | :------------- |
 |   [Vitor Feijó](https://github.com/vitorfleonardo)                    | Product Owner  |
 |   [Paulo Borba](https://github.com/paulohborba)               | Desenvolvedor  |
 |   [Bianca Castro](https://github.com/BiancaPatrocinio7)   | Desenvolvedor  |
+| [Amanda Campos](https://github.com/acamposs) | Desenvolvedor |
+| [Maria Eliane](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/entrevista/) | Usuário |
+
 
 _Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba)._
 
@@ -38,7 +47,7 @@ _Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7), [Vitor Feijó](ht
 
 <center>
 
-**Vídeo 1** - Validação com o PO.
+**Vídeo 1** - Priorização e validação com o PO.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwjY2x_zZHo?si=bCntushlCMSIytt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -47,7 +56,22 @@ _Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7), [Vitor Feijó](ht
 Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba).
 
 </center>
+
 <center>
+
+**Vídeo 2** - Priorização e validação com o Usuário.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AqyRRP2doHM?si=jj5I9jk44mqc87eE&amp;start=138" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/embed/AqyRRP2doHM?si=jj5I9jk44mqc87eE&amp;start=138" target="blanket">Clique aqui</a>
+
+Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7),  [Amanda Campos](https://github.com/acamposs)  e [Paulo Borba](https://github.com/paulohborba).
+
+</center>
+
+<center>
+
+
 
 <font size="3">Tabela 2: Modelo de tabela para histórias de usuário.</font>
 
@@ -56,7 +80,8 @@ Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7), [Vitor Feijó](htt
 | _US_[Número de dentificação]                  | Título                                  |
 | Descrição              | _Eu, como_ [tipo de usuário], _desejo_ [ação desejada] _para_ [objetivo] |
 | Critérios de Aceitação | - [Critério 1] <br> - [Critério 2] <br>                     |
-| Prioridade             | Alta, Média ou Baixa                    |
+| Prioridade do PO          | Alta, Média ou Baixa                    |
+| Prioridade do Usuário         | Alta, Média ou Baixa                    |
 | Status                 | Se a história foi Validadaou não pelo usuário. |
 
 
@@ -79,7 +104,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US01                   | Realizar login com acesso unificado do gov.br        |
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ realizar o login com o acesso unificado do gov.br _para_ garantir uma autenticação segura e integrada com os serviços do governo. |
 | Critérios de Aceitação | - O sistema deve permitir login através do gov.br <br> - O sistema deve verificar as credenciais através do serviço gov.br <br> - Após o login, o usuário deve ser redirecionado para a página inicial do aplicativo |
-| Prioridade             |          Média                                        |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -97,7 +123,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US02                   | Receber termo de uso no primeiro acesso              |
 | Descrição              | _Eu, como_ novo usuário do aplicativo, _desejo_ receber um termo de uso em meu primeiro acesso _para_ estar ciente das condições e políticas do uso do aplicativo. |
 | Critérios de Aceitação | - No primeiro login, o sistema deve exibir o termo de uso <br> - O usuário deve ter que aceitar o termo de uso para continuar <br> - O sistema deve registrar a aceitação do termo de uso pelo usuário |
-| Prioridade             |           Média                                      |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -115,7 +142,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US03                   | Acessar documentos legislativos                      |
 | Descrição              | _Eu, como_ usuário interessado em informações legislativas, _desejo_ ter acesso a documentos legislativos _para_ acompanhar e consultar a legislação vigente. |
 | Critérios de Aceitação | - O sistema deve exibir uma lista de documentos legislativos <br> - O usuário deve poder buscar e filtrar documentos legislativos <br> - O sistema deve permitir a visualização e download dos documentos |
-| Prioridade             |      Baixa                                            |
+| Prioridade do PO             |        Baixa                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -133,7 +161,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US04                   | Acessar suporte técnico                              |
 | Descrição              | _Eu, como_ usuário com dificuldades técnicas, _desejo_ acessar o suporte técnico diretamente pelo aplicativo ou por um número 0800 ou chat _para_ resolver meus problemas rapidamente e continuar usando o serviço sem interrupções. |
 | Critérios de Aceitação | - O sistema deve oferecer uma opção de suporte técnico dentro do aplicativo <br> - O suporte técnico deve estar acessível via número 0800 e chat <br> - O sistema deve registrar as interações de suporte para acompanhamento |
-| Prioridade             |       Alta                                           |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -151,7 +180,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US05                   | Acessar tutoriais de uso                             |
 | Descrição              | _Eu, como_ usuário que deseja entender melhor o aplicativo, _desejo_ acessar tutoriais de uso _para_ maximizar as funcionalidades e recursos disponíveis. |
 | Critérios de Aceitação | - O sistema deve oferecer tutoriais de uso acessíveis na página inicial <br> - Os tutoriais devem cobrir as principais funcionalidades do aplicativo <br> - O sistema deve permitir feedback dos usuários sobre os tutoriais |
-| Prioridade             |        Média                                         |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -170,7 +200,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US06                   | Agendar horário em uma agência                       |
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ agendar um horário em uma agência _para_ resolver questões que necessitam de atendimento presencial de maneira organizada. |
 | Critérios de Aceitação | - O sistema deve permitir o agendamento de horários em agências <br> - O sistema deve enviar uma confirmação do agendamento ao usuário <br> - O usuário deve poder cancelar ou reagendar o horário, se necessário |
-| Prioridade             |        Alta                                          |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -188,7 +219,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US07                   | Visualizar detalhes dos benefícios                   |
 | Descrição              | _Eu, como_ beneficiário, _desejo_  visualizar todos os detalhes dos benefícios aos quais tenho direito _para_ ter informações claras sobre valores, datas de pagamento, status e correções. |
 | Critérios de Aceitação | - O sistema deve exibir detalhes completos dos benefícios <br> - O usuário deve poder visualizar histórico de benefícios <br> - O sistema deve alertar o usuário sobre mudanças no status dos benefícios |
-| Prioridade             |    Alta                                              |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -206,7 +238,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US08                   | Simular tempo de contribuição e aposentadoria        |
 | Descrição              | _Eu, como_ contribuinte, _desejo_ acessar uma funcionalidade para simular o tempo de contribuição e estimar a aposentadoria _para_ planejar melhor meu futuro financeiro. |
 | Critérios de Aceitação | - O sistema deve permitir a entrada de dados sobre o tempo de contribuição <br> - O sistema deve calcular e exibir uma estimativa de aposentadoria com base nos dados fornecidos <br> - O usuário deve poder ajustar os dados e ver como isso impacta na estimativa |
-| Prioridade             |      Alta                                            |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -222,9 +255,10 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | **ID**                 | **Nome**                                             |
 | :--------------------- | :--------------------------------------------------- |
 | US09                   | Checar extrato da aposentadoria                      |
-| Descrição              | _Eu, como_ aposentado, _desejo_ checar o extrato do dinheiro da minha aposentadoria mensal _para_ acompanhar meus recebimentos de maneira detalhada. |
+| Descrição              | _Eu, como_ aposentado, _desejo_ checar o extrato de crédito da minha aposentadoria mensal _para_ acompanhar meus recebimentos de maneira detalhada. |
 | Critérios de Aceitação | - O sistema deve exibir o extrato mensal da aposentadoria <br> - O usuário deve poder ver detalhes sobre cada pagamento <br> - O sistema deve permitir a exportação do extrato para outros formatos, como PDF |
-| Prioridade             |      Alta                                            |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -242,7 +276,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US10                   | Acessar extrato anual de imposto de renda            |
 | Descrição              | _Eu, como_ contribuinte, _desejo_ acessar um extrato anual de imposto de renda _para_ preencher corretamente minha declaração anual de imposto. |
 | Critérios de Aceitação | - O sistema deve exibir o extrato anual de imposto de renda <br> - O usuário deve poder visualizar detalhes de cada item do extrato <br> - O sistema deve permitir a exportação do extrato para formatos como PDF |
-| Prioridade             |        Média                                          |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -260,7 +295,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US11                   | Acessar extrato anual de empréstimo                  |
 | Descrição              | _Eu, como_ usuário com empréstimos, _desejo_ acessar um extrato anual de empréstimo _para_ controlar e verificar meus empréstimos anuais. |
 | Critérios de Aceitação | - O sistema deve exibir o extrato anual de empréstimos <br> - O usuário deve poder ver detalhes de cada item do extrato <br> - O sistema deve permitir a exportação do extrato para formatos como PDF |
-| Prioridade             |         Média                                        |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -278,7 +314,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US12                   | Autenticação biométrica                              |
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ acessar o aplicativo utilizando autenticação biométrica como impressão digital _para_ ter um acesso seguro e rápido. |
 | Critérios de Aceitação | - O sistema deve suportar autenticação biométrica, como impressão digital <br> - O usuário deve poder configurar a autenticação biométrica nas configurações do aplicativo <br> - O sistema deve garantir que a autenticação biométrica seja segura e confiável |
-| Prioridade             |       Baixa                                           |
+| Prioridade do PO             |        Baixa                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
@@ -296,7 +333,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US13                   | Acesso e visualização do Cadastro Nacional de Informações Sociais (CNIS) |                                  
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter total acesso ao CNIS através do próprio sistema _para_ poder visualizar o meu histórico de contribuições da Previdência Social. |
 | Critérios de Aceitação | - O sistema deve oferecer a opção de acesso ao CNIS através de um link no menu principal <br> - O documento gerado deve apresentar todos os vínculos, remunerações e contribuições previdenciárias <br>                    |
-| Prioridade             |        Alta             |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -315,7 +353,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US14                   | Acesso a ferramentas de benefícios dos segurados. |                                  
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter acesso a uma área dentro do sistema com ferramentas voltadas aos benefícios, como um recurso de pesquisa _para_ poder rastrear e acompanhar o andamento dos meus benefícios. |
 | Critérios de Aceitação | - O sistema deve oferecer uma página com ferramentas voltadas exclusivamente para os benefícios <br> - A área de ferramenta dos benefícios deve permitir fazer buscas e realizar filtros <br> - Deve haver uma descrição detalhada sobre a origem de cada benefício |
-| Prioridade             |     Alta                |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -334,7 +373,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US15                   |  Requerimento de benefícios e atualização do vínculo do CNIS |                                  
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ poder realizar o requerimento de um benefício _para_ poder ter acesso aos recursos na qual tenho direito. |
 | Critérios de Aceitação | - O sistema deve ofertar uma área para realizar o requerimento de benefícios <br> - A área deve permitir realizar também a atualização do vínculo CNIS <br> - Benefícios de quaisquer natureza devem poder sofrer o requerimento |
-| Prioridade             |    Alta                 |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -353,7 +393,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US16                   |  Fornecimento de informações referentes a pagamentos não recebidos |                                  
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter acesso a uma área que me mostre as informações referentes aos pagamentos não recebidos devido erros e descontos indevidos, _para_ que eu possa acompanhar o status dos meus benefícios e saber o motivo do seu bloqueio.  |
 | Critérios de Aceitação | - O sistema deve ofercer uma área dedicada a mostrar as informações dos pagamentos não efetivados <br> - Deve haver uma descrição a respeito de cada pagamento não realizado e seus motivadores |
-| Prioridade             |      Média               |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -372,7 +413,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US17                   |  Atualização de dados pessoais  |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ poder atualizar meus dados pessoais sempre que desejar, _para_ que eu possa manter meu status e minhas informações pessoais sempre atualizadas. |
 | Critérios de Aceitação | - O sistema deve oferecer de forma clara uma opção de atualização dos dados cadastrais pessoais no menu princiapl do sistema <br> - O sistema deve me permitir alterar meus dados pessoais sempre que eu desejar, sem haver limitações desnecessárias |
-| Prioridade             |      Alta               |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -391,7 +433,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US18                   |  Alertas caso haja empréstimos indevidos  |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ receber alertas no dispositivo por meio do sistema caso haja empréstimos indevidos, _para_ que eu possa me manter atualizado sobre os empréstimos solicitados. |
 | Critérios de Aceitação | - O sistema deve enviar alertas ao dispositivo sempre que houver empréstimos indevidos <br> - Os alertas devem especificar o empréstimo que se configura como indevido <br> - Os alertas devem ser enviados imediatamente após o empréstimo ser configurado como indevido |
-| Prioridade             |     Média               |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -410,7 +453,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US19                   |  Exibir a opção de bloquear o empréstimo  |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter a opção de bloquear meus empréstimos solicitados, _para_ que eu possa cancelar uma decisão de empréstimo se assim for da minha vontade. |
 | Critérios de Aceitação | - O sistema deve, em uma área própria de empréstimos, exibir uma opção para cada empréstimo solicitado oferecendo a opção de realizar o bloqueio dele <br> - A opção de bloqueio deve ficar visível logo após a solicitação do empréstimo <br> - A opção de bloqueio de empréstimo deve ser de fácil identificação dentro do sistema |
-| Prioridade             |             Alta        |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -429,7 +473,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US20                   |  Oferecer a opção de ingresso ao sistema mediante CPF e senha  |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ ter a opção de me logar ao sistema por meio do meu CPF e minha senha, _para_ que eu possa ter uma maior variedade de opções ao me logar no sistema. |
 | Critérios de Aceitação | - Na área de login, deve existir uma opção de cadastro no sistema por meio do CPF e de uma senha que será criada no momento do cadastro <br> - A opção de cadastro mediante CPF e senha deve ser de fácil identificação na área de login, garantido que todos possam ver as opções de logine  escolher a que melhor lhe agrada |
-| Prioridade             |           Baixa          |
+| Prioridade do PO             |        Baixa                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
@@ -446,7 +491,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US21.1_                   | Agendar Perícias Médicas |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ agendar perícias médicas _para_ gerir minhas consultas de forma conveniente |
 | Critérios de Aceitação | - O usuário deve poder selecionar uma data e hora disponíveis para agendar uma perícia médica |
-| Prioridade             |       Média                             |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -465,7 +511,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US21.2_                   | Reagendar Perícias Médicas |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ reagendar perícias médicas _para_ ajustar minhas consultas conforme necessário |
 | Critérios de Aceitação | - O usuário deve poder reagendar uma perícia médica já agendada |
-| Prioridade             |       Média                              |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -485,7 +532,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US21.3_                   | Cancelar Perícias Médicas |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ cancelar perícias médicas _para_ gerenciar meus compromissos de forma flexível |
 | Critérios de Aceitação | - O usuário deve poder cancelar uma perícia médica já agendada |
-| Prioridade             |    Média                                 |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -504,7 +552,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US22_                   | Enviar Documentos Necessários para Benefícios |
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ enviar documentos necessários _para_ o processo de requerimento ou manutenção de benefícios |
 | Critérios de Aceitação | - O usuário deve poder anexar documentos em vários formatos (PDF, JPG, PNG) <br> - O sistema deve confirmar o recebimento dos documentos enviados |
-| Prioridade             |         Alta                            |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
@@ -521,7 +570,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US23_                   | Recuperação de Senha |
 | Descrição              | _Eu, como_ usuário do sistema, _desejo_ recuperar minha senha _para_ poder acessar minha conta se eu esquecê-la |
 | Critérios de Aceitação | - O usuário deve poder solicitar a recuperação de senha via email <br> - O usuário deve receber um link ou código para redefinir a senha |
-| Prioridade             |    Alta                                 |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -538,7 +588,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US24_                   | Solicitar Auxílio-Acidente |
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ solicitar auxílio-acidente _para_ receber suporte financeiro devido a um acidente |
 | Critérios de Aceitação | - O usuário deve poder preencher um formulário específico para auxílio-acidente <br> - O sistema deve confirmar o recebimento da solicitação |
-| Prioridade             |      Média                               |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -555,7 +606,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US25_                   | Preencher Formulário de Auxílio-Acidente |
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ preencher um formulário de auxílio-acidente _para_ descrever o acidente e anexar documentos médicos |
 | Critérios de Aceitação | - O formulário deve incluir campos para descrição do acidente, data do acidente, e anexos de documentos médicos <br> - O sistema deve validar os campos obrigatórios antes do envio |
-| Prioridade             |      Alta                               |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -571,8 +623,9 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | :--------------------- | :-------------------------------------- |
 | US21                   | Acesso de Advogado aos Processos dos Clientes      |
 | Descrição              | _Eu, como_ advogado, _desejo_ acessar os processos dos meus clientes com a autorização deles _para_ poder acompanhar e gerenciar os casos. |
-| Critérios de Aceitação | - O sistema deve permitir que advogados acessem processos com a autorização dos clientes <br> - O sistema deve verificar e registrar a autorização do cliente <br> - O advogado deve poder visualizar, baixar e imprimir os documentos do processo |
-| Prioridade             |    Média                                              |
+| Critérios de Aceitação | - O sistema deve permitir que advogados acessem processos com a autorização dos clientes <br> - O sistema deve verificar e registrar a autorização do Usuário<br> - O advogado deve poder visualizar, baixar e imprimir os documentos do processo |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -590,7 +643,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | US22                   | Solicitar e Fornecer Documentos pelo Advogado |
 | Descrição              | _Eu, como_ advogado, _desejo_ solicitar e fornecer documentos necessários ao processo diretamente ao sistema _para_ agilizar a tramitação dos processos dos meus clientes. |
 | Critérios de Aceitação | - O sistema deve permitir que advogados solicitem documentos necessários ao processo <br> - O sistema deve permitir que advogados forneçam documentos diretamente ao processo <br> - O sistema deve notificar os clientes sobre solicitações de documentos |
-| Prioridade             |     Alta                                             |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -608,7 +662,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US28_                   | Facilidade de Uso e Intuitividade do Aplicativo |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja fácil de usar e intuitivo, mesmo para usuários com conhecimento técnico limitado, e que minimize o número de cliques para realizar uma tarefa _para_ facilitar a utilização e agilizar o processo de interação |
 | Critérios de Aceitação | - O aplicativo deve apresentar uma interface intuitiva, com navegação simples e clara <br> - O número de cliques necessários para realizar uma tarefa deve ser minimizado, priorizando a eficiência e agilidade |
-| Prioridade             |    Alta                                 |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -627,7 +682,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US29_                   | Compatibilidade com Diferentes Sistemas Operacionais |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja compatível com as versões mais recentes e anteriores dos sistemas operacionais iOS, Android e computador _para_ garantir que eu possa acessar o aplicativo em qualquer dispositivo que eu utilize |
 | Critérios de Aceitação | - O aplicativo deve funcionar corretamente nas versões mais recentes e anteriores dos sistemas operacionais iOS, Android e computador <br> - Todos os recursos do aplicativo devem estar disponíveis em todas as plataformas suportadas |
-| Prioridade             |          Alta                           |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -646,7 +702,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US30_                   | Notificação de Atualizações Importantes |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ receber notificações sobre atualizações importantes em minhas solicitações e agendamentos via notificações no aplicativo ou por email _para_ ficar atualizado sobre qualquer mudança ou informação relevante |
 | Critérios de Aceitação | - O aplicativo deve enviar notificações sobre atualizações importantes relacionadas às solicitações e agendamentos do usuário <br> - O usuário deve poder optar por receber notificações por email ou no aplicativo |
-| Prioridade             |      Alta                               |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -658,14 +715,15 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 
 <center>
 
-**Tabela 35 - História de Usuário Criação de Fila Digital para Agendamentos**
+**Tabela 35 - História de Usuário Criação de uma fila digital (sistema de espera online) para agendamentos**
 
 | **ID**                 | **Nome**                                  |
 | :--------------------- | :---------------------------------------- |
-| _US31_                   | Criação de Fila Digital para Agendamentos |                                
+| _US31_                   | Criação de uma fila digital (sistema de espera online) para agendamentos |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo crie uma fila digital referente aos agendamentos _para_ organizar e otimizar o processo de marcação de consultas e serviços |
 | Critérios de Aceitação | - O aplicativo deve gerenciar uma fila digital de agendamentos, organizando-os por ordem de chegada <br> - Os usuários devem ser notificados quando sua vez na fila chegar |
-| Prioridade             |     Média                                |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Média                            |
 | Status                 | Validada |
 
 
@@ -684,7 +742,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US32_                   | Ferramentas de Acessibilidade |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo possua ferramentas de acessibilidade como navegação guiada, alto contraste, comando por voz e possibilidade de aumentar a fonte _para_ garantir que todas as pessoas, independentemente de suas habilidades ou necessidades, possam utilizar o aplicativo |
 | Critérios de Aceitação | - O aplicativo deve oferecer opções de navegação guiada para facilitar a interação para usuários com deficiência visual <br> - Deve ser possível alterar para um modo de alto contraste para usuários com dificuldades de visão |
-| Prioridade             |           Média                          |
+| Prioridade do PO             |        Média                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -703,7 +762,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US33_                   | Integração com Outros Serviços do Governo |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo tenha integração com outros serviços do governo _para_ facilitar o acesso e a utilização de diferentes serviços públicos em um único local |
 | Critérios de Aceitação | - O aplicativo deve permitir acesso direto a outros serviços do governo, como consulta de informações fiscais e previdenciárias <br> - Deve ser possível realizar transações entre diferentes serviços sem a necessidade de sair do aplicativo |
-| Prioridade             |        Baixa                             |
+| Prioridade do PO             |        Baixa                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 <font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
@@ -721,7 +781,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US34_                   | Acesso para Profissionais do Legislativo |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo permita outras formas de acesso, como para profissionais do legislativo, para o acompanhamento facilitado de documentos e processos _para_ garantir que todas as partes interessadas tenham acesso às informações relevantes |
 | Critérios de Aceitação | - O aplicativo deve oferecer acesso exclusivo para profissionais do legislativo, com permissões específicas para visualização e edição de documentos <br> - Deve ser possível acompanhar o andamento de processos legislativos de forma organizada e intuitiva |
-| Prioridade             |         Baixa                            |
+| Prioridade do PO             |        Baixa                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -740,7 +801,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US35_                   | Suporte em Vários Idiomas |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo ofereça suporte em vários idiomas, especialmente português _para_ facilitar a utilização por usuários de diferentes nacionalidades e idiomas |
 | Critérios de Aceitação | - O aplicativo deve disponibilizar a opção de seleção de idioma na interface de usuário <br> - Todas as funcionalidades do aplicativo devem ser totalmente traduzidas para os idiomas suportados |
-| Prioridade             |     Baixa                               |
+| Prioridade do PO             |        Baixa                                         |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -759,7 +821,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US36_                   | Escalabilidade Nacional do Sistema |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o sistema seja capaz de lidar com um grande número de processos e distribuí-los nacionalmente _para_ garantir que o sistema seja escalável e possa atender às demandas de todos os usuários em diferentes regiões do país |
 | Critérios de Aceitação | - O sistema deve ser capaz de processar e armazenar um grande volume de dados de forma eficiente <br> - Deve ser possível distribuir os processos e dados de forma equitativa entre diferentes servidores e regiões |
-| Prioridade             |     Alta                                |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -797,7 +860,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US38_                   | Compatibilidade com Tecnologias Assistivas |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja compatível com tecnologias assistivas, como teclados virtuais, controle por voz e dispositivos de entrada alternativos _para_ garantir que pessoas com deficiências físicas possam utilizar o aplicativo de forma acessível |
 | Critérios de Aceitação | - O aplicativo deve ser totalmente operável através de teclados virtuais e controles por voz <br> - Deve ser possível navegar por todas as funcionalidades do aplicativo utilizando dispositivos de entrada alternativos |
-| Prioridade             |       Alta                              |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -816,7 +880,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US39_                   | Garantia de Segurança das Informações Pessoais |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo garanta a segurança das minhas informações pessoais através de criptografia de dados e autenticação robusta _para_ proteger minha privacidade e confidencialidade |
 | Critérios de Aceitação | - Todas as informações pessoais dos usuários devem ser criptografadas durante a transmissão e armazenamento <br> - Deve ser implementada uma autenticação robusta, como autenticação de dois fatores, para garantir o acesso seguro às contas dos usuários |
-| Prioridade             |       Alta                              |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -835,7 +900,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US40_                   | Tempo de Resposta do Aplicativo |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo responda a comandos em menos de 3 segundos _para_ garantir uma experiência de uso rápida e eficiente |
 | Critérios de Aceitação | - Todas as interações do usuário com o aplicativo, incluindo cliques e entrada de dados, devem ser respondidas em menos de 3 segundos <br> - O tempo de resposta do aplicativo deve ser consistente em diferentes dispositivos e condições de rede |
-| Prioridade             |        Alta                             |
+| Prioridade do PO             |        Alta                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -854,7 +920,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US41_                   | Disponibilidade do Aplicativo 24/7 |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo esteja disponível 24 horas por dia, 7 dias por semana, com uma taxa de uptime de 99.9% _para_ garantir que eu possa acessar o aplicativo sempre que precisar, sem interrupções |
 | Critérios de Aceitação | - O aplicativo deve estar disponível para acesso a qualquer momento, sem restrições de horário <br> - A taxa de uptime do aplicativo deve ser monitorada e mantida em 99.9% ou superior |
-| Prioridade             |      Média                               |
+| Prioridade do PO             |       Média                             |
+| Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 
 
@@ -885,3 +952,4 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 |`1.6`|27/05/2024|Adição de histórias do usuário.|[Vitor Feijó](https://github.com/vitorfleonardo)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|
 |`1.7`|27/05/2024|Adição de histórias do usuário.|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
 |`1.7`|27/05/2024|Adição da validação e priorização.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|
+|`1.8`|30/05/2024|Adição da validação e priorização do cliente.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|30/05/2024|[Amanda Campos](https://github.com/acamposs)|
