@@ -952,4 +952,4 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 |`1.6`|27/05/2024|Adição de histórias do usuário.|[Vitor Feijó](https://github.com/vitorfleonardo)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|
 |`1.7`|27/05/2024|Adição de histórias do usuário.|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
 |`1.7`|27/05/2024|Adição da validação e priorização.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|
-|`1.8`|30/05/2024|Adição da validação e priorização do cliente.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|30/05/2024|[Amanda Campos](https://github.com/acamposs)|
+|`1.8`|30/05/2024|Adição da validação e priorização do cliente e ajustes.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|30/05/2024|[Amanda Campos](https://github.com/acamposs)|
