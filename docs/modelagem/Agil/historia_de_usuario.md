@@ -21,7 +21,7 @@ Dentre os principais objetivos do uso das histórias de usuários como um artefa
 
 ## Metodologia
 
-Para a criação deste documento, seguimos um processo estruturado para garantir a precisão e a relevância das funcionalidades desejadas. Primeiro, realizamos a elicitação dos requisitos funcionais e não funcionais. Com base nesses [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/requisitosElicitados/), elaboramos as histórias de usuário.
+Para a criação deste documento, seguimos um processo estruturado para garantir a precisão e a relevância das funcionalidades desejadas. Primeiro, realizamos a elicitação dos requisitos funcionais e não funcionais. Com base nesses [requisitos elicitados](../../elicitacao/requisitosElicitados.md), elaboramos as histórias de usuário.
 
 Para validar as histórias de usuário, conduzimos duas entrevistas: uma com o Product Owner (PO) e outra com um usuário do aplicativo. Essas entrevistas foram essenciais para ajustar as histórias e confirmar que atendiam às necessidades reais dos usuários. Durante essas entrevistas, também realizamos a priorização das histórias, utilizando o método Three Level Scale para classificá-las em Alta, Média ou Baixa prioridade.
 
@@ -80,12 +80,13 @@ Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7),  [Amanda Campos](h
 | _US_[Número de dentificação]                  | Título                                  |
 | Descrição              | _Eu, como_ [tipo de usuário], _desejo_ [ação desejada] _para_ [objetivo] |
 | Critérios de Aceitação | - [Critério 1] <br> - [Critério 2] <br>                     |
+| Prioridade             | Alta, Média ou Baixa                    |
 | Prioridade do PO          | Alta, Média ou Baixa                    |
 | Prioridade do Usuário         | Alta, Média ou Baixa                    |
-| Status                 | Se a história foi Validadaou não pelo usuário. |
+| Status                 | Se a história foi Validada ou não pelo usuário |
+|Rastreabilidade| Código do requisito referente a História de usuário |
 
-
-<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
+<font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Paulo Borba](https://github.com/paulohborba).</font>
 
 </center>
 
@@ -93,11 +94,11 @@ Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7),  [Amanda Campos](h
 
 As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o processo de entrevista e análise. Cada história é representada por um identificador único no formato US[X], onde [X] corresponde ao número específico da história. Estas tabelas fornecem uma visão abrangente das necessidades e funcionalidades desejadas, descritas do ponto de vista do usuário. Além disso, cada história de usuário inclui critérios de aceitação claros, que definem as condições que devem ser atendidas para considerar a história como concluída. A prioridade de cada história, determinada pelo Product Owner, também está incluída para ajudar a guiar o processo de desenvolvimento.
 
-### US01 - Realizar login com acesso unificado do gov.br
+### US01 - Realizar login com acesso unificado do GOV.br
 
 <center>
 
-**Tabela 3 - História de Usuário Realizar login com acesso unificado do gov.br.**
+**Tabela 3 - História de Usuário Realizar login com acesso unificado do GOV.br.**
 
 | **ID**                 | **Nome**                                             |
 | :--------------------- | :--------------------------------------------------- |
@@ -107,7 +108,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
-
+|Rastreabilidade| [RE01](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.1](backlog.md) & [US01](backlog.md) |
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
@@ -126,6 +127,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade|  [RE02](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.3](backlog.md) & [US02](backlog.md) |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
@@ -145,6 +147,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Baixa                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE03](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.1](backlog.md) & [US03](backlog.md) |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
@@ -164,6 +167,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE04](../../elicitacao/requisitosElicitados.md) & [Tema 4](backlog.md) & [Épico 4.1](backlog.md) & [US04](backlog.md) |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
@@ -183,6 +187,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE05](../../elicitacao/requisitosElicitados.md) & [Tema 4](backlog.md) & [Épico 4.1](backlog.md) & [US05](backlog.md) |
 
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
@@ -203,6 +208,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE06](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US06](backlog.md) |
 
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
@@ -222,6 +228,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE07](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US07](backlog.md) |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
@@ -241,6 +248,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE08](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US08](backlog.md) |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
@@ -260,6 +268,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE09](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US09](backlog.md) |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
@@ -279,6 +288,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE10](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.1](backlog.md) & [US10](backlog.md) |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
@@ -298,6 +308,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE11](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.1](backlog.md) & [US11](backlog.md) |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
@@ -317,6 +328,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Baixa                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE12](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.1](backlog.md) & [US12](backlog.md) |
 
 <font size="3">Autor: [Gabriel Souza](https://github.com/GabrielMS00).</font>
 
@@ -336,7 +348,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
-
+|Rastreabilidade| [RE13](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.1](backlog.md) & [US13](backlog.md) |
 
 <font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
 
@@ -356,6 +368,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE14](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US14](backlog.md) |
 
 
 <font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
@@ -376,6 +389,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE15](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US15](backlog.md) |
 
 
 <font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
@@ -396,6 +410,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE16](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US16](backlog.md) |
 
 
 <font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
@@ -416,7 +431,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
-
+|Rastreabilidade| [RE17](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.2](backlog.md) & [US17](backlog.md) |
 
 <font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
 
@@ -436,6 +451,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE18](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US18](backlog.md) |
 
 
 <font size="3">Autor: [José Filipi](https://github.com/JoseFilipi).</font>
@@ -456,6 +472,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE19](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US19](backlog.md) |
 
 
 <font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
@@ -476,6 +493,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Baixa                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade|[RE20](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.1](backlog.md) & [US20](backlog.md) |
 
 <font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 </center>
@@ -494,7 +512,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
-
+|Rastreabilidade| [RE21](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US21.1](backlog.md) |
 
 <font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 </center>
@@ -514,6 +532,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE21](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US21.2](backlog.md) |
 
 
 <font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
@@ -535,6 +554,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE21](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US21.3](backlog.md) |
 
 
 <font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
@@ -555,6 +575,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE22](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.2](backlog.md) & [US22](backlog.md) |
 
 <font size="3">Autor: [Amanda Campos](https://github.com/acamposs).</font>
 </center>
@@ -573,6 +594,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE23](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.2](backlog.md) & [US23](backlog.md) |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 </center>
@@ -591,6 +613,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE24](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US24](backlog.md) |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 </center>
@@ -609,6 +632,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE25](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.1](backlog.md) & [US25](backlog.md) |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 </center>
@@ -627,6 +651,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE26](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.2](backlog.md) & [US26](backlog.md) |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 
@@ -646,6 +671,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE27](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.2](backlog.md) & [US27](backlog.md) |
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
 
@@ -665,6 +691,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE28](../../elicitacao/requisitosElicitados.md) & [Tema 5](backlog.md) & [Épico 5](backlog.md) & [US28](backlog.md) |
 
 
 <font size="3">Autor: [Johnny Lopes](https://github.com/JohnnyLopess).</font>
@@ -685,6 +712,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE39](../../elicitacao/requisitosElicitados.md) & [Tema 5](backlog.md) & [Épico 5](backlog.md) & [US29](backlog.md) |
 
 
 <font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
@@ -705,6 +733,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE30](../../elicitacao/requisitosElicitados.md) & [Tema 4](backlog.md) & [Épico 4.2](backlog.md) & [US30](backlog.md) |
 
 
 <font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
@@ -725,6 +754,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Média                            |
 | Status                 | Validada |
+|Rastreabilidade| [RE31](../../elicitacao/requisitosElicitados.md) & [Tema 2](backlog.md) & [Épico 2.2](backlog.md) & [US31](backlog.md) |
 
 
 <font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
@@ -745,6 +775,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Média                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE32](../../elicitacao/requisitosElicitados.md) & [Tema 5](backlog.md) & [Épico 5](backlog.md) & [US32](backlog.md) |
 
 
 <font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
@@ -765,6 +796,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Baixa                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE33](../../elicitacao/requisitosElicitados.md) & [Tema 6](backlog.md) & [Épico 6](backlog.md) & [US33](backlog.md) |
 
 <font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
 
@@ -784,6 +816,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Baixa                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE34](../../elicitacao/requisitosElicitados.md) & [Tema 3](backlog.md) & [Épico 3.2](backlog.md) & [US34](backlog.md) |
 
 
 <font size="3">Autor: [Vitor Feijó](https://github.com/vitorfleonardo).</font>
@@ -804,6 +837,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Baixa                                         |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE35](../../elicitacao/requisitosElicitados.md) & [Tema 5](backlog.md) & [Épico 5](backlog.md) & [US35](backlog.md) |
 
 
 <font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
@@ -824,7 +858,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
-
+|Rastreabilidade| [RE36](../../elicitacao/requisitosElicitados.md) & [Tema 6](backlog.md) & [Épico 6](backlog.md) & [US36](backlog.md) |
 
 <font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
 
@@ -841,8 +875,9 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | _US37_                   | Eficiência nas Tarefas do Aplicativo |                                
 | Descrição              | _Eu, como_ usuário do aplicativo, _desejo_ que o aplicativo seja eficiente, permitindo que eu realize tarefas rápidas em 1-5 minutos e tarefas mais complexas em até 1h20 _para_ otimizar meu tempo e tornar o uso do aplicativo mais produtivo |
 | Critérios de Aceitação | - As tarefas comuns do aplicativo devem ser realizadas em um intervalo de tempo entre 1 e 5 minutos <br> - Tarefas mais complexas, como preenchimento de formulários extensos, devem ser concluídas em até 1 hora e 20 minutos |
-| Prioridade             |      Alta                               |
-| Status                 | Validada |
+| Prioridade             |                                     |
+|Rastreabilidade| [RE37](../../elicitacao/requisitosElicitados.md) & [Tema 6](backlog.md) & [Épico 6](backlog.md) & [US37](backlog.md) |
+| Status                 |  |
 
 
 <font size="3">Autor:[Paulo Borba](https://github.com/paulohborba).</font>
@@ -863,6 +898,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE38](../../elicitacao/requisitosElicitados.md) & [Tema 5](backlog.md) & [Épico 5](backlog.md) & [US38](backlog.md) |
 
 
 <font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
@@ -883,6 +919,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE39](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.2](backlog.md) & [US39](backlog.md) |
 
 
 <font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
@@ -903,6 +940,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |        Alta                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
+|Rastreabilidade| [RE40](../../elicitacao/requisitosElicitados.md) & [Tema 6](backlog.md) & [Épico 6](backlog.md) & [US40](backlog.md) |
 
 
 <font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
@@ -923,7 +961,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do PO             |       Média                             |
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
-
+|Rastreabilidade| [RE41](../../elicitacao/requisitosElicitados.md) & [Tema 6](backlog.md) & [Épico 6](backlog.md) & [US41](backlog.md) |
 
 <font size="3">Autor: [Paulo Borba](https://github.com/paulohborba).</font>
 
@@ -951,5 +989,8 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 |`1.5`|27/05/2024|Adição de histórias do usuário.|[Johnny Lopes](https://github.com/JohnnyLopess)|27/05/2024|[Vitor Feijó](https://github.com/vitorfleonardo)|
 |`1.6`|27/05/2024|Adição de histórias do usuário.|[Vitor Feijó](https://github.com/vitorfleonardo)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|
 |`1.7`|27/05/2024|Adição de histórias do usuário.|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
-|`1.7`|27/05/2024|Adição da validação e priorização.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|
-|`1.8`|30/05/2024|Adição da validação e priorização do cliente e ajustes.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|30/05/2024|[Amanda Campos](https://github.com/acamposs)|
+|`1.8`|27/05/2024|Adição da validação e priorização.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|
+|`1.9`|27/05/2024|Adição da validação e priorização.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|27/05/2024|[Paulo Borba](https://github.com/paulohborba)|
+|`2.0`|28/05/2024|Ajustes na página.|[Paulo Borba](https://github.com/paulohborba)|28/05/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
+|`2.1`|28/05/2024|Ajustes na página.|[Johnny Lopes](https://github.com/JohnnyLopess)|28/05/2024|[Paulo Borba](https://github.com/paulohborba)|
+|`2.2`|30/05/2024|Adição da validação e priorização do cliente e ajustes.|[Bianca Castro](https://github.com/BiancaPatrocinio7)|30/05/2024|[Amanda Campos](https://github.com/acamposs)|
