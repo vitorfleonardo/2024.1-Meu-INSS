@@ -70,6 +70,7 @@ A tabela 1 é uma legenda da tabela de backlog que foi feita.
 |Gerenciamento de Benefícios|Épico 2.2|Cancelar perícias médicas|[US21.3](historia_de_usuario.md)| |[RE21](../../elicitacao/requisitosElicitados.md)|
 |Gerenciamento de Benefícios|Épico 2.2|Fornecimento de informações referentes a pagamentos não recebidos|[US16](historia_de_usuario.md)| |[RE16](../../elicitacao/requisitosElicitados.md)|
 |Gerenciamento de Benefícios|Épico 2.2|Requerimento de benefícios e atualização do vínculo do CNIS|[US15](historia_de_usuario.md)| |[RE15](../../elicitacao/requisitosElicitados.md)|
+|Gerenciamento de Benefícios|Épico 2.2|Criação de uma fila digital para agendamentos|[US31](historia_de_usuario.md)| |[RE31](../../elicitacao/requisitosElicitados.md)|
 |Acesso a Documentos|Épico 3.1|Acessar extrato anual de imposto de renda|[US10](historia_de_usuario.md)| |[RE10](../../elicitacao/requisitosElicitados.md)|
 |Acesso a Documentos|Épico 3.1|Acessar documentos legislativos|[US03](historia_de_usuario.md)| |[RE03](../../elicitacao/requisitosElicitados.md)|
 |Acesso a Documentos|Épico 3.1|Acessar extrato anual de empréstimo|[US11](historia_de_usuario.md)| |[RE11](../../elicitacao/requisitosElicitados.md)|
