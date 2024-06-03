@@ -109,6 +109,7 @@ As tabelas 3 a 45 detalham as histórias de usuário elicitadas durante o proces
 | Prioridade do Usuário            |        Alta                             |
 | Status                 | Validada |
 |Rastreabilidade| [RE01](../../elicitacao/requisitosElicitados.md) & [Tema 1](backlog.md) & [Épico 1.1](backlog.md) & [US01](backlog.md) |
+
 <font size="3">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</font>
 
 </center>
