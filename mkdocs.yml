@@ -56,6 +56,7 @@ nav:
           - Backlog: "modelagem/Agil/backlog.md"
           - Histórias de Usuário: "modelagem/Agil/historia_de_usuario.md"
           - NFR Framework: "modelagem/Agil/nfr.md"
+          - NFR Framework 2: "modelagem/Agil/nfr2.md"
 theme:
   language: pt-BR
   name: material
