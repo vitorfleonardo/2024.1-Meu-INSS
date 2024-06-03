@@ -134,7 +134,7 @@ Nessa etapa, foram escolhidas as melhoras alteranativas, pelo desenvolvedores. R
 |`1.0`|27/05/2024|Criação do documento|[José Filipi](https://github.com/JoseFilipi) & [Vitor Feijó](https://github.com/vitorfleonardo) |27/05/2024|[Paulo Borba](https://github.com/paulohborba)|
 |`1.1`|30/06/2024|Metodologia & Softgoal 1 e 2|[Vitor Feijó](https://github.com/vitorfleonardo) |30/05/2024|[Paulo Borba](https://github.com/paulohborba)|
 |`1.2`|30/05/2024|Softgoal 3|[Bianca Castro](https://github.com/BiancaPatrocinio7)|30/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
-|`1.3`|30/05/2024|Softgoal 4| [Gabriel Souza](https://github.com/GabrielMS00)|26/05/2024|[José Filipi](https://github.com/JoseFilipi)|
+|`1.3`|30/05/2024|Softgoal 4| [Gabriel Souza](https://github.com/GabrielMS00)|30/05/2024|[José Filipi](https://github.com/JoseFilipi)|
 |`1.4`|30/05/2024|Softgoal 5| [José Filipi](https://github.com/JoseFilipi)|30/05/2024|[Amanda Campos](https://github.com/acamposs)|
 |`1.5`|30/05/2024|Softgoal 6| [Amanda Campos](https://github.com/acamposs)|30/05/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
 |`1.6`|30/05/2024|Softgoal 7| [Johnny Lopes](https://github.com/JohnnyLopess)|30/05/2024|[Vitor Feijó](https://github.com/vitorfleonardo)|
