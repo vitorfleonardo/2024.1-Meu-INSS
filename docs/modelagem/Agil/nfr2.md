@@ -139,7 +139,7 @@ Nessa etapa, foram escolhidas as melhoras alteranativas, pelo desenvolvedores. R
 |`1.5`|30/05/2024|Softgoal 6| [Amanda Campos](https://github.com/acamposs)|30/05/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
 |`1.6`|30/05/2024|Softgoal 7| [Johnny Lopes](https://github.com/JohnnyLopess)|30/05/2024|[Vitor Feijó](https://github.com/vitorfleonardo)|
 |`1.7`|30/05/2024|Softgoal 8| [Paulo Borba](https://github.com/paulohborba)|30/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
-|`1.9`|02/06/2024|Criação do documento.| [Vitor Feijó](https://github.com/vitorfleonardo)|02/06/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)|
+|`1.9`|02/06/2024|Adição dos SIGs de operacionalização, afirmação e seleção de alternativas.| [Vitor Feijó](https://github.com/vitorfleonardo)|02/06/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)|
 
 
 
