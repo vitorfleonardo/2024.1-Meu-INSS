@@ -27,15 +27,14 @@ Os comentários relacionados a cada artefato serão detalhados aqui.
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 - O grupo desenvolveu o perfil de usuário ? | Sim | Fonte
-2 – Há um termo de consentimento associado à aplicação do questionário ? | Incompleto | Fonte
-3 - O termo de consentimento está anexado ao texto de explicação do perfil de usuário ? | Sim | Fonte
-4 - O perfil de usuário possui questões demográficas ? | Sim | Fonte
-5 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? | Sim | Fonte
-6 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | Sim | Fonte
+1 – Há um termo de consentimento associado à aplicação do questionário ? | Incompleto | <a id="TEC6" href="#RP6">Artigo 5º</a>
+2 - O termo de consentimento está anexado ao texto de explicação do perfil de usuário ? | Sim | <a id="TEC6" href="#RP6">Artigo 5º</a>
+3 - O perfil de usuário possui questões demográficas ? | Sim | <a id="TEC5" href="#RP5">p.165-166</a> 
+4 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? | Sim | <a id="TEC5" href="#RP5">p.165-166</a>
+5 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | Sim | <a id="TEC5" href="#RP5">p.165-166</a>
 
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
 
 #### Comentários
@@ -82,13 +81,12 @@ Fonte: [Paulo Borba](https://github.com/paulohborba).
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 - A história foi desenvolvida com um objetivo claro ? | Sim | Fonte
-2 – Foram identificados os personagens principais da história ? | Sim | Fonte
-3 - A estrutura narrativa da história inclui divisão em eventos, causalidade, início, meio e fim ? | Sim | Fonte
-4 - A linguagem utilizada na história é adequada e acessível ao público-alvo ? | Sim | Fonte
-5 - Foram incluídos elementos visuais, como diagramas ou ilustrações, para enriquecer a narrativa ? | Sim | Fonte
-6 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? | Sim | Fonte
-7 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? | Sim | Fonte
+1 - A história foi desenvolvida com um objetivo claro ? | Sim | <a id="TEC7" href="#RP7">p.2</a>
+2 – Foram identificados os personagens principais da história ? | Sim | <a id="TEC7" href="#RP7">p.2</a>
+3 - A estrutura narrativa da história inclui divisão em eventos, causalidade, início, meio e fim ? | Sim | <a id="TEC8" href="#RP8">p.31-33</a> 
+4 - A linguagem utilizada na história é adequada e acessível ao público-alvo ? | Sim | <a id="TEC8" href="#RP8">p.34</a>
+5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? | Sim | <a id="TEC8" href="#RP8">p.34</a>
+6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? | Sim | <a id="TEC8" href="#RP8">p.36</a>
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
 
@@ -136,10 +134,15 @@ Critérios  | Avaliação | Fonte
 
 > <a id="RP3" href="#TEC3">3.</a> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021.
 
-
 > <a id="RP4" href="#TEC4">4.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport Livros e Multimídia Ltda., 2016.
 
+> <a id="RP5" href="#TEC5">5.</a> BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 3 maio 2021.
 
+> <a id="RP6" href="#TEC6">6.</a> BRASIL. Lei n. 13.709, de 14 de agosto de 2018. Dispõe sobre a proteção de dados pessoais e altera a Lei n. 12.965, de 23 de abril de 2014 (Marco Civil da Internet). Diário Oficial da União: seção 1, Brasília, DF, 15 ago. 2018. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm. Acesso em: [data de acesso].
+
+> <a id="RP7" href="#TEC7">7.</a> Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH. Disponível em: https://revistas.unibh.br/dtec/article/view/440.
+
+> <a id="RP8" href="#TEC8">8.</a> GONÇALVES, João Carlos de Almeida Rodrigues. Story mining: elicitação de processos de negócio a partir de group storytelling e técnicas de mineração de texto. 2010. 175 f. Dissertação (Mestrado em Informática) – Universidade Federal do Estado do Rio de Janeiro, Rio de Janeiro, 2010. Orientador: Flávia Maria Santoro. Coorientador: Fernanda Araujo Baião Amorim.
 
 
 ## Histórico de Versões

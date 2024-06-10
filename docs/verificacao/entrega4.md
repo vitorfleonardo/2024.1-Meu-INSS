@@ -80,22 +80,26 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Os requisitos não funcionais foram identificados e documentados ? | Sim | Fonte
-2 – Foi utilizada a abordagem goal-oriented para a especificação dos requisitos não funcionais ? | Sim | Fonte
-3 - Os softgoals foram definidos e classificados de acordo com o NFR Framework ? | Sim | Fonte
-4 - Foi utilizado o Softgoal Interdependency Graph (SIG) como modelo para representar as interdependências entre os softgoals ? | Sim | Fonte
-5 - Os softgoals foram priorizados de acordo com a importância para o sistema ? | Sim | Fonte
-6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ? | Sim | Fonte
-7 - Foi elaborado um plano para gerenciar e resolver os conflitos identificados ? | Sim | Fonte
+1 - Os requisitos não funcionais foram identificados e documentados ? | Sim | <a id="TEC3" href="#RP3">p.19</a>
+2 – Foi utilizada a abordagem goal-oriented para a especificação dos requisitos não funcionais ? | Sim | <a id="TEC3" href="#RP3">p.19</a>
+3 - Os softgoals foram definidos e classificados de acordo com o NFR Framework ? | Sim | <a id="TEC3" href="#RP3">p.20</a>
+4 - Foi utilizado o Softgoal Interdependency Graph (SIG) como modelo para representar as interdependências entre os softgoals ? | Sim | <a id="TEC3" href="#RP3">p.24</a>
+5 - Os softgoals foram priorizados de acordo com a importância para o sistema ? | Sim | <a id="TEC3" href="#RP3">p.25</a>
+6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ? | Sim | <a id="TEC3" href="#RP3">p.180</a>
+7 - Foi elaborado um plano para gerenciar e resolver os conflitos identificados ? | Sim | <a id="TEC3" href="#RP3">p.180</a>
 8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? | Sim | Fonte
-9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? | Sim | Fonte
+9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? | Sim | <a id="TEC2" href="#RP2">p.45</a>
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 #### Comentários
 
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf](https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf).
+
+> <a id="RP2" href="#TEC2">2.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciência da Computação) - Centro de Informática da Universidade Federal de Pernambuco, [S. l.], 2019. Disponível em: [https://attena.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf](https://attena.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf). Acesso em: 10 jun. 2024.
+
+> <a id="RP3" href="#TEC3">3.</a> Chung, L., Nixon, B. A., Yu, E., & Mylopoulos, J. (2000). Non-Functional Requirements in Software Engineering. Springer. Disponível em: [https://link.springer.com/book/10.1007/978-1-4615-5269-7](https://link.springer.com/book/10.1007/978-1-4615-5269-7). Acesso em : 30 mai. 2024.
 
 ## Histórico de Versões
 
