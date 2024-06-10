@@ -58,7 +58,7 @@ Fonte: [Johnny Lopes](https://github.com/JohnnyLopess).
 ### Histórias de Usuário
 - Aqui é possível encontrar a origem do artefato verificado [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/ ).
 
-<font size="3"><p style="text-align: center">Tabela 2: Verificação das [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/ )</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Verificação das [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/ )</p></font>
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
@@ -69,14 +69,32 @@ Critérios  | Sim/Não/Incompleto | Fonte
 5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? | Sim | <a id="TEC4" href="#RP4">p.73</a>
 6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? | Não | Fonte
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+
+### Cenários
+- Aqui é possível encontrar a origem do artefato verificado [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md).
+
+<font size="3"><p style="text-align: center">Tabela 4: Verificação dos [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md)</p></font>
+
+Critérios  | Sim/Não/Incompleto | Fonte
+--------- | ------ | ------
+1 - Cada cenário descreve uma única instância de uso do sistema? | Sim | <a id="TEC1" href="#RP1">p.149</a>
+2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? | Não | <a id="TEC1" href="#RP1">p.149</a>
+3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? | Sim | <a id="TEC1" href="#RP1">p.136</a>
+4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos | Sim | <a id="TEC1" href="#RP1">p.152</a>
+5 - Os cenários especificam um caso de uso? | Incompleto | <a id="TEC1" href="#RP1">p.163</a>
+
+#### Comentários
+- Nos cenários criados pelo grupo, não é possível identificar qual caso de uso foi especificado por cada cenário, seria interessante a utilização de hiperlinks.
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
 #### Comentários
 
 ### NFR FrameWork
 - Aqui é possível encontrar a origem do artefato verificado [NFR Framework ]( https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/).
 
-<font size="3"><p style="text-align: center">Tabela 3: Verificação do [NFR Framework ]( https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/)</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Verificação do [NFR Framework ]( https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/)</p></font>
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
