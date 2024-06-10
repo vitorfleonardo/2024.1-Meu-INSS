@@ -3,7 +3,7 @@
 Essa página tem como objetivo verificar os artefatos da Segunda Entrega do [grupo 8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/).
 
 ## Metodologia
-Nessa página sobre a  entrega 2 é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo eles [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/), [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/), [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/), [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/), [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/) e [Personas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/). A verificação foi realizada utilizando a Tabela 1 como template.
+Nessa página sobre a  entrega 2 é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo eles [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/), [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/), [Análise de Documento](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/), [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/), [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/), [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/) e [Personas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/). A verificação foi realizada utilizando a Tabela 1 como template.
 
 <font size="3"><p style="text-align: center">Tabela 1: Template para verificação</p></font>
 
@@ -85,7 +85,46 @@ Fonte: [Paulo Borba](https://github.com/paulohborba).
 #### Comentários
 * O termo de consentimento está incompleto, pois não é possível abrir o documento sem uma autorização prévia.
 * As vantagens e desvantagens foram elaboradas num contexto mais geral e não sobre o próprio projeto.
+### Análise de Documentação
 
+- Aqui é possível encontrar a origem do artefato verificado [Documentação](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/).
+
+
+<font size="3"><p style="text-align: center">Tabela 3: Verificação de Documentação</p></font>
+
+Critérios  | Sim/Não/Incompleto | Fonte
+--------- | ------ | ------
+1 - Os documentos relevantes foram identificados e listados? | Sim | Fonte
+2 - A origem e o propósito de cada documento foram claramente definidos? | Sim | Fonte
+3 - Os documentos foram revisados por todas as partes interessadas? | Sim | Fonte
+4 - Os documentos contêm uma visão clara dos requisitos do sistema? | Sim | Fonte
+5 - Os requisitos são especificados de forma detalhada e compreensível? | Sim | Fonte
+6 - As funcionalidades do sistema são descritas adequadamente nos documentos? | Sim | Fonte
+7 - Existem exemplos ou casos de uso que ilustram os requisitos? | Sim | Fonte
+8 - Os requisitos são específicos, mensuráveis, alcançáveis, relevantes e com prazo definido (SMART)? | Sim | Fonte
+9 - Os requisitos são consistentes e sem ambiguidade? | Sim | Fonte
+10 - Os requisitos são verificáveis e testáveis? | Sim | Fonte
+11 - Existe um critério claro de aceitação para cada requisito? | Sim | Fonte
+12 - Os requisitos estão corretamente rastreados nos documentos? | Sim | Fonte
+13 - Cada requisito tem uma identificação única? | Sim | Fonte
+14 - Os requisitos foram priorizados de acordo com a importância e urgência? | Sim | Fonte
+15 - Há uma ligação clara entre os requisitos e os objetivos de negócio? | Sim | Fonte
+16 - Foi realizada uma análise de impacto dos requisitos? | Sim | Fonte
+17 - Os impactos potenciais nas áreas de negócio e técnicas foram identificados? | Sim | Fonte
+18 - As dependências entre os requisitos foram documentadas? | Sim | Fonte
+19 - Os riscos associados aos requisitos foram avaliados e documentados? | Sim | Fonte
+20 - Os requisitos foram validados com as partes interessadas? | Sim | Fonte
+21 - Houve sessões de revisão e aprovação dos documentos de requisitos? | Sim | Fonte
+22 - Existem planos para verificar se os requisitos foram implementados corretamente? | Sim | Fonte
+23 - Existe um processo estabelecido para a gestão de mudanças nos requisitos? | Sim | Fonte
+24 - Os documentos de requisitos são atualizados regularmente? | Sim | Fonte
+25 - Há uma versão controlada dos documentos para evitar inconsistências? | Sim | Fonte
+26 - Todos os pontos de vista das partes interessadas foram considerados? | Sim | Fonte
+27 - Houve uma avaliação crítica e detalhada dos documentos? | Sim | Fonte
+28 - O feedback foi coletado e incorporado na análise dos documentos? | Sim | Fonte
+29 - Os documentos de requisitos estão acessíveis a todos os membros da equipe e partes interessadas? | Sim | Fonte
+
+<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs)</p></font>
 
 ### Storytelling
 - Aqui é possível encontrar a origem do artefato verificado [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/).
@@ -178,13 +217,12 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf](ttps://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf).
+
 > <a id="RP2" href="#TEC2">2.</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf](https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf).
 
 > <a id="RP3" href="#TEC3">3.</a> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021.
 
 > <a id="RP4" href="#TEC4">4.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport Livros e Multimídia Ltda., 2016.
-
-> <a id="RP5" href="#TEC5">5.</a> BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 3 maio 2021.
 
 > <a id="RP6" href="#TEC6">6.</a> BRASIL. Lei n. 13.709, de 14 de agosto de 2018. Dispõe sobre a proteção de dados pessoais e altera a Lei n. 12.965, de 23 de abril de 2014 (Marco Civil da Internet). Diário Oficial da União: seção 1, Brasília, DF, 15 ago. 2018. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm. Acesso em: 10 de jun. de 2024.
 
@@ -194,7 +232,6 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 > <a id="RP9" href="#TEC9">9.</a> SANTOS, Luiz Carlos dos. A técnica do questionário: conceituação, características, vantagens e limitações. 2021. Disponível em: https://www.lcsantos.pro.br/wp-content/uploads/2021/03/218_A_TECNICA_DO_QUESTIONARIO.pdf. Acesso em: 10 de jun. de 2024.
 
-> <a id="RP10" href="#TEC10">10.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 

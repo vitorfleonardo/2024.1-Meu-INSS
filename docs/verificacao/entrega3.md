@@ -1,6 +1,6 @@
 ## Introdução
 
-Essa página tem como objetivo verificar os artefatos da Primeira Entrega do [grupo 8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/).
+Essa página tem como objetivo verificar os artefatos da Terceira Entrega do [grupo 8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/).
 
 ## Metodologia
 
@@ -22,7 +22,7 @@ Os comentários relacionados a cada artefato serão detalhados aqui.
 
 
 
-## Verificação da Apresentação 1 do Grupo 8
+### Diagrama de Casos de Uso
 
 
 <font size="3"><p style="text-align: center">Tabela 1: Verificação do diagrama de casos de uso </p></font>
@@ -40,6 +40,9 @@ Critérios  | Sim/Não/Incompleto | Fonte
 9 - Cada ator tem um nome que descreva efetivamente o papel dessa pessoa? | Sim | <a id="TEC1" href="#RP1">[1]</a>
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+
+
+### Especificação dos casos de Uso
 
 <font size="3"><p style="text-align: center">Tabela 2: Verificação das especificações de casos de uso </p></font>
 
@@ -63,13 +66,24 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
 
+
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> Universidade Tecnológica de la Mixteca. Checklist: Use case. Disponível em: [https://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/checklists/use_case_C5362874.html](https://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/checklists/use_case_C5362874.html). Acesso em: 06 de junho de 2024.
+
+
+
+
+
+
+
+
 
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 10/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| 
-|`1.1` | 10/06/2024 | Criação do documento. |[Vitor Feijó](https://github.com/vitorfleonardo) | 10/06/2024| 
+|`1.0` | 10/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| [Bianca Castro](https://github.com/BiancaPatrocinio7)
+|`1.1` | 10/06/2024 | Adicionando a verificaçãdo do First Things First |[Bianca Castro](https://github.com/BiancaPatrocinio7)  | 10/06/2024| [Vitor Leonardo](https://github.com/vitorfleonardo)
+|`1.2` | 10/06/2024 | Adicionando verificação. |[Vitor Feijó](https://github.com/vitorfleonardo) | | 
+
