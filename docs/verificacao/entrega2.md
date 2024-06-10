@@ -27,17 +27,30 @@ Os comentários relacionados a cada artefato serão detalhados aqui.
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 – Há um termo de consentimento associado à aplicação do questionário ? | Incompleto | <a id="TEC6" href="#RP6">Artigo 5º</a>
-2 - O termo de consentimento está anexado ao texto de explicação do perfil de usuário ? | Sim | <a id="TEC6" href="#RP6">Artigo 5º</a>
-3 - O perfil de usuário possui questões demográficas ? | Sim | <a id="TEC5" href="#RP5">p.165-166</a> 
-4 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? | Sim | <a id="TEC5" href="#RP5">p.165-166</a>
-5 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | Sim | <a id="TEC5" href="#RP5">p.165-166</a>
+1 – Há um termo de consentimento associado à aplicação do questionário ? | Não | <a id="TEC6" href="#RP6">Artigo 5º</a>
+2 - O termo de consentimento está anexado ao texto de explicação do perfil de usuário ? | Não | <a id="TEC6" href="#RP6">Artigo 5º</a>
+3 - Há algum indicador visual das respostas do questionário ? | Não | <a id="TEC9" href="#RP9">p. 6</a>
+4 - Há indicadores de quantidade de respostas do questionário ? | Não | <a id="TEC9" href="#RP9">p. 6</a>
+5 - O perfil de usuário possui questões demográficas ? | Incompleto | <a id="TEC5" href="#RP5">p.165-166</a> 
+6 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? | Sim | <a id="TEC5" href="#RP5">p.165-166</a>
+7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | Sim | <a id="TEC5" href="#RP5">p.165-166</a>
 
 
 <font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
+<center>
+
+<a href="https://www.youtube.com/watch?v=Viy8UYHcitE" target="blanket"><strong>Vídeo 1</strong> - Verificação do Perfil de usuário</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Viy8UYHcitE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: [José Filipi](https://github.com/JoseFilipi).
+
+</center>
 
 #### Comentários
+* É válido acrescentar dados demográficos associados ao gênero.
+* A faixa etária está definida em um intervalo extremamente longo, é interessante elucidar a razão por trás da necessidade da amplitude desse dado.
 
 ### Questionário
 - Aqui é possível encontrar a origem do artefato verificado [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/).
@@ -61,7 +74,7 @@ Critérios  | Avaliação | Fonte
 
 <center>
 
-<a href="https://www.youtube.com/watch?v=8hO96PgJS34" target="blanket"><strong>Vídeo 1</strong> - Verificação do Questionário</a>
+<a href="https://www.youtube.com/watch?v=8hO96PgJS34" target="blanket"><strong>Vídeo 2</strong> - Verificação do Questionário</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tjRe0dW02o?si=NMS8Tvnc87b4WAM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -88,7 +101,7 @@ Critérios  | Avaliação | Fonte
 5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? | Sim | <a id="TEC8" href="#RP8">p.34</a>
 6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? | Sim | <a id="TEC8" href="#RP8">p.36</a>
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
 #### Comentários
 
@@ -138,11 +151,13 @@ Critérios  | Avaliação | Fonte
 
 > <a id="RP5" href="#TEC5">5.</a> BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 3 maio 2021.
 
-> <a id="RP6" href="#TEC6">6.</a> BRASIL. Lei n. 13.709, de 14 de agosto de 2018. Dispõe sobre a proteção de dados pessoais e altera a Lei n. 12.965, de 23 de abril de 2014 (Marco Civil da Internet). Diário Oficial da União: seção 1, Brasília, DF, 15 ago. 2018. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm. Acesso em: [data de acesso].
+> <a id="RP6" href="#TEC6">6.</a> BRASIL. Lei n. 13.709, de 14 de agosto de 2018. Dispõe sobre a proteção de dados pessoais e altera a Lei n. 12.965, de 23 de abril de 2014 (Marco Civil da Internet). Diário Oficial da União: seção 1, Brasília, DF, 15 ago. 2018. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm. Acesso em: 10 de jun. de 2024.
 
 > <a id="RP7" href="#TEC7">7.</a> Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH. Disponível em: https://revistas.unibh.br/dtec/article/view/440.
 
 > <a id="RP8" href="#TEC8">8.</a> GONÇALVES, João Carlos de Almeida Rodrigues. Story mining: elicitação de processos de negócio a partir de group storytelling e técnicas de mineração de texto. 2010. 175 f. Dissertação (Mestrado em Informática) – Universidade Federal do Estado do Rio de Janeiro, Rio de Janeiro, 2010. Orientador: Flávia Maria Santoro. Coorientador: Fernanda Araujo Baião Amorim.
+
+> <a id="RP8" href="#TEC8">9.</a> SANTOS, Luiz Carlos dos. A técnica do questionário: conceituação, características, vantagens e limitações. 2021. Disponível em: https://www.lcsantos.pro.br/wp-content/uploads/2021/03/218_A_TECNICA_DO_QUESTIONARIO.pdf. Acesso em: 10 de jun. de 2024.
 
 
 ## Histórico de Versões
@@ -152,3 +167,4 @@ Critérios  | Avaliação | Fonte
 |`1.0` | 10/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| [Johnny Lopes](https://github.com/JohnnyLopess)|
 |`1.1` | 10/06/2024 | Adição da verificação da técnica In or Out. |[Johnny Lopes](https://github.com/JohnnyLopess) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)||
 |`1.1` | 10/06/2024 | Adição da verificação da técnica Introspecção e Questionário e algumas correções |[Paulo Borba](https://github.com/paulohborba) | -/-/2024| |
+|`1.2` | 10/06/2024 | Adição do vídeo de Perfil de usuário |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024||
