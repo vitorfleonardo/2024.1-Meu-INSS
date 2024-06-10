@@ -42,7 +42,7 @@ Critérios  | Avaliação | Fonte
 
 <a href="https://www.youtube.com/watch?v=Viy8UYHcitE" target="blanket"><strong>Vídeo 1</strong> - Verificação do Perfil de usuário</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Viy8UYHcitE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Viy8UYHcitE?si=zNeE6zanUsFm2M9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Fonte: [José Filipi](https://github.com/JoseFilipi).
 
