@@ -72,3 +72,4 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 10/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| 
+|`1.1` | 10/06/2024 | Criação do documento. |[Vitor Feijó](https://github.com/vitorfleonardo) | 10/06/2024| 
