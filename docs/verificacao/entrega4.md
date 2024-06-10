@@ -58,25 +58,43 @@ Fonte: [Johnny Lopes](https://github.com/JohnnyLopess).
 ### Histórias de Usuário
 - Aqui é possível encontrar a origem do artefato verificado [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/ ).
 
-<font size="3"><p style="text-align: center">Tabela 2: Verificação das [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/ )</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Verificação das [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Historias/ )</p></font>
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - As histórias de usuário foram escritas pelo cliente? |  | Fonte
-2 – As histórias de usuário possuem um valor (uma prioridade) baseado no valor de negócio dada pelo cliente? |  | Fonte
-3 - No artefato, cada história de usuário possui um identificador único? |  | Fonte
-4 - As descrições das histórias de usuário são claras e descrevem bem as funcionalidades que o sistema deve possuir para solucionar o problema do usuário? |  | Fonte
-5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? |  | Fonte
-6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? |  | Fonte
+1 - As histórias de usuário foram escritas pelo cliente ou foram feitas utilizando os requisitos já elicitados? | Sim | <a id="TEC5" href="#RP5">p.73</a>
+2 – As histórias de usuário possuem um valor (uma prioridade) baseado no valor de negócio dada pelo cliente? | Sim | <a id="TEC5" href="#RP5">p.73</a>
+3 - No artefato, cada história de usuário possui um identificador único? | Sim | Fonte
+4 - As descrições das histórias de usuário são claras e descrevem bem as funcionalidades que o sistema deve possuir para solucionar o problema do usuário? | Sim | <a id="TEC5" href="#RP5">p.73</a>
+5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? | Sim | <a id="TEC5" href="#RP5">p.73</a>
+6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? | Não | Fonte
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+
+### Cenários
+- Aqui é possível encontrar a origem do artefato verificado [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md).
+
+<font size="3"><p style="text-align: center">Tabela 4: Verificação dos [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md)</p></font>
+
+Critérios  | Sim/Não/Incompleto | Fonte
+--------- | ------ | ------
+1 - Cada cenário descreve uma única instância de uso do sistema? | Sim | <a id="TEC1" href="#RP1">p.149</a>
+2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? | Não | <a id="TEC1" href="#RP1">p.149</a>
+3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? | Sim | <a id="TEC1" href="#RP1">p.136</a>
+4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos | Sim | <a id="TEC1" href="#RP1">p.152</a>
+5 - Os cenários especificam um caso de uso? | Incompleto | <a id="TEC1" href="#RP1">p.163</a>
+
+#### Comentários
+- Nos cenários criados pelo grupo, não é possível identificar qual caso de uso foi especificado por cada cenário, seria interessante a utilização de hyperlinks.
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
 #### Comentários
 
 ### NFR FrameWork
 - Aqui é possível encontrar a origem do artefato verificado [NFR Framework ]( https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/).
 
-<font size="3"><p style="text-align: center">Tabela 3: Verificação do [NFR Framework ]( https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/)</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Verificação do [NFR Framework ]( https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/)</p></font>
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
@@ -87,7 +105,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 5 - Os softgoals foram priorizados de acordo com a importância para o sistema ? | Sim | <a id="TEC3" href="#RP3">p.25</a>
 6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ? | Sim | <a id="TEC3" href="#RP3">p.180</a>
 7 - Foi elaborado um plano para gerenciar e resolver os conflitos identificados ? | Sim | <a id="TEC3" href="#RP3">p.180</a>
-8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? | Sim | Fonte
+8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? | Sim | <a id="TEC3" href="#RP3">p.44</a>
 9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? | Sim | <a id="TEC2" href="#RP2">p.45</a>
 
 <font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
@@ -144,13 +162,15 @@ Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).
 > <a id="RP4" href="#TEC4">4.</a> Barbosa, S. D. J., Silveira, M. S., Paula, M. G., & Breitman, K. K. Interaction Design and User Interface Design: Preparing for the Next Decade. Disponível em: [https://www-di.inf.puc-rio.br/~simone/publications/barbosa_silveira_paula_breitman_ehci-dsvis2004_preconf.pdf](https://www-di.inf.puc-rio.br/~simone/publications/barbosa_silveira_paula_breitman_ehci-dsvis2004_preconf.pdf). Acesso em: 10 jun. 2024.
 
 
+> <a id="RP4" href="#TEC5">5.</a> Roger S. Pressman, Bruce R. Maxium - Engenharia de Software - Uma abordagem profissional (8° Edição). Disponível em: [https://analisederequisitos.com.br/engenharia-de-software-pressman-pdf/](https://analisederequisitos.com.br/engenharia-de-software-pressman-pdf/). Acesso em: 09 jun. 2024.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 10/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| [Johnny Lopes](https://github.com/JohnnyLopess)|
-|`1.1` | 10/06/2024 | Adição da verificação do backlog. |[Johnny Lopes](https://github.com/JohnnyLopess) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)|
-|`1.2` | 10/06/2024 | Adição da lista de verificação das histórias de usuário | [Gabriel Souza](https://github.com/GabrielMS00) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)
-|`1.3` | 10/06/2024 | Adição de fonte da tabela de backlog e hyperlinks| [Paulo Borba](https://github.com/paulohborba) | 10/06/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)
-|`1.3` | 10/06/2024 | Adição da verificação dos Léxicos| [Bianca Castro](https://github.com/BiancaPatrocinio7)| |
+|`1.0` | 09/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| [Johnny Lopes](https://github.com/JohnnyLopess)|
+|`1.1` | 09/06/2024 | Adição da verificação do backlog. |[Johnny Lopes](https://github.com/JohnnyLopess) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)|
+|`1.2` | 09/06/2024 | Adição da lista de verificação das histórias de usuário | [Gabriel Souza](https://github.com/GabrielMS00) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)
+|`1.3` | 10/06/2024 | Adição de fonte da tabela de backlog e hyperlinks| [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
+|`1.4` | 10/06/2024 | Adição da lista de verificação dos cenários | [Gabriel Souza](https://github.com/GabrielMS00) | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
+|`1.5` | 10/06/2024 | Adição da verificação dos Léxicos| [Bianca Castro](https://github.com/BiancaPatrocinio7)| 10/06/2024  | [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
