@@ -85,7 +85,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 5 - Os cenários especificam um caso de uso? | Incompleto | <a id="TEC1" href="#RP1">p.163</a>
 
 #### Comentários
-- Nos cenários criados pelo grupo, não é possível identificar qual caso de uso foi especificado por cada cenário, seria interessante a utilização de hiperlinks.
+- Nos cenários criados pelo grupo, não é possível identificar qual caso de uso foi especificado por cada cenário, seria interessante a utilização de hyperlinks.
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
@@ -128,4 +128,5 @@ Critérios  | Sim/Não/Incompleto | Fonte
 |`1.0` | 10/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| [Johnny Lopes](https://github.com/JohnnyLopess)|
 |`1.1` | 10/06/2024 | Adição da verificação do backlog. |[Johnny Lopes](https://github.com/JohnnyLopess) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)|
 |`1.2` | 10/06/2024 | Adição da lista de verificação das histórias de usuário | [Gabriel Souza](https://github.com/GabrielMS00) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)
-|`1.3` | 10/06/2024 | Adição de fonte da tabela de backlog e hyperlinks| [Paulo Borba](https://github.com/paulohborba) | |
+|`1.3` | 10/06/2024 | Adição de fonte da tabela de backlog e hyperlinks| [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
+|`1.4` | 10/06/2024 | Adição da lista de verificação dos cenários | [Gabriel Souza](https://github.com/GabrielMS00) |  |
