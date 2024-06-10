@@ -3,7 +3,7 @@
 Essa página tem como objetivo verificar os artefatos da Segunda Entrega do [grupo 8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/).
 
 ## Metodologia
-Nessa página sobre a  entrega 2 é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo eles [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/), [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/), [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/), [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) e [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/). A verificação foi realizada utilizando a Tabela 1 como template.
+Nessa página sobre a  entrega 2 é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo eles [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/), [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/), [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/), [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/), [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/) e [Personas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/). A verificação foi realizada utilizando a Tabela 1 como template.
 
 <font size="3"><p style="text-align: center">Tabela 1: Template para verificação</p></font>
 
@@ -141,6 +141,41 @@ Critérios  | Avaliação | Fonte
 
 * Nem todos os requisitos elicitados foram priorizados utilizando esta técnica.
 
+### Personas
+
+- Aqui é possível encontrar a origem do artefato verificado [Personas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/).
+
+<font size="3"><p style="text-align: center">Tabela 5: Verificação das Personas</p></font>
+
+Critérios  | Sim/Não/Incompleto | Fonte
+--------- | ------ | ------
+1 - O artefato inclui o nome completo da persona ? | Sim | Fonte
+2 – Há detalhes demográficos suficientes, como idade, gênero e ocupação ? | Sim | Fonte
+3 - Foi fornecida uma foto representativa da persona ? | Sim | Fonte
+4 - Foi definido o papel da persona no contexto do projeto ? | Sim | Fonte
+5 - É claro se a persona é primária, secundária, outro stakeholder ou antiusuário ? | Sim | Fonte
+6 - Os objetivos pessoais da persona foram claramente identificados ? | Sim | Fonte
+7 - Os objetivos corporativos ou organizacionais que a persona busca alcançar estão descritos ? | Sim | Fonte
+8 - Os objetivos práticos ou relacionados às tarefas da persona foram abordados ? | Sim | Fonte
+9 - Foram destacadas as habilidades específicas e competências da persona ? | Sim | Fonte
+10 - A formação educacional relevante da persona foi mencionada ? | Sim | Fonte
+11 - As principais tarefas realizadas pela persona estão claramente definidas ? | Sim | Fonte
+12 - A frequência e importância dessas tarefas foram consideradas ? | Sim | Fonte
+13 - Os relacionamentos da persona dentro do contexto do projeto foram identificados ? | Sim | Fonte
+14 - Influências externas que afetam as decisões ou ações da persona foram abordadas ? | Sim | Fonte
+15 - As necessidades e requisitos específicos da persona em relação ao produto ou sistema foram detalhados ? | Sim | Fonte
+16 - Foram incluídas citações ou exemplos que ilustram as necessidades da persona ? | Sim | Fonte
+17 - As expectativas da persona em relação ao produto ou sistema estão claras ? | Sim | Fonte
+18 - Como ela organiza as informações relevantes ao seu trabalho ou domínio foi abordado ? | Sim | Fonte
+19 - A persona é derivada de uma investigação cuidadosa do domínio do usuário ? | Sim | Fonte
+20 - Ela é representativa e relevante para o projeto em questão ? | Sim | Fonte
+
+
+<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
+
+#### Comentários
+
+
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf](ttps://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf).
 > <a id="RP2" href="#TEC2">2.</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf](https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf).
@@ -157,8 +192,9 @@ Critérios  | Avaliação | Fonte
 
 > <a id="RP8" href="#TEC8">8.</a> GONÇALVES, João Carlos de Almeida Rodrigues. Story mining: elicitação de processos de negócio a partir de group storytelling e técnicas de mineração de texto. 2010. 175 f. Dissertação (Mestrado em Informática) – Universidade Federal do Estado do Rio de Janeiro, Rio de Janeiro, 2010. Orientador: Flávia Maria Santoro. Coorientador: Fernanda Araujo Baião Amorim.
 
-> <a id="RP8" href="#TEC8">9.</a> SANTOS, Luiz Carlos dos. A técnica do questionário: conceituação, características, vantagens e limitações. 2021. Disponível em: https://www.lcsantos.pro.br/wp-content/uploads/2021/03/218_A_TECNICA_DO_QUESTIONARIO.pdf. Acesso em: 10 de jun. de 2024.
+> <a id="RP9" href="#TEC9">9.</a> SANTOS, Luiz Carlos dos. A técnica do questionário: conceituação, características, vantagens e limitações. 2021. Disponível em: https://www.lcsantos.pro.br/wp-content/uploads/2021/03/218_A_TECNICA_DO_QUESTIONARIO.pdf. Acesso em: 10 de jun. de 2024.
 
+> <a id="RP10" href="#TEC10">10.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 

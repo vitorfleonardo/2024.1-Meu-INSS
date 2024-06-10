@@ -87,7 +87,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 5 - Os softgoals foram priorizados de acordo com a importância para o sistema ? | Sim | <a id="TEC3" href="#RP3">p.25</a>
 6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ? | Sim | <a id="TEC3" href="#RP3">p.180</a>
 7 - Foi elaborado um plano para gerenciar e resolver os conflitos identificados ? | Sim | <a id="TEC3" href="#RP3">p.180</a>
-8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? | Sim | Fonte
+8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? | Sim | <a id="TEC3" href="#RP3">p.44</a>
 9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? | Sim | <a id="TEC2" href="#RP2">p.45</a>
 
 <font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
