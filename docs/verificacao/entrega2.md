@@ -3,7 +3,7 @@
 Essa página tem como objetivo verificar os artefatos da Segunda Entrega do [grupo 8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/).
 
 ## Metodologia
-A verificação foi realizada utilizando a Tabela 1 como template.
+Nessa página sobre a  entrega 2 é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo eles [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/), [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/), [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/), [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) e [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/). A verificação foi realizada utilizando a Tabela 1 como template.
 
 <font size="3"><p style="text-align: center">Tabela 1: Template para verificação</p></font>
 
@@ -20,7 +20,9 @@ Os comentários relacionados a cada artefato serão detalhados aqui.
 
 
 ### Perfil de Usuário
-<font size="3"><p style="text-align: center">Tabela 2: Verificação do Perfil de Usuário</p></font>
+- Aqui é possível encontrar a origem do artefato verificado [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/).
+
+<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/)</p></font>
 
 
 Critérios  | Avaliação | Fonte
@@ -39,7 +41,9 @@ Critérios  | Avaliação | Fonte
 #### Comentários
 
 ### Questionário
-<font size="3"><p style="text-align: center">Tabela 2: Verificação do Questionário</p></font>
+- Aqui é possível encontrar a origem do artefato verificado [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/).
+
+<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/)</p></font>
 
 
 Critérios  | Avaliação | Fonte
@@ -72,8 +76,9 @@ Fonte: [Paulo Borba](https://github.com/paulohborba).
 
 
 ### Storytelling
+- Aqui é possível encontrar a origem do artefato verificado [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/).
 
-<font size="3"><p style="text-align: center">Tabela 3: Verificação de Storytelling</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Verificação de [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/)</p></font>
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
@@ -90,25 +95,26 @@ Critérios  | Avaliação | Fonte
 #### Comentários
 
 ### Introspecção
-<font size="3"><p style="text-align: center">Tabela 2: Verificação do Introspecção</p></font>
+- Aqui é possível encontrar a origem do artefato verificado [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/).
+
+<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/)</p></font>
 
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 - As propriedades essenciais que o sistema deve possuir para ser considerado um sucesso podem ser observadas? | Sim | Fonte
-2 – É possível ver tarefas específicas que o sistema desempenha, considerando os equipamentos e recursos disponíveis?  | Sim | Fonte
-3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   | Sim | Fonte
-4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? | Sim | Fonte
+1 - As propriedades essenciais que o sistema deve possuir para ser considerado um sucesso podem ser observadas? | Sim | <a id="TEC2" href="#RP2">p.25</a>
+2 – É possível ver tarefas específicas que o sistema desempenha, considerando os equipamentos e recursos disponíveis?  | Sim | <a id="TEC2" href="#RP2">p.25</a>
+3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   | Sim | <a id="TEC2" href="#RP2">p.25</a>
+4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? | Sim | <a id="TEC2" href="#RP2">p.25</a>
 
 <font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba)</p></font>
 
 #### Comentários
-* O termo de consentimento está incompleto, pois não é possível abrir o documento sem uma autorização prévia.
-* As vantagens e desvantagens foram elaboradas num contexto mais geral e não sobre o próprio projeto.
 
 ### In or Out
+- Aqui é possível encontrar a origem do artefato verificado [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/).
 
-<font size="3"><p style="text-align: center">Tabela 4: Verificação de In or Out</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Verificação de [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/)</p></font>
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
@@ -126,6 +132,7 @@ Critérios  | Avaliação | Fonte
 
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf](ttps://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf).
+> <a id="RP2" href="#TEC2">2.</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf](https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf).
 
 
 
@@ -135,4 +142,5 @@ Critérios  | Avaliação | Fonte
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 10/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| [Johnny Lopes](https://github.com/JohnnyLopess)|
-|`1.1` | 10/06/2024 | Adição da verificação da técnica In or Out. |[Johnny Lopes](https://github.com/JohnnyLopess) | -/-/2024| |
+|`1.1` | 10/06/2024 | Adição da verificação da técnica In or Out. |[Johnny Lopes](https://github.com/JohnnyLopess) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)||
+|`1.1` | 10/06/2024 | Adição da verificação da técnica Introspecção e Questionário e algumas correções |[Paulo Borba](https://github.com/paulohborba) | -/-/2024| |
