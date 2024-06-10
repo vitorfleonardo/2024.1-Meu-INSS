@@ -48,17 +48,17 @@ Critérios  | Avaliação | Fonte
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 - O questionário possui termo de consentimento? | Incompleto | Fonte
-2 – Os objetivos da pesquisa/questionário estão claramente definidos?  | Sim | Fonte
-3 - Foram selecionados os participantes corretos para responder ao questionário?   | Sim | Fonte
-4 - Foram usados diferentes tipos de perguntas (abertas e fechadas) para obter uma variedade de respostas? | Sim | Fonte
-5 - Cada pergunta está diretamente relacionada aos objetivos da pesquisa? | Sim | Fonte
-6 - As perguntas são claras e evitam ambiguidades? | Sim | Fonte
-7 - Foram fornecidas instruções claras sobre como preencher o questionário? | Não | Fonte
-8 - As respostas foram registradas de forma organizada e segura? | Sim | Fonte
-9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto? | Incompleto | Fonte
+1 - O questionário possui termo de consentimento? | Incompleto | <a id="TEC3" href="#RP3">p.140</a> 
+2 – Os objetivos da pesquisa/questionário estão claramente definidos?  | Sim | <a id="TEC4" href="#RP4">p.178-179</a> 
+3 - Foram selecionados os participantes corretos para responder ao questionário?   | Sim | <a id="TEC4" href="#RP4">p.178-179</a>
+4 - Foram usados diferentes tipos de perguntas (abertas e fechadas) para obter uma variedade de respostas? | Sim | <a id="TEC4" href="#RP4">p.178-179</a>
+5 - Cada pergunta está diretamente relacionada aos objetivos da pesquisa? | Sim | <a id="TEC4" href="#RP4">p.178-179</a>
+6 - As perguntas são claras e evitam ambiguidades? | Sim | <a id="TEC4" href="#RP4">p.178-179</a>
+7 - Foram fornecidas instruções claras sobre como preencher o questionário? | Não | <a id="TEC4" href="#RP4">p.179-180</a>
+8 - As respostas foram registradas de forma organizada e segura? | Sim | <a id="TEC4" href="#RP4">p.180</a>
+9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto? | Incompleto | <a id="TEC4" href="#RP4">p.180</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba)</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba) & [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
 <center>
 
@@ -133,6 +133,11 @@ Critérios  | Avaliação | Fonte
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf](ttps://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf).
 > <a id="RP2" href="#TEC2">2.</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf](https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf).
+
+> <a id="RP3" href="#TEC3">3.</a> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021.
+
+
+> <a id="RP4" href="#TEC4">4.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport Livros e Multimídia Ltda., 2016.
 
 
 
