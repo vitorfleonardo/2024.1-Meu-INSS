@@ -1,12 +1,12 @@
 ## Introdução
 
-Essa página tem como objetivo verificar os artefatos da Terceira Entrega do grupo 8.
+Essa página tem como objetivo verificar os artefatos da Quarta Entrega do grupo 8.
 
 ## Metodologia
 
 
 
-## Verificação da Apresentação 3 do Grupo 8
+## Verificação da Apresentação 4 do Grupo 8
 
 
 <font size="3"><p style="text-align: center">Tabela 1: Verificação do NFR</p></font>
