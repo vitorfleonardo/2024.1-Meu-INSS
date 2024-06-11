@@ -92,40 +92,31 @@ Fonte: [Paulo Borba](https://github.com/paulohborba).
 
 <font size="3"><p style="text-align: center">Tabela 3: Verificação de Documentação</p></font>
 
-Critérios  | Sim/Não/Incompleto | Fonte
+Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 - Os documentos relevantes foram identificados e listados? | Sim | Fonte
-2 - A origem e o propósito de cada documento foram claramente definidos? | Sim | Fonte
-3 - Os documentos foram revisados por todas as partes interessadas? | Sim | Fonte
-4 - Os documentos contêm uma visão clara dos requisitos do sistema? | Sim | Fonte
-5 - Os requisitos são especificados de forma detalhada e compreensível? | Sim | Fonte
-6 - As funcionalidades do sistema são descritas adequadamente nos documentos? | Sim | Fonte
-7 - Existem exemplos ou casos de uso que ilustram os requisitos? | Sim | Fonte
-8 - Os requisitos são específicos, mensuráveis, alcançáveis, relevantes e com prazo definido (SMART)? | Sim | Fonte
-9 - Os requisitos são consistentes e sem ambiguidade? | Sim | Fonte
-10 - Os requisitos são verificáveis e testáveis? | Sim | Fonte
-11 - Existe um critério claro de aceitação para cada requisito? | Sim | Fonte
-12 - Os requisitos estão corretamente rastreados nos documentos? | Sim | Fonte
-13 - Cada requisito tem uma identificação única? | Sim | Fonte
-14 - Os requisitos foram priorizados de acordo com a importância e urgência? | Sim | Fonte
-15 - Há uma ligação clara entre os requisitos e os objetivos de negócio? | Sim | Fonte
-16 - Foi realizada uma análise de impacto dos requisitos? | Sim | Fonte
-17 - Os impactos potenciais nas áreas de negócio e técnicas foram identificados? | Sim | Fonte
-18 - As dependências entre os requisitos foram documentadas? | Sim | Fonte
-19 - Os riscos associados aos requisitos foram avaliados e documentados? | Sim | Fonte
-20 - Os requisitos foram validados com as partes interessadas? | Sim | Fonte
-21 - Houve sessões de revisão e aprovação dos documentos de requisitos? | Sim | Fonte
-22 - Existem planos para verificar se os requisitos foram implementados corretamente? | Sim | Fonte
-23 - Existe um processo estabelecido para a gestão de mudanças nos requisitos? | Sim | Fonte
-24 - Os documentos de requisitos são atualizados regularmente? | Sim | Fonte
-25 - Há uma versão controlada dos documentos para evitar inconsistências? | Sim | Fonte
-26 - Todos os pontos de vista das partes interessadas foram considerados? | Sim | Fonte
-27 - Houve uma avaliação crítica e detalhada dos documentos? | Sim | Fonte
-28 - O feedback foi coletado e incorporado na análise dos documentos? | Sim | Fonte
-29 - Os documentos de requisitos estão acessíveis a todos os membros da equipe e partes interessadas? | Sim | Fonte
+1 - Os documentos relevantes foram identificados e listados? | Não | <a id="RP3" href="#TEC3">Fonte</a>
+2 - A origem e o propósito de cada documento foram claramente definidos? | sim | <a id="RP3" href="#TEC3">Fonte</a>
+3 - Os requisitos são especificados de forma detalhada e compreensível? | Não | <a id="RP3" href="#TEC3">Fonte</a>
+4 - Os requisitos são específicos, mensuráveis, alcançáveis, relevantes e com prazo definido (SMART)? | incompleto | <a id="RP3" href="#TEC3">Fonte</a>
+5 - Os requisitos são consistentes e sem ambiguidade? | Sim | <a id="RP3" href="#TEC3">Fonte</a>
+6 - Os requisitos são verificáveis e testáveis? | não | <a id="RP3" href="#TEC3">Fonte</a>
+7 - Existe um critério claro de aceitação para cada requisito? | Não | <a id="RP3" href="#TEC3">Fonte</a>
+8 - Os requisitos estão corretamente rastreados nos documentos? | sim | <a id="RP3" href="#TEC3">Fonte</a>
+9 - Cada requisito tem uma identificação única? | Sim | <a id="RP3" href="#TEC3">Fonte</a>
+10 - Há uma ligação clara entre os requisitos e os objetivos de negócio? | Sim | <a id="RP3" href="#TEC3">Fonte</a>
+11 - Os impactos potenciais nas áreas de negócio e técnicas foram identificados? | Não | <a id="RP3" href="#TEC3">Fonte</a>
+12 - Houve sessões de revisão e aprovação dos documentos de requisitos? | não | <a id="RP3" href="#TEC3">Fonte</a>
+13 - Existem planos para verificar se os requisitos foram implementados corretamente? | não | <a id="RP3" href="#TEC3">Fonte</a>
+14 - Houve uma avaliação crítica e detalhada dos documentos? | não | <a id="RP3" href="#TEC3">Fonte</a>
+15 - O feedback foi coletado e incorporado na análise dos documentos? | não | <a id="RP3" href="#TEC3">Fonte</a>
+16 - Os documentos de requisitos estão acessíveis a todos os membros da equipe e partes interessadas? | Sim | <a id="RP3" href="#TEC3">Fonte</a>
 
 <font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs)</p></font>
 
+#### Comentários
+1. Alguns requisitos não são testáveis
+2. Não tem documentado nunhuma informação sobre a elicitação dos requisitos de acordo com o documento e como foram analisados os documentos.
+ 
 ### Storytelling
 - Aqui é possível encontrar a origem do artefato verificado [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/).
 
@@ -186,7 +177,7 @@ Critérios  | Avaliação | Fonte
 
 <font size="3"><p style="text-align: center">Tabela 5: Verificação das Personas</p></font>
 
-Critérios  | Sim/Não/Incompleto | Fonte
+Critérios  | Avaliação | Fonte
 --------- | ------ | ------
 1 - O artefato inclui o nome completo da persona ? | Sim | Fonte
 2 – Há detalhes demográficos suficientes, como idade, gênero e ocupação ? | Sim | Fonte
