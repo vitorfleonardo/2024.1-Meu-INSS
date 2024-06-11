@@ -172,5 +172,5 @@ Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).
 |`1.1` | 09/06/2024 | Adição da verificação do backlog. |[Johnny Lopes](https://github.com/JohnnyLopess) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)|
 |`1.2` | 09/06/2024 | Adição da lista de verificação das histórias de usuário | [Gabriel Souza](https://github.com/GabrielMS00) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)
 |`1.3` | 10/06/2024 | Adição de fonte da tabela de backlog e hyperlinks| [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
-|`1.4` | 10/06/2024 | Adição da lista de verificação dos cenários | [Gabriel Souza](https://github.com/GabrielMS00) | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
+|`1.4` | 10/06/2024 | Adição da lista de verificação dos cenários | [Gabriel Souza](https://github.com/GabrielMS00) | 10/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
 |`1.5` | 10/06/2024 | Adição da verificação dos Léxicos| [Bianca Castro](https://github.com/BiancaPatrocinio7)| 10/06/2024  | [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
