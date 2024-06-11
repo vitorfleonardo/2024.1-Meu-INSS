@@ -440,10 +440,10 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
       <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
     </tr>
     <td>Verificação do artefato Especificação suplementar do grupo Consumidor.gov</td>
-      <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a</td>
       <td>28/05</td>
       <td>10/06</td>
-      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a</td>
     </tr>
     <td>Verificação do artefato In or Out do grupo Consumidor.gov</td>
       <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
