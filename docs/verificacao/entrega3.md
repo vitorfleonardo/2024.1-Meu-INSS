@@ -66,8 +66,7 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
 
-<<<<<<< Updated upstream
-=======
+
 <font size="3"><p style="text-align: center">Tabela 2: Verificação das especificações de casos de uso </p></font>
 
 Critérios  | Sim/Não/Incompleto | Fonte</a>
@@ -105,7 +104,7 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 | 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? | Sim | <a id="TEC1" href="#RP1">p.313</a> |
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
->>>>>>> Stashed changes
+
 
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> Universidade Tecnológica de la Mixteca. Checklist: Use case. Disponível em: [https://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/checklists/use_case_C5362874.html](https://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/checklists/use_case_C5362874.html). Acesso em: 06 de junho de 2024.
@@ -115,23 +114,10 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 ><a id="RP3" href="#TEC3">3.</a> Chung, L., Nixon, B. A., Yu, E., & Mylopoulos, J. (2000). Non-Functional Requirements in Software Engineering. Springer. Disponível em: [https://link.springer.com/book/10.1007/978-1-4615-5269-7](https://link.springer.com/book/10.1007/978-1-4615-5269-7). Acesso em : 30 mai. 2024.
 
 
-
-
-
-
-
-
-
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-<<<<<<< Updated upstream
 |`1.0` | 10/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| [Bianca Castro](https://github.com/BiancaPatrocinio7)
-|`1.1` | 10/06/2024 | Adicionando a verificaçãdo do First Things First |[Bianca Castro](https://github.com/BiancaPatrocinio7)  | 10/06/2024| [Vitor Leonardo](https://github.com/vitorfleonardo)
-|`1.2` | 10/06/2024 | Adicionando verificação. |[Vitor Feijó](https://github.com/vitorfleonardo) | | 
-=======
-|`1.0` | 10/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| [Vitor Feijó](https://github.com/vitorfleonardo)
-|`1.1` | 10/06/2024 | Adição verificação casos de uso e especificação suplementar|[Vitor Feijó](https://github.com/vitorfleonardo) & [Johnny Lopes](https://github.com/JohnnyLopess)| 10/06/2024| [José Filipi](https://github.com/JoseFilipi)
->>>>>>> Stashed changes
+|`1.1` | 10/06/2024 | Adicionando a verificaçãdo do First Things First, casos de uso e especificação suplementar |[Bianca Castro](https://github.com/BiancaPatrocinio7) & [Vitor Feijó](https://github.com/vitorfleonardo) & [Johnny Lopes](https://github.com/JohnnyLopess)| 10/06/2024| [José Filipi](https://github.com/JoseFilipi)
 
