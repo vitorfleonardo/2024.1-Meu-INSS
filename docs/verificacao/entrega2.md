@@ -3,7 +3,7 @@
 Essa página tem como objetivo verificar os artefatos da Segunda Entrega do [grupo 8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/).
 
 ## Metodologia
-Nessa página sobre a  entrega 2 é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo eles [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/), [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/), [Análise de Documento](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/), [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/), [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/), [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/) e [Personas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/). A verificação foi realizada utilizando a Tabela 1 como template.
+Nessa página sobre a  entrega 2 é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo eles [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/), [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/), [Análise de Documento](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/), [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/), [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/), [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/), [Personas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/) e [First Things First](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/First%20things%20first/). A verificação foi realizada utilizando a Tabela 1 como template.
 
 <font size="3"><p style="text-align: center">Tabela 1: Template para verificação</p></font>
 
@@ -134,6 +134,23 @@ Critérios  | Avaliação | Fonte
 <font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
 #### Comentários
+
+### First Things First
+
+<font size="3"><p style="text-align: center">Tabela 4: Verificação do  First Things First </p></font>
+
+| Critérios | Sim/Não/Incompleto | Fonte |
+|-----------|---------------------|-------|
+| 1 - Os objetivos principais do projeto foram identificados? | Sim | <a id="TEC1" href="#RP1">p.313</a> |
+| 2 - Os objetivos foram priorizados de acordo com a técnica "First Things First"? | Sim | <a id="TEC1" href="#RP1">p.314</a> |
+| 3 - Os critérios para priorização dos objetivos foram definidos e documentados? | Sim | <a id="TEC1" href="#RP1">p.313</a> |
+| 4 - A equipe de desenvolvimento foi envolvida no processo de priorização? | Sim | <a id="TEC1" href="#RP1">p.313</a> |
+| 5 - As decisões de priorização foram validadas com os stakeholders? | Sim | <a id="TEC1" href="#RP1">p.313</a> |
+| 6 - Foi criada uma lista de tarefas baseada nos objetivos priorizados? | Não | <a id="TEC1" href="#RP1">p.313</a> |
+| 7 - A tabela possui os pesos relativos e sua justificativa? | Sim | <a id="TEC1" href="#RP1">p.314</a> |
+| 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? | Sim | <a id="TEC1" href="#RP1">p.313</a> |
+
+<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
 
 ### Introspecção
 - Aqui é possível encontrar a origem do artefato verificado [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/).
