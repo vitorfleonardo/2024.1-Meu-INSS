@@ -353,6 +353,147 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
+## Entrega 5.1 - Análise de Requisitos: Verificação e Validação - Grupo 8 - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Análise de Requisitos (V&V)</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+          <td>Verificação do artefato Rich picture do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> e <a href="https://github.com/acamposs">Amanda</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+        </tr>
+          <td>Verificação do artefato Perfil de usuário do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> e <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+        </tr>
+          <td>Verificação do artefato Persona do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> e <a href="https://github.com/acamposs">Amanda</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>,<a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+          <td>Verificação do artefato Introspecção do grupo Consumidor.gov</td>
+      <td> <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+    <tr>
+          <td>Verificação do artefato Questionário do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> e <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a></td>
+    </tr>
+    <tr>
+          <td>Verificação do artefato Análise de documento do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/acamposs">Amanda</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+          <td>Verificação do artefato Storytelling do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> e <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+          <td>Verificação do artefato First Things First do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> e <a href="https://github.com/BiancaPatrocinio7">Bianca</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+          <td>Verificação do artefato Cenários do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> e <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+          <td>Verificação do artefato Casos de uso do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> e <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <td>Verificação do artefato Especificação suplementar do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <td>Verificação do artefato In or Out do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <td>Verificação do artefato Léxicos do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/BiancaPatrocinio7">Bianca</a> e <a href="https://github.com/acamposs">Amanda</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <td>Verificação do artefato Backlog do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/JohnnyLopess">Johnny</a> e <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a></td>
+    </tr>
+    <td>Verificação do artefato Histórias de usuários do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a> e <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <td>Verificação do artefato NFR Framework do grupo Consumidor.gov</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a> e <a href="https://github.com/JoseFilipi">José Filipi</a></td>
+      <td>28/05</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>09/06</td>
+      <td>10/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>11/06</td>
+      <td>16/06</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+</div>
+
 ## Bibliografia
 
 
@@ -371,3 +512,4 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 | `1.4`  | 21/04/2024 | Correções no cronograma executado.| [Johnny Lopes](https://github.com/JohnnyLopess) | 21/04/2024 |[Amanda Campos](https://github.com/acamposs) |
 | `1.5`  | 20/05/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 20/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.6`  | 27/05/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 27/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.6`  | 10/06/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
