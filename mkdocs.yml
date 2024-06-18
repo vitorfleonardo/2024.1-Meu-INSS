@@ -66,6 +66,11 @@ nav:
       - Entrega 3: "verificacao/entrega3.md"
       - Entrega 4: "verificacao/entrega4.md"
 
+    - Rastreabilidade:
+      - Backward-From: "rastreabilidade/backward.md"
+      - Forward-from: "rastreabilidade/forward.md"
+      - Matriz de Rastreabilidade: "rastreabilidade/matriz.md"
+
 
 theme:
   language: pt-BR
