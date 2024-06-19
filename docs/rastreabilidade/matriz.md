@@ -7,32 +7,40 @@
 
 <details>
   <summary>Legenda da tabela</summary>
-
-  - **Requisito**: Código único para cada requisito, usado para identificação e referência rápida, onde RE significa Requisito Elicitado.
-- **Tipo**: Qual o tipo de requisito, onde RF significa Requisito Funcional e RNF significa Requisito Não Funcioal.
-- **Implementação**: Estado atual da implementação do requisito, indicando se já foi implementado.
-- **Versão**: Referente ao versionamento do requisito.(Mudar)
-- **Elicitação**: Código para indicar as técnicas utilizadas para a elicitação do requisito referente, podendo ser:
-    - BS: Brainstorming
-    - IT: Introspecção
-    - ENT: Entrevista
-    - QT: Questionário
-    - ST: Storytelling
-- **Priorização**: Código para indicar as técnicas utilizadas para priorizar o requisito referente, podendo ser:
-    - TLS: Three-level scale
-    - CDS: $100
-    - FTF: First Things First
-- **Modelagem**: Código para indicar as técnicas de modelagem utilizadas no projeto, podendo ser:
-    - ES: Especificação suplementar
-    - CS: Casos de Uso
-    - CE: Cenários
-    - LE: Léxicos
-    - BC: Backlog
-    - HU: Histórias de Usuário
-    - NF: NFR Framework
-- **Elos**: 
-
-  <p align="center" > <strong> 
+  <ul>
+    <li><strong>Requisito</strong>: Código único para cada requisito, usado para identificação e referência rápida, onde RE significa Requisito Elicitado.</li>
+    <li><strong>Tipo</strong>: Qual o tipo de requisito, onde RF significa Requisito Funcional e RNF significa Requisito Não Funcional.</li>
+    <li><strong>Implementação</strong>: Estado atual da implementação do requisito, indicando se já foi implementado.</li>
+    <li><strong>Versão</strong>: Referente ao versionamento do requisito.</li>
+    <li><strong>Elicitação</strong>: Código para indicar as técnicas utilizadas para a elicitação do requisito referente, podendo ser:
+      <ul>
+        <li>BS: Brainstorming</li>
+        <li>IT: Introspecção</li>
+        <li>ENT: Entrevista</li>
+        <li>QT: Questionário</li>
+        <li>ST: Storytelling</li>
+      </ul>
+    </li>
+    <li><strong>Priorização</strong>: Código para indicar as técnicas utilizadas para priorizar o requisito referente, podendo ser:
+      <ul>
+        <li>TLS: Three-level scale</li>
+        <li>CDS: $100</li>
+        <li>FTF: First Things First</li>
+      </ul>
+    </li>
+    <li><strong>Modelagem</strong>: Código para indicar as técnicas de modelagem utilizadas no projeto, podendo ser:
+      <ul>
+        <li>ES: Especificação suplementar</li>
+        <li>CS: Casos de Uso</li>
+        <li>CE: Cenários</li>
+        <li>LE: Léxicos</li>
+        <li>BC: Backlog</li>
+        <li>HU: Histórias de Usuário</li>
+        <li>NF: NFR Framework</li>
+      </ul>
+    </li>
+    <li><strong>Elos</strong>:</li>
+  </ul>
 </details>
 
 <p align="center">Autor: <a href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS">Todos</a></a>, 2024.</p>
