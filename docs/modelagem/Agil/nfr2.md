@@ -41,6 +41,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 <p align="center" > <strong> Tabela 1 -</Strong> Modelo para o cartão de especificação </font></p>
 
+<center>
+
 | Nº Requisito: um número sequencial (classificação) | Classificação: Classificação do RNF conforme hierarquia do catálogo. |
 |----------------------------------|----------------------------|
 | **Descrição:**| Descrição única do significado do requisito.  |
@@ -52,6 +54,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 | **Conflitos:**| Requisitos conflitantes com este. |
 | **História:**| Data de criação e modificações. |
 
+</center>
+
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
 ### NFR01: Usabilidade
@@ -61,6 +65,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 2:</Strong> Cartão de especificação NFR01 </font></p>
+
+<center>
 
 | Nº Requisito: 1 (NFR01) | Classificação: Usabilidade |
 |----------------------------------|-----------------------------|
@@ -73,6 +79,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 | **Conflitos:** | Nenhum |
 | **História:** | 27/05/2024|
 
+</center>
+
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 ### NFR02: Confiabilidade
@@ -83,6 +91,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 
 <p align="center" > <strong> Tabela 3:</Strong> Cartão de especificação NFR02 </font></p>
+
+<center>
 
 | Nº Requisito: 2 (NFR02) | Classificação: Confiabilidade |
 |----------------------------------|-------------------------------|
@@ -95,6 +105,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 | **Conflitos:** | Nenhum |
 | **História:** | 27/05/2024 |
 
+</center>
+
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 ### NFR03: Desempenho
@@ -104,6 +116,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024 & Chung et al, 2000, p. 24.</p></font>
 
 <p align="center" > <strong> Tabela 4:</Strong> Cartão de especificação NFR03. </font></p>
+
+<center>
 
 | Nº Requisito: 3 (NFR03) | Classificação: Desempenho |
 |----------------------------------|-----------------------------|
@@ -118,6 +132,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024.</p></font>
 
+</center>
+
 ### NFR04: Físico
 
 <p align="center" > <strong> Figura 7:</Strong> Decomposição do softgoal Interface em requisitos não funcionais mais específicos. </font></p>
@@ -125,6 +141,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Gabriel Souza](https://github.com/GabrielMS00), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 5:</Strong> Cartão de especificação NFR04. </font></p>
+
+<center>
 
 | Nº Requisito: 4 (NFR04) | Classificação: Físico |
 |----------------------------------|-----------------------------|
@@ -137,6 +155,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 | **Conflitos:** | - |
 | **História:** | - |
 
+</center>
+
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Gabriel Souza](https://github.com/GabrielMS00), 2024.</p></font>
 
 ### NFR05: Interface
@@ -146,6 +166,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [José Filipi](https://github.com/JoseFilipi), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 6:</Strong> Cartão de especificação NFR05. </font></p>
+
+<center>
 
 | Nº Requisito: 5 (NFR05) | Classificação: Interface |
 |----------------------------------|-----------------------------|
@@ -158,6 +180,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 | **Conflitos:** | - |
 | **História:** | - |
 
+</center>
+
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [José Filipi](https://github.com/JoseFilipi), 2024.</p></font>
 
 ### NFR06: Design
@@ -167,6 +191,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Amanda Campos](https://github.com/acamposs), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 7:</Strong> Cartão de especificação NFR06. </font></p>
+
+<center>
 
 | Nº Requisito: 6 (NFR06) | Classificação: Design |
 |----------------------------------|-----------------------------|
@@ -179,6 +205,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 | **Conflitos:** | - |
 | **História:** | - |
 
+</center>
+
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Amanda Campos](https://github.com/acamposs), 2024.</p></font>
 
 
@@ -190,16 +218,20 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 <p align="center" > <strong> Tabela 8:</Strong> Cartão de especificação NFR07. </font></p>
 
-| Nº Requisito: 7 (NFR07) | Classificação: Implementação |
+<center>
+
+| Nº Requisito: NFR07 ([RF39](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/requisitosElicitados/)) | Classificação: Implementação |
 |----------------------------------|-----------------------------|
-| **Descrição:** | - |
-| **Justificativa:** | - |
-| **Origem do Requisito:** | - |
-| **Critério de Aceitação:** | - |
-| **Dependências:** | -|
-| **Prioridade:**  | -|
-| **Conflitos:** | - |
-| **História:** | - |
+| **Descrição:** | O aplicativo deve garantir a segurança das informações pessoais dos usuários através de criptografia de dados e autenticação robusta. |
+| **Justificativa:** | A proteção das informações pessoais é crucial para manter a confiança dos usuários e cumprir com regulamentações de privacidade e segurança de dados. |
+| **Origem do Requisito:** | Projetista de Software |
+| **Critério de Aceitação:** | O sistema deve implementar e ser testado para garantir a criptografia de dados e métodos de autenticação robustos, conforme padrões de segurança. |
+| **Dependências:** |Protocolos de criptografia, serviços de autenticação, regulamentos de segurança de dados |
+| **Prioridade:** | 10|
+| **Conflitos:** | Nenhum |
+| **História:** | 21/06/2024 |
+
+</center>
 
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
@@ -212,6 +244,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 <p align="center" > <strong> Tabela 9:</Strong> Cartão de especificação NFR08. </font></p>
 
+<center>
+
 | Nº Requisito: 8 (NFR08) | Classificação: Implementação |
 |----------------------------------|-----------------------------|
 | **Descrição:** | - |
@@ -222,6 +256,8 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 | **Prioridade:**  | -|
 | **Conflitos:** | - |
 | **História:** | - |
+
+</center>
 
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
 
@@ -280,7 +316,7 @@ Nessa etapa, foram escolhidas as melhoras alteranativas, pelo desenvolvedores. R
 |`1.6`|30/05/2024|Softgoal 7| [Johnny Lopes](https://github.com/JohnnyLopess)|30/05/2024|[Vitor Feijó](https://github.com/vitorfleonardo)|
 |`1.7`|30/05/2024|Softgoal 8| [Paulo Borba](https://github.com/paulohborba)|30/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
 |`1.9`|02/06/2024|Adição dos SIGs de operacionalização, afirmação e seleção de alternativas.| [Vitor Feijó](https://github.com/vitorfleonardo)|02/06/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)|
-|`2.0`|20/06/2024|Adição dos cartões de especificação.| [Johnny Lopes](https://github.com/JohnnyLopess)|-|-|
+|`2.0`|21/06/2024|Adição dos cartões de especificação.| [Johnny Lopes](https://github.com/JohnnyLopess)|-|-|
 
 
 

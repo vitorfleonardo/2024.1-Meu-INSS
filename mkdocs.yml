@@ -57,8 +57,7 @@ nav:
         - Ágil:
           - Backlog: "modelagem/Agil/backlog.md"
           - Histórias de Usuário: "modelagem/Agil/historia_de_usuario.md"
-          - NFR Framework: "modelagem/Agil/nfr.md"
-          - NFR Framework 2: "modelagem/Agil/nfr2.md"
+          - NFR Framework: "modelagem/Agil/nfr2.md"
 
     - Verificação:
       - Entrega 1: "verificacao/entrega1.md"
@@ -67,8 +66,7 @@ nav:
       - Entrega 4: "verificacao/entrega4.md"
 
     - Rastreabilidade:
-      - Backward-From: "rastreabilidade/backward.md"
-      - Forward-from: "rastreabilidade/forward.md"
+      - Elos: "rastreabilidade/Elos.md"
       - Matriz de Rastreabilidade: "rastreabilidade/matriz.md"
 
 
