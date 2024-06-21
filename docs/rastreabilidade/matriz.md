@@ -56,6 +56,39 @@
 
 <p align="center">Autor: <a href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS">Todos</a></a>, 2024.</p>
 
+## Cartões de Relacionamento dos Elos
+
+<div align="center">
+  <strong>Cartão 1 - RE01</strong>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Categoria:</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos:</strong></td>
+      <td>RE01, UC01, CEN01, ENT01</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from:</strong></td>
+      <td>Agregação: REQ01 - ENT01: O requisito originou-se da entrevista.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from:</strong></td>
+      <td>
+        Satisfação: REQ01 - UC01: O requisito deu origem ao caso de uso.<br>
+        Satisfação: REQ01 - CEN01: O requisito deu origem ao cenário.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">Autor: <a href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS">Todos</a>, 2024.</p>
+
+
 ## Bibliografia
 > </a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 18 jun. 2024.
 
