@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td><strong>Elementos:</strong></td>
-      <td>RE01, UC01, CEN01, ENT01</td>
+      <td>RE01, CS01, CE01, ENT01</td>
     </tr>
     <tr>
       <td><strong>Elos Backward-from:</strong></td>
@@ -79,8 +79,8 @@
     <tr>
       <td><strong>Elos Forward-from:</strong></td>
       <td>
-        Satisfação: REQ01 - UC01: O requisito deu origem ao caso de uso.<br>
-        Satisfação: REQ01 - CEN01: O requisito deu origem ao cenário.
+        Satisfação: RE01 - CS01: O requisito deu origem ao caso de uso.<br>
+        Satisfação: RE01 - CE01: O requisito deu origem ao cenário.
       </td>
     </tr>
   </table>
