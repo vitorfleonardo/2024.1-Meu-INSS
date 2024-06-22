@@ -147,7 +147,7 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 | Nº Requisito: 4 NFR04 ([RE41](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/requisitosElicitados/)) | Classificação: Físico |
 |----------------------------------|-----------------------------|
 | **Descrição:** | O aplicativo deve estar disponível 24 horas por dia, 7 dias por semana, com uma taxa de uptime de 99.9%. |
-| **Justificativa:** | Uma aplicação que se mantenha estável quase que em 100% do tempo é fundamental evitar possíveis frustrações vindas dos usuários. |
+| **Justificativa:** | Uma aplicação que se mantenha estável quase que em 100% do tempo é fundamental para evitar possíveis frustrações vindas dos usuários. |
 | **Origem do Requisito:** | Projetista de Software |
 | **Critério de Aceitação:** | O sistema deve ser testado em diversos momentos distintos para garantir que seu suporte esteja disponível segunda uma taxa de uptime de 99.9%. |
 | **Dependências:** | Desempenho do servidor, infraestrutura de rede, qualidade do código, testes de software |
