@@ -144,16 +144,16 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 <center>
 
-| Nº Requisito: 4 (NFR04) | Classificação: Físico |
+| Nº Requisito: 4 NFR04 ([RE41](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/requisitosElicitados/)) | Classificação: Físico |
 |----------------------------------|-----------------------------|
-| **Descrição:** | - |
-| **Justificativa:** | - |
-| **Origem do Requisito:** | - |
-| **Critério de Aceitação:** | - |
-| **Dependências:** | -|
-| **Prioridade:**  | -|
-| **Conflitos:** | - |
-| **História:** | - |
+| **Descrição:** | O aplicativo deve estar disponível 24 horas por dia, 7 dias por semana, com uma taxa de uptime de 99.9%. |
+| **Justificativa:** | Uma aplicação que se mantenha estável quase que em 100% do tempo é fundamental evitar possíveis frustrações vindas dos usuários. |
+| **Origem do Requisito:** | Projetista de Software |
+| **Critério de Aceitação:** | O sistema deve ser testado em diversos momentos distintos para garantir que seu suporte esteja disponível segunda uma taxa de uptime de 99.9%. |
+| **Dependências:** | Desempenho do servidor, infraestrutura de rede, qualidade do código, testes de software |
+| **Prioridade:**  | 5 |
+| **Conflitos:** | Nenhum |
+| **História:** | 22/06/2024 |
 
 </center>
 
@@ -316,7 +316,8 @@ Nessa etapa, foram escolhidas as melhoras alteranativas, pelo desenvolvedores. R
 |`1.6`|30/05/2024|Softgoal 7| [Johnny Lopes](https://github.com/JohnnyLopess)|30/05/2024|[Vitor Feijó](https://github.com/vitorfleonardo)|
 |`1.7`|30/05/2024|Softgoal 8| [Paulo Borba](https://github.com/paulohborba)|30/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
 |`1.9`|02/06/2024|Adição dos SIGs de operacionalização, afirmação e seleção de alternativas.| [Vitor Feijó](https://github.com/vitorfleonardo)|02/06/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)|
-|`2.0`|21/06/2024|Adição dos cartões de especificação.| [Johnny Lopes](https://github.com/JohnnyLopess)|-|-|
+|`2.0`|21/06/2024|Adição dos cartões de especificação.| [Johnny Lopes](https://github.com/JohnnyLopess)|22/06/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
+|`2.1`|22/06/2024|Adição do cartão de especificação NFR04.| [Gabriel Souza](https://github.com/GabrielMS00)|||
 
 
 
