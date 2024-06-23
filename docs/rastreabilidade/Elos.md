@@ -315,6 +315,24 @@ Legenda:
 
 <p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
 
+### RE15
+
+<div align="center">
+  <strong>Tabela 16 -</strong> Cartão do Requisito 15
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | ENT03, UC06, UC07, UC09, CEN04                          |
+| **Elos Backward-from:**  | Agregação: RE15 - ENT03: O requisito originou-se de uma Entrevista. |
+| **Elos Forward-from:**   | Satisfação: RE15 - UC06, UC07, UC09: O requisito RE15 deu origem aos casos de uso UC06, UC07, UC09. <br> Satisfação: RE15 - CEN04: O requisito RE15 contribui para o cenário CEN04. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
 ## Referências Bibliográficas
 
 > <a id="RP1" href="#TEC1">1.</a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 21 jun. 2024.
