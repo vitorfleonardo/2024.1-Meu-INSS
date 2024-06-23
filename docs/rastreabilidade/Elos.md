@@ -188,6 +188,60 @@ Legenda:
 
 <p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
 
+### RE08
+
+<div align="center">
+  <strong>Tabela 9 -</strong> Cartão do Requisito 08
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | BS08, BS12, IT06, ENT07, ST20, QT02, QT03, UC07, UC11                           |
+| **Elos Backward-from:**  | Agregação: RE08 - BS08, BS12, IT06, ENT07, ST20, QT02, QT03: O requisito originou-se de um Brainstorm, Introspecção, Storytelling, Entrevista e de um questionário. |
+| **Elos Forward-from:**   | Satisfação: RE08 - UC08, UC11: O requisito RE08 deu origem aos casos de uso UC08 e UC11. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
+### RE09
+
+<div align="center">
+  <strong>Tabela 10 -</strong> Cartão do Requisito 09
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | BS09, ENT11, ENT08, QT02, UC08                           |
+| **Elos Backward-from:**  | Agregação: RE09 - BS09, ENT11, ENT08, QT02: O requisito originou-se de um Brainstorm, Entrevista e de um questionário. |
+| **Elos Forward-from:**   | Satisfação: RE09 - UC08: O requisito RE09 deu origem ao caso de uso UC08. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
+### RE10
+
+<div align="center">
+  <strong>Tabela 11 -</strong> Cartão do Requisito 10
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | ENT14, UC08                           |
+| **Elos Backward-from:**  | Agregação: RE10 - ENT14: O requisito originou-se de uma Entrevista. |
+| **Elos Forward-from:**   | Satisfação: RE10 - UC08: O requisito RE10 deu origem ao caso de uso UC08. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 21 jun. 2024.
 
