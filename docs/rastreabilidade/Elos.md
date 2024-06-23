@@ -361,24 +361,6 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | ENT06, IT07, UC02                          |
-| **Elos Backward-from:**  | Agregação: RE17 - ENT06, IT07: O requisito originou-se de uma Entrevista e uma Introspecção. |
-| **Elos Forward-from:**   | Satisfação: RE17 - UC02: O requisito RE17 deu origem ao caso de uso UC02. |
-
-</center>
-
-<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
-
-### RE17
-
-<div align="center">
-  <strong>Tabela 19 -</strong> Cartão do Requisito 18
-</div>
-
-<center>
-
-| **Categoria:**           | Desenvolvimento                                   |
-|:--|:--|
 | **Elementos:**           | ENT06, IT07, UC02, CEN05                          |
 | **Elos Backward-from:**  | Agregação: RE17 - ENT06, IT07: O requisito originou-se de uma Entrevista e uma Introspecção. |
 | **Elos Forward-from:**   | Satisfação: RE17 - UC02: O requisito RE17 deu origem ao caso de uso UC02. <br> Satisfação: RE17 - CEN05: O requisito RE17 contribui para o cenário CEN05.|
@@ -390,7 +372,7 @@ Legenda:
 ### RE18
 
 <div align="center">
-  <strong>Tabela 20 -</strong> Cartão do Requisito 19
+  <strong>Tabela 19 -</strong> Cartão do Requisito 18
 </div>
 
 <center>
