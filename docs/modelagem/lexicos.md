@@ -89,6 +89,37 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |L20 - Beneficiário|Favorecido, Contemplado|Tipo específico de usuário|Representa um tipo específico de usuário, onde esse está apto a receber os benefícios do INSS.|Estado|[Paulo Borba](https://github.com/paulohborba)|
 |L21 - Logado | Autenticado  |  Status Logado |  O usuário passou com sucesso pelo processo de verificação de acesso unificado (gov.br) e obteve acesso ao sistema. |Estado|[Amanda Campos](https://github.com/acamposs)|
 
+# Ligações entre Léxicos
+
+## Tabela de Ligações
+
+| Léxico          | Ligações Diretas                   | Tipo de Ligação      |
+| --------------- | ---------------------------------- | -------------------  |
+| L01 - Benefício | L02 - Solicitação, L03 - Documentação, L07 - Solicitar | Objeto-Verbo, Objeto-Objeto |
+| L02 - Solicitação | L01 - Benefício, L03 - Documentação, L07 - Solicitar, L11 - Rastrear | Objeto-Objeto, Verbo-Objeto, Verbo-Verbo |
+| L03 - Documentação | L01 - Benefício, L02 - Solicitação, L19 - Enviar | Objeto-Objeto, Verbo-Objeto |
+| L04 - Usuário | L05 - Autenticação, L10 - Atualizar | Objeto-Objeto, Verbo-Objeto |
+| L05 - Autenticação | L04 - Usuário, L21 - Logado | Objeto-Objeto, Estado-Objeto |
+| L06 - Notificação | L02 - Solicitação, L07 - Solicitar | Objeto-Verbo, Verbo-Verbo |
+| L07 - Solicitar | L01 - Benefício, L02 - Solicitação, L06 - Notificação | Verbo-Objeto, Verbo-Verbo |
+| L08 - Consultar | L01 - Benefício, L02 - Solicitação, L11 - Rastrear | Verbo-Objeto, Verbo-Verbo |
+| L09 - Simular | L01 - Benefício, L03 - Documentação | Verbo-Objeto, Verbo-Verbo |
+| L10 - Atualizar | L04 - Usuário, L03 - Documentação | Verbo-Objeto, Verbo-Verbo |
+| L11 - Rastrear | L02 - Solicitação, L08 - Consultar | Verbo-Verbo |
+| L12 - Pendente | L02 - Solicitação, L14 - Em Análise | Estado-Objeto, Estado-Estado |
+| L13 - Aprovado | L01 - Benefício, L02 - Solicitação | Estado-Objeto, Estado-Estado |
+| L14 - Em Análise | L02 - Solicitação, L12 - Pendente | Estado-Objeto, Estado-Estado |
+| L15 - Rejeitado | L02 - Solicitação, L01 - Benefício | Estado-Objeto, Estado-Objeto |
+| L16 - Incompleto | L02 - Solicitação, L03 - Documentação | Estado-Objeto, Estado-Objeto |
+| L17 - Atendimento | L01 - Benefício, L02 - Solicitação | Objeto-Objeto |
+| L18 - Extrato | L01 - Benefício | Objeto-Objeto |
+| L19 - Saldo | L01 - Benefício | Objeto-Objeto |
+| L19 - Enviar | L03 - Documentação | Verbo-Objeto |
+| L20 - Beneficiário | L01 - Benefício, L21 - Logado | Estado-Objeto, Estado-Estado |
+| L21 - Logado | L05 - Autenticação, L20 - Beneficiário | Estado-Estado |
+
+
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Fonte: Autores, 2024)</p></font>
 
@@ -107,3 +138,4 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |`1.2`|19/05/2024|Adição de novos léxicos |[José Filipi](https://github.com/JoseFilipi)|19/05/2024|[Paulo Borba](https://github.com/paulohborba)|
 |`1.3`|19/05/2024|Adição de novos léxicos |[Paulo Borba](https://github.com/paulohborba)|19/05/2024|[Amanda Campos](https://github.com/acamposs)|
 |`1.4`|19/05/2024|Adição de novos léxicos |[Amanda Campos](https://github.com/acamposs)|19/05/2024|[Johnny Lopes](https://github.com/JohnnyLopess)|
+|`1.5`|22/06/2024| Adição da Ligações entre Léxicos| [Bianca Castro](https://github.com/BiancaPatrocinio7) ||
