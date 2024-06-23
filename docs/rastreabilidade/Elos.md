@@ -387,6 +387,133 @@ Legenda:
 
 <p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
 
+### RE19
+
+<div align="center">
+  <strong>Tabela 20 -</strong> Cartão do Requisito 19
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | RE19, ENT13, TLS, CDS, FTF, UC10, BC, US19,                         |
+| **Elos Backward-from:**  | Satisfação: RE19 - ENT13: O requisito originou-se de uma Entrevista. |
+| **Elos Forward-from:**   | Agregação: RE19 - UC10: O requisito RE19 está no conjunto que deu origem ao caso de uso UC10. <br> Satisfação: RE19 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Satisfação: RE19 - CDS: O requisito recebeu um valor de $4 do Desenvolvedor e $2 do Usuário na técnica $100. <br> Satisfação: RE19 - FTF: O requisito recebeu uma pontuação de 1,69 no First Things First. <br> Agregação: RE19 - BC: O requisito e a US19 são classificados no Épico 2.1 do Backlog. <br> Satisfação: RE19 - US19: O requisito foi utilizado para produzir a História de Usuário 19.|
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/JoseFilipi">José Filpi</a>, 2024.</p>
+
+### RE20
+
+<div align="center">
+  <strong>Tabela 21 -</strong> Cartão do Requisito 20
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | RE20, IT01, TLS, CDS, FTF, BC, US20                         |
+| **Elos Backward-from:**  | Satisfação: RE20 - IT01: O requisito originou-se de uma Instrospecção. |
+| **Elos Forward-from:**   | Satisfação: RE20 - TLS: O requisito recebeu uma priorização Média no Three Level Scale. <br> Satisfação: RE20 - CDS: O requisito recebeu um valor de $6 do Desenvolvedor e $4 do Usuário na técnica $100. <br> Satisfação: RE20 - FTF: O requisito recebeu uma pontuação de 1,40 no First Things First. <br> Agregação: RE20 - BC: O requisito e a US20 são classificados no Épico 1.1 do Backlog. <br> Satisfação: RE20 - US20: O requisito foi utilizado para produzir a História de Usuário 20.|
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/JoseFilipi">José Filpi</a>, 2024.</p>
+
+### RE21
+
+<div align="center">
+  <strong>Tabela 22 -</strong> Cartão do Requisito 21
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | RE21, IT03, TLS, CDS, FTF, UC04, UC05, BC, US21.1, US21.2, US21.3                         |
+| **Elos Backward-from:**  | Satisfação: RE21 - IT03: O requisito originou-se de uma Introspecção. |
+| **Elos Forward-from:**   | Satisfação: RE21 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Satisfação: RE21 - CDS: O requisito recebeu um valor de $4 do Desenvolvedor e $2 do Usuário na técnica $100. <br> Satisfação: RE21 - FTF: O requisito recebeu uma pontuação de 1,44 no First Things First. <br> Agregação: RE21 - BC: O requisito e as US21.1, US21.2 e US21.3 são classificados no Épico 2.2 do Backlog. <br> Agregação: RE21 - UC04: O requisito RE21 está no conjunto que deu origem ao caso de uso UC04. <br> Agregação: RE21 - UC05: O requisito RE21 está no conjunto que deu origem ao caso de uso UC05. <br> Satisfação: RE21 - US21.N: O requisito deu origem às US21.N.|
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/JoseFilipi">José Filpi</a>, 2024.</p>
+
+### RE22
+
+<div align="center">
+  <strong>Tabela 23 -</strong> Cartão do Requisito 22
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                 |
+|:--|:--|
+| **Elementos:**           | RE22, IT04, TLS, CDS, FTF, BC, UC06, US22                       |
+| **Elos Backward-from:**  | Satisfação: RE22 - IT04: O requisito originou-se de uma Instrospecção. |
+| **Elos Forward-from:**   | Satisfação: RE22 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Satisfação: RE22 - CDS: O requisito recebeu um valor de $6 do Desenvolvedor e $4 do Usuário na técnica $100. <br> Satisfação: RE22 - FTF: O requisito recebeu uma pontuação de 1,80 no First Things First. <br> Agregação: RE22 - BC: O requisito e a US22 são classificados no Épico 3.2 do Backlog. <br> Satisfação: RE22 - US22: O requisito deu origem a US22.|
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/JoseFilipi">José Filpi</a>, 2024.</p>
+
+### RE23
+
+<div align="center">
+  <strong>Tabela 24 -</strong> Cartão do Requisito 23
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | RE23, ST03, TLS, CDS, FTF, BC, US23                         |
+| **Elos Backward-from:**  | Satisfação: RE23 - ST03: O requisito originou-se de um Storytelling. |
+| **Elos Forward-from:**   | Satisfação: RE23 - TLS: O requisito recebeu uma priorização Média no Three Level Scale. <br> Satisfação: RE23 - CDS: O requisito recebeu um valor de $6 do Desenvolvedor e $5 do Usuário na técnica $100. <br> Satisfação: RE23 - FTF: O requisito recebeu uma pontuação de 1,64 no First Things First. <br> Agregação: RE23 - BC: O requisito e a US23 são classificados no Épico 1.2 do Backlog. <br> Satisfação: RE23 - US23: O requisito deu origem a US23. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/JoseFilipi">José Filpi</a>, 2024.</p>
+
+### RE24
+
+<div align="center">
+  <strong>Tabela 25 -</strong> Cartão do Requisito 24
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | RE24, ST05, TLS, CDS, FTF, BC, US24, UC06                          |
+| **Elos Backward-from:**  | Satisfação: RE24 - ST05: O requisito originou-se de um Storytelling. |
+| **Elos Forward-from:**   | Satisfação: RE24 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Satisfação: RE24 - CDS: O requisito recebeu um valor de $2 do Desenvolvedor e $3 do Usuário na técnica $100. <br> Satisfação: RE24 - FTF: O requisito recebeu uma pontuação de 1,71 no First Things First. <br> Agregação: RE24 - BC: O requisito e a US24 são classificados no Épico 2.1 do Backlog. <br> Satisfação: RE24 - US24: O requisito deu origem a US24. <br> Agregação: RE24 - UC06: O requisito RE24 está no conjunto que deu origem ao caso de uso UC06.|
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/JoseFilipi">José Filpi</a>, 2024.</p>
+
+### RE25
+
+<div align="center">
+  <strong>Tabela 26 -</strong> Cartão do Requisito 25
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | RE25, ST06, TLS, CDS, FTF, BC, US25, UC06                         |
+| **Elos Backward-from:**  | Satisfação: RE25 - ST06: O requisito originou-se de um Storytelling. |
+| **Elos Forward-from:**   | Satisfação: RE25 - TLS: O requisito recebeu uma priorização Média no Three Level Scale. <br> Satisfação: RE25 - CDS: O requisito recebeu um valor de $3 do Desenvolvedor e $2 do Usuário na técnica $100. <br> Satisfação: RE25 - FTF: O requisito recebeu uma pontuação de 1,64 no First Things First. <br> Agregação: RE25 - BC: O requisito e a US25 são classificados no Épico 2.1 do Backlog. <br> Satisfação: RE25 - US25: O requisito deu origem a US25. <br> Agregação: RE25 - UC06: O requisito RE25 está no conjunto que deu origem ao caso de uso UC06. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/JoseFilipi">José Filpi</a>, 2024.</p>
+
+
 ## Referências Bibliográficas
 
 > <a id="RP1" href="#TEC1">1.</a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 21 jun. 2024.
