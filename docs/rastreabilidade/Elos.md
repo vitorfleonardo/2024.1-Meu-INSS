@@ -152,6 +152,24 @@ Legenda:
 
 <p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
 
+### RE06
+
+<div align="center">
+  <strong>Tabela 7 -</strong> Cartão do Requisito 06
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | BS06, UC04, CEN07                           |
+| **Elos Backward-from:**  | Agregação: RE06 - BS06: O requisito originou-se de um Brainstorm. |
+| **Elos Forward-from:**   | Satisfação: RE06 - UC04: O requisito RE06 deu origem ao caso de uso UC04. <br> Satisfação: RE06 - CEN07: O requisito RE06 contribui para o cenário CEN07. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 21 jun. 2024.
 
