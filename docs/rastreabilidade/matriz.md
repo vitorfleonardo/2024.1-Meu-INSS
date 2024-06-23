@@ -52,6 +52,8 @@
 | Requisito | Tipo  | Implementação | Versão | Elicitação |Priorizaçaõ | Modelagem | Elos |
 |---------------|------|--------|---------------|---------------|---------------|---------------|---------------|
 | RE01          | RF   | Sim | 1.1 | BS | TS | ES | EL01 |
+| RE01          | RF   | Sim | 1.1 | BS | TS | ES | EL01 |
+
 
 
 <p align="center">Autor: <a href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS">Todos</a></a>, 2024.</p>
