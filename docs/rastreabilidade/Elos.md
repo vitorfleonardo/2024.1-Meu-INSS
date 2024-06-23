@@ -170,6 +170,24 @@ Legenda:
 
 <p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
 
+### RE07
+
+<div align="center">
+  <strong>Tabela 8 -</strong> Cartão do Requisito 07
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | BS07, BS11, IT02, IT05, ST01, ST07, ENT10, QT02, QT05, CEN02                           |
+| **Elos Backward-from:**  | Agregação: RE07 - BS07, BS11, IT02, IT05, ST01, ST07, ENT10, QT02, QT05: O requisito originou-se de um Brainstorm, Introspecção, Storytelling, Entrevista e de um questionário. |
+| **Elos Forward-from:**   | Satisfação: RE07 - CEN02: O requisito RE07 contribui para o cenário CEN02. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 21 jun. 2024.
 
