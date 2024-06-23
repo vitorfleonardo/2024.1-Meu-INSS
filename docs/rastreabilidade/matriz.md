@@ -56,41 +56,10 @@
 
 <p align="center">Autor: <a href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS">Todos</a></a>, 2024.</p>
 
-## Cartões de Relacionamento dos Elos
-
-<div align="center">
-  <strong>Cartão 1 - RE01</strong>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>Categoria:</strong></td>
-      <td>Desenvolvimento</td>
-    </tr>
-    <tr>
-      <td><strong>Elementos:</strong></td>
-      <td>RE01, CS01, CE01, ENT01</td>
-    </tr>
-    <tr>
-      <td><strong>Elos Backward-from:</strong></td>
-      <td>Agregação: REQ01 - ENT01: O requisito originou-se da entrevista.</td>
-    </tr>
-    <tr>
-      <td><strong>Elos Forward-from:</strong></td>
-      <td>
-        Satisfação: RE01 - CS01: O requisito deu origem ao caso de uso.<br>
-        Satisfação: RE01 - CE01: O requisito deu origem ao cenário.
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">Autor: <a href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS">Todos</a>, 2024.</p>
-
 
 ## Bibliografia
 > </a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 18 jun. 2024.
+> </a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf](https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf).
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
