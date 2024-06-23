@@ -134,6 +134,24 @@ Legenda:
 
 <p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
 
+### RE05
+
+<div align="center">
+  <strong>Tabela 6 -</strong> Cartão do Requisito 05
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | BS05, QT08, CEN03                           |
+| **Elos Backward-from:**  | Agregação: RE05 - BS05, QT08: O requisito originou-se de um Brainstorm e de um Questionário. |
+| **Elos Forward-from:**   | Satisfação: RE05 - UCN03: O requisito RE05 contribui para o cenário CEN03. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 21 jun. 2024.
 
