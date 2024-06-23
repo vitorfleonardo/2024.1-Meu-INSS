@@ -242,6 +242,78 @@ Legenda:
 
 <p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
 
+### RE11
+
+<div align="center">
+  <strong>Tabela 12 -</strong> Cartão do Requisito 11
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | ENT15, UC08, UC10                          |
+| **Elos Backward-from:**  | Agregação: RE11 - ENT15: O requisito originou-se de uma Entrevista. |
+| **Elos Forward-from:**   | Satisfação: RE11 - UC08, UC10: O requisito RE11 deu origem aos casos de uso UC08 e UC10. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
+### RE12
+
+<div align="center">
+  <strong>Tabela 13 -</strong> Cartão do Requisito 12
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | BS10, QT01, CEN01                          |
+| **Elos Backward-from:**  | Agregação: RE12 - BS10, QT01: O requisito originou-se de um Brainstorm e de um Questionário. |
+| **Elos Forward-from:**   | Satisfação: RE12 - CEN01: O requisito RE12 contribui para o cenário CEN01. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
+### RE13
+
+<div align="center">
+  <strong>Tabela 14 -</strong> Cartão do Requisito 13
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | ENT01, UC09                          |
+| **Elos Backward-from:**  | Agregação: RE13 - ENT01: O requisito originou-se de uma Entrevista. |
+| **Elos Forward-from:**   | Satisfação: RE13 - UC09: O requisito RE13 deu origem ao caso de uso UC09. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
+### RE14
+
+<div align="center">
+  <strong>Tabela 15 -</strong> Cartão do Requisito 14
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | ENT02, UC07, CEN02, CEN04                          |
+| **Elos Backward-from:**  | Agregação: RE14 - ENT02: O requisito originou-se de uma Entrevista. |
+| **Elos Forward-from:**   | Satisfação: RE14 - UC07: O requisito RE14 deu origem ao caso de uso UC07. <br> Satisfação: RE14 - CEN02, CEN04: O requisito RE14 contribui para os cenários CEN02 e CEN04. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 21 jun. 2024.
 
