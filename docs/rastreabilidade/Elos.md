@@ -397,7 +397,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | RE19, ENT13, TLS, CDS, FTF, UC10, BC, US19,                         |
+| **Elementos:**           | RE19, ENT13,   , UC10, BC, US19,                         |
 | **Elos Backward-from:**  | Satisfação: RE19 - ENT13: O requisito originou-se de uma Entrevista. |
 | **Elos Forward-from:**   | Agregação: RE19 - UC10: O requisito RE19 está no conjunto que deu origem ao caso de uso UC10. <br> Satisfação: RE19 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Satisfação: RE19 - CDS: O requisito recebeu um valor de $4 do Desenvolvedor e $2 do Usuário na técnica $100. <br> Satisfação: RE19 - FTF: O requisito recebeu uma pontuação de 1,69 no First Things First. <br> Agregação: RE19 - BC: O requisito e a US19 são classificados no Épico 2.1 do Backlog. <br> Satisfação: RE19 - US19: O requisito foi utilizado para produzir a História de Usuário 19.|
 

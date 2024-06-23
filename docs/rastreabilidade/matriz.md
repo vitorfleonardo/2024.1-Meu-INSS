@@ -51,10 +51,13 @@
 
 | Requisito | Tipo  | Implementação | Versão | Elicitação |Priorizaçaõ | Modelagem | Elos |
 |---------------|------|--------|---------------|---------------|---------------|---------------|---------------|
-| RE01          | RF   | Sim | 1.1 | BS | TS | ES | EL01 |
-| RE01          | RF   | Sim | 1.1 | BS | TS | ES | EL01 |
-
-
+| RE19          | RF   | Não | 1.0 | ENT | TLS, CDS, FTF | CS, BC, HU | C19 |
+| RE20          | RF   | Sim | 1.0 | IT | TLS, CDS, FTF | BC, HU | C20 |
+| RE21          | RF   | Sim | 1.0 | IT | TLS, CDS, FTF | CS, BC, HU | C21 |
+| RE22          | RF   | Sim | 1.0 | IT | TLS, CDS, FTF | CS, BC, HU | C22 |
+| RE23          | RF   | Sim | 1.0 | ST | TLS, CDS, FTF | BC, HU | C23 |
+| RE24          | RF   | Sim | 1.0 | ST | TLS, CDS, FTF | CS, BC, HU | C24 |
+| RE25          | RF   | Sim | 1.0 | ST | TLS, CDS, FTF | CS, BC, HU | C25 |
 
 <p align="center">Autor: <a href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS">Todos</a></a>, 2024.</p>
 
