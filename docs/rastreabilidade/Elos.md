@@ -115,6 +115,25 @@ Legenda:
 </center>
 
 <p align="center">Autor: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
+
+### RE04
+
+<div align="center">
+  <strong>Tabela 5 -</strong> Cartão do Requisito 04
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | RE04, BS04, BS13, ENT05, ST08, QT08, UC04, CEN03                           |
+| **Elos Backward-from:**  | Agregação: RE04 - BS04, BS13, ENT05, ST08, QT08: O requisito originou-se de um Brainstorm, Entrevista, Storytelling e de um Questionário. |
+| **Elos Forward-from:**   | Satisfação: RE04 - UC04: O requisito RE04 deu origem ao caso de uso UC04. <br> Satisfação: RE03 - CEN03: O requisito RE04 contribui para o cenário CEN03. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 21 jun. 2024.
 
