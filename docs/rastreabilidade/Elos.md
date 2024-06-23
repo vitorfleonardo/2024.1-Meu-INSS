@@ -333,6 +333,78 @@ Legenda:
 
 <p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
 
+### RE16
+
+<div align="center">
+  <strong>Tabela 17 -</strong> Cartão do Requisito 16
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | ENT04, ENT08, CEN02                          |
+| **Elos Backward-from:**  | Agregação: RE16 - ENT04, ENT08: O requisito originou-se de uma Entrevista. |
+| **Elos Forward-from:**   | Satisfação: RE16 - CEN02: O requisito RE16 contribui para o cenário CEN02. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
+### RE17
+
+<div align="center">
+  <strong>Tabela 18 -</strong> Cartão do Requisito 17
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | ENT06, IT07, UC02                          |
+| **Elos Backward-from:**  | Agregação: RE17 - ENT06, IT07: O requisito originou-se de uma Entrevista e uma Introspecção. |
+| **Elos Forward-from:**   | Satisfação: RE17 - UC02: O requisito RE17 deu origem ao caso de uso UC02. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
+### RE17
+
+<div align="center">
+  <strong>Tabela 19 -</strong> Cartão do Requisito 18
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | ENT06, IT07, UC02, CEN05                          |
+| **Elos Backward-from:**  | Agregação: RE17 - ENT06, IT07: O requisito originou-se de uma Entrevista e uma Introspecção. |
+| **Elos Forward-from:**   | Satisfação: RE17 - UC02: O requisito RE17 deu origem ao caso de uso UC02. <br> Satisfação: RE17 - CEN05: O requisito RE17 contribui para o cenário CEN05.|
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
+### RE18
+
+<div align="center">
+  <strong>Tabela 20 -</strong> Cartão do Requisito 19
+</div>
+
+<center>
+
+| **Categoria:**           | Desenvolvimento                                   |
+|:--|:--|
+| **Elementos:**           | ENT12, UC10                         |
+| **Elos Backward-from:**  | Agregação: RE18 - ENT12: O requisito originou-se de uma Entrevista. |
+| **Elos Forward-from:**   | Satisfação: RE18 - UC10: O requisito RE18 deu origem ao caso de uso UC10. |
+
+</center>
+
+<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+
 ## Referências Bibliográficas
 
 > <a id="RP1" href="#TEC1">1.</a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 21 jun. 2024.
