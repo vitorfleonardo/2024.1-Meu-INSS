@@ -310,7 +310,7 @@ Legenda:
 |:--|:--|
 | **Elementos:**           | [RE14](../../elicitacao/requisitosElicitados), [ENT02](../../elicitacao/entrevista), [UC07](../../modelagem/useCase), [CEN02](../../modelagem/cenarios), [CEN04](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | Agregação: RE14 - ENT02: O requisito originou-se de uma Entrevista. |
-| **Elos Forward-from:**   | Satisfação: RE14 - UC07: O requisito RE14 deu origem ao caso de uso UC07. <br> Satisfação: RE14 - CEN02, CEN04: O requisito RE14 contribui para os cenários CEN02 e CEN04. <br> Satisfação: RE14 - CDS: O requisito recebeu uma pontuação $9 do Desenvolvedor e $5 do Usuário na técnica $100. <br> Satisfação: RE14 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. |
+| **Elos Forward-from:**   | Satisfação: RE14 - UC07: O requisito RE14 deu origem ao caso de uso UC07. <br> Satisfação: RE14 - CEN02, CEN04: O requisito RE14 contribui para os cenários CEN02 e CEN04. <br> Satisfação: RE14 - CDS: O requisito recebeu uma pontuação 9 do Desenvolvedor e 5 do Usuário na técnica $100. <br> Satisfação: RE14 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Representação: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE14.jpeg). |
 
 </center>
 
@@ -526,7 +526,7 @@ Legenda:
 |:--|:--|
 | **Elementos:**           | [RE26](../../elicitacao/requisitosElicitados), [ST09](../../elicitacao/storytelling), [UC12](../../modelagem/useCase), [CEN08](../../modelagem/cenarios), [US26](../../modelagem/Agil/historia_de_usuario)          |
 | **Elos Backward-from:**  | Agregação: RE26 - ST09: O requisito originou-se da técnica de Storytelling. |
-| **Elos Forward-from:**   | Satisfação: RE26 - UC12: O caso de uso (UC12) pode ser visto como uma forma de satisfazer o requisito (RE26). <br> Responsabilidade: RE26 - CEN08: O Cenário (CEN08) detalha a participação e ação dos advogados sobre os processos dos clientes (RE26). <br> Satisfação: RE26 - US26: A história de usuário (US26) pode ser vista como uma expressão de satisfação do requisito (RE26). <br> |
+| **Elos Forward-from:**   | Satisfação: RE26 - UC12: O caso de uso (UC12) pode ser visto como uma forma de satisfazer o requisito (RE26). <br> Responsabilidade: RE26 - CEN08: O Cenário (CEN08) detalha a participação e ação dos advogados sobre os processos dos clientes (RE26). <br> Satisfação: RE26 - US26: A história de usuário (US26) pode ser vista como uma expressão de satisfação do requisito (RE26). <br> Representação: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE26.jpeg). |
 
 </center>
 
