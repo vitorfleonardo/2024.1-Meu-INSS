@@ -494,6 +494,55 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
+## Entrega 6 - Pós-Rastreabilidade - Data de Entrega:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Pós-Rastreabilidade</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsáveis</th>
+      <th>Início</th>
+      <th>Término</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Elos</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>12/06</td>
+      <td>24/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Pós-rastreabilidade: Matriz Geral	</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>12/06</td>
+      <td>24/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    <tr>
+      <td>Gravação da apresentação e entrega</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+      <td>23/06</td>
+      <td>24/06</td>
+      <td><a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/JohnnyLopess">Johnny</a>, <a href="https://github.com/paulohborba">Paulo</a></td>
+    </tr>
+    <tr>
+      <td>Correção pós apresentação</td>
+      <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+      <td>25/06</td>
+      <td>30/06</td>
+      <td><a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+</div>
+
 ## Bibliografia
 
 
@@ -512,4 +561,5 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 | `1.4`  | 21/04/2024 | Correções no cronograma executado.| [Johnny Lopes](https://github.com/JohnnyLopess) | 21/04/2024 |[Amanda Campos](https://github.com/acamposs) |
 | `1.5`  | 20/05/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 20/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.6`  | 27/05/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 27/05/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
-| `1.6`  | 10/06/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.7`  | 10/06/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.8`  | 24/06/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 24/06/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
