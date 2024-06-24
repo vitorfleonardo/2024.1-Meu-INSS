@@ -76,7 +76,7 @@ Legenda:
 |:--|:--|
 | **Elementos:**           | [RE01](../../elicitacao/requisitosElicitados), [BS01](../../elicitacao/brainStorm), [ST02](../../elicitacao/storytelling), [QT01](../../elicitacao/questionario), [UC01](../../modelagem/useCase), [CEN01](../../modelagem/cenarios), [US01](../../modelagem/Agil/historia_de_usuario)|
 | **Elos Backward-from:**  | Agregação: RE01 - BS01, ST02, QT01: O requisito originou-se de um Brainstorm, storytelling e de um questionário. |
-| **Elos Forward-from:**   | **Satisfação**: RE01 - UC01: O caso de uso (UC01) satisfaz o requisito (RE01) ao descrever o processo de login unificado pelo gov.br. <br> Recurso: RE01 - CEN01: O cenário detalha os recursos necessários para que o usuário realize o login unificado pelo gov.br, conforme requerido pelo RE01. <br> **Satisfação**: RE01 - US01: A história de usuário (US01) satisfaz o requisito (RE01) ao especificar a necessidade de login seguro e integrado pelo gov.br.|
+| **Elos Forward-from:**   | **Satisfação**: RE01 - UC01: O caso de uso (UC01) satisfaz o requisito (RE01) ao descrever o processo de login unificado pelo gov.br. <br> Recurso: RE01 - CEN01: O cenário detalha os recursos necessários para que o usuário realize o login unificado pelo gov.br, conforme requerido pelo RE01. <br> **Satisfação**: RE01 - US01: A história de usuário (US01) satisfaz o requisito (RE01) ao especificar a necessidade de login seguro e integrado pelo gov.br. <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE01.jpeg). |
 
 </center>
 
