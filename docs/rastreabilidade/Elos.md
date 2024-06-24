@@ -128,7 +128,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | RE04, BS04, BS13, ENT05, ST08, QT08, UC04, CEN03                           |
+| **Elementos:**           | [RE04](../../elicitacao/requisitosElicitados), [BS04](../../elicitacao/brainStorm), [BS13](../../elicitacao/brainStorm), [ENT05](../../elicitacao/entrevista), [ST08](../../elicitacao/storytelling), [QT08](../../elicitacao/questionario), [UC04](../../modelagem/useCase), [CEN03](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | Agregação: RE04 - BS04, BS13, ENT05, ST08, QT08: O requisito originou-se de um Brainstorm, Entrevista, Storytelling e de um Questionário. |
 | **Elos Forward-from:**   | Satisfação: RE04 - UC04: O requisito RE04 deu origem ao caso de uso UC04. <br> Satisfação: RE03 - CEN03: O requisito RE04 contribui para o cenário CEN03. |
 
@@ -146,7 +146,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | BS05, QT08, CEN03                           |
+| **Elementos:**           | [RE05](../../elicitacao/requisitosElicitados), [BS05](../../elicitacao/brainStorm), [QT08](../../elicitacao/questionario), [CEN03](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | Agregação: RE05 - BS05, QT08: O requisito originou-se de um Brainstorm e de um Questionário. |
 | **Elos Forward-from:**   | Satisfação: RE05 - UCN03: O requisito RE05 contribui para o cenário CEN03. |
 
@@ -164,7 +164,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | BS06, UC04, CEN07                           |
+| **Elementos:**           | [RE06](../../elicitacao/requisitosElicitados), [BS06](../../elicitacao/brainStorm), [UC04](../../modelagem/useCase), [CEN07](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | Agregação: RE06 - BS06: O requisito originou-se de um Brainstorm. |
 | **Elos Forward-from:**   | Satisfação: RE06 - UC04: O requisito RE06 deu origem ao caso de uso UC04. <br> Satisfação: RE06 - CEN07: O requisito RE06 contribui para o cenário CEN07. |
 
@@ -182,7 +182,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | BS07, BS11, IT02, IT05, ST01, ST07, ENT10, QT02, QT05, CEN02                           |
+| **Elementos:**           | [RE07](../../elicitacao/requisitosElicitados), [BS07](../../elicitacao/brainStorm), [BS11](../../elicitacao/brainStorm), [IT02](../../elicitacao/Introspeccao), [IT05](../../elicitacao/Introspeccao), [ST01](../../elicitacao/storytelling), [ST07](../../elicitacao/storytelling), [ENT10](../../elicitacao/entrevista), [QT02](../../elicitacao/questionario), [QT05](../../elicitacao/questionario), [CEN02](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | Agregação: RE07 - BS07, BS11, IT02, IT05, ST01, ST07, ENT10, QT02, QT05: O requisito originou-se de um Brainstorm, Introspecção, Storytelling, Entrevista e de um questionário. |
 | **Elos Forward-from:**   | Satisfação: RE07 - CEN02: O requisito RE07 contribui para o cenário CEN02. |
 
@@ -200,7 +200,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | BS08, BS12, IT06, ENT07, ST20, QT02, QT03, UC07, UC11                           |
+| **Elementos:**           | [RE08](../../elicitacao/requisitosElicitados), [BS08](../../elicitacao/brainStorm), [BS12](../../elicitacao/brainStorm), [IT06](../../elicitacao/Introspeccao), [ENT07](../../elicitacao/entrevista), [ST20](../../elicitacao/storytelling), [QT02](../../elicitacao/questionario), [QT03](../../elicitacao/questionario), [UC07](../../modelagem/useCase), [UC11](../../modelagem/useCase) |
 | **Elos Backward-from:**  | Agregação: RE08 - BS08, BS12, IT06, ENT07, ST20, QT02, QT03: O requisito originou-se de um Brainstorm, Introspecção, Storytelling, Entrevista e de um questionário. |
 | **Elos Forward-from:**   | Satisfação: RE08 - UC08, UC11: O requisito RE08 deu origem aos casos de uso UC08 e UC11. |
 
@@ -218,7 +218,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | BS09, ENT11, ENT08, QT02, UC08                           |
+| **Elementos:**           | [RE09](../../elicitacao/requisitosElicitados), [BS09](../../elicitacao/brainStorm), [ENT11](../../elicitacao/entrevista), [ENT08](../../elicitacao/entrevista), [QT02](../../elicitacao/questionario), [UC08](../../modelagem/useCase) |
 | **Elos Backward-from:**  | Agregação: RE09 - BS09, ENT11, ENT08, QT02: O requisito originou-se de um Brainstorm, Entrevista e de um questionário. |
 | **Elos Forward-from:**   | Satisfação: RE09 - UC08: O requisito RE09 deu origem ao caso de uso UC08. |
 
@@ -236,7 +236,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | ENT14, UC08                           |
+| **Elementos:**           | [RE10](../../elicitacao/requisitosElicitados), [ENT14](../../elicitacao/entrevista), [UC08](../../modelagem/useCase)                           |
 | **Elos Backward-from:**  | Agregação: RE10 - ENT14: O requisito originou-se de uma Entrevista. |
 | **Elos Forward-from:**   | Satisfação: RE10 - UC08: O requisito RE10 deu origem ao caso de uso UC08. |
 
@@ -254,7 +254,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | ENT15, UC08, UC10                          |
+| **Elementos:**           | [RE11](../../elicitacao/requisitosElicitados), [ENT15](../../elicitacao/entrevista), [UC08](../../modelagem/useCase), [UC10](../../modelagem/useCase) |
 | **Elos Backward-from:**  | Agregação: RE11 - ENT15: O requisito originou-se de uma Entrevista. |
 | **Elos Forward-from:**   | Satisfação: RE11 - UC08, UC10: O requisito RE11 deu origem aos casos de uso UC08 e UC10. |
 
@@ -272,7 +272,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | BS10, QT01, CEN01                          |
+| **Elementos:**           | [RE12](../../elicitacao/requisitosElicitados), [BS10](../../elicitacao/brainStorm), [QT01](../../elicitacao/questionario), [CEN01](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | Agregação: RE12 - BS10, QT01: O requisito originou-se de um Brainstorm e de um Questionário. |
 | **Elos Forward-from:**   | Satisfação: RE12 - CEN01: O requisito RE12 contribui para o cenário CEN01. |
 
@@ -290,7 +290,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | ENT01, UC09                          |
+| **Elementos:**           | [RE13](../../elicitacao/requisitosElicitados), [ENT01](../../elicitacao/entrevista), [UC09](../../modelagem/useCase)                          |
 | **Elos Backward-from:**  | Agregação: RE13 - ENT01: O requisito originou-se de uma Entrevista. |
 | **Elos Forward-from:**   | Satisfação: RE13 - UC09: O requisito RE13 deu origem ao caso de uso UC09. |
 
@@ -308,7 +308,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | ENT02, UC07, CEN02, CEN04                          |
+| **Elementos:**           | [RE14](../../elicitacao/requisitosElicitados), [ENT02](../../elicitacao/entrevista), [UC07](../../modelagem/useCase), [CEN02](../../modelagem/cenarios), [CEN04](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | Agregação: RE14 - ENT02: O requisito originou-se de uma Entrevista. |
 | **Elos Forward-from:**   | Satisfação: RE14 - UC07: O requisito RE14 deu origem ao caso de uso UC07. <br> Satisfação: RE14 - CEN02, CEN04: O requisito RE14 contribui para os cenários CEN02 e CEN04. |
 
@@ -326,7 +326,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | ENT03, UC06, UC07, UC09, CEN04                          |
+| **Elementos:**           | [RE15](../../elicitacao/requisitosElicitados), [ENT03](../../elicitacao/entrevista), [UC06](../../modelagem/useCase), [UC07](../../modelagem/useCase), [UC09](../../modelagem/useCase), [CEN04](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | Agregação: RE15 - ENT03: O requisito originou-se de uma Entrevista. |
 | **Elos Forward-from:**   | Satisfação: RE15 - UC06, UC07, UC09: O requisito RE15 deu origem aos casos de uso UC06, UC07, UC09. <br> Satisfação: RE15 - CEN04: O requisito RE15 contribui para o cenário CEN04. |
 
@@ -344,7 +344,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | ENT04, ENT08, CEN02                          |
+| **Elementos:**           | [RE16](../../elicitacao/requisitosElicitados), [ENT04](../../elicitacao/entrevista), [ENT08](../../elicitacao/entrevista), [CEN02](../../modelagem/cenarios)                          |
 | **Elos Backward-from:**  | Agregação: RE16 - ENT04, ENT08: O requisito originou-se de uma Entrevista. |
 | **Elos Forward-from:**   | Satisfação: RE16 - CEN02: O requisito RE16 contribui para o cenário CEN02. |
 
@@ -362,7 +362,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | ENT06, IT07, UC02, CEN05                          |
+| **Elementos:**           | [RE17](../../elicitacao/requisitosElicitados), [ENT06](../../elicitacao/entrevista), [IT07](../../elicitacao/Introspeccao), [UC02](../../modelagem/useCase), [CEN05](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | Agregação: RE17 - ENT06, IT07: O requisito originou-se de uma Entrevista e uma Introspecção. |
 | **Elos Forward-from:**   | Satisfação: RE17 - UC02: O requisito RE17 deu origem ao caso de uso UC02. <br> Satisfação: RE17 - CEN05: O requisito RE17 contribui para o cenário CEN05.|
 
@@ -380,7 +380,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | ENT12, UC10                         |
+| **Elementos:**           | [RE18](../../elicitacao/requisitosElicitados), [ENT12](../../elicitacao/entrevista), [UC10](../../modelagem/useCase)                         |
 | **Elos Backward-from:**  | Agregação: RE18 - ENT12: O requisito originou-se de uma Entrevista. |
 | **Elos Forward-from:**   | Satisfação: RE18 - UC10: O requisito RE18 deu origem ao caso de uso UC10. |
 
@@ -826,4 +826,4 @@ Legenda:
 | `1.0` | 21/06/2024  | Criação da página | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  |
 | `1.1` | 23/06/2024  | Adicionando informações na página | [Paulo Borba](https://github.com/paulohborba) | 23/06/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.2` | 23/06/2024  | Adicionando Elos. | [Johnny Lopes](https://github.com/JohnnyLopess) | 23/06/2024 | [Amanda Campos](https://github.com/acamposs)  |
-| `1.3` | 23/06/2024  | Adicionando Elos. | [Amanda Campos](https://github.com/acamposs) |  |  |
+| `1.3` | 23/06/2024  | Adicionando Elos. | [Amanda Campos](https://github.com/acamposs) | 23/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00) |
