@@ -398,7 +398,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | RE19, (../../elicitacao/requisitosElicitados)ENT13,   , UC10, BC, US19,                         |
+| **Elementos:**           | [RE19](../../elicitacao/requisitosElicitados), [ENT13](../../elicitacao/entrevista), [UC10](../../modelagem/useCase), [BC](../../modelagem/Agil/backlog), [US19](../../modelagem/Agil/historia_de_usuario)                   |
 | **Elos Backward-from:**  | Satisfação: RE19 - ENT13: O requisito originou-se de uma Entrevista. |
 | **Elos Forward-from:**   | Agregação: RE19 - UC10: O requisito RE19 está no conjunto que deu origem ao caso de uso UC10. <br> Satisfação: RE19 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Satisfação: RE19 - CDS: O requisito recebeu um valor de $4 do Desenvolvedor e $2 do Usuário na técnica $100. <br> Satisfação: RE19 - FTF: O requisito recebeu uma pontuação de 1,69 no First Things First. <br> Agregação: RE19 - BC: O requisito e a US19 são classificados no Épico 2.1 do Backlog. <br> Satisfação: RE19 - US19: O requisito foi utilizado para produzir a História de Usuário 19.|
 
@@ -416,7 +416,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | RE20, IT01, TLS, CDS, FTF, BC, US20                         |
+| **Elementos:**           | [RE20](../../elicitacao/requisitosElicitados), [IT01](../../elicitacao/Introspeccao), [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things), [BC](../../modelagem/Agil/backlog), [US20](../../modelagem/Agil/historia_de_usuario)                        |
 | **Elos Backward-from:**  | Satisfação: RE20 - IT01: O requisito originou-se de uma Instrospecção. |
 | **Elos Forward-from:**   | Satisfação: RE20 - TLS: O requisito recebeu uma priorização Média no Three Level Scale. <br> Satisfação: RE20 - CDS: O requisito recebeu um valor de $6 do Desenvolvedor e $4 do Usuário na técnica $100. <br> Satisfação: RE20 - FTF: O requisito recebeu uma pontuação de 1,40 no First Things First. <br> Agregação: RE20 - BC: O requisito e a US20 são classificados no Épico 1.1 do Backlog. <br> Satisfação: RE20 - US20: O requisito foi utilizado para produzir a História de Usuário 20.|
 
@@ -434,7 +434,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | RE21, IT03, TLS, CDS, FTF, UC04, UC05, BC, US21.1, US21.2, US21.3                         |
+| **Elementos:**           | [RE21](../../elicitacao/requisitosElicitados), [IT03](../../elicitacao/Introspeccao),[TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things), [UC04](../../modelagem/useCase), [UC05](../../modelagem/useCase), [BC](../../modelagem/Agil/backlog), [US21.1](../../modelagem/Agil/historia_de_usuario), [US21.2](../../modelagem/Agil/historia_de_usuario), [US21.3](../../modelagem/Agil/historia_de_usuario)                       |
 | **Elos Backward-from:**  | Satisfação: RE21 - IT03: O requisito originou-se de uma Introspecção. |
 | **Elos Forward-from:**   | Satisfação: RE21 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Satisfação: RE21 - CDS: O requisito recebeu um valor de $4 do Desenvolvedor e $2 do Usuário na técnica $100. <br> Satisfação: RE21 - FTF: O requisito recebeu uma pontuação de 1,44 no First Things First. <br> Agregação: RE21 - BC: O requisito e as US21.1, US21.2 e US21.3 são classificados no Épico 2.2 do Backlog. <br> Agregação: RE21 - UC04: O requisito RE21 está no conjunto que deu origem ao caso de uso UC04. <br> Agregação: RE21 - UC05: O requisito RE21 está no conjunto que deu origem ao caso de uso UC05. <br> Satisfação: RE21 - US21.N: O requisito deu origem às US21.N.|
 
@@ -452,7 +452,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                 |
 |:--|:--|
-| **Elementos:**           | RE22, IT04, TLS, CDS, FTF, BC, UC06, US22                       |
+| **Elementos:**           | [RE22](../../elicitacao/requisitosElicitados), [IT04](../../elicitacao/Introspeccao),[TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things), [BC](../../modelagem/Agil/backlog), [UC06](../../modelagem/useCase), [US22](../../modelagem/Agil/historia_de_usuario)                       |
 | **Elos Backward-from:**  | Satisfação: RE22 - IT04: O requisito originou-se de uma Instrospecção. |
 | **Elos Forward-from:**   | Satisfação: RE22 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Satisfação: RE22 - CDS: O requisito recebeu um valor de $6 do Desenvolvedor e $4 do Usuário na técnica $100. <br> Satisfação: RE22 - FTF: O requisito recebeu uma pontuação de 1,80 no First Things First. <br> Agregação: RE22 - BC: O requisito e a US22 são classificados no Épico 3.2 do Backlog. <br> Satisfação: RE22 - US22: O requisito deu origem a US22.|
 
@@ -470,7 +470,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | RE23, ST03, TLS, CDS, FTF, BC, US23                         |
+| **Elementos:**           | [RE23](../../elicitacao/requisitosElicitados), [ST03](../../elicitacao/storytelling), [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things), [BC](../../modelagem/Agil/backlog), [US23](../../modelagem/Agil/historia_de_usuario)                          |
 | **Elos Backward-from:**  | Satisfação: RE23 - ST03: O requisito originou-se de um Storytelling. |
 | **Elos Forward-from:**   | Satisfação: RE23 - TLS: O requisito recebeu uma priorização Média no Three Level Scale. <br> Satisfação: RE23 - CDS: O requisito recebeu um valor de $6 do Desenvolvedor e $5 do Usuário na técnica $100. <br> Satisfação: RE23 - FTF: O requisito recebeu uma pontuação de 1,64 no First Things First. <br> Agregação: RE23 - BC: O requisito e a US23 são classificados no Épico 1.2 do Backlog. <br> Satisfação: RE23 - US23: O requisito deu origem a US23. |
 
@@ -488,7 +488,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | RE24, ST05, TLS, CDS, FTF, BC, US24, UC06                          |
+| **Elementos:**           | [RE24](../../elicitacao/requisitosElicitados), [ST05](../../elicitacao/storytelling), [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things), [BC](../../modelagem/Agil/backlog), [US24](../../modelagem/Agil/historia_de_usuario), [UC06](../../modelagem/useCase)                         |
 | **Elos Backward-from:**  | Satisfação: RE24 - ST05: O requisito originou-se de um Storytelling. |
 | **Elos Forward-from:**   | Satisfação: RE24 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Satisfação: RE24 - CDS: O requisito recebeu um valor de $2 do Desenvolvedor e $3 do Usuário na técnica $100. <br> Satisfação: RE24 - FTF: O requisito recebeu uma pontuação de 1,71 no First Things First. <br> Agregação: RE24 - BC: O requisito e a US24 são classificados no Épico 2.1 do Backlog. <br> Satisfação: RE24 - US24: O requisito deu origem a US24. <br> Agregação: RE24 - UC06: O requisito RE24 está no conjunto que deu origem ao caso de uso UC06.|
 
@@ -506,7 +506,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | RE25, ST06, TLS, CDS, FTF, BC, US25, UC06                         |
+| **Elementos:**           | [RE25](../../elicitacao/requisitosElicitados), [ST06](../../elicitacao/storytelling), [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things), [BC](../../modelagem/Agil/backlog), [US25](../../modelagem/Agil/historia_de_usuario), [UC06](../../modelagem/useCase)                         |
 | **Elos Backward-from:**  | Satisfação: RE25 - ST06: O requisito originou-se de um Storytelling. |
 | **Elos Forward-from:**   | Satisfação: RE25 - TLS: O requisito recebeu uma priorização Média no Three Level Scale. <br> Satisfação: RE25 - CDS: O requisito recebeu um valor de $3 do Desenvolvedor e $2 do Usuário na técnica $100. <br> Satisfação: RE25 - FTF: O requisito recebeu uma pontuação de 1,64 no First Things First. <br> Agregação: RE25 - BC: O requisito e a US25 são classificados no Épico 2.1 do Backlog. <br> Satisfação: RE25 - US25: O requisito deu origem a US25. <br> Agregação: RE25 - UC06: O requisito RE25 está no conjunto que deu origem ao caso de uso UC06. |
 
@@ -707,7 +707,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | [RE36](../../elicitacao/requisitosElicitados), [ENT17](../../elicitacao/entrevista), [US36](../../modelagem/Agil/historia_de_usuario), [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [ES(RR002, RR003, RR006, RR007, RR008, RP003, RP004, RP006, RP007, RP008, RP009, RS006, +Im002, +Im005)](../../modelagem/specSuplementar)                    |
+| **Elementos:**           | [RE36](../../elicitacao/requisitosElicitados), [ENT17](../../elicitacao/entrevista), [US36](../../modelagem/Agil/historia_de_usuario), [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$),[BC](../../modelagem/Agil/backlog), [ES(RR002, RR003, RR006, RR007, RR008, RP003, RP004, RP006, RP007, RP008, RP009, RS006, +Im002, +Im005)](../../modelagem/specSuplementar)                    |
 | **Elos Backward-from:**  | Agregação: RE36 - ENT17: O requisito originou-se da Entrevista.|
 | **Elos Forward-from:**   | Satisfação: RE36 - US36: A história de usuário (US36) especifica uma necessidade do usuário que será satisfeita pelo requisito (RE36) <br> Satisfação: RE36 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale.  <br> Satisfação: RE36 - CDS: O requisito recebeu um valor de $2 do Desenvolvedor e $2 do Usuário na técnica $100. <br>  Satisfação: RE36 - ES(RR002, RR003, RR006, RR007, RR008, RP003, RP004, RP006, RP007, RP008, RP009, RS006, +Im002, +Im005): As especificações suplementares fornecem critérios e detalhes que satisfazem o requisito de acessibilidade (RE36). |
 
@@ -726,7 +726,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | [RE37](../../elicitacao/requisitosElicitados), [ENT18](../../elicitacao/entrevista), [ENT22](../../elicitacao/entrevista),  [US37](../../modelagem/Agil/historia_de_usuario), [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [ES(RU001, RU005, RU006, RU017, RP001, RP002, RP003, +In001,+In003)](../../modelagem/specSuplementar)                     |
+| **Elementos:**           | [RE37](../../elicitacao/requisitosElicitados), [ENT18](../../elicitacao/entrevista), [ENT22](../../elicitacao/entrevista),  [US37](../../modelagem/Agil/historia_de_usuario), [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [BC](../../modelagem/Agil/backlog), [ES(RU001, RU005, RU006, RU017, RP001, RP002, RP003, +In001,+In003)](../../modelagem/specSuplementar)                     |
 | **Elos Backward-from:**  | Agregação: RE37 - ENT18 e ENT22: O requisito originou-se da Entrevista. |
 | **Elos Forward-from:**   | Satisfação: RE37 - US37: A história de usuário (US37) especifica uma necessidade do usuário que será satisfeita pelo requisito (RE37) <br> Satisfação: RE37 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale.  <br> Satisfação: RE37 - CDS: O requisito recebeu um valor de $3 do Desenvolvedor e $7 do Usuário na técnica $100. <br>  Satisfação: RE37 - ES(RU001, RU005, RU006, RU017, RP001, RP002, RP003, +In001,+In003): As especificações suplementares fornecem critérios e detalhes que satisfazem o requisito de acessibilidade (RE37). |
 
@@ -744,7 +744,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | [RE38](../../elicitacao/requisitosElicitados), [IT11](../../elicitacao/Introspeccao), [QT06](../../elicitacao/questionario),[US38](../../modelagem/Agil/historia_de_usuario), [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [ES(RU003, RU004, RU007, RU018, RU019, +In002)](../../modelagem/specSuplementar)                          |
+| **Elementos:**           | [RE38](../../elicitacao/requisitosElicitados), [IT11](../../elicitacao/Introspeccao), [QT06](../../elicitacao/questionario),[US38](../../modelagem/Agil/historia_de_usuario), [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [BC](../../modelagem/Agil/backlog), [ES(RU003, RU004, RU007, RU018, RU019, +In002)](../../modelagem/specSuplementar)                          |
 | **Elos Backward-from:**  | RE38 - IT11: O requisito originou-se da técnica de Introspecção. <br> Agregação: RE38 - QT06: O requisito originou-se da técnica de Questionário. |
 | **Elos Forward-from:**   | Satisfação: RE38 - US38: A história de usuário (US38) especifica uma necessidade do usuário que será satisfeita pelo requisito (RE38) <br> Satisfação: RE38 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale.  <br> Satisfação: RE38 - CDS: O requisito recebeu um valor de $2 do Desenvolvedor e $2 do Usuário na técnica $100. <br>  Satisfação: RE38 - ES(RU003, RU004, RU007, RU018, RU019, +In002): As especificações suplementares fornecem critérios e detalhes que satisfazem o requisito de acessibilidade (RE38).  |
 
@@ -762,7 +762,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           |  [RE39](../../elicitacao/requisitosElicitados),[BS23](../../elicitacao/brainStorm), [ENT19](../../elicitacao/entrevista), [IT12](../../elicitacao/Introspeccao), [ST15](../../elicitacao/storytelling), [QT07](../../elicitacao/questionario), [US29](../../modelagem/Agil/historia_de_usuario),[US39](../../modelagem/Agil/historia_de_usuario) [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [ES(RR004, +Im001,+Im003,+Im004)](../../modelagem/specSuplementar)                        |
+| **Elementos:**           |  [RE39](../../elicitacao/requisitosElicitados),[BS23](../../elicitacao/brainStorm), [ENT19](../../elicitacao/entrevista), [IT12](../../elicitacao/Introspeccao), [ST15](../../elicitacao/storytelling), [QT07](../../elicitacao/questionario), [US29](../../modelagem/Agil/historia_de_usuario),[US39](../../modelagem/Agil/historia_de_usuario) [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [BC](../../modelagem/Agil/backlog), [ES(RR004, +Im001,+Im003,+Im004)](../../modelagem/specSuplementar)                        |
 | **Elos Backward-from:**  | Agregação: RE39 - BS23: O requisito originou-se da técnica de Brainstorming. Agregação: RE39 - ENT19: O requisito originou-se da Entrevista. <br> Agregação: RE39 - IT12: O requisito originou-se da técnica de Introspecção. . <br> Agregação: RE39 - ST15: O requisito originou-se da técnica de Storytelling. <br> Agregação: RE39 - QT07: O requisito originou-se da técnica de Questionário. |
 | **Elos Forward-from:**   | Satisfação: RE39 - US29 e US39: AS históriaS de usuário (US29 e US39) especifica uma necessidade do usuário que será satisfeita pelo requisito (RE39) <br> Satisfação: RE39 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale.  <br> Satisfação: RE39 - CDS: O requisito recebeu um valor de $10 do Desenvolvedor e $2 do Usuário na técnica $100. <br>  Satisfação: RE39 - ES(RR004, +Im001,+Im003,+Im004): As especificações suplementares fornecem critérios e detalhes que satisfazem o requisito de acessibilidade (RE39). |
 
@@ -780,7 +780,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | [RE40](../../elicitacao/requisitosElicitados), [IT13](../../elicitacao/Introspeccao), [US40](../../modelagem/Agil/historia_de_usuario) [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [ES(RP001, RP002)](../../modelagem/specSuplementar)      |
+| **Elementos:**           | [RE40](../../elicitacao/requisitosElicitados), [IT13](../../elicitacao/Introspeccao), [US40](../../modelagem/Agil/historia_de_usuario) [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [BC](../../modelagem/Agil/backlog), [ES(RP001, RP002)](../../modelagem/specSuplementar)      |
 | **Elos Backward-from:**  | RE40 - IT13: O requisito originou-se da técnica de Introspecção.  |
 | **Elos Forward-from:**   | Satisfação: RE40 - US40: A história de usuário (US40) especifica uma necessidade do usuário que será satisfeita pelo requisito (RE40) <br> Satisfação: RE40 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale.  <br> Satisfação: RE40 - CDS: O requisito recebeu um valor de $2 do Desenvolvedor e $15 do Usuário na técnica $100. <br>  Satisfação: RE40 - ES(RP001, RP002): As especificações suplementares fornecem critérios e detalhes que satisfazem o requisito de acessibilidade (RE40). |
 
@@ -798,7 +798,7 @@ Legenda:
 
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
-| **Elementos:**           | [RE41](../../elicitacao/requisitosElicitados), [IT14](../../elicitacao/Introspeccao), [US41](../../modelagem/Agil/historia_de_usuario) [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [ES(RR001, RR006, RR008, RP005)](../../modelagem/specSuplementar)     |
+| **Elementos:**           | [RE41](../../elicitacao/requisitosElicitados), [IT14](../../elicitacao/Introspeccao), [US41](../../modelagem/Agil/historia_de_usuario) [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [BC](../../modelagem/Agil/backlog), [ES(RR001, RR006, RR008, RP005)](../../modelagem/specSuplementar)     |
 | **Elos Backward-from:**  | RE41 - IT14: O requisito originou-se da técnica de Introspecção.  |
 | **Elos Forward-from:**   | Satisfação: RE41 - US41: A história de usuário (US41) especifica uma necessidade do usuário que será satisfeita pelo requisito (RE41) <br> Satisfação: RE41 - TLS: O requisito recebeu uma priorização Baixa no Three Level Scale.  <br> Satisfação: RE41 - CDS: O requisito recebeu um valor de $8 do Desenvolvedor e $5 do Usuário na técnica $100. <br>  Satisfação: RE41 - ES(RR001, RR006, RR008, RP005): As especificações suplementares fornecem critérios e detalhes que satisfazem o requisito de acessibilidade (RE41). |
 
