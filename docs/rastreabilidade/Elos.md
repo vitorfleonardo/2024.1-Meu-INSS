@@ -618,7 +618,7 @@ Legenda:
 | **Categoria:**           | Desenvolvimento                                   |
 |:--|:--|
 | **Elementos:**           | [RE31](../../elicitacao/requisitosElicitados), [BS19](../../elicitacao/brainStorm), [US31](../../modelagem/Agil/historia_de_usuario)          |
-| **Elos Backward-from:**  | Agregação: RE#! - BS19: O requisito originou-se da técnica de Brainstorming. |
+| **Elos Backward-from:**  | Agregação: RE31 - BS19: O requisito originou-se da técnica de Brainstorming. |
 | **Elos Forward-from:**   | Satisfação: RE31 - US31: A história de usuário (US31) pode ser vista como uma expressão de uma necessidade do usuário que será satisfeita pelo requisito (RE31). |
 
 </center>
