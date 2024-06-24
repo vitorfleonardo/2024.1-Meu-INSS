@@ -184,7 +184,7 @@ Legenda:
 |:--|:--|
 | **Elementos:**           | [RE07](../../elicitacao/requisitosElicitados), [BS07](../../elicitacao/brainStorm), [BS11](../../elicitacao/brainStorm), [IT02](../../elicitacao/Introspeccao), [IT05](../../elicitacao/Introspeccao), [ST01](../../elicitacao/storytelling), [ST07](../../elicitacao/storytelling), [ENT10](../../elicitacao/entrevista), [QT02](../../elicitacao/questionario), [QT05](../../elicitacao/questionario), [CEN02](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | **Agregação**: RE07 - BS07, BS11: O requisito originou-se de um Brainstorm. <br> **Agregação**: RE07 - IT02, IT05 O requisito origino-se de uma Introspecção. <br> **Agregação**: RE07 - ST01, ST07 O requisito origino-se de um Storytelling. <br> **Agregação**: RE07 - ENT10: O requisito origino-se de uma Entrevista. <br> **Agregação**: RE07 - QT02, QT05: O requisito origino-se de um Questionário.|
-| **Elos Forward-from:**   | **Satisfação**: RE07 - CEN02: O requisito RE07 contribui para o cenário CEN02. <br> **Satisfação**: RE07 - CDS: O requisito recebeu uma pontuação $8 do Desenvolvedor e $12 do Usuário na técnica $100. <br> **Satisfação**: RE07 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. |
+| **Elos Forward-from:**   | **Satisfação**: RE07 - CEN02: O requisito RE07 contribui para o cenário CEN02. <br> **Satisfação**: RE07 - CDS: O requisito recebeu uma pontuação $8 do Desenvolvedor e $12 do Usuário na técnica $100. <br> **Satisfação**: RE07 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE07.jpeg). |
 
 </center>
 
@@ -292,7 +292,7 @@ Legenda:
 |:--|:--|
 | **Elementos:**           | [RE13](../../elicitacao/requisitosElicitados), [ENT01](../../elicitacao/entrevista), [UC09](../../modelagem/useCase)                          |
 | **Elos Backward-from:**  | **Agregação**: RE13 - ENT01: O requisito originou-se de uma Entrevista. |
-| **Elos Forward-from:**   | **Satisfação**: RE13 - UC09: O requisito RE13 deu origem ao caso de uso UC09. <br> **Satisfação**: RE13 - CDS: O requisito recebeu uma pontuação $7 do Desenvolvedor e $10 do Usuário na técnica $100. <br> **Satisfação**: RE13 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. |
+| **Elos Forward-from:**   | **Satisfação**: RE13 - UC09: O requisito RE13 deu origem ao caso de uso UC09. <br> **Satisfação**: RE13 - CDS: O requisito recebeu uma pontuação $7 do Desenvolvedor e $10 do Usuário na técnica $100. <br> **Satisfação**: RE13 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE13.jpeg). |
 
 </center>
 
@@ -328,7 +328,7 @@ Legenda:
 |:--|:--|
 | **Elementos:**           | [RE15](../../elicitacao/requisitosElicitados), [ENT03](../../elicitacao/entrevista), [UC06](../../modelagem/useCase), [UC07](../../modelagem/useCase), [UC09](../../modelagem/useCase), [CEN04](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | **Agregação**: RE15 - ENT03: O requisito originou-se de uma Entrevista. |
-| **Elos Forward-from:**   | **Satisfação**: RE15 - UC06, UC07, UC09: O requisito RE15 deu origem aos casos de uso UC06, UC07, UC09. <br> **Satisfação**: RE15 - CEN04: O requisito RE15 contribui para o cenário CEN04. <br> **Satisfação**: RE15 - CDS: O requisito recebeu uma pontuação $6 do Desenvolvedor e $4 do Usuário na técnica $100. <br> **Satisfação**: RE15 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. |
+| **Elos Forward-from:**   | **Satisfação**: RE15 - UC06, UC07, UC09: O requisito RE15 deu origem aos casos de uso UC06, UC07, UC09. <br> **Satisfação**: RE15 - CEN04: O requisito RE15 contribui para o cenário CEN04. <br> **Satisfação**: RE15 - CDS: O requisito recebeu uma pontuação $6 do Desenvolvedor e $4 do Usuário na técnica $100. <br> **Satisfação**: RE15 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE15.jpeg). |
 
 </center>
 
@@ -364,7 +364,7 @@ Legenda:
 |:--|:--|
 | **Elementos:**           | [RE17](../../elicitacao/requisitosElicitados), [ENT06](../../elicitacao/entrevista), [IT07](../../elicitacao/Introspeccao), [UC02](../../modelagem/useCase), [CEN05](../../modelagem/cenarios) |
 | **Elos Backward-from:**  | **Agregação**: RE17 - ENT06: O requisito originou-se de uma Entrevista. <br> **Agregação**: RE17 - IT07: O requisito origino-se de uma Introspecção.  |
-| **Elos Forward-from:**   | **Satisfação**: RE17 - UC02: O requisito RE17 deu origem ao caso de uso UC02. <br> **Satisfação**: RE17 - CEN05: O requisito RE17 contribui para o cenário CEN05. <br> **Satisfação**: RE17 - CDS: O requisito recebeu uma pontuação $9 do Desenvolvedor e $2 do Usuário na técnica $100. <br> **Satisfação**: RE17 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale.|
+| **Elos Forward-from:**   | **Satisfação**: RE17 - UC02: O requisito RE17 deu origem ao caso de uso UC02. <br> **Satisfação**: RE17 - CEN05: O requisito RE17 contribui para o cenário CEN05. <br> **Satisfação**: RE17 - CDS: O requisito recebeu uma pontuação $9 do Desenvolvedor e $2 do Usuário na técnica $100. <br> **Satisfação**: RE17 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE17.jpeg). |
 
 </center>
 
