@@ -51,7 +51,7 @@ Uma matriz de rastreabilidade é uma ferramenta fundamental na engenharia de req
 | [RE03](../../elicitacao/requisitosElicitados)|  RF  | Não |  1.0 | [BS03](../../elicitacao/brainStorm) | [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things)  | [UC03](../../modelagem/useCase), [CEN02](../../modelagem/cenarios), [US03](../../Agil/historia_de_usuario) | [C03](../../rastreabilidade/Elos)  |
 | [RE04](../../elicitacao/requisitosElicitados)| RF   | Não |  1.0 | BS, ENT, ST, QT |  TLS, CDS, FTF | UC, CE, LE, BC, HU | [C04](../../rastreabilidade/Elos)  |
 | [RE05](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C05](../../rastreabilidade/Elos)  |
-| [RE06](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C06](../../rastreabilidade/Elos)  |
+| [RE06](../../elicitacao/requisitosElicitados)|  RF  | Sim |  1.0 | [BS06](../../elicitacao/brainStorm) | [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things)  | [UC04](../../modelagem/useCase) | [C06](../../rastreabilidade/Elos)  |
 | [RE07](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C07](../../rastreabilidade/Elos)  |
 | [RE08](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C08](../../rastreabilidade/Elos)  |
 | [RE09](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C09](../../rastreabilidade/Elos)  |
@@ -61,9 +61,9 @@ Uma matriz de rastreabilidade é uma ferramenta fundamental na engenharia de req
 | [RE13](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C13](../../rastreabilidade/Elos)  |
 | [RE14](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C14](../../rastreabilidade/Elos)  |
 | [RE15](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C15](../../rastreabilidade/Elos)  |
-| [RE16](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C16](../../rastreabilidade/Elos)  |
-| [RE17](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C17](../../rastreabilidade/Elos)  |
-| [RE18](../../elicitacao/requisitosElicitados)|    | |  1.0 |  |   |  | [C18](../../rastreabilidade/Elos)  |
+| [RE16](../../elicitacao/requisitosElicitados)|  RF  | Não |  1.0 | [ENT04](../../elicitacao/entrevista), [ENT08](../../elicitacao/entrevista) | [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things) | [CEN02](../../modelagem/cenarios) | [C16](../../rastreabilidade/Elos)  |
+| [RE17](../../elicitacao/requisitosElicitados)|  RF  | Sim |  1.0 | [ENT06](../../elicitacao/entrevista), [IT07](../../elicitacao/Introspeccao) | [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things)  | [UC02](../../modelagem/useCase), [CEN05](../../modelagem/cenarios) | [C17](../../rastreabilidade/Elos)  |
+| [RE18](../../elicitacao/requisitosElicitados)|  RF  | Não |  1.0 | [ENT12](../../elicitacao/entrevista) | [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things) | [UC10](../../modelagem/useCase) | [C18](../../rastreabilidade/Elos)  |
 | [RE19](../../elicitacao/requisitosElicitados)| RF   | Não | 1.0 | ENT | TLS, CDS, FTF | CS, BC, HU | [C19](../../rastreabilidade/Elos)  |
 | [RE20](../../elicitacao/requisitosElicitados)| RF   | Sim | 1.0 | IT | TLS, CDS, FTF | BC, HU | [C20](../../rastreabilidade/Elos)  |
 | [RE21](../../elicitacao/requisitosElicitados)| RF   | Sim | 1.0 | IT | TLS, CDS, FTF | CS, BC, HU | [C21](../../rastreabilidade/Elos)  |
@@ -103,4 +103,5 @@ Uma matriz de rastreabilidade é uma ferramenta fundamental na engenharia de req
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 18/06/2024  | Criação da página | [Paulo Borba](https://github.com/paulohborba) | | | 
 | `1.1` | 23/06/2024  | Adicionando os requisitos à tabela. | [Johnny Lopes](https://github.com/JohnnyLopess) | 23/06/2024 | [Amanda Campos](https://github.com/acamposs)| 
-| `1.2` | 23/06/2024  | Adicionando os requisitos à tabela. | [Amanda Campos](https://github.com/acamposs) | | | 
+| `1.2` | 23/06/2024  | Adicionando os requisitos à tabela. | [Amanda Campos](https://github.com/acamposs) | 24/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00) | 
+| `1.3` | 24/06/2024  | Adicionando os requisitos à tabela. | [Gabriel Souza](https://github.com/GabrielMS00) | | |
