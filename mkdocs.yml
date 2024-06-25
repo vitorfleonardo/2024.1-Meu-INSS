@@ -66,12 +66,14 @@ nav:
           - Introspecção: "verificacao/preparacao/Introspeccao.md"
           - Personas: "verificacao/preparacao/Persona.md"
           - First Things First: "verificacao/preparacao/FirstThings.md"
-          - In or Outr: "verificacao/preparacao/InOrOut.md"
+          - In or Out: "verificacao/preparacao/InOrOut.md"
           - Diagrama de casos de uso: "verificacao/preparacao/CasosDeUsos.md"
           - Especificação Suplementar: "verificacao/preparacao/EspecSuplementar.md"
           - Léxicos: "verificacao/preparacao/Lexicos.md"
           - Cenários: "verificacao/preparacao/Cenarios.md"
           - NFR Framework: "verificacao/preparacao/NFR.md"
+          - Histórias de usuários: "verificacao/preparacao/HistoriasdeUser.md"
+          - Backlog: "verificacao/preparacao/Backlog.md"
         - Inspeções:
           - Grupo 8:
             - Entrega 1: "verificacao/inspecoes/grupo8/entrega1.md"

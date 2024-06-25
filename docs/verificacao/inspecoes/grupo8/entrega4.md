@@ -27,13 +27,13 @@ Os comentários relacionados a cada artefato serão detalhados aqui.
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Existe apenas um backlog mantido para o projeto inteiro ? | Sim | <a id="TEC1" href="#RP1">p.387</a>
-2 – O backlog inclui Épicos, histórias de usuário e priorização ? | Incompleto | <a id="TEC1" href="#RP1">p.387</a>
-3 - Os itens do backlog são rastreáveis até os requisitos de origem para facilitar a priorização ? | Sim | <a id="TEC1" href="#RP1">p.387</a>
-4 - Existe uma distinção clara entre histórias de usuário e épicos, sendo os épicos definidos como histórias grandes demais para serem implementadas em uma única iteração ? | Sim | <a id="TEC1" href="#RP1">p.388</a>
-5 - As prioridades dos itens do backlog estão sendo gerenciadas de forma eficaz ? | Não | <a id="TEC1" href="#RP1">p.387</a>
-6 - As prioridades atribuídas aos itens do backlog são flexíveis e podem mudar nas próximas iterações caso necessário ? | Sim | <a id="TEC1" href="#RP1">p.388</a>
-7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? | Sim | <a id="TEC1" href="#RP1">p.388</a>
+1 - Existe apenas um backlog mantido para o projeto inteiro ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+2 – O backlog inclui Épicos, histórias de usuário e priorização ? | Incompleto | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+3 - Os itens do backlog são rastreáveis até os requisitos de origem para facilitar a priorização ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+4 - Existe uma distinção clara entre histórias de usuário e épicos, sendo os épicos definidos como histórias grandes demais para serem implementadas em uma única iteração ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+5 - As prioridades dos itens do backlog estão sendo gerenciadas de forma eficaz ? | Não | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+6 - As prioridades atribuídas aos itens do backlog são flexíveis e podem mudar nas próximas iterações caso necessário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
 
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)</p></font>
@@ -62,12 +62,12 @@ Fonte: [Johnny Lopes](https://github.com/JohnnyLopess).
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - As histórias de usuário foram escritas pelo cliente ou foram feitas utilizando os requisitos já elicitados? | Sim | <a id="TEC5" href="#RP5">p.73</a>
-2 – As histórias de usuário possuem um valor (uma prioridade) baseado no valor de negócio dada pelo cliente? | Sim | <a id="TEC5" href="#RP5">p.73</a>
-3 - No artefato, cada história de usuário possui um identificador único? | Sim | Fonte
-4 - As descrições das histórias de usuário são claras e descrevem bem as funcionalidades que o sistema deve possuir para solucionar o problema do usuário? | Sim | <a id="TEC5" href="#RP5">p.73</a>
-5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? | Sim | <a id="TEC5" href="#RP5">p.73</a>
-6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? | Não | Fonte
+1 - As histórias de usuário foram escritas pelo cliente ou foram feitas utilizando os requisitos já elicitados? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+2 – As histórias de usuário possuem um valor (uma prioridade) baseado no valor de negócio dada pelo cliente? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+3 - No artefato, cada história de usuário possui um identificador único? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+4 - As descrições das histórias de usuário são claras e descrevem bem as funcionalidades que o sistema deve possuir para solucionar o problema do usuário? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? | Não | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
@@ -78,11 +78,11 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Cada cenário descreve uma única instância de uso do sistema? | Sim | <a id="TEC1" href="#RP1">p.149</a>
-2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? | Não | <a id="TEC1" href="#RP1">p.149</a>
-3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? | Sim | <a id="TEC1" href="#RP1">p.136</a>
-4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos | Sim | <a id="TEC1" href="#RP1">p.152</a>
-5 - Os cenários especificam um caso de uso? | Incompleto | <a id="TEC1" href="#RP1">p.163</a>
+1 - Cada cenário descreve uma única instância de uso do sistema? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? | Não | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+5 - Os cenários especificam um caso de uso? | Incompleto | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
 
 #### Comentários
 - Nos cenários criados pelo grupo, não é possível identificar qual caso de uso foi especificado por cada cenário, seria interessante a utilização de hyperlinks.
@@ -98,15 +98,15 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Os requisitos não funcionais foram identificados e documentados ? | Sim | <a id="TEC3" href="#RP3">p.19</a>
-2 – Foi utilizada a abordagem goal-oriented para a especificação dos requisitos não funcionais ? | Sim | <a id="TEC3" href="#RP3">p.19</a>
-3 - Os softgoals foram definidos e classificados de acordo com o NFR Framework ? | Sim | <a id="TEC3" href="#RP3">p.20</a>
-4 - Foi utilizado o Softgoal Interdependency Graph (SIG) como modelo para representar as interdependências entre os softgoals ? | Sim | <a id="TEC3" href="#RP3">p.24</a>
-5 - Os softgoals foram priorizados de acordo com a importância para o sistema ? | Sim | <a id="TEC3" href="#RP3">p.25</a>
-6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ? | Sim | <a id="TEC3" href="#RP3">p.180</a>
-7 - Foi elaborado um plano para gerenciar e resolver os conflitos identificados ? | Sim | <a id="TEC3" href="#RP3">p.180</a>
-8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? | Sim | <a id="TEC3" href="#RP3">p.44</a>
-9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? | Sim | <a id="TEC2" href="#RP2">p.45</a>
+1 - Os requisitos não funcionais foram identificados e documentados ? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+2 – Foi utilizada a abordagem goal-oriented para a especificação dos requisitos não funcionais ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+3 - Os softgoals foram definidos e classificados de acordo com o NFR Framework ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+4 - Foi utilizado o Softgoal Interdependency Graph (SIG) como modelo para representar as interdependências entre os softgoals ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+5 - Os softgoals foram priorizados de acordo com a importância para o sistema ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+7 - Foi elaborado um plano para gerenciar e resolver os conflitos identificados ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 
 <font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
@@ -119,13 +119,13 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Os termos léxicos foram identificados e documentados? | Sim | <a id="TEC4" href="#RP4">p.9</a>
-2 - Cada termo léxico possui um nome único e descritivo? | Sim | <a id="TEC4" href="#RP4">p.9</a>
-3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos? | Sim | <a id="TEC4" href="#RP4">p.17</a>
-4 - É apresentado um ou mais exemplos de cada classificação de léxico? | Imcompleto | <a id="TEC4" href="#RP4">p.18</a>
-5 - Foram identificadas e documentadas as relações entre os termos léxicos? | Sim | <a id="TEC4" href="#RP4">p.18</a>
-6 -  As informações são suficientes para entendimento dos léxico?| Imcompleto  | <a id="TEC4" href="#RP4">p.17</a>
-7 -  A documentação dos léxicos foi revisada e aprovada? | Sim | <a id="TEC4" href="#RP4">p.180</a>
+1 - Os termos léxicos foram identificados e documentados? | Sim |  [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+2 - Cada termo léxico possui um nome único e descritivo? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+4 - É apresentado um ou mais exemplos de cada classificação de léxico? | Imcompleto | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+5 - Foram identificadas e documentadas as relações entre os termos léxicos? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+6 -  As informações são suficientes para entendimento dos léxico?| Imcompleto  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+7 -  A documentação dos léxicos foi revisada e aprovada? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 
 
 <font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Amanda Campos](https://github.com/acamposs)</p></font>
@@ -153,16 +153,10 @@ Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).
 <center>
 
 ## Referências Bibliográficas
-> <a id="RP1" href="#TEC1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf](https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf).
-
-> <a id="RP2" href="#TEC2">2.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciência da Computação) - Centro de Informática da Universidade Federal de Pernambuco, [S. l.], 2019. Disponível em: [https://attena.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf](https://attena.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf). Acesso em: 10 jun. 2024.
-
-> <a id="RP3" href="#TEC3">3.</a> Chung, L., Nixon, B. A., Yu, E., & Mylopoulos, J. (2000). Non-Functional Requirements in Software Engineering. Springer. Disponível em: [https://link.springer.com/book/10.1007/978-1-4615-5269-7](https://link.springer.com/book/10.1007/978-1-4615-5269-7). Acesso em : 30 mai. 2024.
-
-> <a id="RP4" href="#TEC4">4.</a> Barbosa, S. D. J., Silveira, M. S., Paula, M. G., & Breitman, K. K. Interaction Design and User Interface Design: Preparing for the Next Decade. Disponível em: [https://www-di.inf.puc-rio.br/~simone/publications/barbosa_silveira_paula_breitman_ehci-dsvis2004_preconf.pdf](https://www-di.inf.puc-rio.br/~simone/publications/barbosa_silveira_paula_breitman_ehci-dsvis2004_preconf.pdf). Acesso em: 10 jun. 2024.
-
-
-> <a id="RP4" href="#TEC5">5.</a> Roger S. Pressman, Bruce R. Maxium - Engenharia de Software - Uma abordagem profissional (8° Edição). Disponível em: [https://analisederequisitos.com.br/engenharia-de-software-pressman-pdf/](https://analisederequisitos.com.br/engenharia-de-software-pressman-pdf/). Acesso em: 09 jun. 2024.
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/">1.</a> Checklist 1: verificação de Diagrama de casos de uso e especificação de casos de uso </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/">2.</a> Checklist 2: verificação de In or Out </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/">3.</a> Checklist 3: verificação de Especificação Suplementar </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/">4.</a> Checklist 4: verificação de First Things First </br>
 
 ## Histórico de Versões
 
@@ -174,3 +168,4 @@ Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).
 |`1.3` | 10/06/2024 | Adição de fonte da tabela de backlog e hyperlinks| [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
 |`1.4` | 10/06/2024 | Adição da lista de verificação dos cenários | [Gabriel Souza](https://github.com/GabrielMS00) | 10/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
 |`1.5` | 10/06/2024 | Adição da verificação dos Léxicos| [Bianca Castro](https://github.com/BiancaPatrocinio7)| 10/06/2024  | [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
+|`1.6` | 24/06/2024 | Alteração da estrutura do artefato |[Vitor Feijó](https://github.com/vitorfleonardo) | | | 
