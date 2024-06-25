@@ -58,8 +58,32 @@ nav:
         - Ágil:
           - Backlog: "modelagem/Agil/backlog.md"
           - Histórias de Usuário: "modelagem/Agil/historia_de_usuario.md"
-          - NFR Framework: "modelagem/Agil/nfr2.md"
+          - NFR Framework: "modelagem/Agil/nfr.md"
 
+    - Verificação:
+        - Preparação:
+          - Rich Picture: "verificacao/preparacao/RichPicture.md"
+          - Perfil de Usuário: "verificacao/preparacao/PerfildeUsuario.md"
+          - Questionário: "verificacao/preparacao/Questionario.md"
+          - Análise de documentação: "verificacao/preparacao/AnalisedeDoc.md"
+          - Storytelling: "verificacao/preparacao/Storytteling.md"
+          - Introspecção: "verificacao/preparacao/Introspeccao.md"
+          - Personas: "verificacao/preparacao/Persona.md"
+          - First Things First: "verificacao/preparacao/FirstThings.md"
+          - In or Out: "verificacao/preparacao/InOrOut.md"
+          - Diagrama de casos de uso: "verificacao/preparacao/CasosDeUsos.md"
+          - Especificação Suplementar: "verificacao/preparacao/EspecSuplementar.md"
+          - Léxicos: "verificacao/preparacao/Lexicos.md"
+          - Cenários: "verificacao/preparacao/Cenarios.md"
+          - NFR Framework: "verificacao/preparacao/NFR.md"
+          - Histórias de usuários: "verificacao/preparacao/HistoriasdeUser.md"
+          - Backlog: "verificacao/preparacao/Backlog.md"
+        - Inspeções:
+          - Grupo 8:
+            - Entrega 1: "verificacao/inspecoes/grupo8/entrega1.md"
+            - Entrega 2: "verificacao/inspecoes/grupo8/entrega2.md"
+            - Entrega 3: "verificacao/inspecoes/grupo8/entrega3.md"
+            - Entrega 4: "verificacao/inspecoes/grupo8/entrega4.md"
     - Verificação:
       - Entrega 1: "verificacao/entrega1.md"
       - Entrega 2: "verificacao/entrega2.md"
@@ -69,6 +93,7 @@ nav:
     - Rastreabilidade:
       - Elos: "rastreabilidade/Elos.md"
       - Matriz de Rastreabilidade: "rastreabilidade/matriz.md"
+
 
 
 theme:
