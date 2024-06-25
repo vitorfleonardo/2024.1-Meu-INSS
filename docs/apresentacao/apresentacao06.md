@@ -7,8 +7,7 @@ Essa página tem como objetivo armazenar o vídeo da apresentação da entrega 6
 <p style="text-align: center"><a href="" target="blanket">Vídeo 1: Apresentação 6</a></p>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TTnMrcIVM5U?si=0v_8LNB4ZdX_F6U5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-P7sfKqgak?si=Kjvax-7Rl7VEgvpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 7.</p></font>
 
