@@ -242,7 +242,7 @@ Legenda:
 
 </center>
 
-<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024.</p>
 
 ### RE11
 
@@ -260,7 +260,7 @@ Legenda:
 
 </center>
 
-<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024.</p>
 
 ### RE12
 
@@ -278,7 +278,7 @@ Legenda:
 
 </center>
 
-<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024.</p>
 
 ### RE13
 
@@ -296,7 +296,7 @@ Legenda:
 
 </center>
 
-<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024.</p>
 
 ### RE14
 
@@ -314,7 +314,7 @@ Legenda:
 
 </center>
 
-<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024.</p>
 
 ### RE15
 
@@ -332,7 +332,7 @@ Legenda:
 
 </center>
 
-<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024.</p>
 
 ### RE16
 
@@ -350,7 +350,7 @@ Legenda:
 
 </center>
 
-<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024.</p>
 
 ### RE17
 
@@ -368,7 +368,7 @@ Legenda:
 
 </center>
 
-<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024.</p>
 
 ### RE18
 
@@ -386,7 +386,7 @@ Legenda:
 
 </center>
 
-<p align="center">Autor: <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024.</p>
 
 ### RE19
 
@@ -823,8 +823,10 @@ Legenda:
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 21/06/2024  | Criação da página | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  |
+| `1.0` | 21/06/2024  | Criação da página | [Johnny Lopes](https://github.com/JohnnyLopess) | 22/06/2024 |  [Amanda Campos](https://github.com/acamposs) |
 | `1.1` | 23/06/2024  | Adicionando informações na página | [Paulo Borba](https://github.com/paulohborba) | 23/06/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.2` | 23/06/2024  | Adicionando Elos. | [Johnny Lopes](https://github.com/JohnnyLopess) | 23/06/2024 | [Amanda Campos](https://github.com/acamposs)  |
-| `1.3` | 23/06/2024  | Adicionando Elos. | [Amanda Campos](https://github.com/acamposs) | 23/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00) |
-|`1.4`  | 23/06/2024  | Adicionando Elos. | [Gabriel Souza](https://github.com/GabrielMS00) | | | 
+| `1.3` | 23/06/2024  | Adicionando Elos. | [Amanda Campos](https://github.com/acamposs) | 23/06/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
+| `1.4` | 23/06/2024  | Adicionando Elos. | [Vitor Feijó](https://github.com/vitorfleonardo)| 23/06/2024 |[Bianca Castro](https://github.com/BiancaPatrocinio7) |
+| `1.5` | 23/06/2024  | Adicionando Elos. | [Bianca Castro](https://github.com/BiancaPatrocinio7) | 23/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00) |
+| `1.6` | 23/06/2024  | Adicionando Elos. | [Gabriel Souza](https://github.com/GabrielMS00) | 24/06/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) | 
