@@ -823,7 +823,7 @@ Legenda:
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 21/06/2024  | Criação da página | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  |
+| `1.0` | 21/06/2024  | Criação da página | [Johnny Lopes](https://github.com/JohnnyLopess) | 22/06/2024 |  [Amanda Campos](https://github.com/acamposs) |
 | `1.1` | 23/06/2024  | Adicionando informações na página | [Paulo Borba](https://github.com/paulohborba) | 23/06/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.2` | 23/06/2024  | Adicionando Elos. | [Johnny Lopes](https://github.com/JohnnyLopess) | 23/06/2024 | [Amanda Campos](https://github.com/acamposs)  |
 | `1.3` | 23/06/2024  | Adicionando Elos. | [Amanda Campos](https://github.com/acamposs) | 23/06/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
