@@ -32,9 +32,8 @@ da rastreabilidade(CHUNG et al., 2000).
 
 <p align="center">
     <strong>Figura 1: Tipos de Softgoal</strong><br>
-    <img src="../../imagens/Soft-goals.jpg" width="300%">
+    <img src="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/assets/nfr-framework/tipos.png" width="300%">
 </p>
-
 
 <font size="3"><p style="text-align: center">Fonte: (CHUNG et al., 2000)</p></font>
 
@@ -47,7 +46,7 @@ afirmação são representados através de nuvens com linhas tracejadas.
 ## Taxonomia
 
 <p align="center" > <strong> Figura 1:</Strong> Taxonomia de Requisitos Não-Funcionais</font></p>
-<iframe frameborder="0" style="width:100%;height:350px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1giNn5-kisipsC4Gp5FalpvZBydIiVLhj"></iframe>
+<iframe frameborder="0" style="width:100%;height:350px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1giNn5-kisipsC4Gp5FalpvZBydIiVLhj%26export%3Ddownload"></iframe>
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
 
 
@@ -199,7 +198,7 @@ Autor: [José Filipi](https://github.com/JoseFilipi)
 | **Conflitos:**| Nenhum |
 | **História:** |27/05/2024 |
 
-Autor:
+Autor:[José Filipi](https://github.com/JoseFilipi),2024.
 </center>
 
 ## Bibliografia
@@ -207,9 +206,9 @@ Autor:
 > SERRANO, Milene. Requisitos - Aula 15. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 15](https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 27 de Maio de 2024.
 >
 
-> </a> Requisitos de Software. Economia-DF (2023.2). Disponível em: [https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#cartao-de-especificacao](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/). Acesso em: 27 mai. 2024.
-
 > SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciência da Computação) - Centro de Informática da Universidade Federal de Pernambuco, [S. l.], 2019. Disponível em: [https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf](https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf). Acesso em: 27 mai. 2024.
+
+> </a> Requisitos de Software. Economia-DF (2023.2). Disponível em: [https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#cartao-de-especificacao](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/). Acesso em: 27 mai. 2024.
 
 ## Histórico de Versões
 
