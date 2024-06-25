@@ -47,7 +47,6 @@ A tabela foi criada para poder estabelecer uma conexão ou rastreabilidade entre
 
 | Requisito | Tipo  | Implementação | Versão | Elicitação | Priorizaçaõ | Modelagem | Elos |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-
 | [RE01](../../elicitacao/requisitosElicitados)|  RF  | Sim | [1.0](../../elicitacao/requisitosElicitados)  | [BS01](../../elicitacao/brainStorm), [ST02](../../elicitacao/storytelling), [QT01](../../elicitacao/questionario) | [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things)  | [UC01](../../modelagem/useCase), [CEN01](../../modelagem/cenarios), [US01](../../modelagem/Agil/historia_de_usuario) | [C01](../../rastreabilidade/Elos)  |
 | [RE02](../../elicitacao/requisitosElicitados)|  RF  | Não |  [1.0](../../elicitacao/requisitosElicitados) | [BS02](../../elicitacao/brainStorm) | [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things)  | [UC01](../../modelagem/useCase), [CEN01](../../modelagem/cenarios), [US02](../../modelagem/Agil/historia_de_usuario) | [C02](../../rastreabilidade/Elos)  |
 | [RE03](../../elicitacao/requisitosElicitados)|  RF  | Não |  [1.0](../../elicitacao/requisitosElicitados) | [BS03](../../elicitacao/brainStorm) | [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things)  | [UC03](../../modelagem/useCase), [CEN02](../../modelagem/cenarios), [US03](../../modelagem/Agil/historia_de_usuario) | [C03](../../rastreabilidade/Elos)  |
@@ -92,13 +91,16 @@ A tabela foi criada para poder estabelecer uma conexão ou rastreabilidade entre
 
 <p align="center">Autor: <a href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS">Todos</a></a>, 2024.</p>
 
+## Referências Bibliográficas
+
+> <a id="RP1" href="#TEC1">1.</a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 21 jun. 2024.
 
 ## Bibliografia
-> <a id="RP1" href="#TEC1">1.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 18 jun. 2024.
+> </a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 18 jun. 2024.
 
-> <a id="RP2" href="#TEC2">2.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf](https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf). Acesso em: 18 jun. 2024.
+> </a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf](https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf). Acesso em: 18 jun. 2024.
 
-> <a id="RP3" href="#TEC3">3.</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/rastrear/docs/imagens/referencias/rastreabilidade/Requisitos%20-%20Aula%20026.pdf](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/rastrear/docs/imagens/referencias/rastreabilidade/Requisitos%20-%20Aula%20026.pdf). Acesso em: 18 jun. 2024.
+> </a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/rastrear/docs/imagens/referencias/rastreabilidade/Requisitos%20-%20Aula%20026.pdf](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/rastrear/docs/imagens/referencias/rastreabilidade/Requisitos%20-%20Aula%20026.pdf). Acesso em: 18 jun. 2024.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
