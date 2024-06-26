@@ -52,7 +52,7 @@ Critérios | Fonte
 28 - O feedback foi coletado e incorporado na análise dos documentos? | Fonte
 29 - Os documentos de requisitos estão acessíveis a todos os membros da equipe e partes interessadas? | Fonte
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs)</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs), 2024</p></font>
 
 
 ## Referências Bibliográficas
@@ -65,4 +65,4 @@ Critérios | Fonte
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 10/06/2024 | Criação do documento. |[Amanda](https://github.com/acamposs) |20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) |    
-|`1.1` | 20/06/2024 | Modificação da estrutura do arquivo |[Vitor Feijó](https://github.com/vitorfleonardo) | | 
+|`1.1` | 20/06/2024 | Modificação da estrutura do arquivo |[Vitor Feijó](https://github.com/vitorfleonardo) | |

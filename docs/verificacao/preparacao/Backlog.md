@@ -20,15 +20,15 @@ Pergunta para avaliação| Página e livro de referência
 
 <font size="3"><p style="text-align: center">Tabela 2: Verificação de Backlog</p></font>
 
-Critérios  | Sim/Não/Incompleto | Fonte
---------- | ------ | ------
-1 - Existe apenas um backlog mantido para o projeto inteiro ? | Sim | <a id="TEC1" href="#RP1">p.387</a>
-2 – O backlog inclui Épicos, histórias de usuário e priorização ? | Incompleto | <a id="TEC1" href="#RP1">p.387</a>
-3 - Os itens do backlog são rastreáveis até os requisitos de origem para facilitar a priorização ? | Sim | <a id="TEC1" href="#RP1">p.387</a>
-4 - Existe uma distinção clara entre histórias de usuário e épicos, sendo os épicos definidos como histórias grandes demais para serem implementadas em uma única iteração ? | Sim | <a id="TEC1" href="#RP1">p.388</a>
-5 - As prioridades dos itens do backlog estão sendo gerenciadas de forma eficaz ? | Não | <a id="TEC1" href="#RP1">p.387</a>
-6 - As prioridades atribuídas aos itens do backlog são flexíveis e podem mudar nas próximas iterações caso necessário ? | Sim | <a id="TEC1" href="#RP1">p.388</a>
-7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? | Sim | <a id="TEC1" href="#RP1">p.388</a>
+Critérios | Fonte
+--------- | ------ 
+1 - Existe apenas um backlog mantido para o projeto inteiro ? | <a id="TEC1" href="#RP1">p.387</a>
+2 – O backlog inclui Épicos, histórias de usuário e priorização ? |  <a id="TEC1" href="#RP1">p.387</a>
+3 - Os itens do backlog são rastreáveis até os requisitos de origem para facilitar a priorização ? |  <a id="TEC1" href="#RP1">p.387</a>
+4 - Existe uma distinção clara entre histórias de usuário e épicos, sendo os épicos definidos como histórias grandes demais para serem implementadas em uma única iteração ? |  <a id="TEC1" href="#RP1">p.388</a>
+5 - As prioridades dos itens do backlog estão sendo gerenciadas de forma eficaz ? |  <a id="TEC1" href="#RP1">p.387</a>
+6 - As prioridades atribuídas aos itens do backlog são flexíveis e podem mudar nas próximas iterações caso necessário ? | <a id="TEC1" href="#RP1">p.388</a>
+7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? |  <a id="TEC1" href="#RP1">p.388</a>
 
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)</p></font>
@@ -44,4 +44,4 @@ Critérios  | Sim/Não/Incompleto | Fonte
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 10/06/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| 20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) |   
-|`1.1` | 20/06/2024 | Modificação da estrutura do arquivo |[Vitor Feijó](https://github.com/vitorfleonardo) | | 
+|`1.1` | 20/06/2024 | Modificação da estrutura do arquivo |[Vitor Feijó](https://github.com/vitorfleonardo) | 25/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
