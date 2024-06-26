@@ -42,4 +42,4 @@ Critérios   | Fonte
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 10/06/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess)| 20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) |   
-|`1.1` | 20/06/2024 | Modificação da estrutura do arquivo |[Vitor Feijó](https://github.com/vitorfleonardo) | | 
+|`1.1` | 20/06/2024 | Modificação da estrutura do arquivo |[Vitor Feijó](https://github.com/vitorfleonardo) | 25/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
