@@ -240,22 +240,23 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 <p align="center" > <strong> Figura 10:</Strong> Decomposição do softgoal Suportabilidade em requisitos não funcionais mais específicos. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=Ps6S_oxP5CK2rWNoZUKd&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
+
 <font size="3"><p style="text-align: center"><b>Fonte</b> - [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 9:</Strong> Cartão de especificação NFR08. </font></p>
 
 <center>
 
-| Nº Requisito: 8 (NFR08) | Classificação: Implementação |
+| Nº Requisito: 8 NFR08 ([RE29](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/requisitosElicitados/)) | Classificação: Suportabilidade |
 |----------------------------------|-----------------------------|
-| **Descrição:** | - |
-| **Justificativa:** | - |
-| **Origem do Requisito:** | - |
-| **Critério de Aceitação:** | - |
-| **Dependências:** | -|
-| **Prioridade:**  | -|
-| **Conflitos:** | - |
-| **História:** | - |
+| **Descrição:** | O aplicativo deve ser compatível com as versões mais recentes e anteriores dos sistemas operacionais iOS e Android, bem como com computadores. |
+| **Justificativa:** | Garantir que o aplicativo possa ser utilizado pela maior quantidade possível de usuários, independentemente da versão do sistema operacional que estejam utilizando. |
+| **Origem do Requisito:** | Projetista de Software |
+| **Critério de Aceitação:** | O aplicativo deve funcionar corretamente nas versões especificadas dos sistemas operacionais iOS e Android, bem como em diferentes sistemas operacionais de computadores (Windows, macOS, Linux). |
+| **Dependências:** | Atualizações de software, testes de compatibilidade. |
+| **Prioridade:**  | 1,73 |
+| **Conflitos:** | Pode haver conflito com a necessidade de utilizar APIs ou recursos específicos de versões mais recentes dos sistemas operacionais. |
+| **História:** | 27/06/2024 |
 
 </center>
 
@@ -317,7 +318,8 @@ Nessa etapa, foram escolhidas as melhoras alteranativas, pelo desenvolvedores. R
 |`1.7`|30/05/2024|Softgoal 8| [Paulo Borba](https://github.com/paulohborba)|30/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
 |`1.9`|02/06/2024|Adição dos SIGs de operacionalização, afirmação e seleção de alternativas.| [Vitor Feijó](https://github.com/vitorfleonardo)|02/06/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)|
 |`2.0`|21/06/2024|Adição dos cartões de especificação.| [Johnny Lopes](https://github.com/JohnnyLopess)|22/06/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
-|`2.1`|22/06/2024|Adição do cartão de especificação NFR04.| [Gabriel Souza](https://github.com/GabrielMS00)|||
+|`2.1`|22/06/2024|Adição do cartão de especificação NFR04.| [Gabriel Souza](https://github.com/GabrielMS00)| 27/06/2024 | [Paulo Borba](https://github.com/paulohborba) |
+|`2.2`|27/06/2024|Adição do cartão de especificação NFR08.| [Paulo Borba](https://github.com/paulohborba)| 27/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00) |
 
 
 
