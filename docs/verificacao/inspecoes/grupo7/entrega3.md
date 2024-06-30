@@ -19,8 +19,25 @@ Pergunta para avaliação| Sim/Não/Incompleto| Preparação do artefato
 #### Comentários
 Os comentários relacionados a cada artefato serão detalhados aqui.
 
-### Diagrama de Casos de Uso
+### Cenários
+- Aqui é possível encontrar a origem do artefato verificado [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md).
 
+<font size="3"><p style="text-align: center">Tabela 4: Verificação dos [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md)</p></font>
+
+Critérios  | Sim/Não/Incompleto | Fonte
+--------- | ------ | ------
+1 - Cada cenário descreve uma única instância de uso do sistema? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+5 - Os cenários especificam um caso de uso? | Incompleto | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+
+
+<font size="3"><p style="text-align: center">Autores: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+
+#### Comentários
+
+### Diagrama de Casos de Uso
 
 <font size="3"><p style="text-align: center">Tabela 1: Verificação do diagrama de casos de uso </p></font>
 
@@ -36,7 +53,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 8 - Não há dois casos de uso com o mesmo nome? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 9 - Cada ator tem um nome que descreva efetivamente o papel dessa pessoa? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 
-<font size="3"><p style="text-align: center">Fonte: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
 
 
 ### Especificação dos casos de Uso
@@ -61,29 +78,8 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 14 - As etapas estão numeradas corretamente? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 15 - Para cada fluxo alternativo, as condições para início do fluxo estão claramente definidas? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 
-<font size="3"><p style="text-align: center">Fonte: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
 
-### In or Out
-- Aqui é possível encontrar a origem do artefato verificado [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/).
-
-<font size="3"><p style="text-align: center">Tabela 4: Verificação de [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/)</p></font>
-
-<center>
-
-Critérios  | Avaliação | Fonte
---------- | ------ | ------
-1 - Os stakeholders foram identificados ? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
-2 – Os critérios para a classificação foram definidos (In or Out)? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
-3 - A priorização envolveu uma decisão binária clara para cada requisito?  |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
-4 - A priorização foi feita com um usuário/persona ? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
-
-</center>
-
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
-
-#### Comentários
-
-* Nem todos os requisitos elicitados foram priorizados utilizando esta técnica.
 
 ### Especificação suplementar
 
@@ -108,25 +104,27 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 15 - Requisitos de restrição de design: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software.  |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
 16 - Requisitos de segurança: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software. |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autores: Grupo 7</p></font>
 
-### First Things First
+### Léxicos
+- Aqui é possível encontrar a origem do artefato verificado [Léxicos]( https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/).
 
-<font size="3"><p style="text-align: center">Tabela 4: Verificação do  First Things First </p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Verificação dos [Léxicos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/)</p></font>
 
-| Critérios | Sim/Não/Incompleto | Fonte |
-|-----------|---------------------|-------|
-| 1 - Os objetivos principais do projeto foram identificados? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 2 - Os objetivos foram priorizados de acordo com a técnica "First Things First"? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 3 - Os critérios para priorização dos objetivos foram definidos e documentados? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 4 - A equipe de desenvolvimento foi envolvida no processo de priorização? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 5 - As decisões de priorização foram validadas com os stakeholders? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 6 - Foi criada uma lista de tarefas baseada nos objetivos priorizados? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 7 - A tabela possui os pesos relativos e sua justificativa? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+Critérios  | Sim/Não/Incompleto | Fonte
+--------- | ------ | ------
+1 - Os termos léxicos foram identificados e documentados? |  |  [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+2 - Cada termo léxico possui um nome único e descritivo? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+4 - É apresentado um ou mais exemplos de cada classificação de léxico? | Imcompleto | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+5 - Foram identificadas e documentadas as relações entre os termos léxicos? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+6 -  As informações são suficientes para entendimento dos léxico?| Imcompleto  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+7 -  A documentação dos léxicos foi revisada e aprovada? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
 
+<font size="3"><p style="text-align: center">Autores: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Amanda Campos](https://github.com/acamposs)</p></font>
+
+#### Comentários
 
 ## Referências Bibliográficas
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/">1.</a> Checklist 1: verificação de Diagrama de casos de uso e especificação de casos de uso </br>

@@ -36,7 +36,7 @@ Critérios  | Avaliação | Fonte
 7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
 
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
 <center>
 
@@ -44,13 +44,65 @@ Critérios  | Avaliação | Fonte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Viy8UYHcitE?si=zNeE6zanUsFm2M9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fonte: [José Filipi](https://github.com/JoseFilipi).
+Autor: [José Filipi](https://github.com/JoseFilipi).
 
 </center>
 
 #### Comentários
 * É válido acrescentar dados demográficos associados ao gênero.
 * A faixa etária está definida em um intervalo extremamente longo, é interessante elucidar a razão por trás da necessidade da amplitude desse dado.
+
+### Personas
+
+- Aqui é possível encontrar a origem do artefato verificado [Personas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/).
+
+<font size="3"><p style="text-align: center">Tabela 5: Verificação das Personas</p></font>
+
+Critérios  | Sim/Não/Incompleto | Fonte
+--------- | ------ | ------
+1 - O artefato inclui o nome completo da persona ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+2 – Há detalhes demográficos suficientes, como idade, gênero e ocupação ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+3 - Foi fornecida uma foto representativa da persona ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+4 - Foi definido o papel da persona no contexto do projeto ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+5 - É claro se a persona é primária, secundária, outro stakeholder ou antiusuário ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+6 - Os objetivos pessoais da persona foram claramente identificados ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+7 - Os objetivos corporativos ou organizacionais que a persona busca alcançar estão descritos ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+8 - Os objetivos práticos ou relacionados às tarefas da persona foram abordados ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+9 - Foram destacadas as habilidades específicas e competências da persona ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+10 - A formação educacional relevante da persona foi mencionada ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+11 - As principais tarefas realizadas pela persona estão claramente definidas ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+12 - A frequência e importância dessas tarefas foram consideradas ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+13 - Os relacionamentos da persona dentro do contexto do projeto foram identificados ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+14 - Influências externas que afetam as decisões ou ações da persona foram abordadas ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+15 - As necessidades e requisitos específicos da persona em relação ao produto ou sistema foram detalhados ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+16 - Foram incluídas citações ou exemplos que ilustram as necessidades da persona ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+17 - As expectativas da persona em relação ao produto ou sistema estão claras ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+18 - Como ela organiza as informações relevantes ao seu trabalho ou domínio foi abordado ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+19 - A persona é derivada de uma investigação cuidadosa do domínio do usuário ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+20 - Ela é representativa e relevante para o projeto em questão ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
+
+
+<font size="3"><p style="text-align: center">Autores: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
+
+#### Comentários
+
+### Introspecção
+- Aqui é possível encontrar a origem do artefato verificado [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/).
+
+<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/)</p></font>
+
+
+Critérios  | Avaliação | Fonte
+--------- | ------ | ------
+1 - As propriedades essenciais que o sistema deve possuir para ser considerado um sucesso podem ser observadas? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+2 – É possível ver tarefas específicas que o sistema desempenha, considerando os equipamentos e recursos disponíveis?  | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
+
+#### Comentários
+
 
 ### Questionário
 - Aqui é possível encontrar a origem do artefato verificado [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/).
@@ -70,7 +122,7 @@ Critérios  | Avaliação | Fonte
 8 - As respostas foram registradas de forma organizada e segura? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
 9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto? | Incompleto | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
 
-<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba) & [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+<font size="3"><p style="text-align: center">Autores: [Paulo Borba](https://github.com/paulohborba) & [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
 <center>
 
@@ -78,7 +130,7 @@ Critérios  | Avaliação | Fonte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tjRe0dW02o?si=NMS8Tvnc87b4WAM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fonte: [Paulo Borba](https://github.com/paulohborba).
+Autor: [Paulo Borba](https://github.com/paulohborba).
 
 </center>
 
@@ -125,7 +177,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 28 - O feedback foi coletado e incorporado na análise dos documentos? | Sim |  [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/AnalisedeDoc/)
 29 - Os documentos de requisitos estão acessíveis a todos os membros da equipe e partes interessadas? | Sim |  [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/AnalisedeDoc/)
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda](https://github.com/acamposs)</p></font>
 
 ### Storytelling
 - Aqui é possível encontrar a origem do artefato verificado [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/).
@@ -141,60 +193,48 @@ Critérios  | Avaliação | Fonte
 5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
 6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
 #### Comentários
 
-### Introspecção
-- Aqui é possível encontrar a origem do artefato verificado [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/).
+### First Things First
 
-<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/)</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Verificação do  First Things First </p></font>
 
+| Critérios | Sim/Não/Incompleto | Fonte |
+|-----------|---------------------|-------|
+| 1 - Os objetivos principais do projeto foram identificados? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 2 - Os objetivos foram priorizados de acordo com a técnica "First Things First"? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 3 - Os critérios para priorização dos objetivos foram definidos e documentados? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 4 - A equipe de desenvolvimento foi envolvida no processo de priorização? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 5 - As decisões de priorização foram validadas com os stakeholders? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 6 - Foi criada uma lista de tarefas baseada nos objetivos priorizados? | Não | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 7 - A tabela possui os pesos relativos e sua justificativa? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+
+<font size="3"><p style="text-align: center">Autores: Grupo 7</p></font>
+
+### In or Out
+- Aqui é possível encontrar a origem do artefato verificado [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/).
+
+<font size="3"><p style="text-align: center">Tabela 4: Verificação de [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/)</p></font>
+
+<center>
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 - As propriedades essenciais que o sistema deve possuir para ser considerado um sucesso podem ser observadas? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
-2 – É possível ver tarefas específicas que o sistema desempenha, considerando os equipamentos e recursos disponíveis?  | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
-3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
-4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+1 - Os stakeholders foram identificados ? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
+2 – Os critérios para a classificação foram definidos (In or Out)? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
+3 - A priorização envolveu uma decisão binária clara para cada requisito?  | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
+4 - A priorização foi feita com um usuário/persona ? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
 
-<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba)</p></font>
+</center>
 
-#### Comentários
-
-### Personas
-
-- Aqui é possível encontrar a origem do artefato verificado [Personas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/).
-
-<font size="3"><p style="text-align: center">Tabela 5: Verificação das Personas</p></font>
-
-Critérios  | Sim/Não/Incompleto | Fonte
---------- | ------ | ------
-1 - O artefato inclui o nome completo da persona ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-2 – Há detalhes demográficos suficientes, como idade, gênero e ocupação ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-3 - Foi fornecida uma foto representativa da persona ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-4 - Foi definido o papel da persona no contexto do projeto ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-5 - É claro se a persona é primária, secundária, outro stakeholder ou antiusuário ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-6 - Os objetivos pessoais da persona foram claramente identificados ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-7 - Os objetivos corporativos ou organizacionais que a persona busca alcançar estão descritos ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-8 - Os objetivos práticos ou relacionados às tarefas da persona foram abordados ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-9 - Foram destacadas as habilidades específicas e competências da persona ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-10 - A formação educacional relevante da persona foi mencionada ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-11 - As principais tarefas realizadas pela persona estão claramente definidas ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-12 - A frequência e importância dessas tarefas foram consideradas ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-13 - Os relacionamentos da persona dentro do contexto do projeto foram identificados ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-14 - Influências externas que afetam as decisões ou ações da persona foram abordadas ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-15 - As necessidades e requisitos específicos da persona em relação ao produto ou sistema foram detalhados ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-16 - Foram incluídas citações ou exemplos que ilustram as necessidades da persona ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-17 - As expectativas da persona em relação ao produto ou sistema estão claras ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-18 - Como ela organiza as informações relevantes ao seu trabalho ou domínio foi abordado ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-19 - A persona é derivada de uma investigação cuidadosa do domínio do usuário ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-20 - Ela é representativa e relevante para o projeto em questão ? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
-
-
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
 #### Comentários
+
+* Nem todos os requisitos elicitados foram priorizados utilizando esta técnica.
 
 
 ## Referências Bibliográficas
