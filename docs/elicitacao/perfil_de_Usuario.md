@@ -8,8 +8,8 @@ destes usuários em mãos, empresas, criadores e profissionais de marketing pass
 
 ## Metodologia
 
-Para a definição do perfil de usuário do aplicativo Meu INSS, nosso grupo elaborou de maneira minunciosa um questionário que foi disponibilizado através do [Google Forms](https://workspace.google.com/intl/pt-BR/lp/forms/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-e-dr-1707806-LUAC0011908&utm_content=text-ad-none-any-DEV_c-CRE_666246535618-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt-Forms-KWID_43700057676889044-kwd-10647024857&utm_term=KW_google%20forms-ST_google%20forms&gad_source=1&gclid=EAIaIQobChMIkf7_5a2rhQMVWl1IAB2ZYwmfEAAYASAAEgJxQfD_BwE&gclsrc=aw.ds),
-a fim de que conseguissemos as respostas valorosas que esperamos para o nosso projeto. Seguindo por essa abordagem, obtivemos uma compreensão abrangente das necessidades e preferências dos potênciais usuários da aplicação.
+Para a definição do perfil de usuário do aplicativo Meu INSS, nosso grupo elaborou de maneira minunciosa um questionário que foi disponibilizado através do [Google Forms](https://workspace.google.com/intl/pt-BR/lp/forms/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-e-dr-1707806-LUAC0011908&utm_content=text-ad-none-any-DEV_c-CRE_666246535618-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt-Forms-KWID_43700057676889044-kwd-10647024857&utm_term=KW_google%20forms-ST_google%20forms&gad_source=1&gclid=EAIaIQobChMIkf7_5a2rhQMVWl1IAB2ZYwmfEAAYASAAEgJxQfD_BwE&gclsrc=aw.ds), em concordância com um [termo de consentimento](../imagens/termos_consentimento/termo_perfil.pdf) do uso das respostas,
+a fim de que conseguissemos as respostas valorosas que esperamos para o nosso projeto. Seguindo por essa abordagem, obtivemos uma compreensão abrangente das necessidades e preferências dos potênciais usuários da aplicação através de 16 respostas obtidas.
 
 ## Resultado do Questionário
 

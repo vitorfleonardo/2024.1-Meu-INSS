@@ -171,14 +171,14 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 | Nº Requisito: 5 (NFR05) | Classificação: Interface |
 |----------------------------------|-----------------------------|
-| **Descrição:** | - |
-| **Justificativa:** | - |
-| **Origem do Requisito:** | - |
-| **Critério de Aceitação:** | - |
-| **Dependências:** | -|
-| **Prioridade:**  | -|
-| **Conflitos:** | - |
-| **História:** | - |
+| **Descrição:** | O aplicativo deve ser fácil de usar e intuitivo, mesmo para usuários com conhecimento técnico limitado e que minimize o número de cliques para realizar uma tarefa. |
+| **Justificativa:** | O aplicativo deve contemplar todos os públicos possíveis, uma vez que se trata de um serviço governamental de amplo acesso. Portanto, deve também oferecer um uso simples ao público que possui pouco ou nenhum contato com tecnologia. |
+| **Origem do Requisito:** | Projetista de Software |
+| **Critério de Aceitação:** | O aplicativo deve ser testado com um público com baixa afinidade tecnológica e ser capaz de oferecer o serviço com pouca ou nenhuma intervenção. Além disso, pode ser testado a quantidade de cliques necessárias para executar a aplicação. |
+| **Dependências:** | Otimização do código e testes com usuário|
+| **Prioridade:**  | 2,45|
+| **Conflitos:** | Nenhum |
+| **História:** | 29/06/2024 |
 
 </center>
 
@@ -320,6 +320,4 @@ Nessa etapa, foram escolhidas as melhoras alteranativas, pelo desenvolvedores. R
 |`2.0`|21/06/2024|Adição dos cartões de especificação.| [Johnny Lopes](https://github.com/JohnnyLopess)|22/06/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
 |`2.1`|22/06/2024|Adição do cartão de especificação NFR04.| [Gabriel Souza](https://github.com/GabrielMS00)| 27/06/2024 | [Paulo Borba](https://github.com/paulohborba) |
 |`2.2`|27/06/2024|Adição do cartão de especificação NFR08.| [Paulo Borba](https://github.com/paulohborba)| 27/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00) |
-
-
-
+|`2.3`|29/06/2024|Adição do cartão de especificação NFR05.| [José Filipi](https://github.com/JoseFilipi)| 29/06/2024 |
