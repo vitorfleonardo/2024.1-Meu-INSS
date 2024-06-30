@@ -42,7 +42,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 14 - O Rich Picture comunica sua mensagem de forma eficaz, sendo compreensível para todos os membros da equipe e stakeholders? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
 
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
+<font size="3"><p style="text-align: center">Autores: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
 
 
 #### Comentários

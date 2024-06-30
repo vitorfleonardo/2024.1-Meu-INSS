@@ -36,7 +36,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
 
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)</p></font>
+<font size="3"><p style="text-align: center">Autores: [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)</p></font>
 
 
 <center>
@@ -47,7 +47,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 
 
-Fonte: [Johnny Lopes](https://github.com/JohnnyLopess).
+Autor: [Johnny Lopes](https://github.com/JohnnyLopess).
 
 </center>
 
@@ -69,27 +69,8 @@ Critérios  | Sim/Não/Incompleto | Fonte
 5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
 6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? | Não | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+<font size="3"><p style="text-align: center">Autores: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
-### Cenários
-- Aqui é possível encontrar a origem do artefato verificado [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md).
-
-<font size="3"><p style="text-align: center">Tabela 4: Verificação dos [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md)</p></font>
-
-Critérios  | Sim/Não/Incompleto | Fonte
---------- | ------ | ------
-1 - Cada cenário descreve uma única instância de uso do sistema? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? | Não | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-5 - Os cenários especificam um caso de uso? | Incompleto | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-
-#### Comentários
-- Nos cenários criados pelo grupo, não é possível identificar qual caso de uso foi especificado por cada cenário, seria interessante a utilização de hyperlinks.
-
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
-
-#### Comentários
 
 ### NFR FrameWork
 - Aqui é possível encontrar a origem do artefato verificado [NFR Framework ]( https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/NFR/).
@@ -108,49 +89,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
-
-
-
-### Léxicos
-- Aqui é possível encontrar a origem do artefato verificado [Léxicos]( https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/).
-
-<font size="3"><p style="text-align: center">Tabela 4: Verificação dos [Léxicos](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/)</p></font>
-
-Critérios  | Sim/Não/Incompleto | Fonte
---------- | ------ | ------
-1 - Os termos léxicos foram identificados e documentados? | Sim |  [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-2 - Cada termo léxico possui um nome único e descritivo? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-4 - É apresentado um ou mais exemplos de cada classificação de léxico? | Imcompleto | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-5 - Foram identificadas e documentadas as relações entre os termos léxicos? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-6 -  As informações são suficientes para entendimento dos léxico?| Imcompleto  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-7 -  A documentação dos léxicos foi revisada e aprovada? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-
-
-<font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Amanda Campos](https://github.com/acamposs)</p></font>
-
-#### Comentários
-
-Gostei de como foi feito do documento em geral, tenho alguns comentários para uma futura melhoria:
-
-_É apresentado um ou mais exemplos de cada classificação de léxico?_
- A resposta está incompleta, pois há a ausência do Estado, mas não detalha quais exemplos específicos estão faltando ou de que maneira a inclusão deles poderia melhorar a compreensão das classificações de léxico. Seria útil especificar mais Léxicos, podendo ter uma análise maior.
-
- _As informações são suficientes para entendimento dos léxicos?_
- A compreensão dos léxicos é dificultada pela falta de clareza em alguns pontos. No entanto, seria mais construtivo indicar especificamente quais léxicos são difíceis de entender e sugerir melhorias, como a inclusão de definições mais detalhadas, exemplos práticos ou explicações adicionais para esses casos.
-
-
-<center>
-
-<a href="https://www.youtube.com/embed/IUjYCaiwcE4?si=BMlg7-FczuquYMkw" target="blanket"><strong>Vídeo 2</strong> - Verificação dos Léxicos</a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IUjYCaiwcE4?si=BMlg7-FczuquYMkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).
-
-<center>
+<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 ## Referências Bibliográficas
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/">1.</a> Checklist 1: verificação de Diagrama de casos de uso e especificação de casos de uso </br>

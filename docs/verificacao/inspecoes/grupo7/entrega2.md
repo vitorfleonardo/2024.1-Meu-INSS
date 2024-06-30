@@ -35,69 +35,9 @@ Critérios  | Avaliação | Fonte
 7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
 
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
 
-
-#### Comentários
-
-### Questionário
-- Aqui é possível encontrar a origem do artefato verificado [Questionário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/questionario/).
-
-<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Questionário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/questionario/)</p></font>
-
-
-Critérios  | Avaliação | Fonte
---------- | ------ | ------
-1 - O questionário possui termo de consentimento? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-2 – Os objetivos da pesquisa/questionário estão claramente definidos?  |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/) 
-3 - Foram selecionados os participantes corretos para responder ao questionário?   |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-4 - Foram usados diferentes tipos de perguntas (abertas e fechadas) para obter uma variedade de respostas? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-5 - Cada pergunta está diretamente relacionada aos objetivos da pesquisa? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-6 - As perguntas são claras e evitam ambiguidades? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-7 - Foram fornecidas instruções claras sobre como preencher o questionário? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-8 - As respostas foram registradas de forma organizada e segura? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-
-<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba) & [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
-
-
-#### Comentários
-
-
-
-### Storytelling
-- Aqui é possível encontrar a origem do artefato verificado [Storytelling](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/storytelling/).
-
-<font size="3"><p style="text-align: center">Tabela 3: Verificação de [Storytelling](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/storytelling/)</p></font>
-
-Critérios  | Avaliação | Fonte
---------- | ------ | ------
-1 - A história foi desenvolvida com um objetivo claro ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-2 – Foram identificados os personagens principais da história ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-3 - A estrutura narrativa da história inclui divisão em eventos, causalidade, início, meio e fim ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-4 - A linguagem utilizada na história é adequada e acessível ao público-alvo ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
-
-#### Comentários
-
-### Introspecção
-- Aqui é possível encontrar a origem do artefato verificado [Introspecção](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Introspeccao/).
-
-<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Introspecção](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Introspeccao/)</p></font>
-
-
-Critérios  | Avaliação | Fonte
---------- | ------ | ------
-1 - As propriedades essenciais que o sistema deve possuir para ser considerado um sucesso podem ser observadas? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
-2 – É possível ver tarefas específicas que o sistema desempenha, considerando os equipamentos e recursos disponíveis?  |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
-3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
-4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
-
-<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba)</p></font>
 
 #### Comentários
 
@@ -131,10 +71,106 @@ Critérios  | Sim/Não/Incompleto | Fonte
 20 - Ela é representativa e relevante para o projeto em questão ? |  | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/)
 
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
+<font size="3"><p style="text-align: center">Autores: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
 
 #### Comentários
 
+### Questionário
+- Aqui é possível encontrar a origem do artefato verificado [Questionário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/questionario/).
+
+<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Questionário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/questionario/)</p></font>
+
+
+Critérios  | Avaliação | Fonte
+--------- | ------ | ------
+1 - O questionário possui termo de consentimento? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+2 – Os objetivos da pesquisa/questionário estão claramente definidos?  |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/) 
+3 - Foram selecionados os participantes corretos para responder ao questionário?   |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+4 - Foram usados diferentes tipos de perguntas (abertas e fechadas) para obter uma variedade de respostas? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+5 - Cada pergunta está diretamente relacionada aos objetivos da pesquisa? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+6 - As perguntas são claras e evitam ambiguidades? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+7 - Foram fornecidas instruções claras sobre como preencher o questionário? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+8 - As respostas foram registradas de forma organizada e segura? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+
+<font size="3"><p style="text-align: center">Autores: [Paulo Borba](https://github.com/paulohborba) & [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+
+
+#### Comentários
+
+### Introspecção
+- Aqui é possível encontrar a origem do artefato verificado [Introspecção](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Introspeccao/).
+
+<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Introspecção](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Introspeccao/)</p></font>
+
+
+Critérios  | Avaliação | Fonte
+--------- | ------ | ------
+1 - As propriedades essenciais que o sistema deve possuir para ser considerado um sucesso podem ser observadas? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+2 – É possível ver tarefas específicas que o sistema desempenha, considerando os equipamentos e recursos disponíveis?  |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
+
+#### Comentários
+
+### Storytelling
+- Aqui é possível encontrar a origem do artefato verificado [Storytelling](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/storytelling/).
+
+<font size="3"><p style="text-align: center">Tabela 3: Verificação de [Storytelling](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/storytelling/)</p></font>
+
+Critérios  | Avaliação | Fonte
+--------- | ------ | ------
+1 - A história foi desenvolvida com um objetivo claro ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+2 – Foram identificados os personagens principais da história ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+3 - A estrutura narrativa da história inclui divisão em eventos, causalidade, início, meio e fim ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+4 - A linguagem utilizada na história é adequada e acessível ao público-alvo ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+
+<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+
+#### Comentários
+
+### In or Out
+- Aqui é possível encontrar a origem do artefato verificado [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/).
+
+<font size="3"><p style="text-align: center">Tabela 4: Verificação de [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/)</p></font>
+
+<center>
+
+Critérios  | Avaliação | Fonte
+--------- | ------ | ------
+1 - Os stakeholders foram identificados ? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
+2 – Os critérios para a classificação foram definidos (In or Out)? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
+3 - A priorização envolveu uma decisão binária clara para cada requisito?  |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
+4 - A priorização foi feita com um usuário/persona ? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
+
+</center>
+
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+
+#### Comentários
+
+* Nem todos os requisitos elicitados foram priorizados utilizando esta técnica.
+
+### First Things First
+
+<font size="3"><p style="text-align: center">Tabela 4: Verificação do  First Things First </p></font>
+
+| Critérios | Sim/Não/Incompleto | Fonte |
+|-----------|---------------------|-------|
+| 1 - Os objetivos principais do projeto foram identificados? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 2 - Os objetivos foram priorizados de acordo com a técnica "First Things First"? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 3 - Os critérios para priorização dos objetivos foram definidos e documentados? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 4 - A equipe de desenvolvimento foi envolvida no processo de priorização? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 5 - As decisões de priorização foram validadas com os stakeholders? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 6 - Foi criada uma lista de tarefas baseada nos objetivos priorizados? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 7 - A tabela possui os pesos relativos e sua justificativa? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+
+<font size="3"><p style="text-align: center">Autores: Grupo 7</p></font>
 
 ## Referências Bibliográficas
 

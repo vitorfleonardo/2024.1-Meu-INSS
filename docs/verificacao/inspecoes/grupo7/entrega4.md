@@ -35,7 +35,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
 
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)</p></font>
+<font size="3"><p style="text-align: center">Autores: [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)</p></font>
 
 #### Comentários
 
@@ -53,25 +53,8 @@ Critérios  | Sim/Não/Incompleto | Fonte
 5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
 6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+<font size="3"><p style="text-align: center">Autores: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
-### Cenários
-- Aqui é possível encontrar a origem do artefato verificado [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md).
-
-<font size="3"><p style="text-align: center">Tabela 4: Verificação dos [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md)</p></font>
-
-Critérios  | Sim/Não/Incompleto | Fonte
---------- | ------ | ------
-1 - Cada cenário descreve uma única instância de uso do sistema? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-5 - Os cenários especificam um caso de uso? | Incompleto | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-
-#### Comentários
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
-
-#### Comentários
 
 ### NFR FrameWork
 - Aqui é possível encontrar a origem do artefato verificado [NFR Framework ](  https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/nfr/).
@@ -90,31 +73,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
-
-
-
-### Léxicos
-- Aqui é possível encontrar a origem do artefato verificado [Léxicos]( https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/).
-
-<font size="3"><p style="text-align: center">Tabela 4: Verificação dos [Léxicos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/)</p></font>
-
-Critérios  | Sim/Não/Incompleto | Fonte
---------- | ------ | ------
-1 - Os termos léxicos foram identificados e documentados? |  |  [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-2 - Cada termo léxico possui um nome único e descritivo? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-4 - É apresentado um ou mais exemplos de cada classificação de léxico? | Imcompleto | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-5 - Foram identificadas e documentadas as relações entre os termos léxicos? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-6 -  As informações são suficientes para entendimento dos léxico?| Imcompleto  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-7 -  A documentação dos léxicos foi revisada e aprovada? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-
-
-<font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Amanda Campos](https://github.com/acamposs)</p></font>
-
-#### Comentários
-
-
+<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 ## Referências Bibliográficas
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/">1.</a> Checklist 1: verificação de Diagrama de casos de uso e especificação de casos de uso </br>
