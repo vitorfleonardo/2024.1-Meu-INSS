@@ -31,7 +31,7 @@ Critérios | Fonte
 7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? |  <a id="TEC1" href="#RP1">p.388</a>
 
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
 
 ## Referências Bibliográficas
 
@@ -43,5 +43,5 @@ Critérios | Fonte
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 10/06/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| 20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) |   
+|`1.0` | 10/06/2024 | Criação do documento. | [Paulo Borba](https://github.com/paulohborba)| 20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) |   
 |`1.1` | 20/06/2024 | Modificação da estrutura do arquivo |[Vitor Feijó](https://github.com/vitorfleonardo) | 25/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7) |

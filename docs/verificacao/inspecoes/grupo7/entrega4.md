@@ -35,7 +35,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
 
 
-<font size="3"><p style="text-align: center">Autores: [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)</p></font>
+<font size="3"><p style="text-align: center">Autores: [Johnny Lopes](https://github.com/JohnnyLopess) </p></font>
 
 #### Comentários
 

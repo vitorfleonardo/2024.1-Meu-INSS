@@ -32,7 +32,7 @@ Critérios  | Fonte
 8 - As respostas foram registradas de forma organizada e segura?  | <a id="TEC4" href="#RP4">p.180</a>
 9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto?  | <a id="TEC4" href="#RP4">p.180</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba) & [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
 
 ## Referências Bibliográficas
@@ -46,5 +46,5 @@ Critérios  | Fonte
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 10/06/2024 | Criação do documento. |[Paulo Borba](https://github.com/paulohborba) & [Johnny Lopes](https://github.com/JohnnyLopess) |20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) |    
+|`1.0` | 10/06/2024 | Criação do documento. | [Johnny Lopes](https://github.com/JohnnyLopess) |20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) |    
 |`1.1` | 20/06/2024 | Modificação da estrutura do arquivo |[Vitor Feijó](https://github.com/vitorfleonardo) | 25/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
