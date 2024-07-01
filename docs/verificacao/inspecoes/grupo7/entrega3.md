@@ -26,10 +26,10 @@ Os comentários relacionados a cada artefato serão detalhados aqui.
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Cada cenário descreve uma única instância de uso do sistema? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+1 - Cada cenário descreve uma única instância de uso do sistema? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? | Não | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
 5 - Os cenários especificam um caso de uso? | Incompleto | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
 
 
@@ -135,5 +135,6 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | |
+|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 01/07/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
+| `1.1`| 01/07/2024 | Preenchimento da tabela de verificação dos cenários | [Gabriel Souza](https://github.com/GabrielMS00) |  |
 
