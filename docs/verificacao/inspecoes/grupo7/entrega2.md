@@ -187,16 +187,22 @@ Critérios  | Avaliação | Fonte
 
 <font size="3"><p style="text-align: center">Tabela 3: Verificação de [Storytelling](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/storytelling/)</p></font>
 
-Critérios  | Avaliação | Fonte
---------- | ------ | ------
-1 - A história foi desenvolvida com um objetivo claro ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-2 – Foram identificados os personagens principais da história ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-3 - A estrutura narrativa da história inclui divisão em eventos, causalidade, início, meio e fim ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-4 - A linguagem utilizada na história é adequada e acessível ao público-alvo ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
-6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+1 - A história foi desenvolvida com um objetivo claro ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+2 – Foram identificados os personagens principais da história ? | Sim  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+3 - A estrutura narrativa da história inclui divisão em eventos, causalidade, início, meio e fim ? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+4 - A linguagem utilizada na história é adequada e acessível ao público-alvo ? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
+6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/)
 
-<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+
+
+<a href="https://www.youtube.com/watch?v=juGXqUOXwos" target="blanket"><strong>Vídeo 6</strong> - Verificação do storytelling</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/biuAOjryU8k?si=qY0rXzJkegpRDm_t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) </p></font>
+
 
 #### Comentários
 
