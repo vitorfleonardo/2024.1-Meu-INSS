@@ -32,7 +32,7 @@ O usuário deve conseguir acessar tutoriais para a compreensão e melhor uso do 
 
 ### Requisito 19
 O usuário deve poder bloquear empréstimos.
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/eIWwekRwTBoONKCVsbJIBI/Untitled?node-id=1-18&t=ks1h1g4aqktWTjFi-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A18" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FeIWwekRwTBoONKCVsbJIBI%2FUntitled%3Fnode-id%3D14-69%26t%3DtCTS9IgDiHzMVYQI-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D0%253A1" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
