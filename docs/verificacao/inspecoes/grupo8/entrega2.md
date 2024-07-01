@@ -122,7 +122,7 @@ Critérios  | Avaliação | Fonte
 8 - As respostas foram registradas de forma organizada e segura? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
 9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto? | Incompleto | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
 
-<font size="3"><p style="text-align: center">Autores: [Paulo Borba](https://github.com/paulohborba) & [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+<font size="3"><p style="text-align: center">Autores: [Paulo Borba](https://github.com/paulohborba) </p></font>
 
 <center>
 
