@@ -79,6 +79,7 @@ nav:
           - Backlog: "verificacao/preparacao/Backlog.md"
           - Histórias de usuários: "verificacao/preparacao/HistoriasdeUser.md"
           - NFR Framework: "verificacao/preparacao/NFR.md"
+          - Three Level Scale: "verificacao/preparacao/ThreeLevelScale.md"
         - Inspeções:
           - Grupo 8:
             - Entrega 1: "verificacao/inspecoes/grupo8/entrega1.md"
