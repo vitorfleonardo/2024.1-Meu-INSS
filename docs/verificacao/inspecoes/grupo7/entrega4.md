@@ -46,12 +46,12 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - As histórias de usuário foram escritas pelo cliente ou foram feitas utilizando os requisitos já elicitados? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
-2 – As histórias de usuário possuem um valor (uma prioridade) baseado no valor de negócio dada pelo cliente? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
-3 - No artefato, cada história de usuário possui um identificador único? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
-4 - As descrições das histórias de usuário são claras e descrevem bem as funcionalidades que o sistema deve possuir para solucionar o problema do usuário? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
-5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
-6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+1 - As histórias de usuário foram escritas pelo cliente ou foram feitas utilizando os requisitos já elicitados? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+2 – As histórias de usuário possuem um valor (uma prioridade) baseado no valor de negócio dada pelo cliente? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+3 - No artefato, cada história de usuário possui um identificador único? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+4 - As descrições das histórias de usuário são claras e descrevem bem as funcionalidades que o sistema deve possuir para solucionar o problema do usuário? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
+6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/)
 
 <font size="3"><p style="text-align: center">Autores: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
@@ -85,4 +85,5 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | |
+|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 01/07/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
+|`1.1` | 01/07/2024 | Preenchimento da tabela de verificação de história de usuário | [Gabriel Souza](https://github.com/GabrielMS00) |  |
