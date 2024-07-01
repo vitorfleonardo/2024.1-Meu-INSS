@@ -26,10 +26,10 @@ Os comentários relacionados a cada artefato serão detalhados aqui.
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Cada cenário descreve uma única instância de uso do sistema? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? | Não | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+1 - Cada cenário descreve uma única instância de uso do sistema? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
 5 - Os cenários especificam um caso de uso? | Incompleto | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
 
 
@@ -53,7 +53,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 8 - Não há dois casos de uso com o mesmo nome? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 9 - Cada ator tem um nome que descreva efetivamente o papel dessa pessoa? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 
-<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
 
 
 ### Especificação dos casos de Uso
@@ -104,7 +104,7 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 15 - Requisitos de restrição de design: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software.  |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
 16 - Requisitos de segurança: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software. |  | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
 
-<font size="3"><p style="text-align: center">Autores: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autores: [Paulo Borba](https://github.com/paulohborba)</p></font>
 
 ### Léxicos
 - Aqui é possível encontrar a origem do artefato verificado [Léxicos]( https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/).
@@ -127,14 +127,14 @@ Critérios  | Sim/Não/Incompleto | Fonte
 #### Comentários
 
 ## Referências Bibliográficas
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/">1.</a> Checklist 1: verificação de Backlog </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/">2.</a> Checklist 2: verificação de Histórias de usuários </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR/">3.</a> Checklist 3: verificação de NFR Framework </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/">1.</a> Checklist 1: verificação de Diagrama de casos de uso e especificação de casos de uso </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/">2.</a> Checklist 2: verificação de In or Out </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/">3.</a> Checklist 3: verificação de Especificação Suplementar </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/">4.</a> Checklist 4: verificação de First Things First </br>
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 01/07/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
-| `1.1`| 01/07/2024 | Preenchimento da tabela de verificação dos cenários | [Gabriel Souza](https://github.com/GabrielMS00) |  |
+|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | |
 
