@@ -94,8 +94,13 @@ Critérios  | Avaliação | Fonte
 9 - Foi utilizado algum método para garantir que todos os participantes expressassem suas ideias? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
 10 - A lista completa de ideias foi incluída num relatório para consulta futura? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
 
-
 <font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
+
+<details>
+  <summary>Vídeo Brainstorm</summary>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/U4M9PiIS230?si=kXkKTK_JSqvY7E0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+</details>
 
 #### Comentários
 
@@ -194,7 +199,15 @@ Critérios  | Avaliação | Fonte
 | 6 - Foi criada uma lista de tarefas baseada nos objetivos priorizados? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
 | 7 - A tabela possui os pesos relativos e sua justificativa? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
 | 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-<font size="3"><p style="text-align: center">Autores: Grupo 7</p></font>
+
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
+
+<details>
+  <summary>Vídeo First Things First</summary>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fnNSQT1S2l8?si=gyyt8gflN7kRtaNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+</details>
+
 
 ## Referências Bibliográficas
 
