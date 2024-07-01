@@ -26,16 +26,22 @@ Pergunta para avaliação| Sim/Não/Incompleto| Preparação do artefato
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Existe apenas um backlog mantido para o projeto inteiro ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
-2 – O backlog inclui Épicos, histórias de usuário e priorização ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
-3 - Os itens do backlog são rastreáveis até os requisitos de origem para facilitar a priorização ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
-4 - Existe uma distinção clara entre histórias de usuário e épicos, sendo os épicos definidos como histórias grandes demais para serem implementadas em uma única iteração ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
-5 - As prioridades dos itens do backlog estão sendo gerenciadas de forma eficaz ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
-6 - As prioridades atribuídas aos itens do backlog são flexíveis e podem mudar nas próximas iterações caso necessário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
-7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+1 - Existe apenas um backlog mantido para o projeto inteiro ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+2 – O backlog inclui Épicos, histórias de usuário e priorização ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+3 - Os itens do backlog são rastreáveis até os requisitos de origem para facilitar a priorização ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+4 - Existe uma distinção clara entre histórias de usuário e épicos, sendo os épicos definidos como histórias grandes demais para serem implementadas em uma única iteração ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+5 - As prioridades dos itens do backlog estão sendo gerenciadas de forma eficaz ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+6 - As prioridades atribuídas aos itens do backlog são flexíveis e podem mudar nas próximas iterações caso necessário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
+7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/)
 
 
-<font size="3"><p style="text-align: center">Autores: [Johnny Lopes](https://github.com/JohnnyLopess) </p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess) </p></font>
+
+<a href="https://www.youtube.com/watch?v=juGXqUOXwos" target="blanket"><strong>Vídeo 1</strong> - Verificação do backlog</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/juGXqUOXwos?si=ALvlnNs2aUKdfDHf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) </p></font>
 
 #### Comentários
 
