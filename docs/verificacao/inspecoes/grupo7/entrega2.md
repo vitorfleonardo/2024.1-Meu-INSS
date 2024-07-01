@@ -35,8 +35,19 @@ Critérios  | Avaliação | Fonte
 7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
 
 
-<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
+<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+
+<center>
+
+<a href="https://www.youtube.com/watch?v=0mm3u3YCha8" target="blanket"><strong>Vídeo 1</strong> - Verificação do Perfil de Usuário</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0mm3u3YCha8?si=R_t9Hg8_1PWyIaMP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
 
 #### Comentários
@@ -233,3 +244,5 @@ Critérios  | Avaliação | Fonte
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 30/06/2024 | [Paulo Borba](https://github.com/paulohborba)
 |`1.1` | 30/06/2024 | Alteração do documento. | [Paulo Borba](https://github.com/paulohborba)  | 31/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7)
+|`1.2`| 30/06/2024| Adição da verificação do perfil de usuário.|[Johnny Lopes](https://github.com/JohnnyLopess)||
+
