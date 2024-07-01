@@ -26,29 +26,43 @@ Pergunta para avaliação| Sim/Não/Incompleto| Preparação do artefato
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - O Rich Picture identifica e expressa claramente os componentes vitais do problema ? |   | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-2 - O Rich Picture utiliza imagens, figuras, palavras-chave e rótulos descritivos para contar uma história ? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-3 - O Rich Picture comunica quem está processando quais dados, para qual propósito, e os fluxos de informação dentro do sistema ? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-4 - Inclui uma declaração do problema no centro da página ? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-5 - Contém todas as palavras-chave relevantes ao redor da declaração do problema ? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-6 - Utiliza imagens e diagramas para representar conceitos e relacionamentos, evitando excesso de palavras ? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-7 - Identifica todos os atores no domínio do problema, com rótulos descritivos (e.g., Manager, Clerk)? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-8 - Identifica as operações que cada ator precisa realizar, representadas como círculos ou ovais com rótulos descritivos? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-9 - Identifica os requisitos de dados de cada operação, incluindo onde os dados serão armazenados e a direção do fluxo de dados entre atores, operações e armazenamentos? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-10 - Representa os armazenamentos de dados (e.g., tabelas do banco de dados, arquivos) como retângulos, com indicações do tipo de dados que contêm? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-11 - Utiliza setas para mostrar a direção do fluxo de dados ou informações entre atores, armazenamentos de dados e operações, com rótulos descritivos para a natureza dos dados ou informações? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-12 - Desenha a linha de delimitação do sistema para definir a área de responsabilidade, representada como uma linha circular (pode ser sólida ou tracejada)? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-13 - O Rich Picture mostra claramente o que está dentro da responsabilidade do sistema e o que está fora? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-14 - O Rich Picture comunica sua mensagem de forma eficaz, sendo compreensível para todos os membros da equipe e stakeholders? |  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+1 - O Rich Picture identifica e expressa claramente os componentes vitais do problema ? |  Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+2 - O Rich Picture utiliza imagens, figuras, palavras-chave e rótulos descritivos para contar uma história ? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+3 - O Rich Picture comunica quem está processando quais dados, para qual propósito, e os fluxos de informação dentro do sistema ? |  Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+4 - Inclui uma declaração do problema no centro da página ? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+5 - Contém todas as palavras-chave relevantes ao redor da declaração do problema ? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+6 - Utiliza imagens e diagramas para representar conceitos e relacionamentos, evitando excesso de palavras ? | Sim  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+7 - Identifica todos os atores no domínio do problema, com rótulos descritivos (e.g., Manager, Clerk)? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+8 - Identifica as operações que cada ator precisa realizar, representadas como círculos ou ovais com rótulos descritivos? |  Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+9 - Identifica os requisitos de dados de cada operação, incluindo onde os dados serão armazenados e a direção do fluxo de dados entre atores, operações e armazenamentos? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+10 - Representa os armazenamentos de dados (e.g., tabelas do banco de dados, arquivos) como retângulos, com indicações do tipo de dados que contêm? |  Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+11 - Utiliza setas para mostrar a direção do fluxo de dados ou informações entre atores, armazenamentos de dados e operações, com rótulos descritivos para a natureza dos dados ou informações? | Sim  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+12 - Desenha a linha de delimitação do sistema para definir a área de responsabilidade, representada como uma linha circular (pode ser sólida ou tracejada)? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+13 - O Rich Picture mostra claramente o que está dentro da responsabilidade do sistema e o que está fora? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+14 - O Rich Picture comunica sua mensagem de forma eficaz, sendo compreensível para todos os membros da equipe e stakeholders? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
 
 
 <font size="3"><p style="text-align: center">Autores: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
 
 
+<center>
+
+<a href="https://www.youtube.com/embed/41yvtJgKc-A?si=xWCYg31j9VG_xx24" target="blanket"><strong>Vídeo 1</strong> - Verificação do Rich Picture</a>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41yvtJgKc-A?si=xWCYg31j9VG_xx24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+
 #### Comentários
+
+Está bem detalhado e fácil de dentender.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | | |
+|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 28/06/2024| [Amanda](https://github.com/acamposs) |
+|`1.1` |30/06/2024 | Verificação e vídeo do Rich Picture. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 28/06/2024| [Amanda](https://github.com/acamposs) |
+

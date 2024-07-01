@@ -76,10 +76,10 @@ Critérios  | Sim/Não/Incompleto | Fonte
 <font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 ## Referências Bibliográficas
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/">1.</a> Checklist 1: verificação de Diagrama de casos de uso e especificação de casos de uso </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/">2.</a> Checklist 2: verificação de In or Out </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/">3.</a> Checklist 3: verificação de Especificação Suplementar </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/">4.</a> Checklist 4: verificação de First Things First </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/">1.</a> Checklist 1: verificação de Backlog </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/">2.</a> Checklist 2: verificação de Histórias de usuários </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR/">3.</a> Checklist 3: verificação de NFR Framework </br>
+
 
 ## Histórico de Versões
 
