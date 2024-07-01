@@ -35,6 +35,9 @@ Critérios  | Avaliação | Fonte
 7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
 
 
+<<<<<<<<< Temporary merge branch 1
+<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+=========
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
 <center>
@@ -43,9 +46,11 @@ Critérios  | Avaliação | Fonte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0mm3u3YCha8?si=R_t9Hg8_1PWyIaMP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</center>
+
+
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
+>>>>>>>>> Temporary merge branch 2
 
 #### Comentários
 
@@ -239,4 +244,10 @@ Critérios  | Avaliação | Fonte
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | |
+<<<<<<<<< Temporary merge branch 1
+|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 30/06/2024 | [Paulo Borba](https://github.com/paulohborba)
+|`1.1` | 30/06/2024 | Alteração do documento. | [Paulo Borba](https://github.com/paulohborba)  | 31/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7)
+=========
+|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  |30/06/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)|
+|`1.1`|
+>>>>>>>>> Temporary merge branch 2
