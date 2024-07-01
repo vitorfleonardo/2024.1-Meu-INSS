@@ -26,14 +26,13 @@ Pergunta para avaliação| Sim/Não/Incompleto| Preparação do artefato
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 – Há um termo de consentimento associado à aplicação do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-2 - O termo de consentimento está anexado ao texto de explicação do perfil de usuário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-3 - Há algum indicador visual das respostas do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-4 - Há indicadores de quantidade de respostas do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-5 - O perfil de usuário possui questões demográficas ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-6 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-
+1 – Há um termo de consentimento associado à aplicação do questionário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+2 - O termo de consentimento está anexado ao texto de explicação do perfil de usuário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+3 - Há algum indicador visual das respostas do questionário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+4 - Há indicadores de quantidade de respostas do questionário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+5 - O perfil de usuário possui questões demográficas ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+6 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
 
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
@@ -44,8 +43,7 @@ Critérios  | Avaliação | Fonte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0mm3u3YCha8?si=R_t9Hg8_1PWyIaMP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
+</center>
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
