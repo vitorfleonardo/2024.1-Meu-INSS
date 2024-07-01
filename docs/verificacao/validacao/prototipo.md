@@ -6,7 +6,7 @@ Após a elicitação dos requisitos, analisamos quais já tinham sido implementa
 
 ## Protótipos
 
-### Requisito 2
+### Requisito 1 & 2
 O usuário deve receber um termo de uso em seu primeiro acesso.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhO7pjS37x1lXjIPVArSV0v%2FUntitled%3Fnode-id%3D9-108%26t%3D4E9paoEzsZyHdYgS-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D5%253A401%26starting-point-node-id%3D9%253A108" allowfullscreen></iframe>
 
@@ -17,6 +17,18 @@ O usuário deve ter acesso a documentos legislativos.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhO7pjS37x1lXjIPVArSV0v%2FUntitled%3Fnode-id%3D59-40%26t%3DepfMvCdyU2szFD9V-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D59%253A39" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+
+### Requisito 4
+O sistema deve fornecer um serviço de suporte técnico acessível diretamente no aplicativo ou por meio de um número 0800 ou chat de atendimento.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FKg8xKpcrdGYEmqq3jXUGle%2FUntitled-(Copy)%3Fnode-id%3D2001-34%26t%3DJTZCbcnnmZTodvDO-1" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
+
+### Requisito 5
+O usuário deve conseguir acessar tutoriais para a compreensão e melhor uso do aplicativo.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FKg8xKpcrdGYEmqq3jXUGle%2FUntitled-(Copy)%3Fnode-id%3D2001-170%26t%3DJTZCbcnnmZTodvDO-1" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
 
 ## Bibliográfia
 > <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 23): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/referencias/Requisitos%20-%20Aula%20023.pdf](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/referencias/Requisitos%20-%20Aula%20023.pdf).
