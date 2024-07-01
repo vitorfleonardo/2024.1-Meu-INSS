@@ -6,7 +6,7 @@ Após a elicitação dos requisitos, analisamos quais já tinham sido implementa
 
 ## Protótipos
 
-### Requisito 1 & 2
+### Requisito 2
 O usuário deve receber um termo de uso em seu primeiro acesso.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhO7pjS37x1lXjIPVArSV0v%2FUntitled%3Fnode-id%3D9-108%26t%3D4E9paoEzsZyHdYgS-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D5%253A401%26starting-point-node-id%3D9%253A108" allowfullscreen></iframe>
 
