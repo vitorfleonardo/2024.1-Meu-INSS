@@ -131,20 +131,31 @@ Critérios  | Avaliação | Fonte
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 - O questionário possui termo de consentimento? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-2 – Os objetivos da pesquisa/questionário estão claramente definidos?  |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/) 
-3 - Foram selecionados os participantes corretos para responder ao questionário?   |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-4 - Foram usados diferentes tipos de perguntas (abertas e fechadas) para obter uma variedade de respostas? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-5 - Cada pergunta está diretamente relacionada aos objetivos da pesquisa? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-6 - As perguntas são claras e evitam ambiguidades? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-7 - Foram fornecidas instruções claras sobre como preencher o questionário? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-8 - As respostas foram registradas de forma organizada e segura? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
-9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+1 - O questionário possui termo de consentimento? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+2 – Os objetivos da pesquisa/questionário estão claramente definidos?  | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/) 
+3 - Foram selecionados os participantes corretos para responder ao questionário?   | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+4 - Foram usados diferentes tipos de perguntas (abertas e fechadas) para obter uma variedade de respostas? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+5 - Cada pergunta está diretamente relacionada aos objetivos da pesquisa? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+6 - As perguntas são claras e evitam ambiguidades? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+7 - Foram fornecidas instruções claras sobre como preencher o questionário? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+8 - As respostas foram registradas de forma organizada e segura? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
+9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
 
-<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba) </p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo), 2024. </p></font>
 
+<center>
+
+<a href="https://youtu.be/kA2v_DtO-i0" target="blanket"><strong>Vídeo 4</strong> - Verificação de Questionário</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kA2v_DtO-i0" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo), 2024.</p></font>
 
 #### Comentários
+
+
 
 ### Introspecção
 - Aqui é possível encontrar a origem do artefato verificado [Introspecção](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Introspeccao/).
@@ -154,12 +165,20 @@ Critérios  | Avaliação | Fonte
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 - As propriedades essenciais que o sistema deve possuir para ser considerado um sucesso podem ser observadas? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
-2 – É possível ver tarefas específicas que o sistema desempenha, considerando os equipamentos e recursos disponíveis?  |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
-3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
-4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? |  | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+1 - As propriedades essenciais que o sistema deve possuir para ser considerado um sucesso podem ser observadas? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+2 – É possível ver tarefas específicas que o sistema desempenha, considerando os equipamentos e recursos disponíveis?  | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
+4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? | Sim | [Checklist 5](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/)
 
-<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
+
+<center>
+
+<a href="https://youtu.be/kA2v_DtO-i0" target="blanket"><strong>Vídeo 5</strong> - Verificação de Introspecção</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kA2v_DtO-i0" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 #### Comentários
 
@@ -242,5 +261,6 @@ Critérios  | Avaliação | Fonte
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 30/06/2024 | [Paulo Borba](https://github.com/paulohborba)
 |`1.1` | 30/06/2024 | Alteração do documento. | [Paulo Borba](https://github.com/paulohborba)  | 31/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7)
-|`1.2`| 30/06/2024| Adição da verificação do perfil de usuário.|[Johnny Lopes](https://github.com/JohnnyLopess)||
+|`1.2`| 30/06/2024| Adição da verificação do perfil de usuário.|[Johnny Lopes](https://github.com/JohnnyLopess)| 01/07/2024|[Vitor Feijó](https://github.com/vitorfleonardo)
+|`1.2`| 30/06/2024| Adição da verificação de questionário e introspeção.|[Vitor Feijó](https://github.com/vitorfleonardo)|01/07/2024|
 
