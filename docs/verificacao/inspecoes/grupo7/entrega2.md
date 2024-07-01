@@ -83,20 +83,49 @@ Critérios  | Sim/Não/Incompleto | Fonte
 <font size="3"><p style="text-align: center">Autores: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
 
 <center>
+
 #### Comentários
+
 Está muito bom esse artefato.
 
 
-<a href="https://www.youtube.com/embed/Cnow2NtGavA?si=aSZnFDvWeWoiSbnE" target="blanket"><strong>Vídeo 1</strong> - Verificação do Rich Picture</a>
+<a href="https://www.youtube.com/embed/Cnow2NtGavA?si=aSZnFDvWeWoiSbnE" target="blanket"><strong>Vídeo 2</strong> - Verificação do Rich Picture</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cnow2NtGavA?si=aSZnFDvWeWoiSbnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
+
+### Entrevista
+
+- Aqui é possível encontrar a origem do artefato verificado [Entrevista](../../elicitacao/entrevista).
+
+<font size="3"><p style="text-align: center">Tabela 4: Verificação da [Entrevista](../../elicitacao/entrevista)</p></font>
+
+Critérios  |Avaliação | Fonte 
+--------- | ------ | --------
+1 - Foi preparado um questionário antes da entrevista? | Sim | [Checklist 8](../../../preparacao/Entrevista/)
+2 – Assim que o entrevistado(a) terminava de falar, havia alguma confirmação do entrevistador(a) do que foi falado (Ex: pelo que entendi você quis dizer x?) | Sim | [Checklist 8](../../../preparacao/Entrevista/)
+3 - O entrevistador(a) mostrou-se atento e prestou atenção ao entrevistado(a), olhando para camera e fazendo barulho de entendimento e confirmação com a cabeça? |Sim | [Checklist 8](../../../preparacao/Entrevista/)
+4 - O entrevistador(a) escutou ativamente e não interrompeu ou julgou o entrevistado(a) em nenhum momento?| Sim  | [Checklist 8](../../../preparacao/Entrevista/)
+5 - Foram utilizadas perguntas abertas e fechadas no roteiro de perguntas? | Sim  | [Checklist 8](../../../preparacao/Entrevista/)
+
+<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+
+<center>
+
+<a href="https://www.youtube.com/watch?v=56nwyYU8GR8" target="blanket"><strong>Vídeo 3</strong> - Verificação da Entrevista</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56nwyYU8GR8?si=faUGFn8Ovb_0LinX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
+
 
 
 ### Brainstorm
 - Aqui é possível encontrar a origem do artefato verificado [Brainstorm](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/brainStorm/).
 
-<font size="3"><p style="text-align: center">Tabela 4: Verificação do [Brainstorm](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/perfil_de_Usuario/)</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Verificação do [Brainstorm](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/perfil_de_Usuario/)</p></font>
 
 
 Critérios  | Avaliação | Fonte
@@ -126,7 +155,7 @@ Critérios  | Avaliação | Fonte
 ### Questionário
 - Aqui é possível encontrar a origem do artefato verificado [Questionário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/questionario/).
 
-<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Questionário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/questionario/)</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Verificação do [Questionário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/questionario/)</p></font>
 
 
 Critérios  | Avaliação | Fonte
@@ -145,7 +174,7 @@ Critérios  | Avaliação | Fonte
 
 <center>
 
-<a href="https://youtu.be/kA2v_DtO-i0" target="blanket"><strong>Vídeo 4</strong> - Verificação de Questionário</a>
+<a href="https://youtu.be/kA2v_DtO-i0" target="blanket"><strong>Vídeo 5</strong> - Verificação de Questionário</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kA2v_DtO-i0" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -160,7 +189,7 @@ Critérios  | Avaliação | Fonte
 ### Introspecção
 - Aqui é possível encontrar a origem do artefato verificado [Introspecção](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Introspeccao/).
 
-<font size="3"><p style="text-align: center">Tabela 2: Verificação do [Introspecção](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Introspeccao/)</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Verificação do [Introspecção](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Introspeccao/)</p></font>
 
 
 Critérios  | Avaliação | Fonte
@@ -174,7 +203,7 @@ Critérios  | Avaliação | Fonte
 
 <center>
 
-<a href="https://youtu.be/kA2v_DtO-i0" target="blanket"><strong>Vídeo 5</strong> - Verificação de Introspecção</a>
+<a href="https://youtu.be/kA2v_DtO-i0" target="blanket"><strong>Vídeo 6</strong> - Verificação de Introspecção</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kA2v_DtO-i0" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +214,7 @@ Critérios  | Avaliação | Fonte
 ### Storytelling
 - Aqui é possível encontrar a origem do artefato verificado [Storytelling](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/storytelling/).
 
-<font size="3"><p style="text-align: center">Tabela 3: Verificação de [Storytelling](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/storytelling/)</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Verificação de [Storytelling](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/storytelling/)</p></font>
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
@@ -203,7 +232,7 @@ Critérios  | Avaliação | Fonte
 ### In or Out
 - Aqui é possível encontrar a origem do artefato verificado [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/).
 
-<font size="3"><p style="text-align: center">Tabela 4: Verificação de [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/)</p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Verificação de [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/)</p></font>
 
 <center>
 
@@ -224,7 +253,7 @@ Critérios  | Avaliação | Fonte
 
 ### First Things First
 
-<font size="3"><p style="text-align: center">Tabela 4: Verificação do  First Things First </p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Verificação do  First Things First </p></font>
 
 | Critérios | Sim/Não/Incompleto | Fonte |
 |-----------|---------------------|-------|
@@ -255,6 +284,8 @@ Critérios  | Avaliação | Fonte
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/">5.</a> Checklist 5: verificação de Storytelling </br>
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/">6.</a> Checklist 6: verificação de In or Out </br>
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/">7.</a> Checklist 7: verificação de First Things First </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Entrevista/">8.</a> Checklist 8: verificação de Entrevista </br>
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
@@ -262,5 +293,5 @@ Critérios  | Avaliação | Fonte
 |`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 30/06/2024 | [Paulo Borba](https://github.com/paulohborba)
 |`1.1` | 30/06/2024 | Alteração do documento. | [Paulo Borba](https://github.com/paulohborba)  | 31/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7)
 |`1.2`| 30/06/2024| Adição da verificação do perfil de usuário.|[Johnny Lopes](https://github.com/JohnnyLopess)| 01/07/2024|[Vitor Feijó](https://github.com/vitorfleonardo)
-|`1.2`| 30/06/2024| Adição da verificação de questionário e introspeção.|[Vitor Feijó](https://github.com/vitorfleonardo)|01/07/2024|
-
+|`1.2`| 30/06/2024| Adição da verificação de questionário e introspeção.|[Vitor Feijó](https://github.com/vitorfleonardo)|01/07/2024|[Johnny Lopes](https://github.com/JohnnyLopess)
+|`1.3`| 01/07/2024| Adição da verificação da Entrevista.|[Johnny Lopes](https://github.com/JohnnyLopess)|01/07/2024|
