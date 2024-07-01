@@ -18,6 +18,12 @@ O usuário deve ter acesso a documentos legislativos.
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
+### Requisito 19
+O usuário deve poder bloquear empréstimos.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/eIWwekRwTBoONKCVsbJIBI/Untitled?node-id=1-18&t=ks1h1g4aqktWTjFi-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A18" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+
 ## Bibliográfia
 > <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 23): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/referencias/Requisitos%20-%20Aula%20023.pdf](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/referencias/Requisitos%20-%20Aula%20023.pdf).
 
@@ -26,3 +32,4 @@ O usuário deve ter acesso a documentos legislativos.
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 31/06/2024 | Criação do documento. |[Paulo Borba](https://github.com/paulohborba) | 31/06/2024| [Johnny Lopes](https://github.com/JohnnyLopess)|
+|`1.1` | 01/07/2024 | Adição do protótipo do RE19 | [Gabriel Souza](https://github.com/GabrielMS00) |  |
