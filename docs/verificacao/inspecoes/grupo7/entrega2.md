@@ -26,26 +26,18 @@ Pergunta para avaliação| Sim/Não/Incompleto| Preparação do artefato
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 – Há um termo de consentimento associado à aplicação do questionário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-2 - O termo de consentimento está anexado ao texto de explicação do perfil de usuário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-3 - Há algum indicador visual das respostas do questionário ? | Sim  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-4 - Há indicadores de quantidade de respostas do questionário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-5 - O perfil de usuário possui questões demográficas ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-6 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
-7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+1 – Há um termo de consentimento associado à aplicação do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+2 - O termo de consentimento está anexado ao texto de explicação do perfil de usuário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+3 - Há algum indicador visual das respostas do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+4 - Há indicadores de quantidade de respostas do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+5 - O perfil de usuário possui questões demográficas ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+6 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
+7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
 
 
-<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00) & [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+<font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
-<center>
 
-<a href="https://www.youtube.com/watch?v=0mm3u3YCha8" target="blanket"><strong>Vídeo 1</strong> - Verificação do Perfil de Usuário</a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0mm3u3YCha8?si=R_t9Hg8_1PWyIaMP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</center>
-
-<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
 #### Comentários
 
@@ -53,7 +45,7 @@ Critérios  | Avaliação | Fonte
 
 - Aqui é possível encontrar a origem do artefato verificado [Personas](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/personas/).
 
-<font size="3"><p style="text-align: center">Tabela 5: Verificação das Personas</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Verificação das Personas</p></font>
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
@@ -83,6 +75,31 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 #### Comentários
 
+### Brainstorm
+- Aqui é possível encontrar a origem do artefato verificado [Brainstorm](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/brainStorm/).
+
+<font size="3"><p style="text-align: center">Tabela 4: Verificação do [Brainstorm](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/perfil_de_Usuario/)</p></font>
+
+
+Critérios  | Avaliação | Fonte
+--------- | ------ | ------
+1 – Os participantes foram informados sobre o objetivo e procedimento da atividade? | Inc | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
+2 - A quantidade de usuários finais que participaram da sessão era de 8 a 12 pessoas? | Não | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
+3 - A introdução fornecida aos participantes incluiu a descrição do produto e a explicação das duas partes da atividade? | Inc | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
+4 - As regras da sessão foram claramente explicadas, incluindo a proibição de críticas e a definição de um sistema ideal? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
+5 - O moderador fez perguntas para esclarecer as sugestões e manteve o foco no objetivo da sessão? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
+6 - Houve um secretário e/ou cinegrafista presente para registrar as ideias? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
+7 - As ideias duplicadas foram tratadas e o moderador pediu mais detalhes para entender as diferenças? | Inc | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
+8 - Cada participante teve a oportunidade de registrar pelo menos cinco itens que considerava essenciais? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
+9 - Foi utilizado algum método para garantir que todos os participantes expressassem suas ideias? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
+10 - A lista completa de ideias foi incluída num relatório para consulta futura? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Brainstorm/)
+
+
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
+
+#### Comentários
+
+
 ### Questionário
 - Aqui é possível encontrar a origem do artefato verificado [Questionário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/questionario/).
 
@@ -101,7 +118,7 @@ Critérios  | Avaliação | Fonte
 8 - As respostas foram registradas de forma organizada e segura? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
 9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/)
 
-<font size="3"><p style="text-align: center">Autores: [Paulo Borba](https://github.com/paulohborba) </p></font>
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba) </p></font>
 
 
 #### Comentários
@@ -169,28 +186,28 @@ Critérios  | Avaliação | Fonte
 
 | Critérios | Sim/Não/Incompleto | Fonte |
 |-----------|---------------------|-------|
-| 1 - Os objetivos principais do projeto foram identificados? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 2 - Os objetivos foram priorizados de acordo com a técnica "First Things First"? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 3 - Os critérios para priorização dos objetivos foram definidos e documentados? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 4 - A equipe de desenvolvimento foi envolvida no processo de priorização? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 5 - As decisões de priorização foram validadas com os stakeholders? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 6 - Foi criada uma lista de tarefas baseada nos objetivos priorizados? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 7 - A tabela possui os pesos relativos e sua justificativa? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-| 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
-
+| 1 - Os objetivos principais do projeto foram identificados? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 2 - Os objetivos foram priorizados de acordo com a técnica "First Things First"? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 3 - Os critérios para priorização dos objetivos foram definidos e documentados? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 4 - A equipe de desenvolvimento foi envolvida no processo de priorização? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 5 - As decisões de priorização foram validadas com os stakeholders? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 6 - Foi criada uma lista de tarefas baseada nos objetivos priorizados? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 7 - A tabela possui os pesos relativos e sua justificativa? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
+| 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
 <font size="3"><p style="text-align: center">Autores: Grupo 7</p></font>
 
 ## Referências Bibliográficas
 
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/">1.</a> Checklist 1: verificação de Perfil do usuário </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/">2.</a> Checklist 2: verificação de Questionário </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/AnalisedeDoc/">3.</a> Checklist 3: verificação de Análise de Documentação </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/">4.</a> Checklist 4: verificação de Storytelling </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/">5.</a> Checklist 5: verificação de Introspecção </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/">6.</a> Checklist 6: verificação de Personas </br>
-
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/">2.</a> Checklist 2: verificação de Personas </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/">3.</a> Checklist 3: verificação de Questionário </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/">4.</a> Checklist 4: verificação de Introspecção </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/">5.</a> Checklist 5: verificação de Storytelling </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/">6.</a> Checklist 6: verificação de In or Out </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/">7.</a> Checklist 7: verificação de First Things First </br>
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | |
+|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 30/06/2024 | [Paulo Borba](https://github.com/paulohborba)
+|`1.1` | 30/06/2024 | Alteração do documento. | [Paulo Borba](https://github.com/paulohborba)  | 31/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7)
