@@ -81,6 +81,7 @@ nav:
           - NFR Framework: "verificacao/preparacao/NFR.md"
           - Three Level Scale: "verificacao/preparacao/ThreeLevelScale.md"
           - Matriz de rastreabilidade: "verificacao/preparacao/Matriz.md"
+          - Elos: "verificacao/preparacao/Elos.md"
         - Inspeções:
           - Grupo 8:
             - Entrega 1: "verificacao/inspecoes/grupo8/entrega1.md"
