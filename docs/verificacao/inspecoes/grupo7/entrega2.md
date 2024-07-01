@@ -242,5 +242,5 @@ Critérios  | Avaliação | Fonte
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 30/06/2024 | [Paulo Borba](https://github.com/paulohborba)
 |`1.1` | 30/06/2024 | Alteração do documento. | [Paulo Borba](https://github.com/paulohborba)  | 31/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7)
-|`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  |30/06/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)|
+|`1.2`| 30/06/2024| Adição da verificação do perfil de usuário.|[Johnny Lopes](https://github.com/JohnnyLopess)||
 
