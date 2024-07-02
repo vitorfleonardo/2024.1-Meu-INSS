@@ -134,7 +134,7 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
 1 - Os termos léxicos foram identificados e documentados? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-2 - Cada termo léxico possui um nome único e descritivo? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+2 - Cada termo léxico possui um nome único e descritivo? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 4 - É apresentado um ou mais exemplos de cada classificação de léxico? | Inc | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 5 - Foram identificadas e documentadas as relações entre os termos léxicos? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
