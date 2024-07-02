@@ -78,4 +78,4 @@ Critérios  | Sim/Não/Incompleto | Fonte
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 30/06/2024 | Criação do documento. | [Paulo Borba](https://github.com/paulohborba)  | 30/06/2024 |[Amanda Campos](https://github.com/acamposs) |
-|`1.1` | 30/06/2024 | Verificação dos elos de rastreabilidade | [Paulo Borba](https://github.com/paulohborba)  | 30/06/2024 |[Amanda Campos](https://github.com/acamposs) |
+|`1.1` | 30/06/2024 | Verificação dos elos de rastreabilidade | [Amanda Campos](https://github.com/acamposs)  | 30/06/2024 | [Paulo Borba](https://github.com/paulohborba) |
