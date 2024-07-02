@@ -3,7 +3,7 @@ Este artefa tem como objetivo verificar os artefatos da Primeira Entrega do [gru
 
 ## Metodologia
 
-Nesta página é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo ele [Matriz de rastreabildade](https://requisitos-de-software.github.io/2024.1-Meu-INSS/rastreabilidade/matriz/). A verificação foi realizada utilizando a Tabela 1 como template, realizando cometários e utilizando o checklist criado em preparação.
+Nesta página é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo ele [Matriz de rastreabildade](https://requisitos-de-software.github.io/2024.1-Meu-INSS/rastreabilidade/matriz/)[Elos de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Meu-INSS/rastreabilidade/Elos/). A verificação foi realizada utilizando a Tabela 1 como template, realizando cometários e utilizando o checklist criado em preparação.
 
 <font size="3"><p style="text-align: center">Tabela 1: Template para verificação</p></font>
 
@@ -45,21 +45,21 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 ### Elos de Rastreabilidade
 
-- Aqui é possível encontrar a origem do artefato verificado [Elos de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Meu-INSS/rastreabilidade/matriz/).
+- Aqui é possível encontrar a origem do artefato verificado [Elos de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Meu-INSS/rastreabilidade/Elos/).
 
 <font size="3"><p style="text-align: center">Tabela 2: Verificação de Elos de Rastreabilidade</p></font>
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Os elos provem relacionamentos entre requisitos, arquitetura e implementação? | Sim  | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-2 - Forward-to: liga documentos de licitação a requisitos relevantes? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-3 - Backward-from: liga requisitos às suas fontes? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-4 - os elos contém a classificação das informações a serem rastreadas (ambiental, organizacional, gerencial, desenvolvimento)? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-5 - Satisfação: os elos do tipo satisfação contem os artefatos que satisfazem aquele requisito? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-6 - Recurso: Os elos do tipo recurso contêm os artefatos que recorrem daquele requisito? | Não | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-7 - Responsabilidade: Os elos do tipo responsabilidade contêm os artefatos que há a responsabilidade daquele requisito? | Não | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-8 - Representação: Há o print do requisito caso ele ja esteja implementado? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
-9- Agregação: Os elos do tipo agregação contêm os artefatos que compõem elementos daquele requisito? | Sim | [Checklist](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/)
+1 - Os elos provem relacionamentos entre requisitos, arquitetura e implementação? | Sim  | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+2 - Forward-to: liga documentos de licitação a requisitos relevantes? | Sim | [Checklist Elos]((https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+3 - Backward-from: liga requisitos às suas fontes? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+4 - os elos contém a classificação das informações a serem rastreadas (ambiental, organizacional, gerencial, desenvolvimento)? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+5 - Satisfação: os elos do tipo satisfação contem os artefatos que satisfazem aquele requisito? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+6 - Recurso: Os elos do tipo recurso contêm os artefatos que recorrem daquele requisito? | Não | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+7 - Responsabilidade: Os elos do tipo responsabilidade contêm os artefatos que há a responsabilidade daquele requisito? | Não | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+8 - Representação: Há o print do requisito caso ele ja esteja implementado? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+9- Agregação: Os elos do tipo agregação contêm os artefatos que compõem elementos daquele requisito? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
 
 
 
