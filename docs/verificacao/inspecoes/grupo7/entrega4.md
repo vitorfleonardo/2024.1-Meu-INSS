@@ -73,7 +73,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
 1 - Os requisitos não funcionais foram identificados e documentados ? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 2 – Foi utilizada a abordagem goal-oriented para a especificação dos requisitos não funcionais ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
-3 - Os softgoals foram definidos e classificados de acordo com o NFR Framework ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+3 - Os softgoals foram definidos e classificados de acordo com o NFR Framework ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 4 - Foi utilizado o Softgoal Interdependency Graph (SIG) como modelo para representar as interdependências entre os softgoals ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 5 - Os softgoals foram priorizados de acordo com a importância para o sistema ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
