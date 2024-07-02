@@ -298,6 +298,40 @@ Artefato super completo.
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </details>
 
+#### Comentários
+
+Feitos no vídeo.
+
+### Three Level Scale
+
+<font size="3"><p style="text-align: center">Tabela 4: Verificação do  Three Level Scale </p></font>
+
+
+| Critérios | Sim/Não/Incompleto | Fonte |
+|-----------|---------------------|-------|
+| 1 - Os objetivos principais do projeto foram identificados? | Sim  |[Checklist 9](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/)   |
+| 2 - Os objetivos foram priorizados de acordo com a técnica "Three-level scale"? |  Sim |[Checklist 9](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/)   |
+| 3 - Os critérios para priorização dos objetivos foram definidos e documentados? | Sim |[Checklist 9](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/)   |
+| 4 - A equipe de desenvolvimento foi envolvida no processo de priorização? | Sim |[Checklist 9](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/)   |
+| 5 - As decisões de priorização foram validadas com os stakeholders? |  Sim | [Checklist 9](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/)   |
+| 7 - Foi criada uma lista de tarefas baseada nos objetivos priorizados? | Sim |[Checklist 9](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/)   |
+| 7 - O artefato possui os dados do requisito? | Sim | [Checklist 9](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/)   |
+| 8 - Participação dos representantes na gravação com o usuário? | Sim | [Checklist 9](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/)   |
+
+<font size="3"><p style="text-align: center">Autores: Grupo 7</p></font>
+
+
+<details>
+  <summary>Vídeo Verificação Three Level Scale</summary>
+  <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vcC3Slelnc0?si=m7tP_O-M3u0o10jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024</p></font>
+</details>
+#### Comentários
+
+Feitos no vídeo.
+
 
 ## Referências Bibliográficas
 
@@ -309,6 +343,7 @@ Artefato super completo.
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/100dol/">6.</a> Checklist 6: verificação de 100$ </br>
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/">7.</a> Checklist 7: verificação de First Things First </br>
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Entrevista/">8.</a> Checklist 8: verificação de Entrevista </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/">9.</a> Checklist 9: verificação de Three Level Scale </br>
 
 
 ## Histórico de Versões
@@ -319,4 +354,5 @@ Artefato super completo.
 |`1.1` | 30/06/2024 | Alteração do documento. | [Paulo Borba](https://github.com/paulohborba)  | 31/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7)
 |`1.2`| 30/06/2024| Adição da verificação do perfil de usuário.|[Johnny Lopes](https://github.com/JohnnyLopess)| 01/07/2024|[Vitor Feijó](https://github.com/vitorfleonardo)
 |`1.2`| 30/06/2024| Adição da verificação de questionário e introspeção.|[Vitor Feijó](https://github.com/vitorfleonardo)|01/07/2024|[Johnny Lopes](https://github.com/JohnnyLopess)
+|`1.2`| 30/06/2024| Adição da verificação do Three Level Scale e Personas.|[Bianca Castro](https://github.com/BiancaPatrocinio7) |01/07/2024|[Johnny Lopes](https://github.com/JohnnyLopess)
 |`1.3`| 01/07/2024| Adição da verificação da Entrevista.|[Johnny Lopes](https://github.com/JohnnyLopess)|01/07/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)
