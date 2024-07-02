@@ -3,7 +3,7 @@ Este artefa tem como objetivo verificar os artefatos da Primeira Entrega do [gru
 
 ## Metodologia
 
-Nesta página é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo ele [Matriz de rastreabildade](https://requisitos-de-software.github.io/2024.1-Meu-INSS/rastreabilidade/matriz/)[Elos de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Meu-INSS/rastreabilidade/Elos/). A verificação foi realizada utilizando a Tabela 1 como template, realizando cometários e utilizando o checklist criado em preparação.
+Nesta página é possível se observar a verificação de todos os artefatos dessa mesma entrega sendo ele [Matriz de rastreabildade](https://requisitos-de-software.github.io/2024.1-Meu-INSS/rastreabilidade/matriz/) e [Elos de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Meu-INSS/rastreabilidade/Elos/). A verificação foi realizada utilizando a Tabela 1 como template, realizando cometários e utilizando o checklist criado em preparação.
 
 <font size="3"><p style="text-align: center">Tabela 1: Template para verificação</p></font>
 
