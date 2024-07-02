@@ -52,7 +52,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
 1 - Os elos provem relacionamentos entre requisitos, arquitetura e implementação? | Sim  | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
-2 - Forward-to: liga documentos de licitação a requisitos relevantes? | Sim | [Checklist Elos]((https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+2 - Forward-to: liga documentos de licitação a requisitos relevantes? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
 3 - Backward-from: liga requisitos às suas fontes? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
 4 - os elos contém a classificação das informações a serem rastreadas (ambiental, organizacional, gerencial, desenvolvimento)? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
 5 - Satisfação: os elos do tipo satisfação contem os artefatos que satisfazem aquele requisito? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
