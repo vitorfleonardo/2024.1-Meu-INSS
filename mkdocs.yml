@@ -98,6 +98,7 @@ nav:
             - Entrega 6: "verificacao/inspecoes/grupo7/entrega5.md" 
         - Validação:
             - Prototipação: "verificacao/validacao/prototipo.md"
+            - Comprovação Informal: "verificacao/validacao/verificaInformal.md"
 
     - Rastreabilidade:
       - Elos: "rastreabilidade/Elos.md"
