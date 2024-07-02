@@ -62,34 +62,6 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 Critérios  | Sim/Não/Incompleto | Fonte</a>
 --------- | ------ | ------
-1 - O caso de uso tem um nome exclusivo? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-2 - O nome é um verbo + frase nominal (por exemplo, Retirar dinheiro)? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-3 - O nome resume com precisão o objetivo principal do caso de uso? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-4 - O nome é independente do ator? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-5 - Está claro na breve descrição qual é o objetivo principal do caso de uso? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-6 - O caso de uso está associado a um ou mais atores? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-7 - O ator primário ou ator inicial está definido? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-8 - Está claro quem executa as ações no caso de uso? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-9 - Todas as informações trocadas entre os atores e o sistema são claramente especificadas? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-10 - Cada pré-condição representa um estado tangível do sistema (por exemplo, o caso de uso Sacar Dinheiro para um caixa eletrônico tem como pré-condição que o usuário tenha uma conta)? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-11 - Está claro como o caso de uso começa? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-12 - O fluxo tem um final definido? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-13 - Cada etapa progride em direção à meta? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-14 - As etapas estão numeradas corretamente? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-15 - Para cada fluxo alternativo, as condições para início do fluxo estão claramente definidas? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-
-<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
-
-#### Especificação dos casos de Uso 10 e 11
-<details>
-  <summary>Especificação do casos de Uso 10 e 11</summary>
-
-### Especificação do casos de Uso 10
-
-<font size="3"><p style="text-align: center">Tabela 5: Verificação das especificações de casos de uso </p></font>
-
-Critérios  | Sim/Não/Incompleto | Fonte</a>
---------- | ------ | ------
 1 - O caso de uso tem um nome exclusivo? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 2 - O nome é um verbo + frase nominal (por exemplo, Retirar dinheiro)? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 3 - O nome resume com precisão o objetivo principal do caso de uso? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
@@ -109,34 +81,8 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
 #### Comentários
-- 10: Apesar de conter as informações necessárias, poderia ser mais bem elaborado. 
-
- ### Especificação dos casos de Uso 11
-
-<font size="3"><p style="text-align: center">Tabela 6: Verificação das especificações de casos de uso </p></font>
-
-Critérios  | Sim/Não/Incompleto | Fonte</a>
---------- | ------ | ------
-1 - O caso de uso tem um nome exclusivo? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-2 - O nome é um verbo + frase nominal (por exemplo, Retirar dinheiro)? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-3 - O nome resume com precisão o objetivo principal do caso de uso? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-4 - O nome é independente do ator? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-5 - Está claro na breve descrição qual é o objetivo principal do caso de uso? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-6 - O caso de uso está associado a um ou mais atores? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-7 - O ator primário ou ator inicial está definido? | Inc | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-8 - Está claro quem executa as ações no caso de uso? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-9 - Todas as informações trocadas entre os atores e o sistema são claramente especificadas? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-10 - Cada pré-condição representa um estado tangível do sistema (por exemplo, o caso de uso Sacar Dinheiro para um caixa eletrônico tem como pré-condição que o usuário tenha uma conta)? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-11 - Está claro como o caso de uso começa? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-12 - O fluxo tem um final definido? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-13 - Cada etapa progride em direção à meta? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-14 - As etapas estão numeradas corretamente? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-15 - Para cada fluxo alternativo, as condições para início do fluxo estão claramente definidas? | Inc | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-
-  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
-
-  #### Comentários
-- 3: Apesar de conter as informações necessárias, poderia ser mais bem elaborado. 
+- 10.10: Apesar de conter as informações necessárias, poderia ser mais bem elaborado.
+- 11.3: Apesar de conter as informações necessárias, poderia ser mais bem elaborado. 
 
 <details>
   <summary>Vídeo Especificação do casos de Uso 10 e 11</summary>
