@@ -71,15 +71,15 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Os requisitos não funcionais foram identificados e documentados ? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
-2 – Foi utilizada a abordagem goal-oriented para a especificação dos requisitos não funcionais ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+1 - Os requisitos não funcionais foram identificados e documentados ? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+2 – Foi utilizada a abordagem goal-oriented para a especificação dos requisitos não funcionais ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 3 - Os softgoals foram definidos e classificados de acordo com o NFR Framework ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
-4 - Foi utilizado o Softgoal Interdependency Graph (SIG) como modelo para representar as interdependências entre os softgoals ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
-5 - Os softgoals foram priorizados de acordo com a importância para o sistema ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
-6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
-7 - Foi elaborado um plano para gerenciar e resolver os conflitos identificados ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
-8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
-9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+4 - Foi utilizado o Softgoal Interdependency Graph (SIG) como modelo para representar as interdependências entre os softgoals ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+5 - Os softgoals foram priorizados de acordo com a importância para o sistema ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+7 - Foi elaborado um plano para gerenciar e resolver os conflitos identificados ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
+9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR)
 
 <font size="3"><p style="text-align: center">Autores: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
