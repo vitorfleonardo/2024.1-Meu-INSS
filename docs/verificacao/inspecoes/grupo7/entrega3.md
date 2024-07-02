@@ -26,10 +26,10 @@ Os comentários relacionados a cada artefato serão detalhados aqui.
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Cada cenário descreve uma única instância de uso do sistema? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
-4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos |  | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+1 - Cada cenário descreve uma única instância de uso do sistema? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
+4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
 5 - Os cenários especificam um caso de uso? | Incompleto | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/)
 
 
@@ -43,15 +43,15 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - O Diagrama Casos de Uso fornece uma visão geral clara e concisa da finalidade e da funcionalidade do sistema? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-2 – Não existem longas cadeias de relacionamentos de inclusão, como quando um caso de uso incluído inclui outros casos de uso? Isso pode obscurecer a compreensão. |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-3 - Os casos de uso identificados respondem coletivamente por todo o comportamento exigido do sistema? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-4 - Você verificou que o modelo de casos de uso não contém comportamento supérfluo (conhecido como "gold-plating")? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-5 - Cada caso de uso concreto está associado a pelo menos um Ator, como deveria ser? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-6 - Cada ator está associado a pelo menos um caso de uso? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-7 - Cada caso de uso incluído torna o modelo mais fácil de entender, implementar e manter? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-8 - Não há dois casos de uso com o mesmo nome? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-9 - Cada ator tem um nome que descreva efetivamente o papel dessa pessoa? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
+1 - O Diagrama Casos de Uso fornece uma visão geral clara e concisa da finalidade e da funcionalidade do sistema? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
+2 – Não existem longas cadeias de relacionamentos de inclusão, como quando um caso de uso incluído inclui outros casos de uso? Isso pode obscurecer a compreensão. | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
+3 - Os casos de uso identificados respondem coletivamente por todo o comportamento exigido do sistema? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
+4 - Você verificou que o modelo de casos de uso não contém comportamento supérfluo (conhecido como "gold-plating")? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
+5 - Cada caso de uso concreto está associado a pelo menos um Ator, como deveria ser? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
+6 - Cada ator está associado a pelo menos um caso de uso? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
+7 - Cada caso de uso incluído torna o modelo mais fácil de entender, implementar e manter? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
+8 - Não há dois casos de uso com o mesmo nome? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
+9 - Cada ator tem um nome que descreva efetivamente o papel dessa pessoa? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 
 <font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
 
@@ -76,7 +76,7 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 12 - O fluxo tem um final definido? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 13 - Cada etapa progride em direção à meta? |  Sim| [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 14 - As etapas estão numeradas corretamente? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
-15 - Para cada fluxo alternativo, as condições para início do fluxo estão claramente definidas? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
+15 - Para cada fluxo alternativo, as condições para início do fluxo estão claramente definidas? | Sim | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/)
 
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
@@ -133,13 +133,13 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 
 Critérios  | Sim/Não/Incompleto | Fonte
 --------- | ------ | ------
-1 - Os termos léxicos foram identificados e documentados? |  |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+1 - Os termos léxicos foram identificados e documentados? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 2 - Cada termo léxico possui um nome único e descritivo? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-4 - É apresentado um ou mais exemplos de cada classificação de léxico? | Imcompleto | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-5 - Foram identificadas e documentadas as relações entre os termos léxicos? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-6 -  As informações são suficientes para entendimento dos léxico?| Imcompleto  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-7 -  A documentação dos léxicos foi revisada e aprovada? |  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+4 - É apresentado um ou mais exemplos de cada classificação de léxico? | Inc | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+5 - Foram identificadas e documentadas as relações entre os termos léxicos? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+6 -  As informações são suficientes para entendimento dos léxico?| Inc  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+7 -  A documentação dos léxicos foi revisada e aprovada? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 
 
 <font size="3"><p style="text-align: center">Autores: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Amanda Campos](https://github.com/acamposs)</p></font>
