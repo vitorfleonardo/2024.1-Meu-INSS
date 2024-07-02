@@ -86,10 +86,12 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 
 <details>
   <summary>Vídeo Especificação do casos de Uso 10 e 11</summary>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oOd9CZ8d9Lc?si=ZqsmYbKafJUO2mS9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oOd9CZ8d9Lc?si=ZqsmYbKafJUO2mS9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </center>
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+
 </details>
-</details>
+
 
 ### Especificação suplementar
 
@@ -117,7 +119,9 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 
 <details>
   <summary>Vídeo Especificação suplementar</summary>
+    <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uhIn0hGL4mw?si=en8BFKTa42ccDmHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </center>
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </details>
 

@@ -37,15 +37,15 @@ Critérios  | Avaliação | Fonte
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
-<center>
 
-<a href="https://www.youtube.com/watch?v=0mm3u3YCha8" target="blanket"><strong>Vídeo 1</strong> - Verificação do Perfil de Usuário</a>
-
+<details>
+  <summary>Vídeo Verificação do Perfil de Usuário</summary>
+  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0mm3u3YCha8?si=R_t9Hg8_1PWyIaMP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 </center>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
+</details>
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
 
 #### Comentários
@@ -82,17 +82,23 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 <font size="3"><p style="text-align: center">Autores: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
 
-<center>
+
 
 #### Comentários
 
-Está muito bom esse artefato.
+Feitos no vídeo.
 
 
-<a href="https://www.youtube.com/embed/Cnow2NtGavA?si=aSZnFDvWeWoiSbnE" target="blanket"><strong>Vídeo 2</strong> - Verificação do Rich Picture</a>
 
+
+<details>
+  <summary>Vídeo Verificação Personas</summary>
+  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cnow2NtGavA?si=aSZnFDvWeWoiSbnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024</p></font>
+</details>
+
 
 ### Entrevista
 
@@ -110,17 +116,13 @@ Critérios  |Avaliação | Fonte
 
 <font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
-<center>
-
-<a href="https://www.youtube.com/watch?v=56nwyYU8GR8" target="blanket"><strong>Vídeo 3</strong> - Verificação da Entrevista</a>
-
+<details>
+  <summary>Vídeo Verificação Entrevista</summary>
+  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56nwyYU8GR8?si=faUGFn8Ovb_0LinX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 </center>
-
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
-
-
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
+</details>
 
 ### Brainstorm
 - Aqui é possível encontrar a origem do artefato verificado [Brainstorm](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/brainStorm/).
@@ -144,12 +146,15 @@ Critérios  | Avaliação | Fonte
 <font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
 
 <details>
-  <summary>Vídeo Brainstorm</summary>
+  <summary>Vídeo Verificação Brainstorm</summary>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/U4M9PiIS230?si=kXkKTK_JSqvY7E0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </details>
 
+
 #### Comentários
+
+Feitos no vídeo.
 
 
 ### Questionário
@@ -172,18 +177,17 @@ Critérios  | Avaliação | Fonte
 
 <font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo), 2024. </p></font>
 
-<center>
 
-<a href="https://youtu.be/kA2v_DtO-i0" target="blanket"><strong>Vídeo 5</strong> - Verificação de Questionário</a>
+<details>
+  <summary>Vídeo Verificação de Questionário</summary>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/kA2v_DtO-i0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+</details>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kA2v_DtO-i0" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</center>
-
-<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo), 2024.</p></font>
 
 #### Comentários
 
+Feitos no vídeo.
 
 
 ### Introspecção
@@ -201,15 +205,17 @@ Critérios  | Avaliação | Fonte
 
 <font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
 
-<center>
+<details>
+  <summary>Vídeo Verificação de Introspecção</summary>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/kA2v_DtO-i0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+</details>
 
-<a href="https://youtu.be/kA2v_DtO-i0" target="blanket"><strong>Vídeo 6</strong> - Verificação de Introspecção</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kA2v_DtO-i0" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</center>
 
 #### Comentários
+
+Feitos no vídeo.
 
 ### Storytelling
 - Aqui é possível encontrar a origem do artefato verificado [Storytelling](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/storytelling/).
@@ -225,37 +231,46 @@ Critérios  | Avaliação | Fonte
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
+<details>
 
-<a href="https://www.youtube.com/watch?v=juGXqUOXwos" target="blanket"><strong>Vídeo 6</strong> - Verificação do storytelling</a>
-
+  <summary>Vídeo Verificação do storytelling</summary>
+  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/biuAOjryU8k?si=qY0rXzJkegpRDm_t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024</p></font>
+</details>
 
-<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) </p></font>
 
 
 #### Comentários
 
-### In or Out
-- Aqui é possível encontrar a origem do artefato verificado [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/).
+Feitos no vídeo.
 
-<font size="3"><p style="text-align: center">Tabela 9: Verificação de [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/)</p></font>
+### 100$
+- Aqui é possível encontrar a origem do artefato verificado [100$](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Prioriza%C3%A7%C3%A3o/100%24/).
+
+<font size="3"><p style="text-align: center">Tabela 9: Verificação de [100$](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Prioriza%C3%A7%C3%A3o/100%24/)</p></font>
+
 
 <center>
 
 Critérios  | Avaliação | Fonte
 --------- | ------ | ------
-1 - Os stakeholders foram identificados ? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
-2 – Os critérios para a classificação foram definidos (In or Out)? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
-3 - A priorização envolveu uma decisão binária clara para cada requisito?  |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
-4 - A priorização foi feita com um usuário/persona ? |  | [Checklist 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/)
+1 - Foi entregue dolares para os participantes da reunião encenando recursos limitados?  | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Prioriza%C3%A7%C3%A3o/100%24/) |
+2 – Ao final foi gerada uma lista com os requisitos priorizados? | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Prioriza%C3%A7%C3%A3o/100%24/)|
+3 - Antes de iniciar a priorização, foi elaborada uma lista dos requisitos?   | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Prioriza%C3%A7%C3%A3o/100%24/) |
+5 - A disposição de dolares por cada participante foi de maneira separada (um por coluna)?  | Sim | [Checklist 6](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Prioriza%C3%A7%C3%A3o/100%24/)|
 
 </center>
 
 <font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
+
+
 #### Comentários
 
-* Nem todos os requisitos elicitados foram priorizados utilizando esta técnica.
+
+Artefato super completo.
 
 ### First Things First
 
@@ -274,9 +289,12 @@ Critérios  | Avaliação | Fonte
 
 <font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
 
+
 <details>
-  <summary>Vídeo First Things First</summary>
+  <summary>Vídeo Verificação First Things First</summary>
+  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fnNSQT1S2l8?si=gyyt8gflN7kRtaNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </details>
 
@@ -288,9 +306,10 @@ Critérios  | Avaliação | Fonte
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/">3.</a> Checklist 3: verificação de Questionário </br>
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/">4.</a> Checklist 4: verificação de Introspecção </br>
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/">5.</a> Checklist 5: verificação de Storytelling </br>
-> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/InOrOut/">6.</a> Checklist 6: verificação de In or Out </br>
+> <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/100dol/">6.</a> Checklist 6: verificação de 100$ </br>
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/">7.</a> Checklist 7: verificação de First Things First </br>
 > <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Entrevista/">8.</a> Checklist 8: verificação de Entrevista </br>
+
 
 ## Histórico de Versões
 
@@ -300,4 +319,4 @@ Critérios  | Avaliação | Fonte
 |`1.1` | 30/06/2024 | Alteração do documento. | [Paulo Borba](https://github.com/paulohborba)  | 31/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7)
 |`1.2`| 30/06/2024| Adição da verificação do perfil de usuário.|[Johnny Lopes](https://github.com/JohnnyLopess)| 01/07/2024|[Vitor Feijó](https://github.com/vitorfleonardo)
 |`1.2`| 30/06/2024| Adição da verificação de questionário e introspeção.|[Vitor Feijó](https://github.com/vitorfleonardo)|01/07/2024|[Johnny Lopes](https://github.com/JohnnyLopess)
-|`1.3`| 01/07/2024| Adição da verificação da Entrevista.|[Johnny Lopes](https://github.com/JohnnyLopess)|01/07/2024|
+|`1.3`| 01/07/2024| Adição da verificação da Entrevista.|[Johnny Lopes](https://github.com/JohnnyLopess)|01/07/2024|[Bianca Castro](https://github.com/BiancaPatrocinio7)

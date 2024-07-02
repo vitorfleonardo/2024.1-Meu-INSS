@@ -45,14 +45,14 @@ Critérios  | Sim/Não/Incompleto | Fonte
 <font size="3"><p style="text-align: center">Autores: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
 
 
-<center>
-
-<a href="https://www.youtube.com/embed/41yvtJgKc-A?si=xWCYg31j9VG_xx24" target="blanket"><strong>Vídeo 1</strong> - Verificação do Rich Picture</a>
-
-
+<details>
+  <summary>Vídeo Verificação Rich Picture</summary>
+  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41yvtJgKc-A?si=xWCYg31j9VG_xx24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 </center>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024</p></font>
+</details>
+
 
 
 #### Comentários
