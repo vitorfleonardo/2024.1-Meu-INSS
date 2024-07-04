@@ -6,6 +6,10 @@ Este cronograma tem como objetivo demonstrar como foram de fato executadas as et
 
 Neste contexto, utilizamos como base o cronograma disponibilizado no repositório do projeto [(Bilheteria Digital)](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma), adaptando-o às necessidades específicas da nossa equipe e do projeto em questão. Além disso, seguimos o template fornecido pelo professor André Barros Sales no ambiente virtual de aprendizagem [(Aprender 3)](#anchor_2), que ofereceu uma estrutura organizada para o planejamento e acompanhamento das atividades. Abaixo, é possível visualizar os cronogramas executados de cada entrega do projeto, começando pela entrega 1, apresentada na Tabela 1, seguida pela entrega 2 disponível na Tabela 2 e assim por diante.
 
+## Ajuste do cronograma
+
+Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 28 DE JUNHO DE 1989 <a id="TEC1" href="#RP1">[1]</a>, a Universidade de Brasília vivenciou uma desajuste de calendário <a id="TEC2" href="#RP2">[2]</a> e, portanto, após um período sem aulas, retornamos com o conteudo programático do curso. Em consequência disso, realizamos ajustes de data no cronograma planejado deste artefato, adicionando 2 semanas às datas definidas anteriormente, a partir da segunda entrega
+
 ## Entrega 1 - Planejamento do Projeto
 
 <div align="center">
@@ -109,7 +113,7 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024 </p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024 </p></font>
 </div>
 
 ## Entrega 2 - Elicitação - Técnicas e Priorização - Data de Entrega:
@@ -222,7 +226,7 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/johnnylopess">Johnny Lopes</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/johnnylopess">Johnny Lopes</a>, 2024</p></font>
 </div>
 
 ## Entrega 3 - Modelagem de Requisitos 1 - Data de Entrega:
@@ -293,7 +297,7 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
 ## Entrega 4 - Modelagem de Requisitos 2 - Ágil - Data de Entrega:
@@ -350,7 +354,7 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação - Grupo 8 - Data de Entrega:
@@ -491,7 +495,7 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
 ## Entrega 6 - Pós-Rastreabilidade - Data de Entrega:
@@ -540,7 +544,7 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação - Data de Entrega:
@@ -589,15 +593,20 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
+
+## Referências bibliográficas
+
+> <a id="TEC1" href="#RP1">1.</a> BRASIL. Lei nº 7.783, de 28 de junho de 1989. Dispõe sobre o exercício do direito de greve, define as atividades essenciais, regula o atendimento das necessidades inadiáveis da comunidade, e dá outras providências. Brasília, DF, 1989.
+
+> <a id="TEC2" href="#RP2">1.</a> G1 Distrito Federal. Professores da Universidade de Brasília entram em greve. Distrito Federal. 15 abr. 2024, 08h31. Disponível em: [https://g1.globo.com/df/distrito-federal/noticia/2024/04/15/professores-da-universidade-de-brasilia-entram-em-greve.ghtml](https://g1.globo.com/df/distrito-federal/noticia/2024/04/15/professores-da-universidade-de-brasilia-entram-em-greve.ghtml). Acesso em: 17 Mai. 2024.
 
 ## Bibliografia
 
+> <a id="QT3" href="#anchor_3">3.</a> Cronograma Bilheteria Digital. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md. Acesso em 27 de março de 2024.
 
-> <a id="QT1" href="#anchor_1">1.</a> Cronograma Bilheteria Digital. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md. Acesso em 27 de março de 2024.
-
-> <a id="QT2" href="#anchor_2">2.</a> SALES, André Barros. Ambientação - Exemplo de Cronograma. Aprender 3. Distrito Federal, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf. Acesso em 27 de março de 2024.
+> <a id="QT4" href="#anchor_4">4.</a> SALES, André Barros. Ambientação - Exemplo de Cronograma. Aprender 3. Distrito Federal, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf. Acesso em 27 de março de 2024.
 
 ## Histórico de Versão
 
@@ -613,3 +622,4 @@ Neste contexto, utilizamos como base o cronograma disponibilizado no repositóri
 | `1.7`  | 10/06/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.8`  | 24/06/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 24/06/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.9`  | 01/07/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 01/07/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
+| `2.0`  | 04/07/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 04/07/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |

@@ -17,6 +17,11 @@ uma vez que o projeto pode ser adaptado ao decorrer do tempo, de acordo com as n
 ### Processo Scrum
 
 
+  <p align="center" > <strong> Figura 1:</Strong> Processo Scrum</font> <gitbr></p>
+  <embed src="..\..\imagens\processo_Scrum.jpg" width="100%" height="500px" />
+  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://pt.linkedin.com/pulse/um-resumo-de-tudo-que-voc%C3%AA-precisa-saber-sobre-o-scrum-netto" target="_blanck">LinkedIn - Resumo sobre Scrum</a>, 2024 </font>
+
+
 <p align="center" > <font>Imagem 1: Processo Scrum</font> <br><img src="..\imagens\processo_Scrum.jpg" width = 300%></p>
 <p align="center" > <font>Fonte: <a href="https://pt.linkedin.com/pulse/um-resumo-de-tudo-que-voc%C3%AA-precisa-saber-sobre-o-scrum-netto" target="_blanck">LinkedIn - Resumo sobre Scrum</a>, 2024 </font> <br></p>
 
@@ -76,5 +81,5 @@ Para nossa comunicação, utilizaremos:
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0`  |10/04/2024| Criação do documento | [Gabriel Souza](https://github.com/GabrielMS00) |  | <a href="https://github.com/JoseFilipi">José Filipi</a> |
-| `1.1`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
-
+| `1.1`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 14/04/2024 | [Paulo Borba](https://github.com/paulohborba) |
+|`1.2` | 04/07/2024 | Alteração do documento. |[Paulo Borba](https://github.com/paulohborba) | 04/07/2024 | [Amanda Campos](https://github.com/acamposs)|

@@ -9,6 +9,7 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 
 ## Stakeholders
 <p align="center" > <strong> Tabela 1:</Strong> Stakeholders</font> <gitbr></p>
+
 | Nome | Externo (S/N) | Relacionamento com o projeto 
 | :-: | :-: | :-: |
 | Equipe 7 | N  | Equipe do projeto | 
@@ -16,7 +17,7 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 | Usuários do MEU INSS | S  | Contribuir com a visão de usuário | 
 | Trabalhadores do MEU INSS | S  | Contribuir com a visão de desenvolvedor da solução | 
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Vitor Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
 
 ## Equipe do Projeto
 <table>
@@ -51,18 +52,22 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 
 ## Principais Entregas do projeto
 <p align="center" > <strong> Tabela 2:</Strong> Principais entregas do projeto</font> <gitbr></p>
+
 | Etapa | Marcos | Previsão | 
 | :-: | :-: | :-: |
 | Etapa 1 |  Planejamento do projeto | 01/04/2024 | 
-| Etapa 2 |  Elicitação de Requisitos – Técnicas e Priorização | 17/04/2024 | 
+| Etapa 2 |  Elicitação de Requisitos – Técnicas e Priorização | 01/05/2024 | 
 | Etapa 3 | Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar. | 06/05/2024 | 
 | Etapa 4 | Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs) NFR Framework | 13/05/2024 | 
-| Etapa 5 | Análise de Requisitos: Verificação e Validação I | 22/05/2024 | 
-| Etapa 6 | Pós-Rastreabilidade: Gerência II | 03/06/2024 |
-| Etapa 7 | Análise de Requisitos: Verificação e Validação II | 17/06/2024 |
-| Etapa 8 | Projeto Final | 26/06/2024 |
+| Etapa 5 | Análise de Requisitos: Verificação e Validação I | 20/05/2024 | 
+| Etapa 6 | Pós-Rastreabilidade: Gerência II | 27/05/2024 |
+| Etapa 7 | Análise de Requisitos: Verificação e Validação II | 10/06/2024 |
+| Etapa 8 | Projeto Final | 01/07/2024 |
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autores:</b> [Vitor Leonardo](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/vitorfleopnardo), 2024</p></font>
+
+#### Observação
+Devido a greve as datas da Tabela 2 foram alteradas
 
 ## Bibliografia
 > <a>1.</a> PROJECT MANAGEMENT INSTITUTE (PMI). Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). 6 ed. Estados Unidos: PMI, 2017.
@@ -73,3 +78,4 @@ Até o final do semestre, pretendemos fazer todas as entregas das etapas do proj
 | `1.0` | 27/03/2024  | Versão inicial de documento. | [Vitor Leonardo](https://github.com/vitorfleonardo) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.1` | 01/04/2024  | Adição de referência nas tabelas. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 | [Amanda Campos](https://github.com/acamposs) |
 | `1.2`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 17/05/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
+|`1.3` | 04/07/2024 | Alteração do documento. |[Paulo Borba](https://github.com/paulohborba) | 04/07/2024 | [Vitor Feijó](https://github.com/vitorfleonardo)|

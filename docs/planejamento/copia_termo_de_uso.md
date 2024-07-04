@@ -35,5 +35,6 @@ de quaisquer outros que venham a ser criados), em decorrência da navegação na
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 28/03/2024  | cópia do termo de uso | [Gabriel Souza](https://github.com/GabrielMS00) | 28/03/2024 | [José Souza](https://github.com/JoseFilipi) |
-| `1.1`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
+| `1.1`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 14/04/2024 | [Paulo Borba](https://github.com/paulohborba) |
+|`1.2` | 04/07/2024 | Alteração do documento. |[Paulo Borba](https://github.com/paulohborba) | 04/07/2024 | [Amanda Campos](https://github.com/acamposs)|
 

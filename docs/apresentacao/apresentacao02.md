@@ -9,7 +9,7 @@ Essa página tem como objetivo armazenar o vídeo da apresentação da segunda e
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vDnR0dE_WlQ?si=thWcQdHAHRR_iC3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
 
 
 A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
@@ -17,7 +17,7 @@ A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo a
 <font size="3"><p style="text-align: center">Tabela 1: Critérios para a Entrega 1</p></font>
 
 
-|A git page possui?  | Sim/Não/Incompleto|
+|O GitHub Pages possui:   | Sim/Não/Incompleto|
 |:-- | :--|
 | 1 - O histórico de versão padronizado?                                                        | Sim           |
 | 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?                                      | Sim            |
@@ -46,4 +46,5 @@ A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo a
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 22/04/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess) | 22/04/2024| Todos|
+|`1.0` | 22/04/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess) | 22/04/2024| [Vitor Leonardo](https://github.com/vitorfleonardo)|
+|`1.1` | 04/07/2024 | Alteração do documento. |[Paulo Borba](https://github.com/paulohborba) | 04/07/2024 | [Amanda Campos](https://github.com/acamposs)|
