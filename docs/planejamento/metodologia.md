@@ -21,10 +21,6 @@ uma vez que o projeto pode ser adaptado ao decorrer do tempo, de acordo com as n
   <embed src="..\..\imagens\processo_Scrum.jpg" width="100%" height="500px" />
   <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://pt.linkedin.com/pulse/um-resumo-de-tudo-que-voc%C3%AA-precisa-saber-sobre-o-scrum-netto" target="_blanck">LinkedIn - Resumo sobre Scrum</a>, 2024 </font>
 
-
-<p align="center" > <font>Imagem 1: Processo Scrum</font> <br><img src="..\imagens\processo_Scrum.jpg" width = 300%></p>
-<p align="center" > <font>Fonte: <a href="https://pt.linkedin.com/pulse/um-resumo-de-tudo-que-voc%C3%AA-precisa-saber-sobre-o-scrum-netto" target="_blanck">LinkedIn - Resumo sobre Scrum</a>, 2024 </font> <br></p>
-
 Podemos destacar como os principais benefícios deste método:
 
 * Maior rapidez no desenvolvimento do projeto
@@ -68,7 +64,7 @@ Para nossa comunicação, utilizaremos:
 * [WhatsApp](https://web.whatsapp.com/)
 * [Discord](https://discord.com/)
 
-## Referências Bibliográficas
+## Bibliografia
 
 > <a id="QT1." href="#anchor_1.">1.</a> Site metodologias ágeis - <a href="https://www.metodologiaagil.com">www.metodologiaagil.com</a> Acessado em 2024.
 

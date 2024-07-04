@@ -1,7 +1,7 @@
 # Rich Picture
 
 ## Introdução
-Um Rich Picture é como um desenho animado que mostra todas as pessoas envolvidas, o que elas se preocupam e um pouco da estrutura do ambiente de trabalho. Serve para registrar e analisar esses aspectos do ambiente de trabalho e pensar em como eles devem influenciar o design [(MONK; HOWARD, 2014)](#anchor_1).  Na engenharia de software, o Rich Picture é empregado para simplificar a compreensão do funcionamento de sistemas de software. Ele é representado por um diagrama contendo elementos fundamentais, tais como atores, processos, armazenamento de dados, setas e os limites do sistema.
+Um Rich Picture é como um desenho animado que mostra todas as pessoas envolvidas, o que elas se preocupam e um pouco da estrutura do ambiente de trabalho. Serve para registrar e analisar esses aspectos do ambiente de trabalho e pensar em como eles devem influenciar o design <a id="TEC1" href="#RP1">[1]</a>.  Na engenharia de software, o Rich Picture é empregado para simplificar a compreensão do funcionamento de sistemas de software. Ele é representado por um diagrama contendo elementos fundamentais, tais como atores, processos, armazenamento de dados, setas e os limites do sistema.
 
 ## Metodologia e Ferramentas
 O [Canva](https://www.canva.com/) foi utilizado para desenvolver o Rich Picture e a legenda.
@@ -22,7 +22,7 @@ O [Canva](https://www.canva.com/) foi utilizado para desenvolver o Rich Picture 
 <embed src="..\..\imagens\rich_pictures\RichPicture_meuINSSAtual.pdf" width="100%" height="500px" />
   <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a> e <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
-## Referências
+## Referências Bibliográficas
 
 > <a id="QT1" href="#anchor_1">1.</a> MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning About Work Context. Aprender 3. Distrito Federal, 2014. Disponível em: https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf. Acesso em: 27 mar. 2024. 
 
@@ -32,3 +32,4 @@ O [Canva](https://www.canva.com/) foi utilizado para desenvolver o Rich Picture 
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | `1.0`  | 27/03/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
 | `1.1`  | 27/03/2024 | Criação do documento. | [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7) e [Paulo Borba](https://github.com/paulohborba) | 30/03/2024 |[Johnny Lopes](https://github.com/JohnnyLopess)|
+|`1.2` | 04/07/2024 | Alteração do documento. |[Paulo Borba](https://github.com/paulohborba) | 04/07/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
