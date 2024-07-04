@@ -56,8 +56,8 @@ Critérios  | Sim/Não/Incompleto | Fonte
 3 - Backward-from: liga requisitos às suas fontes? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
 4 - os elos contém a classificação das informações a serem rastreadas (ambiental, organizacional, gerencial, desenvolvimento)? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
 5 - Satisfação: os elos do tipo satisfação contem os artefatos que satisfazem aquele requisito? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
-6 - Recurso: Os elos do tipo recurso contêm os artefatos que recorrem daquele requisito? | Não | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
-7 - Responsabilidade: Os elos do tipo responsabilidade contêm os artefatos que há a responsabilidade daquele requisito? | Não | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+6 - Recurso: Os elos do tipo recurso contêm os artefatos que recorrem daquele requisito? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
+7 - Responsabilidade: Os elos do tipo responsabilidade contêm os artefatos que há a responsabilidade daquele requisito? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
 8 - Representação: Há o print do requisito caso ele ja esteja implementado? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
 9- Agregação: Os elos do tipo agregação contêm os artefatos que compõem elementos daquele requisito? | Sim | [Checklist Elos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Elos/)
 
@@ -79,3 +79,4 @@ Critérios  | Sim/Não/Incompleto | Fonte
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 30/06/2024 | Criação do documento. | [Paulo Borba](https://github.com/paulohborba)  | 30/06/2024 |[Amanda Campos](https://github.com/acamposs) |
 |`1.1` | 30/06/2024 | Verificação dos elos de rastreabilidade | [Amanda Campos](https://github.com/acamposs)  | 30/06/2024 | [Paulo Borba](https://github.com/paulohborba) |
+|`1.2` | 04/07/2024 | Alteração do documento. |[Paulo Borba](https://github.com/paulohborba) | 04/07/2024 | [Amanda Campos](https://github.com/acamposs)|

@@ -37,7 +37,7 @@ A tabela foi criada para poder estabelecer uma conexão ou rastreabilidade entre
   </ul>
 </details>
 
-<p align="center">Autor: <a href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS">Todos</a></a>, 2024.</p>
+<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
 
 ## Tabela da Matriz de rastreabildade
 
@@ -89,7 +89,7 @@ A tabela foi criada para poder estabelecer uma conexão ou rastreabilidade entre
 | [RE40](../../elicitacao/requisitosElicitados)| RNF  | Sim |  [1.1](../../elicitacao/requisitosElicitados) | [IT13](../../elicitacao/Introspeccao) |  [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things) | [BC](../../modelagem/Agil/backlog), [ES(RP001, RP002)](../../modelagem/specSuplementar), [US40](../../modelagem/Agil/historia_de_usuario) | [C40](../../rastreabilidade/Elos)  |
 | [RE41](../../elicitacao/requisitosElicitados)| RNF  | Sim |  [1.1](../../elicitacao/requisitosElicitados) | [IT14](../../elicitacao/Introspeccao) |  [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things) | [BC](../../modelagem/Agil/backlog), [ES(RR001, RR006, RR008, RP005)](../../modelagem/specSuplementar), [US41](../../modelagem/Agil/historia_de_usuario) | [C41](../../rastreabilidade/Elos)  |
 
-<p align="center">Autor: <a href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS">Todos</a></a>, 2024.</p>
+<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
 
 ## Referências Bibliográficas
 
@@ -110,3 +110,4 @@ A tabela foi criada para poder estabelecer uma conexão ou rastreabilidade entre
 | `1.2` | 23/06/2024  | Adicionando os requisitos à tabela. | [Amanda Campos](https://github.com/acamposs) | 24/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00) | 
 | `1.3` | 24/06/2024  | Adicionando os requisitos à tabela. | [Gabriel Souza](https://github.com/GabrielMS00) | 24/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7)|
 | `1.4` | 24/06/2024  | Adicionando os requisitos à tabela. | [Bianca Castro](https://github.com/BiancaPatrocinio7) | 24/06/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
+|`1.5` | 04/07/2024 | Alteração do documento. |[Paulo Borba](https://github.com/paulohborba) | 04/07/2024 | [Amanda Campos](https://github.com/acamposs)|

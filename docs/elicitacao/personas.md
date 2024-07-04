@@ -2,12 +2,11 @@
 
 ## Introdução
 
-O desenvolvimento de um aplicativo eficaz requer uma compreensão profunda dos usuários que irão interagir com ele. Nesse contexto, as personas desempenham um papel fundamental, permitindo que as equipes de desenvolvimento criem produtos que atendam às necessidades e expectativas de diferentes segmentos de usuários. Este documento tem como objetivo apresentar as personas desenvolvidas para o projeto de elicitação de requisitos do aplicativo Meu INSS, fornecendo insights valiosos sobre os diversos perfis de usuários que serão considerados durante o processo de desenvolvimento.[(PIOVESANA, 2024)](#anchor_4)
-Foi utilizado o repositório da Bilheteria Digital do semestre de 2023.1 como base para esse documento.[(MELO, 2023)](#anchor_3)
+O desenvolvimento de um aplicativo eficaz requer uma compreensão profunda dos usuários que irão interagir com ele. Nesse contexto, as personas desempenham um papel fundamental, permitindo que as equipes de desenvolvimento criem produtos que atendam às necessidades e expectativas de diferentes segmentos de usuários. Este documento tem como objetivo apresentar as personas desenvolvidas para o projeto de elicitação de requisitos do aplicativo Meu INSS, fornecendo insights valiosos sobre os diversos perfis de usuários que serão considerados durante o processo de desenvolvimento<a id="TEC1" href="#RP1">[1]</a>. Foi utilizado o repositório da Bilheteria Digital do semestre de 2023.1 como base para esse documento<a id="TEC2" href="#RP2">[2]</a>.
 
-## Metodologia
+## Metodologia 
 
-A criação das personas para o projeto do aplicativo Meu INSS foi realizada seguindo uma metodologia estruturada, que envolveu etapas importantes de coleta, análise e síntese de dados. A seguir, como citado por [(PIOVESANA (2024))](#anchor_4), apresentamos um passo a passo de como foi a criação das personas:
+A criação das personas para o projeto do aplicativo Meu INSS foi realizada seguindo uma metodologia estruturada, que envolveu etapas importantes de coleta, análise e síntese de dados. A seguir, como citado por <a id="TEC1" href="#RP1">(PIOVESANA (2024)</a>, apresentamos um passo a passo de como foi a criação das personas:
 
 
 1. **Coleta de dados sobre os usuários:** Inicialmente, foram utilizadas diversas técnicas de elicitação de requisitos para obter informações detalhadas sobre os usuários reais ou potenciais do aplicativo. Isso incluiu entrevistas com usuários, questionários online, observação direta do comportamento dos usuários, sendo a metodologia de perfil de usuário a principal ferramenta. Para mais detalhes sobre essa metodologia, é possível encontrar na página de [Perfil do Usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/perfil_de_Usuario/). As perguntas elaboradas foram objetivas e abordaram aspectos como idade, gênero, localização geográfica, profissão, interesses relacionados ao aplicativo, desafios enfrentados no dia a dia ao lidar com o INSS, preferências de uso de tecnologia, entre outros.
@@ -35,7 +34,7 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 
 <p style="text-align: center"><b>Tabela 1</b> - Persona Primária Elisa Silva.</p>
 
-| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Elisa Silva.</p></font><figure markdown>![Elisa Silva](../imagens/personas/Elisa.png)<figcaption>Fonte: Elaborada por [Amanda Campos](https://github.com/acamposs) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Elisa Silva.</p></font><figure markdown>![Elisa Silva](../imagens/personas/Elisa.png)<figcaption>Fonte: [Amanda Campos](https://github.com/acamposs) (2024). <a id="TEC3" href="#RP3">[3]</a> </figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Elisa Silva |
 | **Status**: Persona Primária. |
@@ -50,11 +49,11 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 | **Requisitos**: O aplicativo deve ser acessível em dispositivos móveis e computadores, permitindo que Elisa acesse os serviços do INSS de qualquer lugar e a qualquer momento. Ele também deve oferecer suporte para múltiplos idiomas, incluindo Português, para garantir que Elisa possa entender e interagir com o aplicativo facilmente.                                                                                                                             |
 | **Tarefas**: Elisa tem o hábito de acordar cedo pela manhã e fazer uma caminhada. Como vive sozinha e prioriza uma alimentação saudável com alimentos frescos, ela prefere fazer compras de alimentos semanalmente. Para gerenciar sua aposentadoria, Elisa utiliza o aplicativo meu INSS regularmente para verificar seu extrato de pagamento. Recentemente, Elisa tem refletido sobre sua aposentadoria e está considerando a necessidade de um reajuste em seu benefício. Para isso, ela percebe a importância de acessar as informações detalhadas sobre suas contribuições. Além disso, ela planeja entrar em contato com um advogado especializado para obter orientação e assistência nesse processo.                                                                                                                                                                                                                           |
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda Campos](https://github.com/acamposs).</p></font>
 
 <font size="3"><p style="text-align: center">**Tabela 2** - Persona Primária Rafael Costa.</p></font>
 
-| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Costa</p></font><figure markdown>![Persona Rafael Costa](../imagens/personas/Rafael.png)<figcaption>Fonte: Elaborada por [Amanda Campos](https://github.com/acamposs) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Costa</p></font><figure markdown>![Persona Rafael Costa](../imagens/personas/Rafael.png)<figcaption>Fonte: [Amanda Campos](https://github.com/acamposs) (2024).<a id="TEC3" href="#RP3">[3]</a> </a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Rafael Costa                                                                                                                                                                                                                                                                                                                                         |
 | **Status**: Persona Primária.                                                                                                                                                                                                                                                                                                                                     |
@@ -69,12 +68,12 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 | **Requisitos**:  Rafael espera que o aplicativo Meu INSS seja seguro e confiável, garantindo a proteção de seus dados pessoais e informações financeiras. Ele também deseja que o aplicativo ofereça recursos avançados, como simulações de aposentadoria e ferramentas de planejamento financeiro, para auxiliá-lo na tomada de decisões relacionadas à sua previdência.                                                                                                                                                                |
 | **Tarefas**: Rafael é conhecido por sua habilidade em manter suas finanças bem organizadas. Desde cedo, ele tomou a decisão de contribuir regularmente para a previdência social, visando garantir um futuro mais tranquilo e seguro durante sua aposentadoria. Por essa razão, Rafael utiliza o aplicativo meu INSS com frequência para consultar suas contribuições e realizar simulações relacionadas à sua aposentadoria.                                                                                                          |
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda Campos](https://github.com/acamposs).</p></font>
 
 
 <font size="3"><p style="text-align: center">**Tabela 3** - Persona Primária Melanie Lima.</p></font>
 
-| <font size="3"><p style="text-align: center">Figura 3- Persona Primária Melanie Lima</p></font><figure markdown>![Persona Roberto Silva](../imagens/personas/melanie.png)<figcaption>Fonte: Elaborada por [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 3- Persona Primária Melanie Lima</p></font><figure markdown>![Persona Roberto Silva](../imagens/personas/melanie.png)<figcaption>Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC3" href="#RP3">[3]</a></a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Melanie Lima                                                                                                                                                                                                                                                                                                                              |
 | **Status**: Persona Primária.                                                                                                                                                                                                                                                                                                                                     |
@@ -89,11 +88,11 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 | **Requisitos**: Fazer o login, acessar a tela de auxílios e solicitar o auxílio-acidente.                                                                                                                                                                |
 | **Tarefas**:  Malanie passa o dia dando aula e planejando elas, quando tem tempo busca passar com qualidade ao lado de sua família. Mantém o aplicativo do meu INSS para ter acesso à dados dentro dele, contudo não tem costume de usar.                                                                                                       |
 
-<font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</p></font>
 
 <font size="3"><p style="text-align: center">**Tabela 4** - Persona Secundária Julyana Batista.</p></font>
 
-| <font size="3"><p style="text-align: center">Figura 4- Persona Secundária Julyana Batista</p></font><figure markdown>![Persona Julyana Batista](../imagens/personas/julyana.png)<figcaption>Fonte: Elaborada por [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 4- Persona Secundária Julyana Batista</p></font><figure markdown>![Persona Julyana Batista](../imagens/personas/julyana.png)<figcaption>Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC3" href="#RP3">[3]</a></a></figcaption></figure> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Julyana Batista                                                                                                                                                                                                                                                                                                                                                     |
 | **Status**: Persona Secundária.                                                                                                                                                                                                                                                                                                                                                   |
@@ -108,11 +107,11 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 | **Requisitos**: Acompanhar processos, soliticar processos e entrar com recursos.                                                                                                                                                      |
 | **Tarefas**: Julyana é especialista em leis do INSS, logo tem experiência com o aplicativo, contudo existem processos que somente o cliente tem acesso, então uma de suas tarefas é dar suporte.                                                                                                                   |
 
-<font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</p></font>
 
 <font size="3"><p style="text-align: center">**Tabela 5** - Antipersona Enzo Fernandes    </p></font>
 
-| <font size="3"><p style="text-align: center">Figura 5- Antipersona Enzo Fernandes    </p></font><figure markdown>![Persona Enzo Fernandes    ](../imagens/personas/enzo.png)<figcaption>Fonte: Elaborada por [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 5- Antipersona Enzo Fernandes    </p></font><figure markdown>![Persona Enzo Fernandes    ](../imagens/personas/enzo.png)<figcaption>Fonte: Elaborada por [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC3" href="#RP3">[3]</a></a></figcaption></figure> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Enzo Fernandes                                                                                                                                                                                                                                                                                                                                                                |
 | **Status**: Antipersona.                                                                                                                                                                                                                                                                                                                                                                     |
@@ -127,19 +126,19 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 | **Requisitos**: Enzo espera ter suporte técinico, ter respostas do sistema e que não seja tranquilo fazer o login.                                                                                   |
 | **Tarefas**: Geralmente o Enzo passa grande parte do seu tempo estudando ou realizando as suas tarefas de casa, como passa muito tempo com o seu avô já usou umas 3 vezes o aplicativo, mas ele geralmente não mantém o aplicativo instalado no celular.           |
 
-<font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).</p></font>
 
 ## Referências Bibliográficas
 
-> <a id="QT1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="QT1" href="#anchor_1">1.</a> PIOVESANA, L. O que é persona? Importância e como criar para a sua empresa. Nuvemshop. Brasil. 2024. Disponível em: [https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/](https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/). Acesso em 04 abr. 2024.
 
-> <a id="QT2" href="#anchor_2">2.</a> Imagem gerada através da aplicação This Person Doesn't Exist. Disponível em: [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/). Acesso em: 04 de abr. de 2024. 
+> <a id="QT2" href="#anchor_2">2.</a> </a> MELO, A. et al. (2023).1-BilheteriaDigital. Requisitos de Software. GitHub. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital).
 
-> <a id="QT3" href="#anchor_3" >3.</a> MELO, A. et al. (2023).1-BilheteriaDigital. Requisitos de Software. GitHub. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital).
+> <a id="QT3" href="#anchor_3">3.</a> Imagem gerada através da aplicação This Person Doesn't Exist. Disponível em: [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/). Acesso em: 04 de abr. de 2024. 
 
-> <a id="QT4" href="#anchor_4" >4.</a> PIOVESANA, L. O que é persona? Importância e como criar para a sua empresa. Nuvemshop. Brasil. 2024. Disponível em: [https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/](https://www.nuvemshop.com.br/blog/nuvemcast-persona-jtbd/). Acesso em 04 abr. 2024.
+## Bibliografia
 
-
+> <a id="QT4" href="#anchor_4">4.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
