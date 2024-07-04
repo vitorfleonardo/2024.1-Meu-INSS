@@ -9,14 +9,14 @@ Essa página tem como objetivo armazenar o vídeo da apresentação da terceira 
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xO8rkmWE1UQ?si=e1SMyMRXFIJrgfjl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
 
 
 A apresentação objetiva mostrar o que foi feito para a entrega 3, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
 
 <font size="3"><p style="text-align: center">Tabela 1: Critérios para a Entrega 3</p></font>
 
-|A git page possui?  | Sim/Não/Incompleto|
+|O GitHub Pages possui:   | Sim/Não/Incompleto|
 |:-- | :--|
 | 1 - O histórico de versão padronizado? | Sim |
 | 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim |
@@ -53,5 +53,6 @@ A apresentação objetiva mostrar o que foi feito para a entrega 3, obedecendo a
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 19/05/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess) | 19/05/2024 | Todos|
-|`1.1` | 20/05/2024 | Finalização do documento. |[Paulo Borba](https://github.com/paulohborba) | 20/05/2024 | Todos|
+|`1.0` | 19/05/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess) | 19/05/2024 |  [Bianca Castro](https://github.com/BiancaPatrocinio7) |
+|`1.1` | 20/05/2024 | Finalização do documento. |[Paulo Borba](https://github.com/paulohborba) | 20/05/2024 | [Amanda Campos](https://github.com/acamposs) |
+|`1.2` | 04/07/2024 | Alteração do documento. |[Paulo Borba](https://github.com/paulohborba) | 04/07/2024 | [Amanda Campos](https://github.com/acamposs)|

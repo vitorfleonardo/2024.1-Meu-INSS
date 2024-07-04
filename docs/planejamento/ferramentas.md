@@ -22,7 +22,7 @@ Nesta seção, destacamos a seleção de ferramentas realizada pelo nosso grupo 
 |<img src="../../imagens/ferramentas/lucidchart-logo.png" alt="Logo do LucidChart" width="100px">|<strong>[LucidChart](#anchor_14)|Criação de diagramas.|
 |<img src="../../imagens/ferramentas/thispersondoesntexist-logo.png" alt="Logo do This Person Doesn't Exist" width="100px">|<strong>[This Person Doesn't Exist](#anchor_15)|Criação de imagens para as personas.|
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
 
 ## Referências Bibliográficas
@@ -63,5 +63,6 @@ Nesta seção, destacamos a seleção de ferramentas realizada pelo nosso grupo 
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 28/03/2024  | Versão inicial de documento. | [Johnny Lopes](https://github.com/JohnnyLopess) | 30/03/2024 | [Paulo Borba](https://github.com/paulohborba) |
 | `1.1` | 29/03/2024  | Correção no tamanho das imagens. | [Johnny Lopes](https://github.com/JohnnyLopess) | 31/03/2024 | [Paulo Borba](https://github.com/paulohborba) |
-| `1.2` | 09/04/2024  | Adição de novas ferramentas. | [Johnny Lopes](https://github.com/JohnnyLopess) |  |  |
-| `1.3`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) |  |  |
+| `1.2` | 09/04/2024  | Adição de novas ferramentas. | [Johnny Lopes](https://github.com/JohnnyLopess) | 10/04/2024 | [Paulo Borba](https://github.com/paulohborba) |
+| `1.3`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 14/04/2024 | [Paulo Borba](https://github.com/paulohborba) |
+|`1.4` | 04/07/2024 | Alteração do documento. |[Paulo Borba](https://github.com/paulohborba) | 04/07/2024 | [Amanda Campos](https://github.com/acamposs)|

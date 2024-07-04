@@ -8,7 +8,7 @@ Inicialmente, adotamos o modelo de cronograma fornecido pelo professor André Ba
 
 A seguir, apresentamos os cronogramas planejados para cada entrega do projeto. Começamos com a entrega 1, detalhada na Tabela 1, seguida pela entrega 2, apresentada na Tabela 2, e assim por diante.
 
-## Ajuste do cronograma!
+## Ajuste do cronograma
 
 Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 28 DE JUNHO DE 1989 <a id="TEC1" href="#RP1">[1]</a>, a Universidade de Brasília vivenciou uma desajuste de calendário <a id="TEC2" href="#RP2">[2]</a> e, portanto, após um período sem aulas, retornamos com o conteudo programático do curso. Em consequência disso, realizamos ajustes de data no cronograma planejado deste artefato, adicionando 2 semanas às datas definidas anteriormente, a partir da segunda entrega.
 
@@ -531,4 +531,5 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
 | `1.1` | 30/03/2024 | Adição das datas de início e fim das atividades do cronograma. | [Gabriel Souza](https://github.com/JoseFilipi) | 30/03/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.2` | 01/04/2024 | Ajustes na página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 01/04/2024 | [Amanda Campos](https://github.com/acamposs)  |
 | `1.3`  | 13/04/2024 | Correção das referencias e citações | [Amanda Campos](https://github.com/acamposs) | 17/05/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) |
-| `1.4`  | 17/05/2024 | Correção das das datas de acordo com a greve dos servidores | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
+| `1.4`  | 17/05/2024 | Correção das das datas de acordo com a greve dos servidores | [Vitor Feijó](https://github.com/vitorfleonardo) | 17/05/2024 | [Paulo Borba](https://github.com/paulohborba) |
+| `1.5`  | 04/07/2024 | Correções na página.| [Paulo Borba](https://github.com/paulohborba) | 04/07/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
