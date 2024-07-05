@@ -43,7 +43,7 @@ A rastreabilidade forward-from é um componente essencial na engenharia de requi
   </table>
 </div>
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
+<font size="3"><p style="text-align: center">Autores: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
 
 Legenda:
 
@@ -77,7 +77,7 @@ Legenda:
 | **Elementos:**           | [RE01](../../elicitacao/requisitosElicitados), [BS01](../../elicitacao/brainStorm), [ST02](../../elicitacao/storytelling), [QT01](../../elicitacao/questionario), [UC01](../../modelagem/useCase), [CEN01](../../modelagem/cenarios), [US01](../../modelagem/Agil/historia_de_usuario)|
 | **Descrição do Requisito** | O usuário deve realizar o login com o acesso unificado do gov.br. |
 | **Elos Backward-from:**  | Agregação: RE01 - BS01, ST02, QT01: O requisito originou-se de um Brainstorm, storytelling e de um questionário. |
-| **Elos Forward-from:**   | **Satisfação**: RE01 - UC01: O caso de uso (UC01) satisfaz o requisito (RE01) ao descrever o processo de login unificado pelo gov.br. <br> Recurso: RE01 - CEN01: O cenário detalha os recursos necessários para que o usuário realize o login unificado pelo gov.br, conforme requerido pelo RE01. <br> **Satisfação**: RE01 - US01: A história de usuário (US01) satisfaz o requisito (RE01) ao especificar a necessidade de login seguro e integrado pelo gov.br. <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE01.jpeg). |
+| **Elos Forward-from:**   | **Satisfação**: RE01 - UC01: O caso de uso (UC01) satisfaz o requisito (RE01) ao descrever o processo de login unificado pelo gov.br. <br> Recurso: RE01 - CEN01: O cenário detalha os recursos necessários para que o usuário realize o login unificado pelo gov.br, conforme requerido pelo RE01. <br> **Satisfação**: RE01 - US01: A história de usuário (US01) satisfaz o requisito (RE01) ao especificar a necessidade de login seguro e integrado pelo gov.br. <br> **Representação**: [Print do Requisito Funcional que já está Implementado no aplicativo](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE01.jpeg). |
 
 </center>
 
@@ -191,7 +191,7 @@ Legenda:
 | **Elementos:**           | [RE07](../../elicitacao/requisitosElicitados), [BS07](../../elicitacao/brainStorm), [BS11](../../elicitacao/brainStorm), [IT02](../../elicitacao/Introspeccao), [IT05](../../elicitacao/Introspeccao), [ST01](../../elicitacao/storytelling), [ST07](../../elicitacao/storytelling), [ENT10](../../elicitacao/entrevista), [QT02](../../elicitacao/questionario), [QT05](../../elicitacao/questionario), [CEN02](../../modelagem/cenarios) |
 | **Descrição do Requisito** | O usuário deve poder visualizar detalhes de todos os benefícios aos quais tem direito, incluindo valores, datas de pagamento, status e correções. |
 | **Elos Backward-from:**  | **Agregação**: RE07 - BS07, BS11: O requisito originou-se de um Brainstorm. <br> **Agregação**: RE07 - IT02, IT05 O requisito origino-se de uma Introspecção. <br> **Agregação**: RE07 - ST01, ST07 O requisito origino-se de um Storytelling. <br> **Agregação**: RE07 - ENT10: O requisito origino-se de uma Entrevista. <br> **Agregação**: RE07 - QT02, QT05: O requisito origino-se de um Questionário.|
-| **Elos Forward-from:**   | **Satisfação**: RE07 - CEN02: O requisito RE07 contribui para o cenário CEN02. <br> **Satisfação**: RE07 - CDS: O requisito recebeu uma pontuação $8 do Desenvolvedor e $12 do Usuário na técnica $100. <br> **Satisfação**: RE07 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE07.jpeg). |
+| **Elos Forward-from:**   | **Satisfação**: RE07 - CEN02: O requisito RE07 contribui para o cenário CEN02. <br> **Satisfação**: RE07 - CDS: O requisito recebeu uma pontuação $8 do Desenvolvedor e $12 do Usuário na técnica $100. <br> **Satisfação**: RE07 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do Requisito Funcional que já está Implementado no aplicativo](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE07.jpeg). |
 
 </center>
 
@@ -305,7 +305,7 @@ Legenda:
 | **Elementos:**           | [RE13](../../elicitacao/requisitosElicitados), [ENT01](../../elicitacao/entrevista), [UC09](../../modelagem/useCase)                          |
 | **Descrição do Requisito** | O aplicativo deve permitir que os usuários acessem e visualizem o Cadastro Nacional de Informações Sociais (CNIS). |
 | **Elos Backward-from:**  | **Agregação**: RE13 - ENT01: O requisito originou-se de uma Entrevista. |
-| **Elos Forward-from:**   | **Satisfação**: RE13 - UC09: O requisito RE13 deu origem ao caso de uso UC09. <br> **Satisfação**: RE13 - CDS: O requisito recebeu uma pontuação $7 do Desenvolvedor e $10 do Usuário na técnica $100. <br> **Satisfação**: RE13 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE13.jpeg). |
+| **Elos Forward-from:**   | **Satisfação**: RE13 - UC09: O requisito RE13 deu origem ao caso de uso UC09. <br> **Satisfação**: RE13 - CDS: O requisito recebeu uma pontuação $7 do Desenvolvedor e $10 do Usuário na técnica $100. <br> **Satisfação**: RE13 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do Requisito Funcional que já está Implementado no aplicativo](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE13.jpeg). |
 
 </center>
 
@@ -343,7 +343,7 @@ Legenda:
 | **Elementos:**           | [RE15](../../elicitacao/requisitosElicitados), [ENT03](../../elicitacao/entrevista), [UC06](../../modelagem/useCase), [UC07](../../modelagem/useCase), [UC09](../../modelagem/useCase), [CEN04](../../modelagem/cenarios) |
 | **Descrição do Requisito** | Deve permitir o requerimento de benefícios e a atualização do vínculo do CNIS do segurado. |
 | **Elos Backward-from:**  | **Agregação**: RE15 - ENT03: O requisito originou-se de uma Entrevista. |
-| **Elos Forward-from:**   | **Satisfação**: RE15 - UC06, UC07, UC09: O requisito RE15 deu origem aos casos de uso UC06, UC07, UC09. <br> **Satisfação**: RE15 - CEN04: O requisito RE15 contribui para o cenário CEN04. <br> **Satisfação**: RE15 - CDS: O requisito recebeu uma pontuação $6 do Desenvolvedor e $4 do Usuário na técnica $100. <br> **Satisfação**: RE15 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE15.jpeg). |
+| **Elos Forward-from:**   | **Satisfação**: RE15 - UC06, UC07, UC09: O requisito RE15 deu origem aos casos de uso UC06, UC07, UC09. <br> **Satisfação**: RE15 - CEN04: O requisito RE15 contribui para o cenário CEN04. <br> **Satisfação**: RE15 - CDS: O requisito recebeu uma pontuação $6 do Desenvolvedor e $4 do Usuário na técnica $100. <br> **Satisfação**: RE15 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do Requisito Funcional que já está Implementado no aplicativo](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE15.jpeg). |
 
 </center>
 
@@ -381,7 +381,7 @@ Legenda:
 | **Elementos:**           | [RE17](../../elicitacao/requisitosElicitados), [ENT06](../../elicitacao/entrevista), [IT07](../../elicitacao/Introspeccao), [UC02](../../modelagem/useCase), [CEN05](../../modelagem/cenarios) |
 | **Descrição do Requisito** | O usuário deve poder atualizar seus dados pessoais, como endereço, telefone, email e localidade. |
 | **Elos Backward-from:**  | **Agregação**: RE17 - ENT06: O requisito originou-se de uma Entrevista. <br> **Agregação**: RE17 - IT07: O requisito origino-se de uma Introspecção.  |
-| **Elos Forward-from:**   | **Satisfação**: RE17 - UC02: O requisito RE17 deu origem ao caso de uso UC02. <br> **Satisfação**: RE17 - CEN05: O requisito RE17 contribui para o cenário CEN05. <br> **Satisfação**: RE17 - CDS: O requisito recebeu uma pontuação $9 do Desenvolvedor e $2 do Usuário na técnica $100. <br> **Satisfação**: RE17 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE17.jpeg). |
+| **Elos Forward-from:**   | **Satisfação**: RE17 - UC02: O requisito RE17 deu origem ao caso de uso UC02. <br> **Satisfação**: RE17 - CEN05: O requisito RE17 contribui para o cenário CEN05. <br> **Satisfação**: RE17 - CDS: O requisito recebeu uma pontuação $9 do Desenvolvedor e $2 do Usuário na técnica $100. <br> **Satisfação**: RE17 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> **Representação**: [Print do Requisito Funcional que já está Implementado no aplicativo](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE17.jpeg). |
 
 </center>
 
@@ -552,7 +552,7 @@ Legenda:
 | **Elementos:**           | [RE26](../../elicitacao/requisitosElicitados), [ST09](../../elicitacao/storytelling), [UC12](../../modelagem/useCase), [CEN08](../../modelagem/cenarios), [US26](../../modelagem/Agil/historia_de_usuario)          |
 | **Descrição do Requisito** | O sistema deve permitir que um advogado acesse os processos dos seus clientes com a autorização destes. |
 | **Elos Backward-from:**  | **Agregação**: RE26 - ST09: O requisito originou-se da técnica de Storytelling. |
-| **Elos Forward-from:**   | **Satisfação**: RE26 - UC12: O caso de uso (UC12) pode ser visto como uma forma de satisfazer o requisito (RE26). <br> **Responsabilidade**: RE26 - CEN08: O Cenário (CEN08) detalha a participação e ação dos advogados sobre os processos dos clientes (RE26). <br> **Satisfação**: RE26 - US26: A história de usuário (US26) pode ser vista como uma expressão de satisfação do requisito (RE26). <br> **Representação**: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE26.jpeg). |
+| **Elos Forward-from:**   | **Satisfação**: RE26 - UC12: O caso de uso (UC12) pode ser visto como uma forma de satisfazer o requisito (RE26). <br> **Responsabilidade**: RE26 - CEN08: O Cenário (CEN08) detalha a participação e ação dos advogados sobre os processos dos clientes (RE26). <br> **Satisfação**: RE26 - US26: A história de usuário (US26) pode ser vista como uma expressão de satisfação do requisito (RE26). <br> **Representação**: [Print do Requisito Funcional que já está Implementado no aplicativo](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE26.jpeg). |
 
 </center>
 
