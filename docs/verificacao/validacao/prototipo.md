@@ -36,6 +36,11 @@ O usuário deve poder bloquear empréstimos.
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
+### Validação dos Protótipos
+A validação dos protótipos foi realizada com a usuária do aplicativo Neysa Mendes Rossi de Borba, que já tinha sido consultada anteriormente em outra etapa, foi realizada dia 07/07/2024.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbccBtcmwRk?si=8CtlVL9B3iaW5qjR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliográfia
 > <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 23): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/referencias/Requisitos%20-%20Aula%20023.pdf](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/referencias/Requisitos%20-%20Aula%20023.pdf).
 
