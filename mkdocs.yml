@@ -13,6 +13,7 @@ nav:
         - Apresentação 5.1: "apresentacao/apresentacao05.1.md"
         - Apresentação 6: "apresentacao/apresentacao06.md"
         - Apresentação 5.2: "apresentacao/apresentacao05.2.md"
+        - Apresentação 7: "apresentacao/apresentacao07.md"
 
     - Atas: 
         - Ata 01: "atas/Ata1-24.03.2024.md"
@@ -108,6 +109,13 @@ nav:
     - Entrega Final:
         - Aplicativo Selecionado: "entregafinal/App_select.md"
         - Planejamento dos Recursos e das Entregas: "entregafinal/Planejamento.md"
+        - Execução do Projeto: "entregafinal/Exec.md"
+        - Resultados Alcançados: "entregafinal/Resultados.md"
+        - Técnicas Utilizadas: "entregafinal/Tecnicas.md"
+        - Artefatos Criados: "entregafinal/Artefatos.md"
+        - Método de Verificação e Validação: "entregafinal/V&V.md"
+        - Ferramentas Utilizadas: "entregafinal/Ferramentas.md"
+        - Apresentações: "entregafinal/Apresentacao.md"
 
 theme:
   language: pt-BR
