@@ -106,8 +106,8 @@ nav:
       - Matriz de Rastreabilidade: "rastreabilidade/matriz.md"
 
     - Entrega FInal:
-        - Aplicativo Selecionado: "entregafinal\App_select.md"
-        - Planejamento dos Recursos e das Entregas: "entregafinal\Planejamento.md"
+        - Aplicativo Selecionado: "entregafinal/App_select.md"
+        - Planejamento dos Recursos e das Entregas: "entregafinal/Planejamento.md"
 
 theme:
   language: pt-BR
