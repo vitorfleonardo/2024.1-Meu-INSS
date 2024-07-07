@@ -114,4 +114,4 @@ A tabela 1 é uma legenda da tabela de backlog que foi feita.
 |`1.0`|25/05/2024|Criação do documento.|[Johnny Lopes](https://github.com/JohnnyLopess)|27/05/2024| [Gabriel Souza](https://github.com/GabrielMS00) & [Paulo Borba](https://github.com/paulohborba)|
 `1.1`|27/05/2024|Alteração do documento.|[Paulo Borba](https://github.com/paulohborba)|27/05/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
 `1.2`|28/05/2024|Alteração do documento.|[Paulo Borba](https://github.com/paulohborba)|28/05/2024|[Johnny Lopes](https://github.com/)|
-`1.3`|28/05/2024|Arrumando Hiperlinks e ajustes na tabela de backlog.|[Johnny Lopes](https://github.com/)|-|-|
+`1.3`|28/05/2024|Arrumando Hiperlinks e ajustes na tabela de backlog.|[Johnny Lopes](https://github.com/)| 28/05/2024 | [Paulo Borba](https://github.com/paulohborba) |

@@ -12,6 +12,7 @@ A rastreabilidade backward-from é um processo crítico na engenharia de requisi
 A rastreabilidade forward-from é um componente essencial na engenharia de requisitos, que possibilita a ligação dos requisitos aos artefatos subsequentes, como design, código, testes e documentação. Esse tipo de rastreabilidade é crucial para assegurar que todos os requisitos sejam devidamente implementados e testados ao longo do ciclo de vida do desenvolvimento do software. Além disso, a rastreabilidade forward-to facilita a gestão de mudanças, permitindo que qualquer alteração nos requisitos seja refletida de maneira consistente em todos os artefatos afetados. Isso garante que as modificações sejam corretamente incorporadas e verificadas, mantendo a integridade e a conformidade do sistema em relação aos requisitos definidos inicialmente. <a id="RP2" href="#TEC2">[2]</a>
 
 ## Metodologia
+Utilizamos um cartão baseado nos cartões presentes nos slides dos Professores Milene Serrano e Maurício Serrano na página 22 à 27<a id="RP3" href="#TEC3">[3]</a>, as categorias e tipos de elos derivam do Meta-modelo de Toranzo. Os cartões que fizemos utilizam o mesmo formato, porém fizemos baseados nos requisitos onde cada cartão possui todos os tipos de Elos daquele requisito citado.
 
 ### Cartões de Relacionamento dos Elos
 
@@ -324,7 +325,7 @@ Legenda:
 | **Elementos:**           | [RE14](../../elicitacao/requisitosElicitados), [ENT02](../../elicitacao/entrevista), [UC07](../../modelagem/useCase), [CEN02](../../modelagem/cenarios), [CEN04](../../modelagem/cenarios) |
 | **Descrição do Requisito** | Deve fornecer ferramentas voltadas para os benefícios dos segurados, incluindo um recurso de pesquisa. |
 | **Elos Backward-from:**  | **Agregação**: RE14 - ENT02: O requisito originou-se de uma Entrevista. |
-| **Elos Forward-from:**   | **Satisfação**: RE14 - UC07: O requisito RE14 deu origem ao caso de uso UC07. <br> **Satisfação**: RE14 - CEN02, CEN04: O requisito RE14 contribui para os cenários CEN02 e CEN04. <br> **Satisfação**: RE14 - CDS: O requisito recebeu uma pontuação 9 do Desenvolvedor e 5 do Usuário na técnica $100. <br> **Satisfação**: RE14 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Representação: [Print do requisito](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE14.jpeg). |
+| **Elos Forward-from:**   | **Satisfação**: RE14 - UC07: O requisito RE14 deu origem ao caso de uso UC07. <br> **Satisfação**: RE14 - CEN02, CEN04: O requisito RE14 contribui para os cenários CEN02 e CEN04. <br> **Satisfação**: RE14 - CDS: O requisito recebeu uma pontuação 9 do Desenvolvedor e 5 do Usuário na técnica $100. <br> **Satisfação**: RE14 - TLS: O requisito recebeu uma priorização Alta no Three Level Scale. <br> Representação: [Print do Requisito Funcional que já está Implementado no aplicativo](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/prints/RE14.jpeg). |
 
 </center>
 
@@ -854,12 +855,12 @@ Legenda:
 
 > <a id="RP2" href="#TEC2">2.</a> Kotonya, Gerald, and Ian Sommerville. "Requirements Engineering: Processes and Techniques." John Wiley & Sons, 1998. Disponível em: (https://www.acqnotes.com/Attachments/The%20Requirements%20Engineering%20Handbook%20by%20Ralph%20R.%20Young.pdf).Acesso em: 22 jun. 2024.
 
+> <a id="RP3" href="#TEC3">3.</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/rastrear/doimagens/referencias/rastreabilidade/Requisitos%20-%20Aula%20026.pdf](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/rastrear/docs/imagens/referencias/rastreabilidade/Requisitos%20-%20Aula%20026.pdf). Acesso em: 18 jun. 2024.
+
 ## Bibliografia
 > <a id="RP1" href="#TEC1">1.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 18 jun. 2024.
 
 > <a id="RP2" href="#TEC2">2.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf](https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf). Acesso em: 18 jun. 2024.
-
-> <a id="RP3" href="#TEC3">3.</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: [https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/rastrear/doimagens/referencias/rastreabilidade/Requisitos%20-%20Aula%20026.pdf](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/rastrear/docs/imagens/referencias/rastreabilidade/Requisitos%20-%20Aula%20026.pdf). Acesso em: 18 jun. 2024.
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |

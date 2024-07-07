@@ -320,4 +320,4 @@ Nessa etapa, foram escolhidas as melhoras alteranativas, pelo desenvolvedores. R
 |`2.0`|21/06/2024|Adição dos cartões de especificação.| [Johnny Lopes](https://github.com/JohnnyLopess)|22/06/2024|[Gabriel Souza](https://github.com/GabrielMS00)|
 |`2.1`|22/06/2024|Adição do cartão de especificação NFR04.| [Gabriel Souza](https://github.com/GabrielMS00)| 27/06/2024 | [Paulo Borba](https://github.com/paulohborba) |
 |`2.2`|27/06/2024|Adição do cartão de especificação NFR08.| [Paulo Borba](https://github.com/paulohborba)| 27/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00) |
-|`2.3`|29/06/2024|Adição do cartão de especificação NFR05.| [José Filipi](https://github.com/JoseFilipi)| 29/06/2024 |
+|`2.3`|29/06/2024|Adição do cartão de especificação NFR05.| [José Filipi](https://github.com/JoseFilipi)| 29/06/2024 | [Paulo Borba](https://github.com/paulohborba)

@@ -111,7 +111,7 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 10 - Requisitos de Desempenho: Capacidade? 4 - Modo degradação? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
 11 - Requisitos de Suportabilidade: Padrões de codificação? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
 12 - Requisitos de Suportabilidade: Bibliotecas? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
-13 - Requisitos de Suportabilidade: Padrões de nomeações? | Não | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
+13 - Requisitos de Suportabilidade: Padrões de nomeações? | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
 14 - Requisitos de restrição de design: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software.  | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
 15 - Requisitos de segurança: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software. | Sim | [Checklist 3](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/)
 
@@ -136,9 +136,9 @@ Critérios  | Sim/Não/Incompleto | Fonte
 1 - Os termos léxicos foram identificados e documentados? | Sim |  [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 2 - Cada termo léxico possui um nome único e descritivo? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-4 - É apresentado um ou mais exemplos de cada classificação de léxico? | Inc | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+4 - É apresentado um ou mais exemplos de cada classificação de léxico? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 5 - Foram identificadas e documentadas as relações entre os termos léxicos? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
-6 -  As informações são suficientes para entendimento dos léxico?| Inc  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
+6 -  As informações são suficientes para entendimento dos léxico?| Sim  | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 7 -  A documentação dos léxicos foi revisada e aprovada? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/)
 
 
