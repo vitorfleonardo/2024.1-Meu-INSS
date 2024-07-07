@@ -54,9 +54,9 @@ nav:
     - Modelagem:
         - Especificação Suplementar: "modelagem/specSuplementar.md"
         - Casos de Uso: "modelagem/useCase.md"
+        - Validação dos casos de uso: "modelagem/validusecase.md"
         - Cenários: "modelagem/cenarios.md"
         - Léxicos: "modelagem/lexicos.md"
-        - Validação dos casos de uso: "modelagem/validusecase.md"
         - Ágil:
           - Backlog: "modelagem/Agil/backlog.md"
           - Histórias de Usuário: "modelagem/Agil/historia_de_usuario.md"
