@@ -603,7 +603,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
-## Entrega 7 - Entrega do Projeot Final - Data de Entrega:
+## Entrega 7 - Entrega do Projeto Final - Data de Entrega:
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 8:</b> Projeto Final - Grupo 7</p></font>
@@ -688,7 +688,6 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div>
 
-
 ## Referências bibliográficas
 
 > <a id="TEC1" href="#RP1">1.</a> BRASIL. Lei nº 7.783, de 28 de junho de 1989. Dispõe sobre o exercício do direito de greve, define as atividades essenciais, regula o atendimento das necessidades inadiáveis da comunidade, e dá outras providências. Brasília, DF, 1989.
@@ -716,3 +715,4 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
 | `1.8`  | 24/06/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 24/06/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.9`  | 01/07/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 01/07/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
 | `2.0`  | 04/07/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 04/07/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
+| `2.1`  | 07/07/2024 | Correções no cronograma executado.| [Paulo Borba](https://github.com/paulohborba) | 07/07/2024 |[Johnny Lopes](https://github.com/JohnnyLopess) |
