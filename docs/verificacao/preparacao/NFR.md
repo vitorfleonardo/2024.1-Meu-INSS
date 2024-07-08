@@ -22,15 +22,15 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios   | Fonte
 --------- | ------ 
-1 - Os requisitos não funcionais foram identificados e documentados ?  | <a id="TEC3" href="#RP3">p.19</a>
-2 – Foi utilizada a abordagem goal-oriented para a especificação dos requisitos não funcionais ?  | <a id="TEC3" href="#RP3">p.19</a>
-3 - Os softgoals foram definidos e classificados de acordo com o NFR Framework ?  | <a id="TEC3" href="#RP3">p.20</a>
-4 - Foi utilizado o Softgoal Interdependency Graph (SIG) como modelo para representar as interdependências entre os softgoals ?  | <a id="TEC3" href="#RP3">p.24</a>
-5 - Os softgoals foram priorizados de acordo com a importância para o sistema ?  | <a id="TEC3" href="#RP3">p.25</a>
-6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ?  | <a id="TEC3" href="#RP3">p.180</a>
-7 - Foi elaborado um plano para gerenciar e resolver os conflitos identificados ?  | <a id="TEC3" href="#RP3">p.180</a>
-8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ?  | <a id="TEC3" href="#RP3">p.44</a>
-9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ?  | <a id="TEC2" href="#RP2">p.45</a>
+1 - Os requisitos não funcionais foram identificados e documentados ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/nfr_pag19.png">p.19</a>
+2 – Foi utilizada a abordagem goal-oriented para a especificação dos requisitos não funcionais ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/nfr_pag19.png">p.19</a>
+3 - Os softgoals foram definidos e classificados de acordo com o NFR Framework ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/nfr_pag20.png">p.20</a>
+4 - Foi utilizado o Softgoal Interdependency Graph (SIG) como modelo para representar as interdependências entre os softgoals ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/nfr_pag24.png">p.24</a>
+5 - Os softgoals foram priorizados de acordo com a importância para o sistema ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/nfr_pag25.png">p.25</a>
+6 - Foram identificados e documentados os possíveis conflitos entre os softgoals ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/nfr_pag180.png">p.180</a>
+7 - Foi elaborado um plano para gerenciar e resolver os conflitos identificados ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/nfr_pag180.png">p.180</a>
+8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/nfr_pag44.png">p.44</a>
+9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ?  | <a id="TEC2" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/nfr_pag45.png">p.45</a>
 
 <font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 

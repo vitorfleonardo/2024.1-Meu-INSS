@@ -22,14 +22,14 @@ Pergunta para avaliação| Página e livro de referência
 
 | Critérios | Fonte |
 |-----------|---------------------|
-| 1 - Os objetivos principais do projeto foram identificados? | <a id="TEC1" href="#RP1">p.313</a> |
-| 2 - Os objetivos foram priorizados de acordo com a técnica "First Things First"? | <a id="TEC1" href="#RP1">p.314</a> |
-| 3 - Os critérios para priorização dos objetivos foram definidos e documentados? | <a id="TEC1" href="#RP1">p.313</a> |
-| 4 - A equipe de desenvolvimento foi envolvida no processo de priorização? | <a id="TEC1" href="#RP1">p.313</a> |
-| 5 - As decisões de priorização foram validadas com os stakeholders? | <a id="TEC1" href="#RP1">p.313</a> |
-| 6 - Foi criada uma lista de tarefas baseada nos objetivos priorizados? | <a id="TEC1" href="#RP1">p.313</a> |
-| 7 - A tabela possui os pesos relativos e sua justificativa? | <a id="TEC1" href="#RP1">p.314</a> |
-| 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? | <a id="TEC1" href="#RP1">p.313</a> |
+| 1 - Os objetivos principais do projeto foram identificados? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/ftf_pg313.png">p.313</a> |
+| 2 - Os objetivos foram priorizados de acordo com a técnica "First Things First"? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/ftf_pg314.png">p.314</a> |
+| 3 - Os critérios para priorização dos objetivos foram definidos e documentados? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/ftf_pg313.png">p.313</a> |
+| 4 - A equipe de desenvolvimento foi envolvida no processo de priorização? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/ftf_pg313.png">p.313</a> |
+| 5 - As decisões de priorização foram validadas com os stakeholders? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/ftf_pg313.png">p.313</a> |
+| 6 - Foi criada uma lista de tarefas baseada nos objetivos priorizados? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/ftf_pg313.png">p.313</a> |
+| 7 - A tabela possui os pesos relativos e sua justificativa? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/ftf_pg314.png">p.314</a> |
+| 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/ftf_pg313.png">p.313</a> |
 
 <font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
 

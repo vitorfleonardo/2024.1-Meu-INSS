@@ -22,13 +22,13 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios  | Fonte
 --------- | ------
-1 – Há um termo de consentimento associado à aplicação do questionário ?  | <a id="TEC6" href="#RP6">Artigo 5º</a>
-2 - O termo de consentimento está anexado ao texto de explicação do perfil de usuário ? | <a id="TEC6" href="#RP6">Artigo 5º</a>
-3 - Há algum indicador visual das respostas do questionário ?  | <a id="TEC9" href="#RP9">p. 6</a>
-4 - Há indicadores de quantidade de respostas do questionário ?  | <a id="TEC9" href="#RP9">p. 6</a>
-5 - O perfil de usuário possui questões demográficas ?  | <a id="TEC5" href="#RP5">p.165-166</a> 
-6 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? | <a id="TEC5" href="#RP5">p.165-166</a>
-7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | <a id="TEC5" href="#RP5">p.165-166</a>
+1 – Há um termo de consentimento associado à aplicação do questionário ?  | <a id="TEC6" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/perfil_do_usu_art5.png">Artigo 5º</a>
+2 - O termo de consentimento está anexado ao texto de explicação do perfil de usuário ? | <a id="TEC6" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/perfil_do_usu_art5.png">Artigo 5º</a>
+3 - Há algum indicador visual das respostas do questionário ?  | <a id="TEC9" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/perfil_do_usu_pag166.png">p. 6</a>
+4 - Há indicadores de quantidade de respostas do questionário ?  | <a id="TEC9" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/perfil_do_usu_pag166.png">p. 6</a>
+5 - O perfil de usuário possui questões demográficas ?  | <a id="TEC5" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/perfil_do_usu_pag165.png">p.165-166</a> 
+6 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? | <a id="TEC5" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/perfil_do_usu_pag165.png">p.165-166</a>
+7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | <a id="TEC5" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/perfil_do_usu_pag165.png">p.165-166</a>
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
@@ -38,7 +38,8 @@ Critérios  | Fonte
 
 > <a id="RP9" href="#TEC9">2.</a> SANTOS, Luiz Carlos dos. A técnica do questionário: conceituação, características, vantagens e limitações. 2021. Disponível em: https://www.lcsantos.pro.br/wp-content/uploads/2021/03/218_A_TECNICA_DO_QUESTIONARIO.pdf. Acesso em: 10 de jun. de 2024.
 
-Falta uma
+> <a id="RP5" href="#TEC5">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1 disponível em: [https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/referencias/rastreabilidade/ihc-ux%20cap%207.pdf](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/main/docs/imagens/referencias/rastreabilidade/ihc-ux%20cap%207.pdf).
+
 
 ## Histórico de Versões
 

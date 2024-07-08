@@ -22,13 +22,13 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios   | Fonte
 --------- | ------ 
-1 - Os termos léxicos foram identificados e documentados?  | <a id="TEC4" href="#RP4">p.9</a>
-2 - Cada termo léxico possui um nome único e descritivo?  | <a id="TEC4" href="#RP4">p.9</a>
-3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos?  | <a id="TEC4" href="#RP4">p.17</a>
-4 - É apresentado um ou mais exemplos de cada classificação de léxico?  | <a id="TEC4" href="#RP4">p.18</a>
-5 - Foram identificadas e documentadas as relações entre os termos léxicos?  | <a id="TEC4" href="#RP4">p.18</a>
-6 -  As informações são suficientes para entendimento dos léxico?  | <a id="TEC4" href="#RP4">p.17</a>
-7 -  A documentação dos léxicos foi revisada e aprovada?  | <a id="TEC4" href="#RP4">p.180</a>
+1 - Os termos léxicos foram identificados e documentados?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/lexico_pg9.png">p.9</a>
+2 - Cada termo léxico possui um nome único e descritivo?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/lexico_pg9.png">p.9</a>
+3 - Os léxicos apresentados no artefato apresentam classificação, noção e sinônimos?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/lexico_pg17.png">p.17</a>
+4 - É apresentado um ou mais exemplos de cada classificação de léxico?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/lexico_pg18.png">p.18</a>
+5 - Foram identificadas e documentadas as relações entre os termos léxicos?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/lexico_pg18.png">p.18</a>
+6 -  As informações são suficientes para entendimento dos léxico?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/lexico_pg17.png">p.17</a>
+7 -  A documentação dos léxicos foi revisada e aprovada?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/lexico_pg180.png">p.180</a>
 
 
 <font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Amanda Campos](https://github.com/acamposs)</p></font>
