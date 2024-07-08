@@ -150,7 +150,7 @@ Critérios  | Avaliação | Fonte
 | 7 - A tabela possui os pesos relativos e sua justificativa? | Sim | <a id="TEC1" href="#RP1">p.314</a> |
 | 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? | Sim | <a id="TEC1" href="#RP1">p.313</a> |
 
-<font size="3"><p style="text-align: center">Autor: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autores: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 ### Introspecção
 - Aqui é possível encontrar a origem do artefato verificado [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/).

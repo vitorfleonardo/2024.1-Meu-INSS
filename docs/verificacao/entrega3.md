@@ -36,7 +36,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 8 - Não há dois casos de uso com o mesmo nome? | Sim | <a id="TEC1" href="#RP1">[1]</a>
 9 - Cada ator tem um nome que descreva efetivamente o papel dessa pessoa? | Sim | <a id="TEC1" href="#RP1">[1]</a>
 
-<font size="3"><p style="text-align: center">Autor: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autores: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 
 ### Especificação dos casos de Uso
@@ -61,7 +61,7 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 14 - As etapas estão numeradas corretamente? | Sim | <a id="TEC1" href="#RP1">[1]</a>
 15 - Para cada fluxo alternativo, as condições para início do fluxo estão claramente definidas? | Sim | <a id="TEC1" href="#RP1">[1]</a>
 
-<font size="3"><p style="text-align: center">Autor: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autores: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 ### Especificação suplementar
 
@@ -86,7 +86,7 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 15 - Requisitos de restrição de design: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software.  | Sim | <a id="TEC2" href="#RP2">[2]</a>
 16 - Requisitos de segurança: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software. | Incompleto | <a id="TEC2" href="#RP2">[2]</a>
 
-<font size="3"><p style="text-align: center">Autor: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autores: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 ### Léxicos
 - Aqui é possível encontrar a origem do artefato verificado [Léxicos]( https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/).
