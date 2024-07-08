@@ -254,4 +254,4 @@ Critérios  | Avaliação | Fonte
 |`1.1` | 10/06/2024 | Adição da verificação da técnica In or Out. |[Johnny Lopes](https://github.com/JohnnyLopess) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)||
 |`1.2` | 10/06/2024 | Adição da verificação da técnica Introspecção e Questionário e algumas correções |[Paulo Borba](https://github.com/paulohborba) |20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) | 
 |`1.3` | 10/06/2024 | Adição do vídeo de Perfil de usuário |[José Filipi](https://github.com/JoseFilipi)  |20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) | 
-|`1.4` | 24/06/2024 | Alteração da estrutura do artefato |[Vitor Feijó](https://github.com/vitorfleonardo) | | | 
+|`1.4` | 24/06/2024 | Alteração da estrutura do artefato |[Vitor Feijó](https://github.com/vitorfleonardo) | 08/07/2024 | [Amanda Campos](https://github.com/acamposs)|  

@@ -160,5 +160,5 @@ Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 10/06/2024 | Criação do documento. |[José Filipi](https://github.com/JoseFilipi) | 10/06/2024| [Bianca Castro](https://github.com/BiancaPatrocinio7)
 |`1.1` | 10/06/2024 | Adicionando a verificaçãdo do First Things First, casos de uso e especificação suplementar |[Bianca Castro](https://github.com/BiancaPatrocinio7) & [Vitor Feijó](https://github.com/vitorfleonardo) & [Johnny Lopes](https://github.com/JohnnyLopess)| 10/06/2024| [José Filipi](https://github.com/JoseFilipi)
-|`1.3` | 24/06/2024 | Alteração da estrutura do artefato |[Vitor Feijó](https://github.com/vitorfleonardo) | | | 
+|`1.3` | 24/06/2024 | Alteração da estrutura do artefato |[Vitor Feijó](https://github.com/vitorfleonardo) |08/07/2024 | [Amanda Campos](https://github.com/acamposs)| 
 

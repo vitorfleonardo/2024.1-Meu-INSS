@@ -47,4 +47,4 @@ Critérios   | Fonte
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 30/06/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess) |  | |   
+|`1.0` | 30/06/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess) | 08/07/2024 | [Amanda Campos](https://github.com/acamposs)|   
