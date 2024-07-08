@@ -22,11 +22,11 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios  | Fonte
 --------- | ------ 
-1 - Cada cenário descreve uma única instância de uso do sistema?  | <a id="TEC1" href="#RP1">p.149</a>
-2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário?  | <a id="TEC1" href="#RP1">p.149</a>
-3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar?  | <a id="TEC1" href="#RP1">p.136</a>
-4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos  | <a id="TEC1" href="#RP1">p.152</a>
-5 - Os cenários especificam um caso de uso?  | <a id="TEC1" href="#RP1">p.163</a>
+1 - Cada cenário descreve uma única instância de uso do sistema?  | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/cenario_pg149.png">p.149</a>
+2 – Para cada cenário, há uma referência do caso de uso que foi especializado no cenário?  | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/cenario_pg149.png">p.149</a>
+3 - Os cenários contém declarações gerais dos objetivos do usuário ou tarefas de negócios que os usuários presisam realizar?  | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/cenario_pg136.png">p.136</a>
+4 - Os episódios de cada cenário seguem uma ordem lógica de acontecimentos  | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/cenario_pg152.png">p.152</a>
+5 - Os cenários especificam um caso de uso?  | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/cenario_pg163.png">p.163</a>
 
 
 

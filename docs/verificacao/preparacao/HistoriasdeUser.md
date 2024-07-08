@@ -22,13 +22,12 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios  | Fonte
 --------- | ------ 
-1 - As histórias de usuário foram escritas pelo cliente ou foram feitas utilizando os requisitos já elicitados? |  <a id="TEC5" href="#RP5">p.73</a>
-2 – As histórias de usuário possuem um valor (uma prioridade) baseado no valor de negócio dada pelo cliente? | <a id="TEC5" href="#RP5">p.73</a>
-3 - No artefato, cada história de usuário possui um identificador único? | Fonte
-4 - As descrições das histórias de usuário são claras e descrevem bem as funcionalidades que o sistema deve possuir para solucionar o problema do usuário? |  <a id="TEC5" href="#RP5">p.73</a>
-5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? |  <a id="TEC5" href="#RP5">p.73</a>
-6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? |  Fonte
-
+1 - As histórias de usuário foram escritas pelo cliente ou foram feitas utilizando os requisitos já elicitados? |  <a id="TEC5" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/US_pg73.png">p.73</a>
+2 – As histórias de usuário possuem um valor (uma prioridade) baseado no valor de negócio dada pelo cliente? | <a id="TEC5" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/US_pg73.png">p.73</a>
+3 - No artefato, cada história de usuário possui um identificador único? | <a id="TEC5" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/US_pg73.png">p.73</a>
+4 - As descrições das histórias de usuário são claras e descrevem bem as funcionalidades que o sistema deve possuir para solucionar o problema do usuário? |  <a id="TEC5" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/US_pg73.png">p.73</a>
+5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? |  <a id="TEC5" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/US_pg73.png">p.73</a>
+6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? |  <a id="TEC5" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/US_pg73.png">p.73</a>
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
 ## Referências Bibliográficas
