@@ -25,13 +25,13 @@ Como citado anteriormente, em busca de organizar e entender os Requisitos-Não f
 
 <p align="center" > <strong> Figura 1:</Strong> Taxonomia de Requisitos Não-Funcionais.</font></p>
 <iframe frameborder="0" style="width:100%;height:350px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1giNn5-kisipsC4Gp5FalpvZBydIiVLhj%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 Utilizando o NFR Framework e a Taxonomia desenvolvida, representada na figura 1, constrói-se um Gráfico inicial de interdependência de softgoal com softgoals NFRs, exibido na figura 2. Estes são requisitos não funcionais principais, tratados como softgoals, para o desenvolvimento do aplicavo Meu INSS. Isto é, são objetivos que precisam ser esclarecidos, desambiguados, priorizados, elaborados, etc (Chung et al, 2000, p. 20).
 
 <p align="center" > <strong> Figura 2:</Strong> Gráfico inicial de interdependência de softgoal com softgoals NFRs. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=softgoals.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1R_2RmflaaBlniUi0GrhkMzEdW-ZZCRli%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 ## Decomposição de softgoals NFRs 
 
@@ -56,13 +56,13 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
 ### NFR01: Usabilidade
 
 <p align="center" > <strong> Figura 3:</Strong> Decomposição do softgoal Usabilidade em requisitos não funcionais mais específicos. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 2:</Strong> Cartão de especificação NFR01 </font></p>
 
@@ -81,13 +81,13 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 ### NFR02: Confiabilidade
 
 <p align="center" > <strong> Figura 4:</Strong> Decomposição do softgoal Confiabilidade em requisitos não funcionais mais específicos. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=N8aEGRbs_lslEPsWCd_S&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024 & Chung et al, 2000, p. 24.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024 & Chung et al, 2000, p. 24.</p></font>
 
 
 <p align="center" > <strong> Tabela 3:</Strong> Cartão de especificação NFR02 </font></p>
@@ -107,13 +107,13 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 ### NFR03: Desempenho
 
 <p align="center" > <strong> Figura 5:</Strong> Decomposição do softgoal Desempenho em requisitos não funcionais mais específicos. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=h3lqgF3nMLwTmG0sS_oK&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024 & Chung et al, 2000, p. 24.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024 & Chung et al, 2000, p. 24.</p></font>
 
 <p align="center" > <strong> Tabela 4:</Strong> Cartão de especificação NFR03. </font></p>
 
@@ -130,7 +130,7 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 | **Conflitos:** | Nenhum |
 | **História:** | 27/05/2024 |
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024.</p></font>
 
 </center>
 
@@ -138,7 +138,7 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 <p align="center" > <strong> Figura 7:</Strong> Decomposição do softgoal Interface em requisitos não funcionais mais específicos. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=i6-boJ5dRXbtqCUiacrp&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Gabriel Souza](https://github.com/GabrielMS00), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Gabriel Souza](https://github.com/GabrielMS00), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 5:</Strong> Cartão de especificação NFR04. </font></p>
 
@@ -157,13 +157,13 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Gabriel Souza](https://github.com/GabrielMS00), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Gabriel Souza](https://github.com/GabrielMS00), 2024.</p></font>
 
 ### NFR05: Interface
 
 <p align="center" > <strong> Figura 7:</Strong> Decomposição do softgoal Interface em requisitos não funcionais mais específicos. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=FWwiJ7CwBqTNnmuijmUT&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [José Filipi](https://github.com/JoseFilipi), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [José Filipi](https://github.com/JoseFilipi), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 6:</Strong> Cartão de especificação NFR05. </font></p>
 
@@ -182,13 +182,13 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [José Filipi](https://github.com/JoseFilipi), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [José Filipi](https://github.com/JoseFilipi), 2024.</p></font>
 
 ### NFR06: Design
 
 <p align="center" > <strong> Figura 8:</Strong> Decomposição do softgoal Design em requisitos não funcionais mais específicos. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=SMal-kwEujG9ZFxwmq8E&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Amanda Campos](https://github.com/acamposs), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Amanda Campos](https://github.com/acamposs), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 7:</Strong> Cartão de especificação NFR06. </font></p>
 
@@ -207,14 +207,14 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Amanda Campos](https://github.com/acamposs), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Amanda Campos](https://github.com/acamposs), 2024.</p></font>
 
 
 ### NFR07: Implementação
 
 <p align="center" > <strong> Figura 9:</Strong> Decomposição do softgoal Implementação em requisitos não funcionais mais específicos. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=Ffid3B1iIyGyJCZ9zvo6&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 8:</Strong> Cartão de especificação NFR07. </font></p>
 
@@ -233,7 +233,7 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
 
 ### NFR08: Suportabilidade
@@ -241,7 +241,7 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 <p align="center" > <strong> Figura 10:</Strong> Decomposição do softgoal Suportabilidade em requisitos não funcionais mais específicos. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=Ps6S_oxP5CK2rWNoZUKd&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
 
 <p align="center" > <strong> Tabela 9:</Strong> Cartão de especificação NFR08. </font></p>
 
@@ -260,13 +260,13 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
 
 ### Softgoal Interdependency Graph
 
 <p align="center" > <strong> Figura 11:</Strong> Softgoals NFR do Meu INSS. </font></p>
 <iframe frameborder="0" style="width:100%;height:398px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=ILsYYq8ouLFGnrmj7oqu&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - grupo 7, 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 ## Operacionalização e priozição
 
@@ -274,21 +274,21 @@ Enquanto que o processo de refinamento até agora fornece interpretações mais 
 
 <p align="center" > <strong> Figura 12:</Strong> Identificação de operacionalizações e priorizações. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=NYTGmn3TqblnIOBQkdR6&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<<font size="3"><p style="text-align: center"><b>Fonte</b> - grupo 7, 2024.</p></font>
+<<font size="3"><p style="text-align: center"><b>Autores</b> - [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 ## Afirmações de design
 Foca-se, aqui, na inserção de calim softgoals, ou seja, o terceiro tipo de softgoal, em que se anexa aos links de interdependência, dessa forma, argumentando a relação entre os concetados. Os claim softgoals são representadas como nuvens tracejadas no gráfico de interdependência de metas flexíveis. Seus vínculos de interdependência representam os argumentos (Chung et al, 2000, p. 33 e 35). 
 
 <p align="center" > <strong> Figura 13:</Strong> Inserção de afirmações de design. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=bL-RBclApFra9mjxN7nl&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - grupo 7, 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autores</b> - [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 ## Seleção entre alternativas
 Nessa etapa, foram escolhidas as melhoras alteranativas, pelo desenvolvedores. Respretentadas na imagem 14.
 
 <p align="center" > <strong> Figura 14:</Strong> Seleção das alternativas. </font></p>
 <iframe frameborder="0" style="width:100%;height:500px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=KlURLMkGPNRzwtXcyA2Y&title=Usabilidade.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1nD_FrQ6lV77Rs1sjp3uvCtf7IaTTWK1V%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - grupo 7, 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autores</b> - [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo), 2024.</p></font>
 
 ## Bibliografia
 

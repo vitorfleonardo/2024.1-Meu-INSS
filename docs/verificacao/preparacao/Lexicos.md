@@ -31,7 +31,7 @@ Critérios   | Fonte
 7 -  A documentação dos léxicos foi revisada e aprovada?  | <a id="TEC4" href="#RP4">p.180</a>
 
 
-<font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Amanda Campos](https://github.com/acamposs)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Amanda Campos](https://github.com/acamposs)</p></font>
 
 
 

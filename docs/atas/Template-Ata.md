@@ -43,7 +43,7 @@ Na tabela 1 encontra-se o horário de início e de término que foi definido par
     </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/xxxxx">xxxxx</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/xxxxx">xxxxx</a>, 2024</p></font>
 </div>
 
 ## Pauta
@@ -63,7 +63,7 @@ Na tabela 2 situa-se as atividades definidas e os responsáveis por cada uma del
 | xxxx             | xxxx          |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [xxxx](https://github.com/xxxx), 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [xxxx](https://github.com/xxxx), 2024</p></font>
 </div>
 
 ## Conclusão
@@ -79,7 +79,7 @@ No vídeo 1 localiza-se a gravação da reunião.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxx" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><!--Para funcionar o link na página, tem que pegar o link do vídeo em compartilhar e dps em incorporar, dentro do youtube -->
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="xxx">xxx</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="xxx">xxx</a>, 2024</p></font>
 </div >
 
 ## Histórico de Versão

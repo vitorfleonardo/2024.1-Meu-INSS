@@ -35,7 +35,7 @@ Representação: Há o print do requisito caso ele ja esteja implementado?| [Tor
 Alocado: Os elos do tipo alocado contêm os artefatos que são alocados entre classes de origem e destino daquele requisito? | [Toranzo02](https://www-di.inf.puc-rio.br/~julio/rastre.pdf)
 Agregação: Os elos do tipo agregação contêm os artefatos que compõem elementos daquele requisito? | [Toranzo02](https://www-di.inf.puc-rio.br/~julio/rastre.pdf)
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi), 2024.</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi), 2024.</p></font>
 
 </center>
 

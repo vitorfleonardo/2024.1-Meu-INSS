@@ -29,7 +29,7 @@ Critérios  | Fonte
 5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? |  <a id="TEC5" href="#RP5">p.73</a>
 6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? |  Fonte
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
 ## Referências Bibliográficas
 

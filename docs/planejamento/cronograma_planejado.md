@@ -115,7 +115,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024 </p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024 </p></font>
 </div>
 
 ## Entrega 2 - Elicitação - Técnicas e Priorização - Data de Entrega:
@@ -235,7 +235,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 ## Entrega 3 - Modelagem de Requisitos 1 - Data de Entrega:
@@ -299,7 +299,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 ## Entrega 4 - Modelagem de Requisitos 2 - Ágil - Data de Entrega:
@@ -355,7 +355,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação - Grupo 8 - Data de Entrega:
@@ -404,7 +404,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 ## Entrega 6 - Pós-Rastreabilidade - Data de Entrega:
@@ -460,7 +460,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação - Data de Entrega:
@@ -509,7 +509,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 ## Referências bibliográficas

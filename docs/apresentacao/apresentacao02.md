@@ -9,7 +9,7 @@ Essa página tem como objetivo armazenar o vídeo da apresentação da segunda e
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vDnR0dE_WlQ?si=thWcQdHAHRR_iC3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
 
 
 A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.

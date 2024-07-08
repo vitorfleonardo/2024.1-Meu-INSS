@@ -29,7 +29,7 @@ Critérios   | Fonte
 5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? | <a id="TEC8" href="#RP8">p.34</a>
 6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? | <a id="TEC8" href="#RP8">p.36</a>
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
 
 ## Referências Bibliográficas

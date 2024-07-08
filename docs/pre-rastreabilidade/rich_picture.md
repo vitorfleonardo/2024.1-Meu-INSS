@@ -10,17 +10,17 @@ O [Canva](https://www.canva.com/) foi utilizado para desenvolver o Rich Picture 
 
 ![Richpicturev1](../assets/richpicture/richpicturev1.png)
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Autor: Autores.</p></font>
 
 <font size="3"><p style="text-align: center">Figura 2: Legenda Richpicture versão 1.</p></font>
 ![LegendaRichpicturev1](../assets/richpicture/legendav1.png)
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font> -->
+<font size="3"><p style="text-align: center">Autor: Autores.</p></font> -->
 
 ## Rich Picture do Meu INSS
 <p align="center" > <strong> Figura 1:</Strong> Rich picture</font> <gitbr></p>
 <embed src="..\..\imagens\rich_pictures\RichPicture_meuINSSAtual.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a> e <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a> e <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
 ## Referências Bibliográficas
 

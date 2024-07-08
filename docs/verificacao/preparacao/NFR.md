@@ -32,7 +32,7 @@ Critérios   | Fonte
 8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ?  | <a id="TEC3" href="#RP3">p.44</a>
 9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ?  | <a id="TEC2" href="#RP2">p.45</a>
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 ## Referências Bibliográficas
 

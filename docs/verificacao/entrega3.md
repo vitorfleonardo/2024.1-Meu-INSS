@@ -36,7 +36,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 8 - Não há dois casos de uso com o mesmo nome? | Sim | <a id="TEC1" href="#RP1">[1]</a>
 9 - Cada ator tem um nome que descreva efetivamente o papel dessa pessoa? | Sim | <a id="TEC1" href="#RP1">[1]</a>
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autor: Grupo 7</p></font>
 
 
 ### Especificação dos casos de Uso
@@ -61,7 +61,7 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 14 - As etapas estão numeradas corretamente? | Sim | <a id="TEC1" href="#RP1">[1]</a>
 15 - Para cada fluxo alternativo, as condições para início do fluxo estão claramente definidas? | Sim | <a id="TEC1" href="#RP1">[1]</a>
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autor: Grupo 7</p></font>
 
 ### Especificação suplementar
 
@@ -86,7 +86,7 @@ Critérios  | Sim/Não/Incompleto | Fonte</a>
 15 - Requisitos de restrição de design: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software.  | Sim | <a id="TEC2" href="#RP2">[2]</a>
 16 - Requisitos de segurança: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software. | Incompleto | <a id="TEC2" href="#RP2">[2]</a>
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autor: Grupo 7</p></font>
 
 ### Léxicos
 - Aqui é possível encontrar a origem do artefato verificado [Léxicos]( https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/lexicos/).
@@ -104,7 +104,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 7 -  A documentação dos léxicos foi revisada e aprovada? | Sim | <a id="TEC4" href="#RP4">p.180</a>
 
 
-<font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Amanda Campos](https://github.com/acamposs)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Amanda Campos](https://github.com/acamposs)</p></font>
 #### Comentários
 
 Gostei de como foi feito do documento em geral, tenho alguns comentários para uma futura melhoria:
@@ -123,7 +123,7 @@ _É apresentado um ou mais exemplos de cada classificação de léxico?_
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IUjYCaiwcE4?si=BMlg7-FczuquYMkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7).
+Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7).
 
 </center>
 

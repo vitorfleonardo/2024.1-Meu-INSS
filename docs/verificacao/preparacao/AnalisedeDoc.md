@@ -52,7 +52,7 @@ Critérios | Fonte
 28 - O feedback foi coletado e incorporado na análise dos documentos? | Fonte
 29 - Os documentos de requisitos estão acessíveis a todos os membros da equipe e partes interessadas? | Fonte
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda](https://github.com/acamposs), 2024</p></font>
 
 
 ## Referências Bibliográficas

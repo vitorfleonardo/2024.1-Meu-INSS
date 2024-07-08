@@ -30,7 +30,7 @@ Critérios  | Fonte
 6 - O perfil de usuário possui questões relacionadas ao conhecimento tecnológico ? | <a id="TEC5" href="#RP5">p.165-166</a>
 7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | <a id="TEC5" href="#RP5">p.165-166</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
 ## Referências Bibliográficas
 

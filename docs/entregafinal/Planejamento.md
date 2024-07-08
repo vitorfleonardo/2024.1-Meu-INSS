@@ -113,7 +113,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024 </p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024 </p></font>
 </div>
 
 </center>
@@ -362,7 +362,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 </center>
@@ -555,7 +555,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 </center>
@@ -698,7 +698,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 </center>
@@ -819,7 +819,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 </center>
@@ -1032,7 +1032,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 </center>
@@ -1146,7 +1146,7 @@ Em decorrência da greve dos servidores, legítima segundo a lei Nº 7.783, DE 2
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, 2024</p></font>
 </div>
 
 </center>

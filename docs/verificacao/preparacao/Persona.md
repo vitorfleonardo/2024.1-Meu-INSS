@@ -44,7 +44,7 @@ Critérios | Fonte
 20 - Ela é representativa e relevante para o projeto em questão ?  | Fonte
 
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
 
 ## Referências Bibliográficas
 

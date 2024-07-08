@@ -28,7 +28,7 @@ Critérios   | Fonte
 4 - A matriz possui os elos de rastreabilidade ?  | <a id="TEC3" href="#RP3">p.13</a>
 5 - A matriz de rastreabilidade foi atualizada conforme as mudanças nos requisitos ? | <a id="TEC3" href="#RP3">p.14</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
 ## Referências Bibliográficas
 

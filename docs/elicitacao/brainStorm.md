@@ -28,7 +28,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 |[José Souza](https://github.com/JoseFilipi)|Participante|Online|11/04/2024|
 |[Vitor Leonardo](https://github.com/vitorfleonardo)|Participante|Online|11/04/2024|
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
 </center>
 
 ### Perguntas
@@ -69,7 +69,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
    </table>
    <div style="text-align: center">
       <p><strong> Tabela 2 -</strong> Respostas da pergunta 1 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
+<p> Autor:  <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -111,7 +111,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 3 -</strong> Respostas da pergunta 2 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
+<p> Autor:  <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -129,7 +129,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
       </thead>
       <tbody>
            <tr>
-            <td>1. Deixar o mais intuitivo possível o aplicativo, com cores que não prejudiquem a vista, fontes grande o suficientes para não ser necessário forçar a vista e ter uma página de passo a passo para qualquer pessoa conseguir utilizar o aplicativo sem que a idade os distingue.</td>
+            <td>1. Deixar o mais intuitivo possível o aplicativo, com cores que não prejudiquem a vista, Autors grande o suficientes para não ser necessário forçar a vista e ter uma página de passo a passo para qualquer pessoa conseguir utilizar o aplicativo sem que a idade os distingue.</td>
             <td>Bianca</td>
          </tr>
          <tr>
@@ -153,7 +153,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 4 -</strong> Respostas da pergunta 3 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
+<p> Autor:  <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -195,7 +195,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 5 -</strong> Respostas da pergunta 4 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
+<p> Autor:  <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -237,7 +237,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 6 -</strong> Respostas da pergunta 5 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
+<p> Autor:  <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -281,7 +281,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 7 -</strong> Respostas da pergunta 6 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
+<p> Autor:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -323,7 +323,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 8 -</strong> Respostas da pergunta 7 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
+<p> Autor:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -365,7 +365,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 9 -</strong> Respostas da pergunta 8 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
+<p> Autor:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -407,7 +407,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 10 -</strong> Respostas da pergunta 9 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
+<p> Autor:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -449,7 +449,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 <center>
    <div style="text-align: center">
       <p><strong>Tabela 11 -</strong> Respostas da pergunta 10 <div style="text-align: center">
-<p> Fonte:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
+<p> Autor:  <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div></p>
    </div>
 </details>
@@ -484,7 +484,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 | BS13          | O aplicativo deve disponibilizar um sistema de suporte ao usuário operado por inteligência artificial.                |        Não     |
 | BS14          | O aplicativo deve possuir um processo de onboarding personalizado que se adapte ao nível de habilidade tecnológica do usuário.                           |        Não   |
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 
 ### Requisitos não Funcionais
 <p align="center" > <strong> Tabela 13 - </Strong> Elicitação dos requisitos não Funcionais</font> <gitbr></p>
@@ -496,14 +496,14 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 | BS17          | O aplicativo deve notificar agendamentos próximos.                                                             |       Não        |
 | BS18          | O aplicativo deve possuir abas mais organizadas para permitir uma navegação mais fácil e intuitiva.            |        Não       |
 | BS19          | O aplicativo deve criar uma fila digital referente aos agendamentos.                                           |       Não        |
-| BS20          | O aplicativo deve possuir ferramentas de acessibilidade como navegação guiada, alto contraste, comando por voz e possibilidade de aumentar a fonte.|Não|
+| BS20          | O aplicativo deve possuir ferramentas de acessibilidade como navegação guiada, alto contraste, comando por voz e possibilidade de aumentar a Autor.|Não|
 | BS21          | O aplicativo deve ter integração com outros serviços do governo.                                               |     Sim          |
 | BS22          | O aplicativo deve permitir outras formas de acesso como profissionais do legislativo para o acompanhamento facilitado de documentos e processos.|    Não           |
 | BS23          | Proteção de dados dos usuários através de criptografia e conformidade com a LGPD.                               |      Sim         |
 | BS24          | O aplicativo deve ser compatível com as principais plataformas móveis como iOS e Android.                      |        Sim       |
 | BS25          | O aplicativo deve oferecer suporte em vários idiomas, especialmente português.                                 |         Não      |
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 
 
 ## Gravação
@@ -516,7 +516,7 @@ O brainstorming foi realizado em formato de reunião e contou com a presença de
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gNIvWwCyUXs?si=HOQfDxpfA6hcvX11" title="Reunião 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 </div >
 </details>
 

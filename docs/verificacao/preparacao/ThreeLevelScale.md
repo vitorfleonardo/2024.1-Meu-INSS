@@ -33,7 +33,7 @@ Pergunta para avaliação| Página e livro de referência
 | 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? |  | <a id="TEC1" href="#RP1">p.213</a>  |
 
 
-<font size="3"><p style="text-align: center">Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) </p></font>
+<font size="3"><p style="text-align: center">Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7) </p></font>
 
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. disponível em: [https://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf](ttps://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf).

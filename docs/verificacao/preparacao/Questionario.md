@@ -32,7 +32,7 @@ Critérios  | Fonte
 8 - As respostas foram registradas de forma organizada e segura?  | <a id="TEC4" href="#RP4">p.180</a>
 9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto?  | <a id="TEC4" href="#RP4">p.180</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
 
 ## Referências Bibliográficas

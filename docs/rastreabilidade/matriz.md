@@ -37,7 +37,7 @@ A tabela foi criada para poder estabelecer uma conexão ou rastreabilidade entre
   </ul>
 </details>
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
 
 ## Tabela da Matriz de rastreabildade
 
@@ -89,7 +89,7 @@ A tabela foi criada para poder estabelecer uma conexão ou rastreabilidade entre
 | [RE40](../../elicitacao/requisitosElicitados)| RNF  | Sim |  [1.1](../../elicitacao/requisitosElicitados) | [IT13](../../elicitacao/Introspeccao) |  [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things) | [BC](../../modelagem/Agil/backlog), [ES(RP001, RP002)](../../modelagem/specSuplementar), [US40](../../modelagem/Agil/historia_de_usuario) | [C40](../../rastreabilidade/Elos)  | - |
 | [RE41](../../elicitacao/requisitosElicitados)| RNF  | Sim |  [1.1](../../elicitacao/requisitosElicitados) | [IT14](../../elicitacao/Introspeccao) |  [TLS](../../elicitacao/Priorização/threelevelscale), [CDS](../../elicitacao/Priorização/100$), [FTF](../../elicitacao/Priorização/first_things) | [BC](../../modelagem/Agil/backlog), [ES(RR001, RR006, RR008, RP005)](../../modelagem/specSuplementar), [US41](../../modelagem/Agil/historia_de_usuario) | [C41](../../rastreabilidade/Elos)  | - |
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
 
 ## Referências Bibliográficas
 
