@@ -1,13 +1,39 @@
 # Artefatos
 
 ## Introdução
-
+A tabela a seguir apresenta uma síntese dos principais artefatos criados ao longo das diferentes etapas deste projeto. Cada entrega é detalhada com os respectivos artefatos desenvolvidos, seus autores responsáveis pela criação e os revisores que garantiram a qualidade e conformidade dos documentos.
 ## Metodologia
+A metodologia empregada na elaboração da tabela baseia-se na identificação e documentação sistemática dos artefatos produzidos em cada etapa do projeto. Para cada entrega, foram listados os artefatos criados pelo grupo, seguidos pelos nomes dos autores que os desenvolveram e dos revisores que validaram o conteúdo. A estrutura da tabela permite uma visualização clara e organizada dos esforços realizados em cada fase, destacando a colaboração e a responsabilidade atribuída a cada membro da equipe.
+
+A tabela 1 demonstra como deve será apresentados os artefatos.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela para a sintetização dos artefatos. </p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Entrega</th>
+      <th>Artefato</th>
+      <th>Autor(es)</th>
+      <th>Revisor(es)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Tabela dos Artefatos
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Artefatos criados</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Artefatos criados</p></font>
 
 <table>
   <thead>
@@ -163,7 +189,7 @@
       <td>
         <a href="https://github.com/GabrielMS00">Gabriel Souza</a><br>
       </td>
-      <td>xx/xx/xxxx</td>
+      <td>        <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br></td>
     </tr>
     <tr>
       <td>
@@ -789,16 +815,202 @@
     <a href="https://github.com/acamposs">Amanda Campos</a><br>
   </td>
 </tr>
+<tr>
+  <td rowspan="5">Verificação - Inspeção do Grupo 8</td>
+  <tr>
+  <td>
+    <a href="#">Entrega 1</a>
+  </td>
+  <td>
+    <a href="https://github.com/acamposs">Amanda</a><br>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/vitorfleonardo">Vitor Feijó</a><br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="#">Entrega 2</a>
+  </td>
+  <td>
+    <a href="https://github.com/JoseFilipi">José Filipi</a><br>
+    <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br>
+    <a href="https://github.com/paulohborba">Paulo Borba</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/vitorfleonardo">Vitor Feijó</a><br>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="#">Entrega 3</a>
+  </td>
+  <td>
+    <a href="https://github.com/JoseFilipi">José Filipi</a><br>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+    <a href="https://github.com/vitorfleonardo">Vitor Feijó</a><br>
+    <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="#">Entrega 4</a>
+  </td>
+  <td>
+    <a href="https://github.com/JoseFilipi">José Filipi</a><br>
+    <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br>
+    <a href="https://github.com/GabrielMS00">Gabriel Souza</a><br>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/vitorfleonardo">Vitor Feijó</a><br>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="6">Verificação - Inspeção do Grupo 7 - Meu INSS</td>
+<tr>
+  <td>
+    <a href="#">Entrega 1</a>
+  </td>
+  <td>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="#">Entrega 2</a>
+  </td>
+  <td>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+    <a href="https://github.com/paulohborba">Paulo Borba</a><br>
+    <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/vitorfleonardo">Vitor Feijó</a><br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="#">Entrega 3</a>
+  </td>
+  <td>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+    <a href="https://github.com/paulohborba">Paulo Borba</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="#">Entrega 4</a>
+  </td>
+  <td>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+    <a href="https://github.com/GabrielMS00">Gabriel Souza</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="#">Entrega 6</a>
+  </td>
+  <td>
+    <a href="https://github.com/paulohborba">Paulo Borba</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">Validação</td>
+<tr>
+  <td>
+    <a href="#">Prototipação</a>
+  </td>
+  <td>
+    <a href="https://github.com/paulohborba">Paulo Borba</a><br>
+    <a href="https://github.com/GabrielMS00">Gabriel Souza</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="#">Comprovação Informal</a>
+  </td>
+  <td>
+    <a href="https://github.com/JoseFilipi">José Filipi</a><br>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br>
+  </td>
+</tr>
+<tr>
+  <td rowspan="3">Rastreabilidade</td>
+<tr>
+  <td>
+    <a href="#">Elos</a>
+  </td>
+  <td>
+    <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br>
+    <a href="https://github.com/paulohborba">Paulo Borba</a><br>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+    <a href="https://github.com/vitorfleonardo">Vitor Feijó</a><br>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+    <a href="https://github.com/GabrielMS00">Gabriel Souza</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+    <a href="https://github.com/vitorfleonardo">Vitor Feijó</a><br>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+    <a href="https://github.com/GabrielMS00">Gabriel Souza</a><br>
+    <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="#">Matriz de Rastreabilidade</a>
+  </td>
+  <td>
+    <a href="https://github.com/paulohborba">Paulo Borba</a><br>
+    <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+    <a href="https://github.com/GabrielMS00">Gabriel Souza</a><br>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+  </td>
+  <td>
+    <a href="https://github.com/acamposs">Amanda Campos</a><br>
+    <a href="https://github.com/GabrielMS00">Gabriel Souza</a><br>
+    <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a><br>
+    <a href="https://github.com/JohnnyLopess">Johnny Lopes</a><br>
+  </td>
+</tr>
+</tr>
+</tr>
 </tr>
   </tbody>
 </table>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, 2024</p></font>
 </div>
 
-
-## Bibliografia
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| `1.0`  | 07/07/2024 | Criação da Página | [Amanda Campos](https://github.com/acamposs) | 07/07/2024 |[-](https://github.com/) |
+| `1.0`  | 08/07/2024 | Criação da Página | [Amanda Campos](https://github.com/acamposs) | 08/07/2024 |[Bianca Castro ](https://github.com/BiancaPatrocinio7) |
