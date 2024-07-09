@@ -49,4 +49,4 @@ A metodologia adotada consistiu no preenchimento da tabela conforme descrito na 
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| `1.0`  | 07/07/2024 | Criação da Página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 07/07/2024 |[-](https://github.com/) |
+| `1.0`  | 07/07/2024 | Criação da Página. | [Johnny Lopes](https://github.com/JohnnyLopess) | 07/07/2024 |[Paulo Borba](https://github.com/paulohborba) |
