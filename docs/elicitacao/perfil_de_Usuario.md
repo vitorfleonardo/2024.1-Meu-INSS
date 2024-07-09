@@ -17,35 +17,35 @@ A figura 1 aprensenta como maior grupo de usuários do aplicativo as pessoas na 
 
 <font size="3"><p style="text-align: center">**Figura 1** - Faixa etária.</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9p9Vh2MWl9xNixJzdbw4TpQ3dIT9NyBOIkt040NYqD71eCfo8GCZnjDA6fsDMSu59siHBHURTCW2q/pubchart?oid=1379827854&format=interactive"></iframe>
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) e [Gabriel Souza](https://github.com/GabrielMS00).</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) e [Gabriel Souza](https://github.com/GabrielMS00).</p></font>
 </figure>
 
 Na figura 2 é apresentada a distribuição de gênero dos usuários.
 
 <font size="3"><p style="text-align: center">**Figura 2** - Distribuição de Gênero.</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9p9Vh2MWl9xNixJzdbw4TpQ3dIT9NyBOIkt040NYqD71eCfo8GCZnjDA6fsDMSu59siHBHURTCW2q/pubchart?oid=2084428348&format=interactive"></iframe>
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) e [Gabriel Souza](https://github.com/GabrielMS00).</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) e [Gabriel Souza](https://github.com/GabrielMS00).</p></font>
 </figure>
 
 Os dados da figura 3 apresentam o Status Ocupacional dos usuários do aplicativo.
 
 <font size="3"><p style="text-align: center">**Figura 3** - Status Ocupacional.</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9p9Vh2MWl9xNixJzdbw4TpQ3dIT9NyBOIkt040NYqD71eCfo8GCZnjDA6fsDMSu59siHBHURTCW2q/pubchart?oid=108297511&format=interactive"></iframe>
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) e [Gabriel Souza](https://github.com/GabrielMS00).</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) e [Gabriel Souza](https://github.com/GabrielMS00).</p></font>
 </figure>
 
 Os dados da figura 4 apresentam o grau de afinidade com tecnologia dos usuários do aplicativo.
 
 <font size="3"><p style="text-align: center">**Figura 4** - Afinidade tecnológica.</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9p9Vh2MWl9xNixJzdbw4TpQ3dIT9NyBOIkt040NYqD71eCfo8GCZnjDA6fsDMSu59siHBHURTCW2q/pubchart?oid=797202998&format=interactive"></iframe>
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) e [Gabriel Souza](https://github.com/GabrielMS00).</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) e [Gabriel Souza](https://github.com/GabrielMS00).</p></font>
 </figure>
 
 A figura 5 aprensenta quais os principais objetivos dos usuários no uso do aplicativo.
 
 <font size="3"><p style="text-align: center">**Figura 5** - Objetivo ao usar o aplicativo.</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9p9Vh2MWl9xNixJzdbw4TpQ3dIT9NyBOIkt040NYqD71eCfo8GCZnjDA6fsDMSu59siHBHURTCW2q/pubchart?oid=744424343&format=interactive"></iframe>
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) e [Gabriel Souza](https://github.com/GabrielMS00).</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) e [Gabriel Souza](https://github.com/GabrielMS00).</p></font>
 </figure>
 
 ## Definição do Perfil

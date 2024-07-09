@@ -36,7 +36,7 @@ Critérios  | Avaliação | Fonte
 7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | Sim | <a id="TEC5" href="#RP5">p.165-166</a>
 
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
 <center>
 
@@ -44,7 +44,7 @@ Critérios  | Avaliação | Fonte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Viy8UYHcitE?si=zNeE6zanUsFm2M9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fonte: [José Filipi](https://github.com/JoseFilipi).
+Autor: [José Filipi](https://github.com/JoseFilipi).
 
 </center>
 
@@ -70,7 +70,7 @@ Critérios  | Avaliação | Fonte
 8 - As respostas foram registradas de forma organizada e segura? | Sim | <a id="TEC4" href="#RP4">p.180</a>
 9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto? | Incompleto | <a id="TEC4" href="#RP4">p.180</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba) & [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba) & [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
 <center>
 
@@ -78,7 +78,7 @@ Critérios  | Avaliação | Fonte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tjRe0dW02o?si=NMS8Tvnc87b4WAM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fonte: [Paulo Borba](https://github.com/paulohborba).
+Autor: [Paulo Borba](https://github.com/paulohborba).
 
 </center>
 
@@ -111,7 +111,7 @@ Critérios  | Avaliação | Fonte
 15 - O feedback foi coletado e incorporado na análise dos documentos? | não | <a id="RP3" href="#TEC3">Fonte</a>
 16 - Os documentos de requisitos estão acessíveis a todos os membros da equipe e partes interessadas? | Sim | <a id="RP3" href="#TEC3">Fonte</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda](https://github.com/acamposs)</p></font>
 
 #### Comentários
 1. Alguns requisitos não são testáveis
@@ -131,7 +131,7 @@ Critérios  | Avaliação | Fonte
 5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? | Sim | <a id="TEC8" href="#RP8">p.34</a>
 6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? | Sim | <a id="TEC8" href="#RP8">p.36</a>
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 
 #### Comentários
 
@@ -150,7 +150,7 @@ Critérios  | Avaliação | Fonte
 | 7 - A tabela possui os pesos relativos e sua justificativa? | Sim | <a id="TEC1" href="#RP1">p.314</a> |
 | 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? | Sim | <a id="TEC1" href="#RP1">p.313</a> |
 
-<font size="3"><p style="text-align: center">Fonte: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autores: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 ### Introspecção
 - Aqui é possível encontrar a origem do artefato verificado [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/).
@@ -165,7 +165,7 @@ Critérios  | Avaliação | Fonte
 3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   | Sim | <a id="TEC2" href="#RP2">p.25</a>
 4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? | Sim | <a id="TEC2" href="#RP2">p.25</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
 
 #### Comentários
 
@@ -182,7 +182,7 @@ Critérios  | Avaliação | Fonte
 4 - A priorização foi feita com um usuário/persona ? | Sim | <a id="TEC1" href="#RP1">p.315</a> 
 
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
 #### Comentários
 
@@ -218,7 +218,7 @@ Critérios  | Avaliação | Fonte
 20 - Ela é representativa e relevante para o projeto em questão ? | Sim | Fonte
 
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
 
 #### Comentários
 

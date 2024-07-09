@@ -30,7 +30,7 @@ Um usuário do aplicativo foi convidado para participar de uma reunião online, 
 
 </center>
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024.</p>
 
 ## Lista de Requisitos Priorizados
 
@@ -77,7 +77,7 @@ Um usuário do aplicativo foi convidado para participar de uma reunião online, 
 | RE29          | RNF  | O aplicativo deve ser compatível com as versões mais recentes e anteriores dos sistemas operacionais iOS e Android e computador.                                                      | Alta       |
 | RE30          | RNF  | O sistema deve notificar o usuário sobre atualizações importantes em suas solicitações e agendamentos  via notificações no aplicativo ou por email.                                      | Alta       |
 | RE31          | RNF  | O aplicativo deve criar uma fila digital referente aos agendamentos.                                                                                                                   | Alta       |
-| RE32          | RNF  | O aplicativo deve possuir ferramentas de acessibilidade como navegação guiada, alto contraste, comando por voz e possibilidade de aumentar a fonte.                                      | Alta       |
+| RE32          | RNF  | O aplicativo deve possuir ferramentas de acessibilidade como navegação guiada, alto contraste, comando por voz e possibilidade de aumentar a Autor.                                      | Alta       |
 | RE33          | RNF  | O aplicativo deve ter integração com outros serviços do governo.                                                                                                                        | Média      |
 | RE34          | RNF  | O aplicativo deve permitir outras formas de acesso como profissionais do legislativo para o acompanhamento facilitado de documentos e processos.                                         | Alta       |
 | RE35          | RNF  | O aplicativo deve oferecer suporte em vários idiomas, especialmente português.                                                                                                          | Média      |
@@ -88,7 +88,7 @@ Um usuário do aplicativo foi convidado para participar de uma reunião online, 
 | RE40          | RNF  | O aplicativo deve responder a comandos do usuário em menos de 3 segundos.                                                                                                               | Baixa      |
 
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 
 ## Gravação
 
@@ -99,7 +99,7 @@ No vídeo 1 localiza-se a gravação da reunião.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oyPoQDCfNsk?si=WIdCn1U03bmqP26M" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024.</p>
 </div >
 
 ## Referências Bibliográficas

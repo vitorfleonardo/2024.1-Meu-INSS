@@ -15,7 +15,7 @@ Para validar os casos de uso, empregamos os artefatos previamente desenvolvidos,
 | Validação de casos de uso   | [Vitor](https://github.com/vitorfleonardo) & [Amanda](https://github.com/acamposs) | 19/05/2024 | 21:00    | Maria Eliane Alves Campos & [José Filipi](https://github.com/JoseFilipi) (interpretando [Rafael Costa](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/personas/)) | Pelo Teams |
 
 <center>
-**Fonte:** [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba) & [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024.
+**Autor:** [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba) & [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024.
 </center>
 
 
@@ -29,7 +29,7 @@ No vídeo 1 localiza-se a gravação da validação dos casos de uso.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MilIXE2rx64?si=Raxd-ceWcY9uZ2G7" title="First things first do Grupo 7 Meu INSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 </div>
 
 

@@ -37,7 +37,7 @@ Critérios   | Fonte
 13 - O Rich Picture mostra claramente o que está dentro da responsabilidade do sistema e o que está fora? | <a id="RP1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/rich_picture_pg4.png">p. 4</a>
 14 - O Rich Picture comunica sua mensagem de forma eficaz, sendo compreensível para todos os membros da equipe e stakeholders? | <a id="RP1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/rich_picture_pg5.png">p. 5</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda](https://github.com/acamposs) & [Bianca Castro](https://github.com/BiancaPatrocinio7)</p></font>
 
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a>  CTEC2402 - Software Development Project. Introducing Rich Pictures. Aprender 3. Distrito Federal. Disponível em: https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 10 jun. 2024.

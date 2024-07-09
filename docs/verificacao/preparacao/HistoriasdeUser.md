@@ -30,6 +30,8 @@ Critérios  | Fonte
 6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? |  <a id="TEC5" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/US_pg73.png">p.73</a>
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
+<font size="3"><p style="text-align: center">Autor: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+
 ## Referências Bibliográficas
 
 > <a id="RP4" href="#TEC5">1.</a> Roger S. Pressman, Bruce R. Maxium - Engenharia de Software - Uma abordagem profissional (8° Edição). Disponível em: [https://analisederequisitos.com.br/engenharia-de-software-pressman-pdf/](https://analisederequisitos.com.br/engenharia-de-software-pressman-pdf/). Acesso em: 09 jun. 2024.
@@ -41,4 +43,4 @@ Critérios  | Fonte
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 10/06/2024 | Criação do documento. |[Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)| 20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) |   
-|`1.1` | 20/06/2024 | Modificação da estrutura do arquivo |[Vitor Feijó](https://github.com/vitorfleonardo) | |
+|`1.1` | 20/06/2024 | Modificação da estrutura do arquivo |[Vitor Feijó](https://github.com/vitorfleonardo) | 08/07/2024| [Amanda Campos](https://github.com/acamposs)|

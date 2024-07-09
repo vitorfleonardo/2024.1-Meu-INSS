@@ -36,7 +36,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 7 - As histórias de usuário servem como ponto de partida para conversas que detalham ainda mais os requisitos ? | Sim | <a id="TEC1" href="#RP1">p.388</a>
 
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)</p></font>
 
 
 <center>
@@ -47,7 +47,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 
 
-Fonte: [Johnny Lopes](https://github.com/JohnnyLopess).
+Autor: [Johnny Lopes](https://github.com/JohnnyLopess).
 
 </center>
 
@@ -69,7 +69,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 5 - As histórias de usuário descrevem o resultado, as características e as funcionalidades solicitados para o software a ser construído? | Sim | <a id="TEC5" href="#RP5">p.73</a>
 6 - As histórias de usuário possuem uma área dedicada para a rastreabilidade dos requisitos que foram utilizados em cada história? | Não | Fonte
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
 ### Cenários
 - Aqui é possível encontrar a origem do artefato verificado [Cenários](https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/docs/Modelagem/cenarios.md).
@@ -87,7 +87,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 #### Comentários
 - Nos cenários criados pelo grupo, não é possível identificar qual caso de uso foi especificado por cada cenário, seria interessante a utilização de hyperlinks.
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
 #### Comentários
 
@@ -108,7 +108,7 @@ Critérios  | Sim/Não/Incompleto | Fonte
 8 - Foi elaborado um plano de ação para implementar os softgoals escolhidos ? | Sim | <a id="TEC3" href="#RP3">p.44</a>
 9 - Foram elaborados cartões de especificação para os requisitos não funcionais modelados ? | Sim | <a id="TEC2" href="#RP2">p.45</a>
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 
 ## Referências Bibliográficas

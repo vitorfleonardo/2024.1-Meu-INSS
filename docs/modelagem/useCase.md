@@ -15,7 +15,7 @@ Cada caso de uso é detalhadamente descrito, incluindo fluxos básicos, alternat
 ## Diagrama de Casos de Uso
 A figura 1 demonstra o diagrama de casos de uso.
 <p align="center" > <font><strong>Figura 1:</strong> Diagrama de casos de uso</font> <br><img src="../../imagens/Diagrama_UseCase.png" width = 300%></p>
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess) & [Vitor Leonardo](https://github.com/vitorfleonardo) & [José Souza](https://github.com/JoseFilipi), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess) & [Vitor Leonardo](https://github.com/vitorfleonardo) & [José Souza](https://github.com/JoseFilipi), 2024</p></font>
 
 ### Legenda
 <p align="center" > <font><strong>Tabela 1:</strong> Legenda do diagrama de casos de uso</font> <br></p>
@@ -27,7 +27,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 |<img src="../../imagens/Sistema.png" alt="Sistema" width="100px">|Retângulo (Sistema)|Usado para representar o sistema ou o bloco em análise. Ele envolve os casos de uso e atores relacionados.<a id="back3" href="#ref3">[3]</a>|
 |<img src="../../imagens/Relação.png" alt="Relação" width="100px">|Flecha (Relação)|As flechas são usadas para representar as relações ou interações entre atores e casos de uso.<a id="back3" href="#ref3">[3]</a>|
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
 ## Especificação de Casos de Uso
 As tabelas abaixo demonstram a especificação dos casos de usos.
@@ -48,7 +48,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 |<strong>Data da criação|Data em que o caso de uso foi criado ou documentado.|
 |<strong>Rastreabilidade|Ligações do caso de uso a requisitos específicos.|
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
 ### UC01 -  Fazer Login
 
@@ -66,7 +66,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 |<strong>Data da criação|19/05/2024|
 |<strong>Rastreabilidade| RE01, RE02 |
 
-<font size="3"><p style="text-align: center">Fonte: [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
 
 ### UC02 -  Editar Perfil
 
@@ -84,7 +84,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 |<strong>Data da criação|19/05/2024|
 |<strong>Rastreabilidade| RE17 |
 
-<font size="3"><p style="text-align: center">Fonte: [Bianca Patrocínio](https://github.com/BiancaPatrocinio7), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Bianca Patrocínio](https://github.com/BiancaPatrocinio7), 2024</p></font>
 
 ### UC03 -  Acessar documentos legislativos
 
@@ -103,7 +103,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 |<strong>Rastreabilidade| RE03 |
 
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
 ### UC04 -  Acionar Suporte
 
@@ -121,7 +121,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 |<strong>Data da criação|19/05/2024|
 |<strong>Rastreabilidade| RE04, RE06, RE21 |
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel](https://github.com/GabrielMS00), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Gabriel](https://github.com/GabrielMS00), 2024</p></font>
 
 ### UC05 - Agendar horários para atendimento presencial
 
@@ -139,7 +139,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 | <strong>Data da criação | 17/05/2024 |
 | <strong>Rastreabilidade | RE06, RE21 |
 
-<font size="3"><p style="text-align: center">Fonte: [José Filipi](https://github.com/JoseFilipi), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi), 2024</p></font>
 
 ### UC06 - Solicitar benefício
 
@@ -157,7 +157,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 | <strong>Data da criação | 16/05/2024 |
 | <strong>Rastreabilidade | RE15, RE22, RE24, RE25 |
 
-<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
 
 ### UC07 - Consultar benefícios
 
@@ -175,7 +175,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 |<strong>Data da criação|16/05/2024|
 |<strong>Rastreabilidade|RE08,RE14,RE15|
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda](https://github.com/acamposs), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda](https://github.com/acamposs), 2024</p></font>
 
 ### UC08 - Consultar extratos
 
@@ -193,7 +193,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 |<strong>Data da criação|19/05/2024|
 |<strong>Rastreabilidade|RE09, RE10, RE11|
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
 
 
 ### UC09 - Acessar CNIS
@@ -212,7 +212,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 |<strong>Data da criação|19/05/2024|
 |<strong>Rastreabilidade| RE13, RE15 |
 
-<font size="3"><p style="text-align: center">Fonte: [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
 
 ### UC10 - Solicitar Empréstimo
 
@@ -230,7 +230,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 |<strong>Data da criação|16/05/2024|
 |<strong>Rastreabilidade| RE11, RE18, RE19|
 
-<font size="3"><p style="text-align: center">Fonte: [Filipi](https://github.com/JoseFilipi), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Filipi](https://github.com/JoseFilipi), 2024</p></font>
 
 ### UC11 - Simular contribuição
 
@@ -248,7 +248,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 | <strong>Data da criação | 19/05/2024 |
 | <strong>Rastreabilidade | RE08 |
 
-<font size="3"><p style="text-align: center">Fonte: [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo), 2024</p></font>
 
 ### UC012 - Acesso de Processos do Cliente
 
@@ -266,7 +266,7 @@ A tabela 2 demonstra como deve ser feito cada especificação.
 | <strong>Data da criação | 19/05/2024 |
 | <strong>Rastreabilidade | RE26, RE27 |
 
-<font size="3"><p style="text-align: center">Fonte: [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
 
 ## Referências Bibliográficas
 

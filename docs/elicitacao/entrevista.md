@@ -75,7 +75,7 @@ Além disso, foram utilizadas as abordagens adotadas pelo projeto e-Título [(SE
     </tr>
      </tbody>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
 </div>
 
 ## Estruturação da entrevista
@@ -118,7 +118,7 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
     </tr>
     </tbody>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
 </div>
 
 ### 2. Materiais de apoio
@@ -162,7 +162,7 @@ Inicialmente, foram identificados potenciais candidatos que correspondessem ao [
         </tr>
         </tbody>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
     </div>
 
 2.  **Leitura do termo de consentimento:** Um dos entrevistadores solicitou que o entrevistado lesse em voz alta o termo de consentimento. Em caso de concordância, o entrevistado responderia positivamente; caso contrário, os dados demográficos não seriam coletados para esse entrevistado específico. 
@@ -172,14 +172,14 @@ Após a confirmação, o termo foi enviado por e-mail para que o entrevistado pu
       <summary>Termo de consentimento Maria Eliane Alves Campos</summary>
       <p align="center" > <strong> Figura 1:</Strong> Termo de consentimento Maria Eliane Alves Campos</font> <gitbr></p>
       <embed src="..\..\imagens\termos_consentimento\tc_neysa.pdf" width="100%" height="500px" />
-      <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font> 
+      <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font> 
     </details>
 
     <details>
       <summary>Termo de consentimento Neysa mendes Rossi de Borba</summary>
     <p align="center" > <strong> Figura 2:</Strong> Termo de consentimento Neysa mendes Rossi de Borba</font> <gitbr></p>
       <embed src="..\..\imagens\termos_consentimento\tc_maria.pdf" width="100%" height="500px" />
-      <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+      <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
     </details>
 
 3. **Execução das perguntas e documentação das respostas:** Durante a entrevista, o primeiro entrevistador conduziu a realização das perguntas, enquanto o segundo entrevistador ficou responsável por documentar as respostas fornecidas pelo entrevistado. Essa abordagem permitiu uma divisão clara de tarefas, garantindo uma execução eficiente e organizada do processo. Enquanto o primeiro entrevistador se concentrava em fazer as perguntas de forma clara e objetiva, o segundo entrevistador registrava cuidadosamente as respostas para posterior análise e documentação. Essa divisão de papéis contribuiu para manter o fluxo da entrevista e garantir a precisão na documentação das informações obtidas. As respostas coletadas podem ser observadas nas Tabelas 4 e 5.
@@ -261,7 +261,7 @@ Após a confirmação, o termo foi enviado por e-mail para que o entrevistado pu
             </tr>
           </tbody>
       </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor</a>, 2024.</p></font>
         </details>
       <p style=" text-align: justify">
       </p>
@@ -343,7 +343,7 @@ Após a confirmação, o termo foi enviado por e-mail para que o entrevistado pu
             </tr>
           </tbody>
       </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b><a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b><a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
     </details>
 
 
@@ -361,7 +361,7 @@ Na entrevista 1 encontra-se a gravação da entrevista da Maria Eliane Alves Cam
 
 <iframe width="560" height="315"  src="https://www.youtube.com/embed/jfJ9akhwQT8" title="Primeira Entrevista do Grupo 7 Meu INSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
 </div >
 
 ## Entrevista Neysa Mendes Rossi de Borba
@@ -373,7 +373,7 @@ Na entrevista 2 encontra-se a gravação da entrevista da Neysa Mendes Rossi de 
 
 <iframe width="560" height="315"  src="https://www.youtube.com/embed/-N-xyzFcEpk" title="Segunda Entrevista do Grupo 7 Meu INSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
 </div >
 
 ## Requisitos Elicitados
@@ -471,7 +471,7 @@ Na entrevista 2 encontra-se a gravação da entrevista da Neysa Mendes Rossi de 
     </tr>
      </tbody>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
 </div>
 
 <div align="center">
@@ -522,7 +522,7 @@ Na entrevista 2 encontra-se a gravação da entrevista da Neysa Mendes Rossi de 
     </tr>
      </tbody>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font>
 </div>
 
 ## Referências Bibliográficas

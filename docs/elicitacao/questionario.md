@@ -25,13 +25,13 @@ Durante o período de coleta de dados, que ocorreu entre os dias 12 de abril de 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Pergunta nº 1 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=265083382&format=interactive"></iframe>
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
+<figcaption><font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 2</b> - Pergunta nº 2 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=1411768777&format=interactive"></iframe>
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
+<figcaption><font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
 
 <figure markdown>
@@ -39,7 +39,7 @@ Durante o período de coleta de dados, que ocorreu entre os dias 12 de abril de 
 <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=794829381&format=interactive
 "></iframe>
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
+<figcaption><font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
 
 
@@ -48,7 +48,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRV
 <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=710725465&format=interactive
 "></iframe>
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
+<figcaption><font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
 
 <figure markdown>
@@ -56,7 +56,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRV
 <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=454983637&format=interactive
 "></iframe>
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
+<figcaption><font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
 
 <figure markdown>
@@ -64,7 +64,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRV
 <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=717044590&format=interactive
 "></iframe>
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
+<figcaption><font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
 
 <figure markdown>
@@ -72,7 +72,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRV
 <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=1683636739&format=interactive
 "></iframe>
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
+<figcaption><font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
 
 <figure markdown>
@@ -80,7 +80,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRV
 <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=1653330547&format=interactive
 "></iframe>
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
+<figcaption><font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
 
 <figure markdown>
@@ -88,7 +88,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRV
 <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=391635859&format=interactive
 "></iframe>
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
+<figcaption><font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
 
 <figure markdown>
@@ -96,7 +96,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRV
 <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=391635859&format=interactive
 "></iframe>
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
+<figcaption><font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p></font></figcaption>
 </figure>
 
 <figure markdown>
@@ -106,7 +106,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRV
     <iframe style="border:3px solid gray" width="848" height="501" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWjU6oWsTszY94CWyYfyxZ3XPMkaLRVT8LIrnEJVLmzCiTsi9kn6Z066tHTznuEVlyP9NciAV1vRDy/pubchart?oid=1108301157&format=interactive"></iframe>
     <figcaption>
         <font size="3">
-            <p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p>
+            <p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>, 2024.</p>
         </font>
     </figcaption>
 </figure>

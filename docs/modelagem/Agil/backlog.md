@@ -40,7 +40,7 @@ A tabela 1 é uma legenda da tabela de backlog que foi feita.
 |Nome do tema definido|Código do Épico|Título da [História de Usuário](historia_de_usuario.md)|identificador da [História de Usuário](historia_de_usuario.md)|Prioriade baseada na técnica do [three level scale](../../elicitacao/Priorização/threelevelscale.md)|Código do requisito referente a [História de usuário](historia_de_usuario.md)|
 
 </center>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
 
 <p align="center" > <strong> Tabela 2 - </Strong>backlog</font> <gitbr></p>
 <center>
@@ -96,7 +96,7 @@ A tabela 1 é uma legenda da tabela de backlog que foi feita.
 
 
 </center>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
 ## Bibliografia
 

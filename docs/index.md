@@ -1,6 +1,6 @@
 # Meu INSS
 <p align="center" > <font>Figura 1: Logo do Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 30%" src="imagens/inss-logo.png" width = 40%></p>
-<p align="center" > <font>Fonte: <a href="https://meu.inss.gov.br/#/login">Meu INSS</a></font> <br></p>
+<p align="center" > <font>Autor: <a href="https://meu.inss.gov.br/#/login">Meu INSS</a></font> <br></p>
 
 Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 07 na disciplina de Requisitos de Software da Faculdade do Gama da Universidade de Brasília (FGA-UnB) durante o 1º semestre de 2024. O objetivo do projeto é realizar uma avaliação detalhada dos requisitos do aplicativo Meu INSS. O aplicativo em questão é uma plataforma desenvolvida pelo Instituto Nacional do Seguro Social (INSS) para oferecer uma ampla gama de serviços previdenciários aos cidadãos brasileiros.
 

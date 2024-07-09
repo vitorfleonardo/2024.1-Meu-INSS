@@ -107,4 +107,4 @@ Critérios  | Sim/Não/Incompleto | Fonte
 |`1.3` | 10/06/2024 | Adição de fonte da tabela de backlog e hyperlinks| [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
 |`1.4` | 10/06/2024 | Adição da lista de verificação dos cenários | [Gabriel Souza](https://github.com/GabrielMS00) | 10/06/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
 |`1.5` | 10/06/2024 | Adição da verificação dos Léxicos| [Bianca Castro](https://github.com/BiancaPatrocinio7)| 10/06/2024  | [Paulo Borba](https://github.com/paulohborba) | 10/06/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
-|`1.6` | 24/06/2024 | Alteração da estrutura do artefato |[Vitor Feijó](https://github.com/vitorfleonardo) | | | 
+|`1.6` | 24/06/2024 | Alteração da estrutura do artefato |[Vitor Feijó](https://github.com/vitorfleonardo) | 08/07/2024 | [Amanda Campos](https://github.com/acamposs)| 

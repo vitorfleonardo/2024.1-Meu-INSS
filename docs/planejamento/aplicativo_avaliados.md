@@ -19,7 +19,7 @@ No âmbito do projeto apresentado na disciplina de Requisitos de Software, os es
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="Paulo Borba">[Paulo Borba](https://github.com/paulohborba)</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="Paulo Borba">[Paulo Borba](https://github.com/paulohborba)</a>, 2024</p></font>
 
 
 ## Aplicativos analisados
@@ -31,7 +31,7 @@ O Jitsi é um conjunto de projetos de código aberto que permite construir e imp
   <summary>Rich Picture Jitsi Meet</summary>
   <p align="center" > <strong> Figura 1:</Strong> Rich Picture Jitsi Meet</font> <gitbr></p>
   <embed src="..\..\imagens\rich_pictures\richpicture_jitsi.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, 2024</p></font>
 </details>
 
 
@@ -41,7 +41,7 @@ A Carteira de Trabalho Digital é uma ferramenta para o cidadão acompanhar de m
   <summary>Rich Picture Carteira de Trabalho Digital</summary>
   <p align="center" > <strong> Figura 2:</Strong> Rich Picture Carteira de Trabalho Digital</font> <gitbr></p>
   <embed src="..\..\imagens\rich_pictures\richpicture_carteiradigital.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024</p></font>
 </details>
 
 ### Receita Federal
@@ -52,7 +52,7 @@ O Aplicativo da Receita Federal oferece uma série de recursos e serviços para 
   <summary>Visualizar Aplicativo</summary>
    <p align="center" > <strong> Figura 3:</Strong> Rich Picture Receita Federal</font> <gitbr></p>
   <embed src="..\..\imagens\rich_pictures\richpicture_receitafederal.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
 </details>
 
 
@@ -66,7 +66,7 @@ O Sinesp Cidadão é um aplicativo que oferece acesso a serviços da Secretaria 
   <summary>Rich Picture Sinesp Cidadão</summary>
   <p align="center" > <strong> Figura 4:</Strong> Rich Picture Sinesp cidadão</font> <gitbr></p>
   <embed src="..\..\imagens\rich_pictures\richpicture_sinesp.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
 </details>
 
 ### Jellyfin
@@ -75,7 +75,7 @@ O Jellyfin é a solução de mídia construída por voluntários que coloca voc�
   <summary>Rich Picture Jellyfin</summary>
   <p align="center" > <strong> Figura 5:</Strong> Rich Picture Jellyfin</font> <gitbr></p>
   <embed src="..\..\imagens\rich_pictures\richpicture_jellyfin.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Souza</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Souza</a>, 2024</p></font>
 
 
 
@@ -87,7 +87,7 @@ GIMP é um acrônimo para GNU Image Manipulation Program. É um programa distrib
   <summary>Rich Picture GIMP</summary>
   <p align="center" > <strong> Figura 6:</Strong> Rich Picture GIMP</font> <gitbr></p>
   <embed src="..\..\imagens\rich_pictures\richpicture_gimp.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Leonardo</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor Leonardo</a>, 2024</p></font>
 
 
 
@@ -99,7 +99,7 @@ O Meu INSS é um aplicativo que permite utilizar a grande maioria dos serviços 
   <summary>Rich Picture Meu INSS</summary>
   <p align="center" > <strong> Figura 7:</Strong> Rich Picture Meu INSS</font> <gitbr></p>
   <embed src="..\..\imagens\rich_pictures\richpicture_meuinss.pdf" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
 
 
@@ -109,7 +109,7 @@ O Meu INSS é um aplicativo que permite utilizar a grande maioria dos serviços 
 ## Aplicativo escolhido
 
 <p align="center" > <font>Figura 1: Logo do Meu INSS</font> <br><img style="border: 2px solid white; border-radius: 30%" src="../../imagens/inss-logo.png" width = 40%></p>
-<p align="center" > <font>Fonte: <a href="https://meu.inss.gov.br/#/login">Meu INSS</a></font> <br></p>
+<p align="center" > <font>Autor: <a href="https://meu.inss.gov.br/#/login">Meu INSS</a></font> <br></p>
 
 O Meu INSS foi escolhido principalmente pelos dois motivos citados anteriormente, a preferência por um aplicativo do governo e a exigência de que os termos de uso permitissem o uso do aplicativo para fins de estudo, além disso não tinha sido utilizado anteriormente na disciplina. A quantidade de funcionalidades também foi um fator de escolha, pois mostra uma certa complexidade com muitas funcionalidades disponíveis, e não menos importante, o acesso a usuários desse aplicativo permitindo assim que os membros tenham acesso a opniões e informações importantes de quem realmente utiliza esse aplicativo no dia a dia.
 

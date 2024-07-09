@@ -19,7 +19,7 @@ uma vez que o projeto pode ser adaptado ao decorrer do tempo, de acordo com as n
 
   <p align="center" > <strong> Figura 1:</Strong> Processo Scrum</font> <gitbr></p>
   <embed src="..\..\imagens\processo_Scrum.jpg" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://pt.linkedin.com/pulse/um-resumo-de-tudo-que-voc%C3%AA-precisa-saber-sobre-o-scrum-netto" target="_blanck">LinkedIn - Resumo sobre Scrum</a>, 2024 </font>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://pt.linkedin.com/pulse/um-resumo-de-tudo-que-voc%C3%AA-precisa-saber-sobre-o-scrum-netto" target="_blanck">LinkedIn - Resumo sobre Scrum</a>, 2024 </font>
 
 Podemos destacar como os principais benefícios deste método:
 
