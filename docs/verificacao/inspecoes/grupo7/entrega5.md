@@ -67,7 +67,9 @@ Critérios  | Sim/Não/Incompleto | Fonte
 
 <details>
   <summary>Vídeo Elos de Rastreabilidade</summary>
+  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bXz0tpWFzQo?si=SUkiOk4IM1_oB95W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
   <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, 2024</p></font>
 </details>
 

@@ -20,7 +20,7 @@ Esta seção também tem como objetivo resumir o artefato de validação entregu
  <table>
   <tr>
     <th>Artefato</th>
-    <th>Autor</th>
+    <th>Autor da verificação</th>
   </tr>
   <tr>
     <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/">Rich Picture</a></td>
@@ -49,24 +49,24 @@ Esta seção também tem como objetivo resumir o artefato de validação entregu
     <td><a href="https://github.com/acamposs">Amanda</a> & <a href='https://github.com/BiancaPatrocinio7'> Bianca Castro</a></td>
   </tr>
   <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/especificacao-suplementar">Introspecção</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/">Introspecção</a></td>
     <td><a href="https://github.com/paulohborba">Paulo</a></td>
   </tr>
   <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/cenarios">Questionário</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/">Questionário</a></td>
     <td><a href="https://github.com/paulohborba">Paulo</a></td>
   </tr>
 <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/">Análise de Documentação</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/AnalisedeDoc/">Análise de Documentação</a></td>
     <td><a href="https://github.com/acamposs">Amanda</a></td>
   </tr>
     <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/">Storytelling</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/">Storytelling</td>
     <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel Souza</a></td>
   </tr>
     </tr>
     <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/">First Things First</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/">First Things First</td>
     <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
   </tr>
 
@@ -84,19 +84,19 @@ Esta seção também tem como objetivo resumir o artefato de validação entregu
     <th>Autor da verificação</th>
   </tr>
   <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/">Cenários</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/">Cenários</td>
     <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel Souza</a></td>
   </tr>
   <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/">Diagrama de Casos de Uso</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/">Diagrama de Casos de Uso</a></td>
     <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
   </tr>
   <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/especificacao-suplementar">Especificação dos casos de Uso</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/">Especificação dos casos de Uso</a></td>
     <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
   </tr>
   <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/">Léxicos</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/">Léxicos</a></td>
     <td><a href="https://github.com/acamposs">Amanda</a> & <a href='https://github.com/BiancaPatrocinio7'> Bianca Castro</a></td>
   </tr>
  
@@ -112,15 +112,15 @@ Esta seção também tem como objetivo resumir o artefato de validação entregu
     <th>Autor da verificação</th>
   </tr>
   <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/">Backlog</td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Backlog/">Backlog</td>
     <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
   </tr>
   <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/">Histórias de Usuário</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/HistoriasdeUser/">Histórias de Usuário</a></td>
    <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel Souza</a></td>
   </tr>
   <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/especificacao-suplementar">NFR Framework</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/NFR/">NFR Framework</a></td>
     <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/vitorfleonardo">Vitor</a></td>
   </tr>
 
@@ -139,7 +139,7 @@ Esta seção também tem como objetivo resumir o artefato de validação entregu
  <table>
   <tr>
     <th>Artefato</th>
-    <th>Autor</th>
+    <th>Autor da verificação</th>
   </tr>
   <tr>
     <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/RichPicture/">Rich Picture</a></td>
@@ -152,8 +152,6 @@ Esta seção também tem como objetivo resumir o artefato de validação entregu
 
 ### Artefato verificados na [Entrega 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/inspecoes/grupo7/entrega2/)
 
-
-
 <table>
   <tr>
     <th>Artefato</th>
@@ -161,34 +159,37 @@ Esta seção também tem como objetivo resumir o artefato de validação entregu
   </tr>
   <tr>
     <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/">Perfil de Usuário</td>
-    <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel Souza</a></td>
+    <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
   </tr>
   <tr>
     <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/">Personas</a></td>
-    <td><a href="https://github.com/acamposs">Amanda</a> & <a href='https://github.com/BiancaPatrocinio7'> Bianca Castro</a></td>
+    <td><a href='https://github.com/BiancaPatrocinio7'> Bianca Castro</a></td>
   </tr>
   <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/especificacao-suplementar">Introspecção</a></td>
-    <td><a href="https://github.com/paulohborba">Paulo</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Introspeccao/">Introspecção</a></td>
+    <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
   </tr>
   <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/cenarios">Questionário</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Questionario/">Questionário</a></td>
     <td><a href="https://github.com/paulohborba">Paulo</a></td>
   </tr>
 <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/">Análise de Documentação</a></td>
-    <td><a href="https://github.com/acamposs">Amanda</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/">Three Level Scale</a></td>
+    <td><a href='https://github.com/BiancaPatrocinio7'> Bianca Castro</a></td>
   </tr>
     <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/">Storytelling</td>
-    <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel Souza</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Storytteling/">Storytelling</td>
+    <td><a href="https://github.com/JoseFilipi">José Filipi</a></a></td>
   </tr>
     </tr>
     <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/">First Things First</td>
-    <td> <a href="https://github.com/vitorfleonardo">Vitor</a>, <a href="https://github.com/JoseFilipi">José Filipi</a>, <a href="https://github.com/GabrielMS00">Gabriel</a>, <a href="https://github.com/BiancaPatrocinio7">Bianca</a>, <a href="https://github.com/acamposs">Amanda</a>, <a href="https://github.com/paulohborba">Paulo</a>, <a href="https://github.com/JohnnyLopess">Johnny</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/">First Things First</td>
+    <td><a href="https://github.com/paulohborba">Paulo</a></td>
   </tr>
-
+<tr>
+    <td><a href="http://127.0.0.1:8000/Requisitos-de-Software/2024.1-Meu-INSS/verificacao/preparacao/100dol/">100$</td>
+    <td><a href="https://github.com/JohnnyLopess">Johnny</a></td>
+  </tr>
        
 </table>
 <font>Fonte: <a href='https://github.com/BiancaPatrocinio7'>Bianca Castro</a></font>
@@ -203,19 +204,19 @@ Esta seção também tem como objetivo resumir o artefato de validação entregu
     <th>Autor da verificação</th>
   </tr>
   <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/">Cenários</td>
+    <td><a href="http://127.0.0.1:8000/Requisitos-de-Software/2024.1-Meu-INSS/verificacao/preparacao/Cenarios/">Cenários</td>
     <td><a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel Souza</a></td>
   </tr>
   <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/">Diagrama de Casos de Uso</a></td>
-    <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
+    <td><a href="http://127.0.0.1:8000/Requisitos-de-Software/2024.1-Meu-INSS/verificacao/preparacao/CasosDeUsos/">Diagrama de Casos de Uso</a></td>
+    <td><a href="https://github.com/paulohborba">Paulo</a></td>
   </tr>
   <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/especificacao-suplementar">Especificação dos casos de Uso</a></td>
-    <td><a href="https://github.com/vitorfleonardo">Vitor</a></td>
+    <td><a href="http://127.0.0.1:8000/Requisitos-de-Software/2024.1-Meu-INSS/verificacao/preparacao/EspecSuplementar/">Especificação dos casos de Uso</a></td>
+    <td><a href="https://github.com/paulohborba">Paulo</a></td>
   </tr>
   <tr>
-    <td><a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/Persona/">Léxicos</a></td>
+    <td><a href="http://127.0.0.1:8000/Requisitos-de-Software/2024.1-Meu-INSS/verificacao/preparacao/Lexicos/">Léxicos</a></td>
     <td><a href="https://github.com/acamposs">Amanda</a> & <a href='https://github.com/BiancaPatrocinio7'> Bianca Castro</a></td>
   </tr>
  
