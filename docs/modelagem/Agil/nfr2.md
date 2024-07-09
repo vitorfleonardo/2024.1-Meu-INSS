@@ -196,14 +196,14 @@ Além disso, são criados cartões de especificação, que têm como objetivo il
 
 | Nº Requisito: 6 (NFR06) | Classificação: Design |
 |----------------------------------|-----------------------------|
-| **Descrição:** | - |
-| **Justificativa:** | - |
-| **Origem do Requisito:** | - |
-| **Critério de Aceitação:** | - |
-| **Dependências:** | -|
-| **Prioridade:**  | -|
-| **Conflitos:** | - |
-| **História:** | - |
+| **Descrição:** | O sistema deve usar a biblioteca Spring Boot para o backend e a biblioteca React Navigation para a navegação no frontend. |
+| **Justificativa:** | As tecnologias mencionadas possuem boa integração entre si , o que facilita a curva de desenvolvimento da equipe e a integração, além disso, possuem integração com ambientes mobile, a principal plataforma de acesso dos usuários deste serviço. |
+| **Origem do Requisito:** | Projetista de Software - Especificação Suplementar |
+| **Critério de Aceitação:** | O aplicativo deve possuir uma arquitetura funcional, dividida em backend e frontend, com uso de spring boot e react native respectivamente. |
+| **Dependências:** | Conhecimento do desenvolvedor e suporte das liguagens aos objetivos da aplicação.|
+| **Prioridade:**  | NA (Requisito Originado na especificação suplementar) |
+| **Conflitos:** | Nenhum |
+| **História:** | NA  (Requisito Originado na especificação suplementar) |
 
 </center>
 
