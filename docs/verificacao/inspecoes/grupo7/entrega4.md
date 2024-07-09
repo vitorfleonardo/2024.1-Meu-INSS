@@ -94,4 +94,4 @@ Critérios  | Sim/Não/Incompleto | Fonte
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |`1.0` | 25/06/2024 | Criação do documento. | [Bianca Castro](https://github.com/BiancaPatrocinio7)  | 01/07/2024 | [Gabriel Souza](https://github.com/GabrielMS00)
-|`1.1` | 01/07/2024 | Preenchimento da tabela de verificação de história de usuário | [Gabriel Souza](https://github.com/GabrielMS00) |  |
+|`1.1` | 01/07/2024 | Preenchimento da tabela de verificação de história de usuário | [Gabriel Souza](https://github.com/GabrielMS00) |08/07/2024 | [Amanda Campos](https://github.com/acamposs)| 

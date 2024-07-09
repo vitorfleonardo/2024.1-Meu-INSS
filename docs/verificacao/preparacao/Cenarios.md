@@ -30,7 +30,7 @@ Critérios  | Fonte
 
 
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Gabriel Souza](https://github.com/GabrielMS00) & [José Filipi](https://github.com/JoseFilipi)</p></font>
 
 
 

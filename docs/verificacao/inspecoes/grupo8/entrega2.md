@@ -212,7 +212,7 @@ Critérios  | Avaliação | Fonte
 | 7 - A tabela possui os pesos relativos e sua justificativa? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
 | 8 - Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos? | Sim | [Checklist 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/FirstThings/) |
 
-<font size="3"><p style="text-align: center">Autores: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autores: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
 
 ### In or Out
 - Aqui é possível encontrar a origem do artefato verificado [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/).
@@ -254,4 +254,4 @@ Critérios  | Avaliação | Fonte
 |`1.1` | 10/06/2024 | Adição da verificação da técnica In or Out. |[Johnny Lopes](https://github.com/JohnnyLopess) | 10/06/2024| [Paulo Borba](https://github.com/paulohborba)||
 |`1.2` | 10/06/2024 | Adição da verificação da técnica Introspecção e Questionário e algumas correções |[Paulo Borba](https://github.com/paulohborba) |20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) | 
 |`1.3` | 10/06/2024 | Adição do vídeo de Perfil de usuário |[José Filipi](https://github.com/JoseFilipi)  |20/06/2024 |[Vitor Feijó](https://github.com/vitorfleonardo) | 
-|`1.4` | 24/06/2024 | Alteração da estrutura do artefato |[Vitor Feijó](https://github.com/vitorfleonardo) | | | 
+|`1.4` | 24/06/2024 | Alteração da estrutura do artefato |[Vitor Feijó](https://github.com/vitorfleonardo) | 08/07/2024 | [Amanda Campos](https://github.com/acamposs)|  

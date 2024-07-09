@@ -32,7 +32,7 @@ Critérios  | Fonte
 8 - Não há dois casos de uso com o mesmo nome?  | <a id="TEC1" href="#RP1">[1]</a>
 9 - Cada ator tem um nome que descreva efetivamente o papel dessa pessoa?  | <a id="TEC1" href="#RP1">[1]</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
 
 <font size="3"><p style="text-align: center">Tabela 3: Verificação das especificações de casos de uso </p></font>
 
@@ -54,7 +54,7 @@ Critérios  |  Fonte
 14 - As etapas estão numeradas corretamente? | <a id="TEC1" href="#RP1">[1]</a>
 15 - Para cada fluxo alternativo, as condições para início do fluxo estão claramente definidas? | <a id="TEC1" href="#RP1">[1]</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
 
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> Universidade Tecnológica de la Mixteca. Checklist: Use case. Disponível em: [https://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/checklists/use_case_C5362874.html](https://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/checklists/use_case_C5362874.html). Acesso em: 06 de junho de 2024.

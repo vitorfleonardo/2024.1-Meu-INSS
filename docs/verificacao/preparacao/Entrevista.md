@@ -30,7 +30,7 @@ Critérios  | Fonte
 
 
 
-<font size="3"><p style="text-align: center">Fonte: [Vitor](https://github.com/vitorfleonardo)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor](https://github.com/vitorfleonardo)</p></font>
 
 
 

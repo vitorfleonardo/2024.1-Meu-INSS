@@ -40,7 +40,7 @@ Critérios   | Fonte
 16 - Requisitos de segurança: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software. | <a id="TEC2" href="#RP2">Website</a>
 
 
-<font size="3"><p style="text-align: center">Fonte: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>
 
 
 ## Referências Bibliográficas

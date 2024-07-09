@@ -45,7 +45,7 @@ Visando melhorar a acessibilidade e a experiência do usuário no aplicativo "Me
 |IT06|Deve haver uma funcionalidade para simular o tempo de contribuição e estimar a aposentadoria com base nos dados do usuário.|Sim|
 |IT07|O usuário deve poder atualizar seus dados pessoais, como endereço, telefone e email.|Sim|
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024.</p>
 
 
 ### Requisitos não Funcionais
@@ -63,7 +63,7 @@ Visando melhorar a acessibilidade e a experiência do usuário no aplicativo "Me
 |IT13|O aplicativo deve ser compatível com as versões mais recentes e anteriores dos sistemas operacionais iOS e Android.|Sim|
 |IT15|O aplicativo deve oferecer suporte em português e, opcionalmente, em inglês e espanhol.|Não|
 
-<p align="center">Fonte: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024.</p>
+<p align="center">Autor: <a href="https://github.com/JohnnyLopess">Johnny Lopes</a> & <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024.</p>
 
 ## Referências Bibliográficas
 

@@ -11,7 +11,7 @@ Foi enviado o email para contato que estava no aplicativo de desenvolvedor.
   <summary>Email enviado</summary>
   <p align="center" > <strong> Figura 1:</Strong> Email enviado.</font> <gitbr></p>
   <embed src="..\..\..\imagens\rich_pictures\email.jpeg" width="100%" height="500px" />
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024</p></font>
 </details>
 
 

@@ -28,7 +28,7 @@ Critérios   | Fonte
 4 - A matriz possui os elos de rastreabilidade ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/matriz_pag13.png">p.13</a>
 5 - A matriz de rastreabilidade foi atualizada conforme as mudanças nos requisitos ? | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/matriz_pag14.png">p.14</a>
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 
 ## Referências Bibliográficas
 
@@ -47,4 +47,4 @@ Critérios   | Fonte
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|`1.0` | 30/06/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess) |  | |   
+|`1.0` | 30/06/2024 | Criação do documento. |[Johnny Lopes](https://github.com/JohnnyLopess) | 08/07/2024 | [Amanda Campos](https://github.com/acamposs)|   

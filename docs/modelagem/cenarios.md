@@ -171,7 +171,7 @@ O cenário de número 5 diz sobre o objetivo de Atualização de Dados Pessoais 
 | Restrição | O servidor do sistema estar fora do ar |
 | Exceção | Erro de preenchimento em campos de dados que possuam validação |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
 
 ### CEN06 - Segurança e Alertas
 

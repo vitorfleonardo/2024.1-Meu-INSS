@@ -34,7 +34,7 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 
 <p style="text-align: center"><b>Tabela 1</b> - Persona Primária Elisa Silva.</p>
 
-| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Elisa Silva.</p></font><figure markdown>![Elisa Silva](../imagens/personas/Elisa.png)<figcaption>Fonte: [Amanda Campos](https://github.com/acamposs) (2024). <a id="TEC3" href="#RP3">[3]</a> </figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Elisa Silva.</p></font><figure markdown>![Elisa Silva](../imagens/personas/Elisa.png)<figcaption>Autor: [Amanda Campos](https://github.com/acamposs) (2024). <a id="TEC3" href="#RP3">[3]</a> </figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Elisa Silva |
 | **Status**: Persona Primária. |
@@ -53,7 +53,7 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 
 <font size="3"><p style="text-align: center">**Tabela 2** - Persona Primária Rafael Costa.</p></font>
 
-| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Costa</p></font><figure markdown>![Persona Rafael Costa](../imagens/personas/Rafael.png)<figcaption>Fonte: [Amanda Campos](https://github.com/acamposs) (2024).<a id="TEC3" href="#RP3">[3]</a> </a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Costa</p></font><figure markdown>![Persona Rafael Costa](../imagens/personas/Rafael.png)<figcaption>Autor: [Amanda Campos](https://github.com/acamposs) (2024).<a id="TEC3" href="#RP3">[3]</a> </a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Rafael Costa                                                                                                                                                                                                                                                                                                                                         |
 | **Status**: Persona Primária.                                                                                                                                                                                                                                                                                                                                     |
@@ -73,7 +73,7 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 
 <font size="3"><p style="text-align: center">**Tabela 3** - Persona Primária Melanie Lima.</p></font>
 
-| <font size="3"><p style="text-align: center">Figura 3- Persona Primária Melanie Lima</p></font><figure markdown>![Persona Roberto Silva](../imagens/personas/melanie.png)<figcaption>Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC3" href="#RP3">[3]</a></a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 3- Persona Primária Melanie Lima</p></font><figure markdown>![Persona Roberto Silva](../imagens/personas/melanie.png)<figcaption>Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC3" href="#RP3">[3]</a></a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Melanie Lima                                                                                                                                                                                                                                                                                                                              |
 | **Status**: Persona Primária.                                                                                                                                                                                                                                                                                                                                     |
@@ -92,7 +92,7 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 
 <font size="3"><p style="text-align: center">**Tabela 4** - Persona Secundária Julyana Batista.</p></font>
 
-| <font size="3"><p style="text-align: center">Figura 4- Persona Secundária Julyana Batista</p></font><figure markdown>![Persona Julyana Batista](../imagens/personas/julyana.png)<figcaption>Fonte: [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC3" href="#RP3">[3]</a></a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 4- Persona Secundária Julyana Batista</p></font><figure markdown>![Persona Julyana Batista](../imagens/personas/julyana.png)<figcaption>Autor: [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC3" href="#RP3">[3]</a></a></figcaption></figure> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Julyana Batista                                                                                                                                                                                                                                                                                                                                                     |
 | **Status**: Persona Secundária.                                                                                                                                                                                                                                                                                                                                                   |
@@ -111,7 +111,7 @@ Essa quantidade de personas foi considerada adequada para abranger os principais
 
 <font size="3"><p style="text-align: center">**Tabela 5** - Antipersona Enzo Fernandes    </p></font>
 
-| <font size="3"><p style="text-align: center">Figura 5- Antipersona Enzo Fernandes    </p></font><figure markdown>![Persona Enzo Fernandes    ](../imagens/personas/enzo.png)<figcaption>Fonte: Elaborada por [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC3" href="#RP3">[3]</a></a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 5- Antipersona Enzo Fernandes    </p></font><figure markdown>![Persona Enzo Fernandes    ](../imagens/personas/enzo.png)<figcaption>Autor: Elaborada por [Bianca Castro](https://github.com/BiancaPatrocinio7) (2024).<a id="TEC3" href="#RP3">[3]</a></a></figcaption></figure> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Enzo Fernandes                                                                                                                                                                                                                                                                                                                                                                |
 | **Status**: Antipersona.                                                                                                                                                                                                                                                                                                                                                                     |

@@ -11,7 +11,7 @@ Essa página tem como objetivo armazenar o vídeo da apresentação da entrega 5
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjmPMKMj-oU?si=ANdGvQUhCG6QZLAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<font size="3"><p style="text-align: center">Fonte: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo).</p></font>
 
 
 A apresentação objetiva mostrar o que foi feito para a entrega 5.2, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino. [Link do vídeo](https://www.youtube.com/embed/TTnMrcIVM5U?si=0v_8LNB4ZdX_F6U5)

@@ -17,7 +17,7 @@ Os léxicos do sistema Meu INSS foram identificados a partir da utilização do 
 | Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Verbo/Objeto/Estado | Código do requisito referente ao Léxico |Pessoa responsável |
 
 <div style="text-align: center">
-<p><b>Tabela 1:</b> Modelo dos léxicos (Fonte: <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024).</p>
+<p><b>Tabela 1:</b> Modelo dos léxicos (Autor: <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024).</p>
 </div>
 
 ## Objetos
@@ -42,7 +42,7 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos (Fonte: Autores, 2024)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2: </b>Léxicos classificados como Objetos (Autor: Autores, 2024)</p></font>
 </div>
 
 
@@ -67,7 +67,7 @@ Os léxicos do tipo verbo representam ações ou operações que os usuários po
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3: </b>Léxicos classificados como Verbos (Fonte: Autores, 2024)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3: </b>Léxicos classificados como Verbos (Autor: Autores, 2024)</p></font>
 
 </div>
 
@@ -121,7 +121,7 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Fonte: Autores, 2024)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4: </b>Léxicos classificados como Estados (Autor: Autores, 2024)</p></font>
 
 </div>
 

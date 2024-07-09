@@ -25,7 +25,7 @@ A Legenda para identificação dos requisitos em cada acrônimo estão represent
 | S | Supportability | Suportabilidade | RS |
 
 </center>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
 <p align="center" > <strong> Tabela 2 - </Strong> Legenda das tabelas +</font> <gitbr></p>
 <center>
@@ -39,7 +39,7 @@ A Legenda para identificação dos requisitos em cada acrônimo estão represent
 
 
 </center>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
 ## Funcionalidade
 
@@ -77,7 +77,7 @@ Esta seção inclui todos os requisitos que afetam a usabilidade. Os requisitos 
 | RU018 | O aplicativo exibir mensagens de erro e sucesso visualmente e ter possibilidade de accessibilidade de sonoridade para PcD cega|
 | RU019 | O aplicativo ter áreas clicáveis com no mínimo 44px (pixels) de altura e 44px de largura |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
 ## Confiabilidade
 
@@ -99,7 +99,7 @@ Esta seção inclui todos os requisitos que afetam a confiabilidade.. Os requisi
 | RR008 | Em caso de interrupções não planejadas que afetem o funcionamento do aplicativo, os usuários devem ser informados de maneira clara e precisa sobre o problema, o progresso da solução e o tempo estimado de restauração do serviço  |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/acamposs">Amanda Campos</a>, 2024</p></font>
 
 ## Desempenho
 
@@ -122,7 +122,7 @@ Esta seção inclui todos os requisitos que afetam o desempenho. Os requisitos d
 | RP009 | O aplicativo deve utilizar não mais que 70% da largura de banda disponível sob carga normal |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/GabrielMS00">Gabriel Souza</a>, 2024</p></font>
 
 ## Suportabilidade
 
@@ -142,7 +142,7 @@ Esta seção inclui todos os requisitos que afetam a suportabilidade. Os requisi
 | RS006 | O aplicativo é capaz de escalar para acomodar um aumento no número de usuários ou transações. Ele pode suportar até 30 milhões de usuários por mês |
 | RS007 | O aplicativo executa testes automatizados de integração e sistema, garantindo a qualidade e experiẽncia do usuário. |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JoseFilipi">José Filipi</a>, 2024</p></font>
 
 ## Outros requisitos do Produto (+)
 
@@ -162,7 +162,7 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 | +D004 | O aplicativo deve seguir uma arquitetura microserviços para permitir a escalabilidade e a manutenção independentes dos diferentes componentes do sistema |
 | +D005 | O sistema deve usar a biblioteca Spring Boot para o backend e a biblioteca React Navigation para a navegação no frontend. |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/vitorfleonardo">Vitor Feijó</a>, 2024</p></font>
 
 ### Requisitos de Implementação
 
@@ -178,7 +178,7 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 | +Im004 | O aplicativo deve garantir a integridade dos dados do usuário. Isso inclui a implementação de políticas e recuperação de dados, bem como medidas para previnir a corrupção de dados |
 | +Im005 | O aplicativo deve ser otimizado para uso eficiente de recursos, garantindo que funcione de maneira eficaz mesmo em dispositivos com recursos limitados. |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/BiancaPatrocinio7">Bianca Castro</a>, 2024</p></font>
 
 
 ### Requisitos de interface
@@ -195,7 +195,7 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 | +In004 | A interface do usuário deve permitir atualizações fáceis e fornecer acesso a suporte ao usuário, como FAQs e tutoriais em vídeo. |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/paulohborba">Paulo Borba</a>, 2024</p></font>
 
 ### Requisitos Físicos
 
@@ -209,7 +209,7 @@ A categoria "+", também conhecida como "Suplementar" ou "Qualidades do Sistema"
 | +P002 | O aplicativo deve ser otimizado para uso mínimo de armazenamento no dispositivo. Isso é especialmente importante para usuários com dispositivos que têm capacidades de armazenamento limitadas. |
 | +P003 | O aplicativo deve ser otimizado para consumo mínimo de energia para não esgotar rapidamente a bateria do dispositivo do usuário. 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/JohnnyLopess">Johnny Lopes</a>, 2024</p></font>
 
 ## Referências Bibliográficas
 

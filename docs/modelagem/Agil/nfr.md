@@ -47,7 +47,7 @@ afirmação são representados através de nuvens com linhas tracejadas.
 
 <p align="center" > <strong> Figura 1:</Strong> Taxonomia de Requisitos Não-Funcionais</font></p>
 <iframe frameborder="0" style="width:100%;height:350px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1giNn5-kisipsC4Gp5FalpvZBydIiVLhj%26export%3Ddownload"></iframe>
-<font size="3"><p style="text-align: center"><b>Fonte</b> - [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor</b> - [José Filipi](https://github.com/JoseFilipi) & [Vitor Leonardo](https://github.com/vitorfleonardo), 2024</p></font>
 
 
 ## Catálogo de requisitos

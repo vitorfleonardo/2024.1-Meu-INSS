@@ -35,7 +35,7 @@ Critérios  | Avaliação | Fonte
 7 - Há uma definição do perfil de usuário como resultado da aplicação do questionário ? | Sim | [Checklist 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/PerfildeUsuario/)
 
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
 
 <details>
@@ -114,7 +114,7 @@ Critérios  |Avaliação | Fonte
 4 - O entrevistador(a) escutou ativamente e não interrompeu ou julgou o entrevistado(a) em nenhum momento?| Sim  | [Checklist 8](../../../preparacao/Entrevista/)
 5 - Foram utilizadas perguntas abertas e fechadas no roteiro de perguntas? | Sim  | [Checklist 8](../../../preparacao/Entrevista/)
 
-<font size="3"><p style="text-align: center">Fonte: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 
 <details>
   <summary>Vídeo Verificação Entrevista</summary>
@@ -318,7 +318,8 @@ Feitos no vídeo.
 | 7 - O artefato possui os dados do requisito? | Sim | [Checklist 9](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/)   |
 | 8 - Participação dos representantes na gravação com o usuário? | Sim | [Checklist 9](https://requisitos-de-software.github.io/2024.1-Meu-INSS/verificacao/preparacao/ThreeLevelScale/)   |
 
-<font size="3"><p style="text-align: center">Autores: Grupo 7</p></font>
+<font size="3"><p style="text-align: center">Autores: [Amanda Campos](https://github.com/acamposs), [Bianca Castro](https://github.com/BiancaPatrocinio7), [Gabriel Souza](https://github.com/GabrielMS00), [Johnny Lopes](https://github.com/JohnnyLopess), [José Souza](https://github.com/JoseFilipi), [Paulo Borba](https://github.com/paulohborba), [Vitor Leonardo](https://github.com/vitorfleonardo)</p></font>
+
 
 
 <details>
