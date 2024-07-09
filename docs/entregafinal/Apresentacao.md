@@ -3,6 +3,25 @@
 ## Introdução
 Esse documento visa agrupar todos os vídeos das apresentações que foram feitas anteriormente.
 
+## Dificuldades e Facilidades
+
+### Dificuldades
+
+- **Tempo Curto de Elaboração de Artefatos em Algumas Entregas:**
+Uma das principais dificuldades enfrentadas durante o projeto foi o tempo limitado para a elaboração de artefatos em determinadas entregas. A equipe teve que otimizar processos, mesmo em um cronograma reduzido. Essa situação demandou flexibilidade e agilidade, além de uma comunicação constante para alinhar expectativas e garantir que as entregas fossem realizadas dentro do prazo estipulado.
+
+- **Greve dos Professores:**
+Outra dificuldade significativa foi a ocorrência de uma greve durante o projeto. A equipe precisou adaptar-se rapidamente a essa situação, existindo a necessidade de ajustar cronogramas e redistribuir tarefas para manter o progresso do projeto exigiu uma coordenação adicional. Além disso, a incerteza gerada pela greve aumentou a complexidade da gestão do projeto, tornando essencial o desenvolvimento de planos de contingência para minimizar os impactos e garantir que os objetivos do projeto fossem alcançados.
+
+### Facilidades
+
+- **Grupo Organizado e Participativo:**
+Apesar dos desafios, uma das facilidades notáveis foi a organização e a participação ativa do grupo de trabalho. A cultura de trabalho em equipe e o forte senso de responsabilidade coletiva permitiram que os membros se apoiassem mutuamente e trabalhassem de forma eficaz, mesmo sob pressão. Essa coesão e espírito de cooperação foram fundamentais para superar obstáculos e manter a motivação alta ao longo do projeto.
+
+- **Grande Quantidade de Informações Fornecidas:**
+Outra facilidade foi a vasta quantidade de informações disponibilizadas para a realização dos artefatos. Acesso a dados detalhados, documentos de referência e feedback de stakeholders permitiram uma compreensão clara dos requisitos e das expectativas. Isso facilitou a criação de artefatos precisos e alinhados com as necessidades do projeto. A abundância de informações ajudou a reduzir ambiguidades, permitindo decisões mais informadas e assertivas, e contribuiu para a qualidade e relevância dos artefatos produzidos.
+
+
 ## Tabela das Apresentações
 
 | Entrega | Vídeo | Participantes | 

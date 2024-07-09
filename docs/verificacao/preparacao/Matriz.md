@@ -22,11 +22,11 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios   | Fonte
 --------- | ------ 
-1 - A matriz de rastreabilidade inclui a documentação fonte de cada requisito ?  | <a id="TEC3" href="#RP3">p.12</a>
-2 – A matriz de rastreabilidade inclui os componentes relacionados aos requisitos ?  | <a id="TEC3" href="#RP3">p.12</a>
-3 - As interdependências entre os requisitos estão claramente indicadas na matriz de rastreabilidade ?  | <a id="TEC3" href="#RP3">p.13</a>
-4 - A matriz possui os elos de rastreabilidade ?  | <a id="TEC3" href="#RP3">p.13</a>
-5 - A matriz de rastreabilidade foi atualizada conforme as mudanças nos requisitos ? | <a id="TEC3" href="#RP3">p.14</a>
+1 - A matriz de rastreabilidade inclui a documentação fonte de cada requisito ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/matriz_pag12.png">p.12</a>
+2 – A matriz de rastreabilidade inclui os componentes relacionados aos requisitos ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/matriz_pag12.png">p.12</a>
+3 - As interdependências entre os requisitos estão claramente indicadas na matriz de rastreabilidade ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/matriz_pag13.png">p.13</a>
+4 - A matriz possui os elos de rastreabilidade ?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/matriz_pag13.png">p.13</a>
+5 - A matriz de rastreabilidade foi atualizada conforme as mudanças nos requisitos ? | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/matriz_pag14.png">p.14</a>
 
 <font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess), 2024.</p></font>
 

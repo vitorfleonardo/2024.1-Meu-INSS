@@ -22,22 +22,22 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios   | Fonte
 --------- | ------ 
-1 - Requisitos de usabilidade: Apresenta o tempo de treinamento necessário para que usuários normais e avançados se tornem produtivos em operações específicas?  | <a id="TEC2" href="#RP2">[2]</a>
-2 - Requisitos de usabilidade: Apresenta especificação de tempo de tarefas mensuráveis ​​para tarefas típicas?  | <a id="TEC2" href="#RP2">[2]</a>
-3 - Requisitos de usabilidade: Apresenta especificação de critérios de acessibilidade? | <a id="TEC2" href="#RP2">[2]</a>
-4 - Requisitos de usabilidade: Disponibilidade: Especificação quanto a porcentagem de tempo disponível <número>%, horas de uso, acesso para manutenção, operações em modo degradado, etc. | <a id="TEC2" href="#RP2">[2]</a>
-5 - Requisitos de confiabilidade: Disponibilidade: Especificação quanto a porcentagem de tempo disponível <número>%, horas de uso, acesso para manutenção, operações em modo degradado, etc. | <a id="TEC2" href="#RP2">[2]</a>
-6 - Requisitos de confiabilidade: Apresenta Tempo médio entre falhas (MTBF)? | <a id="TEC2" href="#RP2">[2]</a>
-7 - Requisitos de confiabilidade: Apresenta Tempo médio de reparo (MTTR)? | <a id="TEC2" href="#RP2">[2]</a>
-8 - Requisitos de Desempenho: Apresenta tempo de resposta para transações? (media ou máximo) | <a id="TEC2" href="#RP2">[2]</a>
-9 - Requisitos de Desempenho: Apresenta taxas de transação? (transações por segundo) | <a id="TEC2" href="#RP2">[2]</a>
-10 - Requisitos de Desempenho: Capacidade? (número de clientes ou transações que o sistema pode acomodar) | <a id="TEC2" href="#RP2">[2]</a>
-11 - Requisitos de Desempenho: Capacidade? 4 - Modo degradação?  | <a id="TEC2" href="#RP2">[2]</a>
-12 - Requisitos de Suportabilidade: Padrões de codificação?| <a id="TEC2" href="#RP2">[2]</a>
-13 - Requisitos de Suportabilidade: Bibliotecas?  | <a id="TEC2" href="#RP2">[2]</a>
-14 - Requisitos de Suportabilidade: Padrões de nomeações?  | <a id="TEC2" href="#RP2">[2]</a>
-15 - Requisitos de restrição de design: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software.   | <a id="TEC2" href="#RP2">[2]</a>
-16 - Requisitos de segurança: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software. | <a id="TEC2" href="#RP2">[2]</a>
+1 - Requisitos de usabilidade: Apresenta o tempo de treinamento necessário para que usuários normais e avançados se tornem produtivos em operações específicas?  | <a id="TEC2" href="#RP2">Website</a>
+2 - Requisitos de usabilidade: Apresenta especificação de tempo de tarefas mensuráveis ​​para tarefas típicas?  | <a id="TEC2" href="#RP2">Website</a>
+3 - Requisitos de usabilidade: Apresenta especificação de critérios de acessibilidade? | <a id="TEC2" href="#RP2">Website</a>
+4 - Requisitos de usabilidade: Disponibilidade: Especificação quanto a porcentagem de tempo disponível <número>%, horas de uso, acesso para manutenção, operações em modo degradado, etc. | <a id="TEC2" href="#RP2">Website</a>
+5 - Requisitos de confiabilidade: Disponibilidade: Especificação quanto a porcentagem de tempo disponível <número>%, horas de uso, acesso para manutenção, operações em modo degradado, etc. | <a id="TEC2" href="#RP2">Website</a>
+6 - Requisitos de confiabilidade: Apresenta Tempo médio entre falhas (MTBF)? | <a id="TEC2" href="#RP2">Website</a>
+7 - Requisitos de confiabilidade: Apresenta Tempo médio de reparo (MTTR)? | <a id="TEC2" href="#RP2">Website</a>
+8 - Requisitos de Desempenho: Apresenta tempo de resposta para transações? (media ou máximo) | <a id="TEC2" href="#RP2">Website</a>
+9 - Requisitos de Desempenho: Apresenta taxas de transação? (transações por segundo) | <a id="TEC2" href="#RP2">Website</a>
+10 - Requisitos de Desempenho: Capacidade? (número de clientes ou transações que o sistema pode acomodar) | <a id="TEC2" href="#RP2">Website</a>
+11 - Requisitos de Desempenho: Capacidade? 4 - Modo degradação?  | <a id="TEC2" href="#RP2">Website</a>
+12 - Requisitos de Suportabilidade: Padrões de codificação?| <a id="TEC2" href="#RP2">Website</a>
+13 - Requisitos de Suportabilidade: Bibliotecas?  | <a id="TEC2" href="#RP2">Website</a>
+14 - Requisitos de Suportabilidade: Padrões de nomeações?  | <a id="TEC2" href="#RP2">Website</a>
+15 - Requisitos de restrição de design: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software.   | <a id="TEC2" href="#RP2">Website</a>
+16 - Requisitos de segurança: linguagens de programação, restrições de arquitetura, componentes adquiridos, bibliotecas de classes, requisitos de processo de software. | <a id="TEC2" href="#RP2">Website</a>
 
 
 <font size="3"><p style="text-align: center">Autor: [Vitor Feijó](https://github.com/vitorfleonardo)</p></font>

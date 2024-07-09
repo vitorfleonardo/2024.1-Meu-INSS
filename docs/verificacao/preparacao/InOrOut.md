@@ -24,10 +24,10 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios   | Fonte
 --------- | ------ 
-1 - Os stakeholders foram identificados ? | <a id="TEC1" href="#RP1">p.318</a> 
-2 – Os critérios para a classificação foram definidos (In or Out)? | <a id="TEC1" href="#RP1">p.318 </a>
-3 - A priorização envolveu uma decisão binária clara para cada requisito?  | <a id="TEC1" href="#RP1">p.318</a>
-4 - A priorização foi feita com um usuário/persona ? | <a id="TEC1" href="#RP1">p.315</a> 
+1 - Os stakeholders foram identificados ? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/in_out_pg318.png">p.318</a> 
+2 – Os critérios para a classificação foram definidos (In or Out)? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/in_out_pg318.png">p.318</a>
+3 - A priorização envolveu uma decisão binária clara para cada requisito?  | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/in_out_pg318.png">p.318</a>
+4 - A priorização foi feita com um usuário/persona ? | <a id="TEC1" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/in_out_pg315.png">p.315</a> 
 
 </center>
 

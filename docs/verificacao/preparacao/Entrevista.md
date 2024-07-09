@@ -22,9 +22,9 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios  | Fonte
 --------- | ------ 
-1 - Foi preparado um questionário antes da entrevista?  | <a id="TEC1" href="#RP1">wesite</a>
-2 – Assim que o entrevistado(a) terminava de falar, havia alguma confirmação do entrevistador(a) do que foi falado (Ex: pelo que entendi você quis dizer x?)  | <a id="TEC2" href="#RP2">wesite</a>
-3 - O entrevistador(a) mostrou-se atento e prestou atenção ao entrevistado(a), olhando para camera e fazendo barulho de entendimento e confirmação com a cabeça? | <a id="TEC2" href="#RP2">wesite</a>
+1 - Foi preparado um questionário antes da entrevista?  | <a id="TEC1" href="#RP1">website</a>
+2 – Assim que o entrevistado(a) terminava de falar, havia alguma confirmação do entrevistador(a) do que foi falado (Ex: pelo que entendi você quis dizer x?)  | <a id="TEC2" href="#RP2">website</a>
+3 - O entrevistador(a) mostrou-se atento e prestou atenção ao entrevistado(a), olhando para camera e fazendo barulho de entendimento e confirmação com a cabeça? | <a id="TEC2" href="#RP2">website</a>
 4 - O entrevistador(a) escutou ativamente e n'ao interrompeu ou julgou o entrevistado(a) e nenhum momento?  | <a id="TEC3" href="#RP3">website</a>
 5 - Foram utilizadas perguntas abertas e fechadas no roteiro de perguntas?  | <a id="TEC3" href="#RP3">website</a>
 

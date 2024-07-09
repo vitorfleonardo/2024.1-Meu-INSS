@@ -22,12 +22,12 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios   | Fonte
 --------- | ------ 
-1 - A história foi desenvolvida com um objetivo claro ? | <a id="TEC7" href="#RP7">p.2</a>
-2 – Foram identificados os personagens principais da história ? | <a id="TEC7" href="#RP7">p.2</a>
-3 - A estrutura narrativa da história inclui divisão em eventos, causalidade, início, meio e fim ? | <a id="TEC8" href="#RP8">p.31-33</a> 
-4 - A linguagem utilizada na história é adequada e acessível ao público-alvo ? | <a id="TEC8" href="#RP8">p.34</a>
-5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? | <a id="TEC8" href="#RP8">p.34</a>
-6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? | <a id="TEC8" href="#RP8">p.36</a>
+1 - A história foi desenvolvida com um objetivo claro ? | <a id="TEC7" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/story_pag2.png">p.2</a>
+2 – Foram identificados os personagens principais da história ? | <a id="TEC7" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/story_pag2.png">p.2</a>
+3 - A estrutura narrativa da história inclui divisão em eventos, causalidade, início, meio e fim ? | <a id="TEC8" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/story_pag31.png">p.31-33</a> 
+4 - A linguagem utilizada na história é adequada e acessível ao público-alvo ? | <a id="TEC8" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/story_pag34.png">p.34</a>
+5 - A história promove interatividade com os participantes, incentivando perguntas e reflexões ? | <a id="TEC8" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/story_pag34.png">p.34</a>
+6 - A história mantém objetividade, focando nos pontos relevantes para a elicitação de requisitos ? | <a id="TEC8" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/story_pag34.png">p.36</a>
 
 <font size="3"><p style="text-align: center">Autor: [José Filipi](https://github.com/JoseFilipi) & [Gabriel Souza](https://github.com/GabrielMS00)</p></font>
 

@@ -22,15 +22,15 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios  | Fonte
 --------- | ------ 
-1 - O questionário possui termo de consentimento?  | <a id="TEC3" href="#RP3">p.140</a> 
-2 – Os objetivos da pesquisa/questionário estão claramente definidos?   | <a id="TEC4" href="#RP4">p.178-179</a> 
-3 - Foram selecionados os participantes corretos para responder ao questionário?    | <a id="TEC4" href="#RP4">p.178-179</a>
-4 - Foram usados diferentes tipos de perguntas (abertas e fechadas) para obter uma variedade de respostas?  | <a id="TEC4" href="#RP4">p.178-179</a>
-5 - Cada pergunta está diretamente relacionada aos objetivos da pesquisa?  | <a id="TEC4" href="#RP4">p.178-179</a>
-6 - As perguntas são claras e evitam ambiguidades?  | <a id="TEC4" href="#RP4">p.178-179</a>
-7 - Foram fornecidas instruções claras sobre como preencher o questionário?  | <a id="TEC4" href="#RP4">p.179-180</a>
-8 - As respostas foram registradas de forma organizada e segura?  | <a id="TEC4" href="#RP4">p.180</a>
-9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto?  | <a id="TEC4" href="#RP4">p.180</a>
+1 - O questionário possui termo de consentimento?  | <a id="TEC3" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/questio_pg140.png">p.140</a> 
+2 – Os objetivos da pesquisa/questionário estão claramente definidos?   | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/questio_pg178.png">p.178-179</a> 
+3 - Foram selecionados os participantes corretos para responder ao questionário?    | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/questio_pg179.png">p.178-179</a>
+4 - Foram usados diferentes tipos de perguntas (abertas e fechadas) para obter uma variedade de respostas?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/questio_pg179.png">p.178-179</a>
+5 - Cada pergunta está diretamente relacionada aos objetivos da pesquisa?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/questio_pg179.png">p.178-179</a>
+6 - As perguntas são claras e evitam ambiguidades?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/questio_pg179.png">p.178-179</a>
+7 - Foram fornecidas instruções claras sobre como preencher o questionário?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/questio_pg180.png">p.179-180</a>
+8 - As respostas foram registradas de forma organizada e segura?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/questio_pg180.png">p.180</a>
+9 - Foram identificadas e documentadas as vantagens e as desvantagens de usar a técnica de pesquisa/questionário neste contexto?  | <a id="TEC4" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/questio_pg180.png">p.180</a>
 
 <font size="3"><p style="text-align: center">Autor: [Johnny Lopes](https://github.com/JohnnyLopess)</p></font>
 

@@ -22,10 +22,10 @@ Pergunta para avaliação| Página e livro de referência
 
 Critérios  | Fonte
 --------- | ------ 
-1 - As propriedades essenciais que o sistema deve possuir para ser considerado um sucesso podem ser observadas? | <a id="TEC2" href="#RP2">p.25</a>
-2 - É possível ver tarefas específicas que o sistema desempenha, considerando os equipamentos e recursos disponíveis?  | <a id="TEC2" href="#RP2">p.25</a>
-3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   | <a id="TEC2" href="#RP2">p.25</a>
-4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? | <a id="TEC2" href="#RP2">p.25</a>
+1 - As propriedades essenciais que o sistema deve possuir para ser considerado um sucesso podem ser observadas? | <a id="TEC2" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/introspec_pg25.png">p.25</a>
+2 - É possível ver tarefas específicas que o sistema desempenha, considerando os equipamentos e recursos disponíveis?  | <a id="TEC2" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/introspec_pg25.png">p.25</a>
+3 - Existem exemplos de situações em que o sistema deveria se comportar de maneira particular para atender às suas necessidades?   | <a id="TEC2" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/introspec_pg25.png">p.25</a>
+4 - Pode-se descrever cenários de uso típicos em que o sistema seria fundamental para o trabalho ou atividades diárias? | <a id="TEC2" href="https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/Print-checklist/docs/imagens/checklists/introspec_pg25.png">p.25</a>
 
 <font size="3"><p style="text-align: center">Autor: [Paulo Borba](https://github.com/paulohborba)</p></font>
 
