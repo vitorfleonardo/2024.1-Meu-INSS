@@ -281,7 +281,7 @@ A tabela 1 demonstra como deve será apresentados os artefatos.
   </td>
 </tr>
 <tr>
-  <td>Elicitação</td>
+  <td rowspan="2">Elicitação</td>
   <td>
     <a href="https://requisitos-de-software.github.io/2024.1-Meu-INSS/perfil_de_usuario/">Perfil de Usuário</a>
   </td>
