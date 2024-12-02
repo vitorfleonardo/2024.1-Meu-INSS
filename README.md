@@ -22,7 +22,7 @@ O aplicativo Meu INSS é uma plataforma digital desenvolvida pelo Instituto Naci
         <td align="center"><a href="https://github.com/JohnnyLopess"><img style="border-radius: 50%;" src="https://github.com/JohnnyLopess.png" width="100px;" alt=""/><br /><sub><b>Johnny Lopes</b></sub></a><br />
         <td align="center"><a href="https://github.com/JoseFilipi"><img style="border-radius: 50%;" src="https://github.com/JoseFilipi.png" width="100px;" alt=""/><br /><sub><b>José Souza</b></sub></a><br />
     <td align="center"><a href="https://github.com/paulohborba"><img style="border-radius: 50%;" src="https://github.com/paulohborba.png" width="100px;" alt=""/><br /><sub><b>Paulo Borba</b></sub></a><br />
-    <td align="center"><a href="https://github.com/vitorfleonardo"><img style="border-radius: 50%;" src="https://github.com/vitorfleonardo.png" width="100px;" alt=""/><br /><sub><b>Vitor Leonardo</b></sub></a><br />
+    <td align="center"><a href="https://github.com/vitorfleonardo"><img style="border-radius: 50%;" src="https://github.com/vitorfleonardo.png" width="100px;" alt=""/><br /><sub><b>Vitor Feijó</b></sub></a><br />
   </tr>
 </table>
 
